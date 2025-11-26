@@ -1,6 +1,6 @@
 import Stripe from "stripe";
 import { betterAuth } from "better-auth";
-import { admin } from "better-auth/plugins";
+import { admin, emailOTP } from "better-auth/plugins";
 import { stripe } from "@better-auth/stripe";
 import { nextCookies } from "better-auth/next-js";
 import { drizzleAdapter } from "better-auth/adapters/drizzle";
@@ -21,18 +21,6 @@ export const auth = betterAuth({
     enabled: true,
     minPasswordLength: 6,
     requireEmailVerification: true,
-  },
-  emailVerification: {
-    sendOnSignUp: true,
-    autoSignInAfterVerification: true,
-    sendVerificationEmail: async ({ user, url }) => {
-      await resend.emails.send({
-        from: "Acme <onboarding@resend.dev>",
-        to: user.email,
-        subject: "Email Verification",
-        html: `Click the link to verify your email: ${url}`,
-      });
-    },
   },
   socialProviders: {
     google: {
@@ -58,6 +46,34 @@ export const auth = betterAuth({
   plugins: [
     admin(),
     nextCookies(),
+    emailOTP({
+      async sendVerificationOTP({ email, otp, type }) {
+        const subject =
+          type === "sign-in"
+            ? "Your Sign In Code"
+            : type === "email-verification"
+            ? "Verify Your Email"
+            : "Reset Your Password";
+
+        const message =
+          type === "sign-in"
+            ? `Your sign in code is: ${otp}. This code will expire in 5 minutes.`
+            : type === "email-verification"
+            ? `Your verification code is: ${otp}. This code will expire in 5 minutes.`
+            : `Your password reset code is: ${otp}. This code will expire in 5 minutes.`;
+
+        await resend.emails.send({
+          from: "Acme <onboarding@resend.dev>",
+          to: email,
+          subject,
+          html: `<p>${message}</p>`,
+        });
+      },
+      otpLength: 6,
+      expiresIn: 600,
+      sendVerificationOnSignUp: false,
+      overrideDefaultEmailVerification: true,
+    }),
     // ...(stripeClient
     //   ? [
     //       stripe({

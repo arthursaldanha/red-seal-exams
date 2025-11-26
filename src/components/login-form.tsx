@@ -9,6 +9,7 @@ import { toast } from "sonner";
 import { Loader2 } from "lucide-react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
+import { useMutation } from "@tanstack/react-query";
 
 import { Button } from "@/components/ui/button";
 import {
@@ -33,9 +34,9 @@ import {
   FieldSeparator,
 } from "@/components/ui/field";
 import { Input } from "@/components/ui/input";
+import { OTPVerification } from "@/components/otp-verification";
 
 import { cn } from "@/lib/utils";
-import { signIn } from "@/server/users";
 import { authClient } from "@/lib/auth-client";
 
 const formSchema = z.object({
@@ -48,8 +49,8 @@ export function LoginForm({
   ...props
 }: React.ComponentProps<"div">) {
   const router = useRouter();
-
-  const [isLoading, setisLoading] = useState(false);
+  const [showOTP, setShowOTP] = useState(false);
+  const [userEmail, setUserEmail] = useState("");
 
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
@@ -59,19 +60,70 @@ export function LoginForm({
     },
   });
 
-  async function onSubmit({ email, password }: z.infer<typeof formSchema>) {
-    setisLoading(true);
+  const signInMutation = useMutation({
+    mutationFn: async (values: z.infer<typeof formSchema>) => {
+      return await authClient.signIn.email({
+        email: values.email,
+        password: values.password,
+      });
+    },
+    onSuccess: async (data) => {
+      if (data?.error) {
+        // Check if error is about email not verified
+        if (
+          data.error.message?.toLowerCase().includes("verify") ||
+          data.error.message?.toLowerCase().includes("verification")
+        ) {
+          // Send OTP for verification
+          setUserEmail(form.getValues("email"));
+          const otpResult = await authClient.emailOtp.sendVerificationOtp({
+            email: form.getValues("email"),
+            type: "email-verification",
+          });
 
-    const { success, message } = await signIn({ email, password });
+          if (otpResult?.error) {
+            toast.error(otpResult.error.message || "Failed to send OTP");
+          } else {
+            toast.info("Please verify your email to continue");
+            setShowOTP(true);
+          }
+        } else {
+          toast.error(data.error.message || "Failed to sign in");
+        }
+      } else {
+        toast.success("Signed in successfully!");
+        router.push("/dashboard");
+      }
+    },
+    onError: (error: Error) => {
+      toast.error(error.message || "Failed to sign in");
+    },
+  });
 
-    if (success) {
-      toast.success(message);
-      router.push("/dashboard");
-    } else {
-      toast.error(message);
-    }
+  const onSubmit = (values: z.infer<typeof formSchema>) => {
+    signInMutation.mutate(values);
+  };
 
-    setisLoading(false);
+  const handleOTPSuccess = () => {
+    router.push("/dashboard");
+  };
+
+  if (showOTP) {
+    return (
+      <div className={cn("flex flex-col gap-6", className)} {...props}>
+        <OTPVerification
+          email={userEmail}
+          type="email-verification"
+          onSuccess={handleOTPSuccess}
+          onBack={() => setShowOTP(false)}
+        />
+        <FieldDescription className="px-6 text-center">
+          By clicking continue, you agree to our{" "}
+          <a href="#">Terms of Service</a> and{" "}
+          <Link href="#">Privacy Policy</Link>.
+        </FieldDescription>
+      </div>
+    );
   }
 
   const handleSocialLogin = async (
@@ -140,12 +192,12 @@ export function LoginForm({
                     <FormItem>
                       <div className="flex items-center">
                         <FormLabel>Password</FormLabel>
-                        <a
-                          href="#"
+                        <Link
+                          href="/forgot-password"
                           className="ml-auto text-sm underline-offset-4 hover:underline"
                         >
                           Forgot your password?
-                        </a>
+                        </Link>
                       </div>
 
                       <FormControl>
@@ -160,8 +212,8 @@ export function LoginForm({
                   )}
                 />
 
-                <Button type="submit">
-                  {isLoading ? (
+                <Button type="submit" disabled={signInMutation.isPending}>
+                  {signInMutation.isPending ? (
                     <Loader2 className="size-4 animate-spin" />
                   ) : (
                     "Login"
