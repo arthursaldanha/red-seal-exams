@@ -1,0 +1,2695 @@
+{
+  "block": "E",
+  "blockTitle": "Fixtures, Appliances and Water Treatment",
+  "totalQuestions": 128,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What is the purpose of fixture carriers for wall-hung fixtures?",
+      "options": {
+        "A": "To provide structural support transferring fixture loads to building structure",
+        "B": "Only for decoration",
+        "C": "Carriers are not needed",
+        "D": "To heat the fixture"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Fixture carriers transfer weight from wall-hung fixtures to structural members preventing wall damage and fixture failure.",
+        "B": "Carriers serve critical structural functions supporting fixture loads; they are not decorative elements.",
+        "C": "Wall-hung fixtures require proper support; carriers provide necessary structural backing.",
+        "D": "Carriers provide structural support and do not heat fixtures; they are mechanical support devices."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What is the minimum load rating for water closet carriers?",
+      "options": {
+        "A": "50 kg (110 lbs)",
+        "B": "180 kg (400 lbs)",
+        "C": "1000 kg (2200 lbs)",
+        "D": "No minimum required"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "50 kg is insufficient for toilet support; much higher capacity is required for safety.",
+        "B": "Water closet carriers must support minimum 180 kg (400 lbs) ensuring safe support for users and fixture.",
+        "C": "1000 kg exceeds typical requirements; standard rating is 180 kg though heavier-duty units exist.",
+        "D": "Minimum load ratings are specified ensuring adequate safety; proper capacity prevents failures."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "How should lavatory carriers be anchored?",
+      "options": {
+        "A": "Securely fastened to structural members with proper spacing and alignment",
+        "B": "Tape only",
+        "C": "No anchoring needed",
+        "D": "Random placement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Carriers must be solidly anchored to structural framing using proper fasteners ensuring adequate support.",
+        "B": "Tape cannot provide structural support; mechanical fastening to framing is required.",
+        "C": "Proper anchoring is essential for fixture support; unsecured carriers will fail under load.",
+        "D": "Carrier placement and anchoring must follow specifications; proper installation ensures adequate support."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What is the standard mounting height for wall-hung water closets?",
+      "options": {
+        "A": "100 mm (4 inches) from floor",
+        "B": "380-430 mm (15-17 inches) from floor to bowl rim",
+        "C": "1000 mm (40 inches) from floor",
+        "D": "Height doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "100 mm is far too low for comfortable use; standard height is much higher.",
+        "B": "Standard toilet height is 380-430 mm from floor to rim providing comfortable seating for most users.",
+        "C": "1000 mm is excessive and would be uncomfortable; standard height is around 400 mm.",
+        "D": "Mounting height affects user comfort and accessibility; proper height is specified for usability."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "Why must fixture supports be installed before wall finish?",
+      "options": {
+        "A": "To ensure proper anchoring to framing before concealment",
+        "B": "After wall finish is better",
+        "C": "Timing doesn't matter",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Support installation during framing ensures proper structural anchoring before walls conceal framing members.",
+        "B": "After wall finish, framing access is limited making proper anchoring difficult or impossible.",
+        "C": "Installation timing is critical for proper anchoring; supports must attach to structural members.",
+        "D": "Support installation is structural requirement; proper anchoring before concealment ensures adequate support."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What type of fasteners should be used for fixture carrier installation?",
+      "options": {
+        "A": "Appropriate size lag screws or bolts for structural connection",
+        "B": "Small finish nails only",
+        "C": "Tape",
+        "D": "No fasteners needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Lag screws or through-bolts provide adequate holding power for fixture loads when properly sized.",
+        "B": "Finish nails lack holding power for structural support; proper fasteners are required.",
+        "C": "Tape cannot provide structural connection; mechanical fasteners are essential.",
+        "D": "Fasteners are essential for securing carriers to framing; proper connection prevents failures."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "How should blocking be installed for wall-hung lavatories?",
+      "options": {
+        "A": "Solid blocking between studs at proper height for fixture mounting",
+        "B": "Blocking is not needed",
+        "C": "Random placement",
+        "D": "Only at floor level"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Solid blocking provides mounting surface and distributes loads across multiple studs ensuring adequate support.",
+        "B": "Blocking or carriers are required for wall-hung fixtures providing necessary structural support.",
+        "C": "Blocking must be placed at fixture mounting height; location is critical for proper support.",
+        "D": "Floor-level blocking doesn't support wall-hung fixtures; blocking must be at mounting height."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What is the purpose of adjustable carriers?",
+      "options": {
+        "A": "To allow height and position adjustment accommodating various fixture types",
+        "B": "No adjustment possible",
+        "C": "Only for decoration",
+        "D": "To restrict installation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Adjustable carriers allow positioning changes accommodating different fixtures and installation conditions.",
+        "B": "Many carriers offer adjustment capability providing installation flexibility for various fixtures.",
+        "C": "Adjustability serves functional purposes allowing proper fixture positioning; it's not decorative.",
+        "D": "Adjustability enhances installation flexibility; it improves rather than restricts installation options."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "Why must urinal carriers be properly aligned?",
+      "options": {
+        "A": "To ensure proper drain connection and level fixture installation",
+        "B": "Alignment is not important",
+        "C": "Random positioning is acceptable",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper alignment ensures drain connections align correctly and fixture mounts level for proper operation.",
+        "B": "Alignment is critical for drain connections and level mounting; proper positioning ensures function.",
+        "C": "Carrier position must match drain location and provide level support; random placement causes problems.",
+        "D": "While appearance is affected, alignment ensures functional drain connections and proper fixture operation."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What precaution prevents carrier corrosion in wet environments?",
+      "options": {
+        "A": "Using corrosion-resistant materials or protective coatings",
+        "B": "Corrosion is beneficial",
+        "C": "No protection needed",
+        "D": "Corrosion never occurs"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Galvanized steel or powder-coated carriers resist corrosion in moisture-prone bathroom environments.",
+        "B": "Corrosion weakens structural support; protection maintains carrier integrity and safety.",
+        "C": "Bathroom moisture promotes corrosion; proper materials or coatings extend carrier life.",
+        "D": "Unprotected steel corrodes in wet environments; proper protection prevents structural deterioration."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "How should carriers be positioned relative to finished wall?",
+      "options": {
+        "A": "Flush with finished wall surface allowing proper fixture mounting",
+        "B": "Random depth",
+        "C": "Protruding from wall",
+        "D": "Recessed behind wall"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Carrier face must align with finished wall allowing fixtures to mount properly against wall surface.",
+        "B": "Carrier depth must account for wall finish thickness; proper positioning ensures correct fixture alignment.",
+        "C": "Protruding carriers prevent proper fixture mounting; flush positioning is necessary.",
+        "D": "Recessed carriers create gaps between fixture and wall; proper alignment is essential."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What is the typical spacing for lavatory carrier mounting bolts?",
+      "options": {
+        "A": "100-200 mm (4-8 inches) on center",
+        "B": "5000 mm (200 inches)",
+        "C": "No spacing requirements",
+        "D": "Random placement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Typical bolt spacing of 100-200 mm provides adequate support while accommodating standard fixture mounting patterns.",
+        "B": "5000 mm spacing would provide inadequate support; much closer spacing is required.",
+        "C": "Bolt spacing is specified ensuring adequate fixture support; proper spacing prevents failures.",
+        "D": "Systematic spacing ensures adequate support distribution; random placement may create weak points."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "Why should carrier legs extend to floor?",
+      "options": {
+        "A": "To transfer loads to floor structure preventing wall overload",
+        "B": "Floor contact is not needed",
+        "C": "Only for appearance",
+        "D": "To restrict installation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Floor-bearing legs transfer fixture loads to floor structure reducing wall stress and improving support.",
+        "B": "Floor contact significantly improves support; legs transfer loads reducing wall-only support.",
+        "C": "Floor-bearing legs serve structural load distribution; they improve support rather than appearance.",
+        "D": "Floor support enhances installation by improving load distribution; it doesn't restrict proper installation."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What accommodates fixture supply connections in carriers?",
+      "options": {
+        "A": "Openings or channels allowing supply line routing to fixtures",
+        "B": "No provisions needed",
+        "C": "Carriers block all piping",
+        "D": "External routing only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Carriers include openings or channels routing supply lines from wall cavity to fixtures.",
+        "B": "Carriers must accommodate supply piping; proper provisions allow concealed piping installation.",
+        "C": "Carriers facilitate rather than block piping; openings allow supply line passage.",
+        "D": "Carriers enable concealed piping routing; internal passages provide cleaner installation than external routing."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "How should carriers be installed in metal stud walls?",
+      "options": {
+        "A": "With proper backing or through-wall bracing transferring loads to structure",
+        "B": "Direct attachment to metal studs only",
+        "C": "No special provisions needed",
+        "D": "Metal stud installation is prohibited"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Metal studs need reinforcement; backing or bracing transfers carrier loads to adequate structural support.",
+        "B": "Standard metal studs may lack capacity; reinforcement or backing provides adequate support.",
+        "C": "Metal stud installations require special consideration ensuring adequate structural support.",
+        "D": "Metal stud installation is possible with proper reinforcement; appropriate backing ensures adequate support."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What is a chair carrier for water closets?",
+      "options": {
+        "A": "A carrier supporting toilet from behind with integral waste connection",
+        "B": "Furniture only",
+        "C": "Not used for toilets",
+        "D": "A decorative element"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Chair carriers support wall-hung toilets from behind incorporating waste outlet for drain connection.",
+        "B": "While called chair carriers, they are structural plumbing components supporting wall-hung toilets.",
+        "C": "Chair carriers are specifically designed for wall-hung toilet support and waste connection.",
+        "D": "Chair carriers serve critical structural and drainage functions; they are not decorative elements."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "Why must carrier installation be coordinated with other trades?",
+      "options": {
+        "A": "To avoid conflicts with electrical, HVAC, and structural elements",
+        "B": "Coordination is unnecessary",
+        "C": "Plumbing installs without regard to others",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Coordination prevents conflicts ensuring all building systems accommodate each other in wall cavities.",
+        "B": "Wall cavity space is limited; coordination prevents conflicts and ensures all systems fit properly.",
+        "C": "All trades must coordinate; uncoordinated installation causes conflicts requiring expensive corrections.",
+        "D": "Coordination serves functional purposes preventing physical conflicts; it's not aesthetic consideration."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What prevents carrier movement after installation?",
+      "options": {
+        "A": "Proper fastening to structural members creating rigid connection",
+        "B": "Movement is beneficial",
+        "C": "No securing needed",
+        "D": "Carriers are self-supporting"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Adequate fastening to framing prevents movement maintaining proper alignment and support.",
+        "B": "Carrier movement causes fixture misalignment and potential failure; rigidity is essential.",
+        "C": "Proper securing prevents movement; unsecured carriers shift causing fixture problems.",
+        "D": "Carriers require proper anchoring to structural members; they cannot support loads without attachment."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "How should carriers accommodate drain connections?",
+      "options": {
+        "A": "With properly sized openings aligned with fixture drain outlets",
+        "B": "No drain provisions needed",
+        "C": "Drain connection is impossible",
+        "D": "Random openings"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Carriers include openings positioned for drain connections ensuring proper fixture drainage alignment.",
+        "B": "Drain provisions are essential; carriers must accommodate waste piping to fixtures.",
+        "C": "Carriers are specifically designed with drain connection provisions for proper waste removal.",
+        "D": "Drain openings must align precisely with fixture outlets; proper positioning ensures correct connection."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.01 Installs fixture supports",
+      "question": "What inspection should occur before wall closure?",
+      "options": {
+        "A": "Verification of proper carrier installation, alignment, and anchorage",
+        "B": "No inspection needed",
+        "C": "Only after wall completion",
+        "D": "Inspection is prohibited"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pre-closure inspection verifies proper installation while corrections are still easily possible.",
+        "B": "Inspection before concealment catches problems when correction is efficient; post-closure correction is expensive.",
+        "C": "Post-closure inspection cannot verify concealed anchoring; pre-closure verification is essential.",
+        "D": "Inspection is required ensuring proper installation; verification prevents future problems."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What is the standard height for lavatory installation?",
+      "options": {
+        "A": "850-865 mm (33.5-34 inches) from floor to rim",
+        "B": "100 mm (4 inches)",
+        "C": "2000 mm (80 inches)",
+        "D": "Height is random"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Standard lavatory height of 850-865 mm provides comfortable use for most adults.",
+        "B": "100 mm is far too low for comfortable use; standard height is much higher.",
+        "C": "2000 mm is excessive and unusable; standard height is around 850 mm.",
+        "D": "Mounting height is specified for comfort and accessibility; proper height ensures usability."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "Why must fixtures be set level?",
+      "options": {
+        "A": "To ensure proper drainage, prevent standing water, and maintain aesthetic appearance",
+        "B": "Level installation is not important",
+        "C": "Tilted fixtures work better",
+        "D": "Only for decoration"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Level fixtures drain properly, prevent pooling, and appear professional in finished installation.",
+        "B": "Level installation affects drainage and appearance; proper leveling ensures proper function.",
+        "C": "Tilted fixtures drain poorly and appear unprofessional; level installation is required.",
+        "D": "While appearance is affected, leveling ensures proper drainage and fixture function."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What sealant is appropriate for fixture installation?",
+      "options": {
+        "A": "Silicone or plumber's putty depending on fixture material and application",
+        "B": "Duct tape only",
+        "C": "No sealant needed",
+        "D": "Super glue"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Silicone or putty create water-tight seals; material selection depends on fixture type and manufacturer requirements.",
+        "B": "Tape cannot create permanent water-tight seals; proper sealants are required.",
+        "C": "Sealant prevents water infiltration; proper sealing protects structures from water damage.",
+        "D": "Super glue is inappropriate for plumbing; flexible sealants accommodate movement and moisture."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "How should faucets be sealed to fixtures?",
+      "options": {
+        "A": "With gaskets or putty creating water-tight seal preventing leaks",
+        "B": "No sealing needed",
+        "C": "Tape only",
+        "D": "Random materials"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sealing between faucets and fixtures prevents water from leaking behind or under fixtures.",
+        "B": "Sealing is essential preventing water infiltration; proper seals protect against water damage.",
+        "C": "Tape alone provides inadequate sealing; gaskets or putty create proper water-tight seals.",
+        "D": "Proper sealant materials are specified; appropriate materials ensure effective long-lasting seals."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What is the proper method for connecting supply lines to faucets?",
+      "options": {
+        "A": "Using proper fittings tightened to manufacturer specifications without over-tightening",
+        "B": "Hand-tight only",
+        "C": "Maximum torque always",
+        "D": "No connection needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper tightening creates leak-free connections without damaging fittings or fixture threads.",
+        "B": "Hand-tight connections may leak under pressure; proper tightening ensures leak-free operation.",
+        "C": "Over-tightening damages threads and fittings; proper torque prevents leaks without damage.",
+        "D": "Supply connections are essential for fixture operation; proper connections deliver water safely."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "Why should fixture drains be properly aligned?",
+      "options": {
+        "A": "To ensure leak-free connection and proper drainage flow",
+        "B": "Alignment is not important",
+        "C": "Misalignment is beneficial",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper drain alignment prevents leaks and ensures efficient drainage without restrictions or stress.",
+        "B": "Alignment is critical for leak-free connections; proper alignment prevents drain problems.",
+        "C": "Misalignment causes leaks and drainage restrictions; proper alignment ensures proper function.",
+        "D": "While appearance matters, alignment ensures functional leak-free drainage operation."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What spacing is required between water closet and adjacent fixtures?",
+      "options": {
+        "A": "Minimum 380 mm (15 inches) centerline to sidewall or fixture",
+        "B": "No spacing required",
+        "C": "50 mm (2 inches) only",
+        "D": "Maximum 100 mm (4 inches)"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Minimum 380 mm spacing from centerline ensures user comfort and accessibility around toilet.",
+        "B": "Adequate spacing is required for comfortable use and accessibility; minimum clearances are specified.",
+        "C": "50 mm is grossly inadequate for user comfort; much greater spacing is required.",
+        "D": "100 mm is insufficient; typical requirement is 380 mm or more for comfortable use."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "How should bathtubs be supported?",
+      "options": {
+        "A": "On mortar bed or adjustable feet distributing load and maintaining level",
+        "B": "No support needed",
+        "C": "Random blocking only",
+        "D": "Suspended from ceiling"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper support distributes tub weight and water load while maintaining level for proper drainage.",
+        "B": "Bathtubs require proper support distributing significant water and user loads; support prevents failures.",
+        "C": "Systematic support is necessary; proper methods distribute loads and maintain level for drainage.",
+        "D": "Tubs are floor-supported; proper foundation support distributes loads to floor structure."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "Why must shower bases be installed level?",
+      "options": {
+        "A": "To ensure proper drainage toward drain outlet preventing water accumulation",
+        "B": "Level installation is not needed",
+        "C": "Slope should be away from drain",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Level base with factory slope ensures water flows to drain; improper leveling causes pooling.",
+        "B": "Level installation (with manufacturer's built-in slope) ensures proper drainage preventing standing water.",
+        "C": "Slope must be toward drain; away-slope would prevent drainage causing water accumulation.",
+        "D": "While appearance matters, leveling ensures functional drainage preventing water accumulation."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What protection is required for exposed fixture supply lines?",
+      "options": {
+        "A": "Escutcheons covering wall openings for finished appearance and protection",
+        "B": "No protection needed",
+        "C": "Exposed holes are acceptable",
+        "D": "Only tape"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Escutcheons cover wall penetrations providing finished appearance and protecting against damage.",
+        "B": "Wall openings require covering; escutcheons provide finished appearance and opening protection.",
+        "C": "Uncovered openings appear unfinished and allow debris entry; escutcheons provide proper finish.",
+        "D": "Tape is inadequate covering; proper escutcheons provide durable attractive protection."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "How should toilet wax rings be installed?",
+      "options": {
+        "A": "Centered on closet flange creating seal between toilet and drain",
+        "B": "Wax rings are not needed",
+        "C": "Random placement",
+        "D": "Multiple wax rings stacked"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Centered wax ring creates complete seal when toilet compresses ring preventing sewer gas leaks.",
+        "B": "Wax rings are essential creating seal between toilet and drain; proper sealing prevents gas escape.",
+        "C": "Wax ring must be centered for complete sealing; off-center placement causes incomplete seals.",
+        "D": "Single wax ring is standard; multiple rings may indicate improper flange height requiring correction."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What is the purpose of overflow outlets in fixtures?",
+      "options": {
+        "A": "To prevent fixture overflow by providing alternative drainage route",
+        "B": "Only for decoration",
+        "C": "To add water",
+        "D": "Overflows serve no purpose"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Overflow outlets prevent flooding by providing drainage when water level reaches overflow point.",
+        "B": "Overflows serve critical safety functions preventing water damage; they are not decorative elements.",
+        "C": "Overflows remove excess water preventing flooding; they don't add water to fixtures.",
+        "D": "Overflows are essential safety features preventing flooding damage from inattention or blockages."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "Why should fixture mounting bolts not be over-tightened?",
+      "options": {
+        "A": "Over-tightening cracks porcelain fixtures causing expensive damage",
+        "B": "Maximum tightening is always better",
+        "C": "Tightness doesn't matter",
+        "D": "Fixtures cannot crack"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Porcelain is brittle; excessive torque causes cracking requiring fixture replacement.",
+        "B": "Excessive torque damages fixtures; proper tightening secures without cracking porcelain.",
+        "C": "Proper torque is critical; under-tightening allows movement while over-tightening cracks fixtures.",
+        "D": "Porcelain fixtures crack easily from over-tightening; careful torque control prevents damage."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "How should sink strainers be sealed?",
+      "options": {
+        "A": "With plumber's putty or silicone creating water-tight seal",
+        "B": "No sealing needed",
+        "C": "Dry installation only",
+        "D": "Paper towels"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sealing between strainer and sink prevents water leakage beneath sink.",
+        "B": "Sealing is essential preventing water infiltration; proper seals protect cabinets from water damage.",
+        "C": "Dry installation allows leaks; proper sealant creates necessary water-tight seal.",
+        "D": "Paper is inappropriate sealant; proper plumbing sealants create durable water-tight seals."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What clearance is required in front of water closets?",
+      "options": {
+        "A": "Minimum 610 mm (24 inches) from front of bowl to wall or obstruction",
+        "B": "No clearance needed",
+        "C": "50 mm (2 inches) only",
+        "D": "Clearance is random"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Minimum 610 mm clearance ensures comfortable use and accessibility meeting code requirements.",
+        "B": "Front clearance is essential for comfortable use and accessibility; minimum space is specified.",
+        "C": "50 mm is grossly inadequate for use and accessibility; much greater clearance is required.",
+        "D": "Clearance requirements are code-specified ensuring adequate space for comfortable use."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "How should dishwashers be connected to drain systems?",
+      "options": {
+        "A": "Through air gap or high loop preventing backflow contamination",
+        "B": "Direct connection to sewer",
+        "C": "No drain connection needed",
+        "D": "Random connection method"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Air gap or high loop prevents sewer backflow into dishwasher protecting water supply.",
+        "B": "Direct connection without backflow prevention allows contamination; protection is required.",
+        "C": "Drain connection is essential for waste removal; proper connection with backflow prevention is required.",
+        "D": "Specific connection methods prevent contamination; proper installation ensures food safety."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "Why must water heaters have expansion tanks?",
+      "options": {
+        "A": "To accommodate thermal expansion preventing dangerous pressure buildup",
+        "B": "Expansion tanks are not needed",
+        "C": "Only for decoration",
+        "D": "To restrict water flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Closed systems need expansion accommodation; tanks prevent dangerous pressure from water heating.",
+        "B": "Expansion tanks are required in closed systems; thermal expansion creates dangerous pressure without accommodation.",
+        "C": "Expansion tanks serve critical safety functions; they are not decorative elements.",
+        "D": "Expansion tanks accommodate volume increases; they enhance rather than restrict system function."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What prevents siphoning of fixture traps?",
+      "options": {
+        "A": "Proper venting allowing air entry maintaining trap seals",
+        "B": "Venting is not needed",
+        "C": "Sealed traps work better",
+        "D": "Siphoning is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Adequate venting provides air preventing vacuum formation that would siphon trap seals.",
+        "B": "Venting is essential preventing trap seal loss; proper vents maintain gas barriers.",
+        "C": "Traps need air access through vents; sealed systems allow siphonage depleting trap seals.",
+        "D": "Siphonage depletes trap seals allowing sewer gas entry; prevention maintains health protection."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "How should garbage disposals be installed?",
+      "options": {
+        "A": "Securely mounted under sink with proper electrical and drain connections",
+        "B": "Loose mounting is acceptable",
+        "C": "No mounting needed",
+        "D": "Random installation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper mounting prevents vibration and leaks; correct connections ensure safe operation and drainage.",
+        "B": "Loose mounting allows vibration and leaks; secure installation prevents problems.",
+        "C": "Proper mounting is essential for vibration control and leak prevention; secure attachment is required.",
+        "D": "Specific installation procedures ensure proper function; proper installation prevents leaks and hazards."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "Why should flexible supply lines not be kinked?",
+      "options": {
+        "A": "Kinks restrict flow and create weak points prone to failure",
+        "B": "Kinking is beneficial",
+        "C": "Flow restriction doesn't matter",
+        "D": "Flex lines cannot kink"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Kinks restrict water flow and stress supply lines causing premature failure and leaks.",
+        "B": "Kinks damage supply lines and restrict flow; proper installation prevents kinking.",
+        "C": "Flow restriction from kinking reduces fixture performance; proper installation maintains full flow.",
+        "D": "Flexible lines can kink if improperly routed; careful installation prevents kinking and damage."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.03 Tests plumbing fixtures and appliances",
+      "question": "How should fixture installations be tested for leaks?",
+      "options": {
+        "A": "By running water and observing all connections for leakage",
+        "B": "Testing is not needed",
+        "C": "Visual inspection only",
+        "D": "Testing is prohibited"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water flow testing under operating pressure reveals leaks before fixture use and concealment.",
+        "B": "Testing is essential identifying leaks when repairs are easy; post-occupancy leaks cause damage.",
+        "C": "Visual inspection alone cannot detect all leaks; water pressure testing definitively reveals problems.",
+        "D": "Testing is required ensuring leak-free installation; verification prevents water damage."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.03 Tests plumbing fixtures and appliances",
+      "question": "What verifies proper toilet flush operation?",
+      "options": {
+        "A": "Multiple flush tests observing complete evacuation and proper refill",
+        "B": "No testing needed",
+        "C": "Single observation sufficient",
+        "D": "Flushing is automatic"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple flush tests verify consistent performance, complete evacuation, and proper refill operation.",
+        "B": "Flush testing ensures proper operation; verification identifies adjustment needs before occupancy.",
+        "C": "Multiple tests reveal consistency and identify intermittent problems; single test is inadequate.",
+        "D": "While flushing is automated, testing verifies proper operation and adjustment of flush mechanism."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.03 Tests plumbing fixtures and appliances",
+      "question": "How should drain operation be verified?",
+      "options": {
+        "A": "By filling fixture and observing complete drainage without backup",
+        "B": "Drain testing is not done",
+        "C": "Visual inspection only",
+        "D": "Drains always work"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Full-fixture drainage testing reveals restrictions and verifies proper drain connections and venting.",
+        "B": "Drain testing identifies blockages and venting problems; verification ensures proper drainage.",
+        "C": "Visual inspection cannot verify drainage performance; water testing reveals actual operation.",
+        "D": "Drains can have blockages or venting problems; testing ensures proper installation and function."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.03 Tests plumbing fixtures and appliances",
+      "question": "What indicates proper water heater operation?",
+      "options": {
+        "A": "Consistent hot water production, no leaks, and proper temperature",
+        "B": "No testing needed",
+        "C": "Installation guarantees operation",
+        "D": "Operation cannot be verified"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Testing verifies heating function, leak-free connections, and proper temperature settings.",
+        "B": "Water heater testing ensures proper operation and safety; verification identifies problems early.",
+        "C": "Installation verification through testing is essential; proper function must be demonstrated.",
+        "D": "Water heater operation is testable through water heating and temperature verification."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.03 Tests plumbing fixtures and appliances",
+      "question": "Why should faucets be tested at full flow?",
+      "options": {
+        "A": "To verify adequate pressure, detect leaks, and confirm proper operation",
+        "B": "Full flow testing is harmful",
+        "C": "Low flow only",
+        "D": "Testing is not done"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Full flow testing stresses connections revealing leaks and verifying adequate pressure and function.",
+        "B": "Full flow testing reveals problems without damage; proper testing ensures quality installation.",
+        "C": "Low flow testing misses problems that appear under full demand; full flow testing is necessary.",
+        "D": "Faucet testing is essential verifying leak-free operation and adequate performance."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.03 Tests plumbing fixtures and appliances",
+      "question": "How should trap seal integrity be verified?",
+      "options": {
+        "A": "By running water and observing trap remains filled maintaining seal",
+        "B": "Trap testing is not needed",
+        "C": "Visual inspection only",
+        "D": "Traps always work"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water testing verifies traps maintain seals after drainage preventing sewer gas entry.",
+        "B": "Trap seal verification ensures proper venting and gas barrier maintenance; testing is essential.",
+        "C": "Visual inspection alone cannot verify seal maintenance after drainage; water testing is necessary.",
+        "D": "Traps can siphon if improperly vented; testing verifies seals remain after drainage."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.03 Tests plumbing fixtures and appliances",
+      "question": "What verifies dishwasher proper installation?",
+      "options": {
+        "A": "Running complete cycle checking for leaks and proper drainage",
+        "B": "No testing needed",
+        "C": "Visual inspection only",
+        "D": "Operation cannot be tested"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete cycle testing verifies fill, wash, and drain functions revealing any installation problems.",
+        "B": "Dishwasher testing ensures leak-free operation and proper drainage; verification prevents damage.",
+        "C": "Visual inspection misses functional problems; operational testing reveals actual performance.",
+        "D": "Dishwasher operation is testable through complete cycle; testing verifies proper installation."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.03 Tests plumbing fixtures and appliances",
+      "question": "Why should water heater relief valves be tested?",
+      "options": {
+        "A": "To verify proper operation ensuring safety protection against over-pressure",
+        "B": "Testing damages valves",
+        "C": "Relief valves never need testing",
+        "D": "Testing is prohibited"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Relief valve testing verifies proper operation; functional safety devices prevent dangerous pressure.",
+        "B": "Proper testing verifies function without damage; annual testing maintains safety protection.",
+        "C": "Relief valves require periodic testing ensuring continued proper operation for safety.",
+        "D": "Testing is required for safety verification; proper function must be demonstrated."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.03 Tests plumbing fixtures and appliances",
+      "question": "How should shower mixing valves be tested?",
+      "options": {
+        "A": "By checking temperature control throughout operating range",
+        "B": "No testing needed",
+        "C": "Visual inspection only",
+        "D": "Testing is impossible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Temperature testing throughout valve range verifies proper mixing and scald protection.",
+        "B": "Mixing valve testing ensures proper temperature control and scald prevention; verification is essential.",
+        "C": "Visual inspection cannot verify temperature control; actual water temperature testing is necessary.",
+        "D": "Mixing valve operation is testable through water temperature measurement throughout adjustment range."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.03 Tests plumbing fixtures and appliances",
+      "question": "What indicates proper garbage disposal operation?",
+      "options": {
+        "A": "Smooth operation, no leaks, and proper drainage during grinding",
+        "B": "No testing needed",
+        "C": "Installation guarantees function",
+        "D": "Operation cannot be tested"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Operational testing verifies motor function, leak-free connections, and proper drain operation.",
+        "B": "Disposal testing ensures proper operation and leak-free installation; verification prevents problems.",
+        "C": "Installation must be verified through testing; proper function must be demonstrated.",
+        "D": "Disposal operation is testable by running with water; testing verifies proper installation."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "What causes dripping faucets?",
+      "options": {
+        "A": "Worn washers, damaged seals, or corroded valve seats",
+        "B": "Dripping is normal",
+        "C": "Perfect condition always",
+        "D": "Dripping cannot be stopped"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Worn components allow water passage; replacement restores proper shutoff preventing waste.",
+        "B": "Dripping indicates worn components requiring service; it wastes water and should be repaired.",
+        "C": "Dripping reveals component wear; service restores proper shutoff function.",
+        "D": "Dripping is correctable through component replacement; proper service restores shutoff."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "How should clogged drains be cleared?",
+      "options": {
+        "A": "Using plunger, snake, or appropriate chemicals depending on blockage type",
+        "B": "Clogs clear themselves",
+        "C": "Ignore completely",
+        "D": "Clogs are permanent"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Different clearing methods suit different blockages; proper selection effectively removes obstructions.",
+        "B": "Clogs persist without clearing; proper action is necessary for restoring drainage.",
+        "C": "Clogs worsen without clearing; prompt action prevents complete blockages.",
+        "D": "Clogs are removable through appropriate clearing methods; proper service restores drainage."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "What causes toilet running continuously?",
+      "options": {
+        "A": "Flapper seal failure, fill valve malfunction, or float adjustment problems",
+        "B": "Continuous running is normal",
+        "C": "Perfect operation",
+        "D": "Cannot be corrected"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Failed components allow continuous water flow; replacement or adjustment stops waste.",
+        "B": "Continuous running wastes water and indicates component failure requiring correction.",
+        "C": "Running indicates malfunction; proper operation includes complete shutoff after filling.",
+        "D": "Running is correctable through component replacement or adjustment; service stops waste."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "Why should aerators be cleaned periodically?",
+      "options": {
+        "A": "To remove mineral deposits maintaining proper flow and spray pattern",
+        "B": "Cleaning is harmful",
+        "C": "Aerators never clog",
+        "D": "Cleaning is unnecessary"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Mineral accumulation restricts flow and disrupts pattern; cleaning restores proper operation.",
+        "B": "Cleaning maintains aerator function; mineral removal restores proper flow and pattern.",
+        "C": "Aerators accumulate minerals over time; periodic cleaning maintains proper function.",
+        "D": "Regular cleaning prevents severe blockage maintaining proper flow and spray pattern."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "How should water heater sediment be removed?",
+      "options": {
+        "A": "By draining water through drain valve flushing accumulated sediment",
+        "B": "Sediment removal is harmful",
+        "C": "Sediment is beneficial",
+        "D": "Removal is impossible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Periodic draining removes sediment improving efficiency and extending tank life.",
+        "B": "Sediment removal improves efficiency; proper maintenance extends water heater life.",
+        "C": "Sediment reduces efficiency and damages tanks; removal through draining maintains performance.",
+        "D": "Sediment is removable through draining; regular maintenance prevents excessive accumulation."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "What causes low water pressure at fixtures?",
+      "options": {
+        "A": "Clogged aerators, supply line restrictions, or system pressure problems",
+        "B": "Low pressure is normal",
+        "C": "Pressure never varies",
+        "D": "Cause is untraceable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple causes reduce pressure; diagnosis identifies specific problem enabling correction.",
+        "B": "Low pressure indicates problems requiring investigation; proper operation provides adequate pressure.",
+        "C": "Pressure varies with demand and restrictions; investigation identifies causes for correction.",
+        "D": "Low pressure causes are identifiable through systematic diagnosis; correction restores proper pressure."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "Why do toilet flappers deteriorate?",
+      "options": {
+        "A": "Chemical breakdown from chlorine and minerals in water",
+        "B": "Flappers never wear",
+        "C": "Deterioration is beneficial",
+        "D": "Chlorine strengthens rubber"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Chlorine and minerals degrade rubber causing flapper failure; periodic replacement maintains proper shutoff.",
+        "B": "Flappers deteriorate from chemical exposure; periodic replacement is normal maintenance.",
+        "C": "Deterioration causes leaks and water waste; replacement restores proper function.",
+        "D": "Chlorine degrades rather than strengthens rubber; exposure accelerates flapper deterioration."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "How should mineral deposits on fixtures be removed?",
+      "options": {
+        "A": "Using vinegar or mild acid cleaners dissolving deposits without damaging fixtures",
+        "B": "Strong acid only",
+        "C": "Abrasive scraping",
+        "D": "Deposits cannot be removed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Mild acids dissolve minerals safely; proper cleaners remove deposits without fixture damage.",
+        "B": "Strong acids can damage fixtures; mild acids effectively remove deposits safely.",
+        "C": "Abrasive scraping damages fixture finishes; chemical dissolution is safer and more effective.",
+        "D": "Mineral deposits are removable using appropriate cleaners; proper products safely restore appearance."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "What indicates garbage disposal needs service?",
+      "options": {
+        "A": "Unusual noise, poor grinding, odors, or leaks requiring attention",
+        "B": "Disposals never need service",
+        "C": "All operation is normal",
+        "D": "Problems cannot be detected"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various symptoms indicate developing problems; service addresses issues preventing complete failures.",
+        "B": "Disposals require periodic service and eventual replacement; attention extends life.",
+        "C": "Symptoms reveal specific problems requiring attention; service corrects issues maintaining function.",
+        "D": "Disposal problems produce clear symptoms; observation enables appropriate service intervention."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "Why should water heater anodes be replaced?",
+      "options": {
+        "A": "To continue protecting tank from corrosion extending life",
+        "B": "Anode replacement is harmful",
+        "C": "Anodes last forever",
+        "D": "Replacement is unnecessary"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Depleted anodes no longer protect tanks; replacement maintains corrosion protection extending life.",
+        "B": "Anode replacement protects expensive tanks; proper maintenance extends water heater life.",
+        "C": "Anodes sacrifice themselves protecting tanks; periodic replacement is essential maintenance.",
+        "D": "Regular anode replacement maintains tank protection preventing premature failure from corrosion."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What is the proper method for sealing tub spouts?",
+      "options": {
+        "A": "Using silicone sealant around wall contact preventing water infiltration",
+        "B": "No sealing needed",
+        "C": "Tape only",
+        "D": "Leave gaps for drainage"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Silicone seal prevents water from running behind spout protecting wall from moisture damage.",
+        "B": "Sealing is essential preventing water infiltration; proper sealing protects walls from damage.",
+        "C": "Tape provides inadequate sealing; silicone creates flexible water-tight seal.",
+        "D": "Gaps allow water infiltration causing wall damage; proper sealing prevents moisture problems."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "Why should fixture trap arms maintain proper slope?",
+      "options": {
+        "A": "To ensure self-cleaning drainage without siphoning trap seals",
+        "B": "Slope doesn't matter",
+        "C": "Level is best",
+        "D": "Maximum slope always"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper slope maintains self-cleaning velocity without excessive speed causing siphonage.",
+        "B": "Trap arm slope affects drainage and seal retention; proper slope is essential.",
+        "C": "Level trap arms may drain slowly or accumulate debris; minimum slope is required.",
+        "D": "Excessive slope can siphon trap seals; moderate slope balances self-cleaning and seal retention."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "How should kitchen sinks with disposals be supported?",
+      "options": {
+        "A": "With adequate bracing supporting combined weight of sink, disposal, and water",
+        "B": "No special support needed",
+        "C": "Counter support only",
+        "D": "Random blocking"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Disposals add significant weight; proper support prevents sink detachment and damage.",
+        "B": "Disposal weight requires additional support; adequate bracing prevents failures.",
+        "C": "Counter may lack capacity for disposal weight; proper bracing distributes loads appropriately.",
+        "D": "Systematic support is necessary; proper bracing ensures adequate capacity for combined loads."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What is the proper method for installing shower doors?",
+      "options": {
+        "A": "Following manufacturer instructions with proper sealing preventing leakage",
+        "B": "Random installation",
+        "C": "No sealing needed",
+        "D": "Tape only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Manufacturer procedures ensure proper operation and sealing preventing water escape from shower.",
+        "B": "Specific installation procedures prevent leakage; proper installation contains water effectively.",
+        "C": "Sealing is essential preventing water escape; proper seals protect floors from water damage.",
+        "D": "Tape provides inadequate sealing; proper silicone seals prevent water leakage."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "Why must water closet bolts be protected?",
+      "options": {
+        "A": "Caps prevent injury and corrosion while providing finished appearance",
+        "B": "No protection needed",
+        "C": "Exposed bolts are acceptable",
+        "D": "Only for decoration"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Bolt caps prevent injuries, protect threads from corrosion, and provide finished appearance.",
+        "B": "Exposed bolts create injury hazards and corrode; caps provide protection and finish.",
+        "C": "Exposed bolts are sharp and unsightly; proper caps provide safety and appearance.",
+        "D": "While appearance improves, caps primarily provide safety and corrosion protection."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "How should bathtub waste and overflow assemblies be sealed?",
+      "options": {
+        "A": "With gaskets and putty creating water-tight seals at connections",
+        "B": "No sealing needed",
+        "C": "Dry installation only",
+        "D": "Random materials"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sealing prevents water leakage from overflow and drain connections protecting structures.",
+        "B": "Sealing is essential preventing water escape; proper seals protect against water damage.",
+        "C": "Dry installation allows leaks; proper sealants create necessary water-tight connections.",
+        "D": "Specified sealant materials ensure effective sealing; proper materials prevent leakage."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What clearance is required for dishwasher installation?",
+      "options": {
+        "A": "Adequate space for door opening, ventilation, and service access",
+        "B": "No clearance needed",
+        "C": "Tight fit always",
+        "D": "Random spacing"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper clearance ensures door operation, adequate ventilation, and future service accessibility.",
+        "B": "Clearance requirements ensure proper operation and serviceability; adequate space is essential.",
+        "C": "Excessive tightness prevents proper ventilation and service access; proper clearance is necessary.",
+        "D": "Specified clearances ensure operation and service; proper spacing is required for function."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "Why should fixture supply valves be accessible?",
+      "options": {
+        "A": "To enable shutoff for repairs without affecting other fixtures",
+        "B": "Access is not important",
+        "C": "Hidden valves are required",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Accessible shutoffs enable fixture service without disrupting other fixtures or main water supply.",
+        "B": "Valve accessibility enables efficient repairs; proper access reduces repair time and disruption.",
+        "C": "While valves may be concealed, they must remain accessible; complete hiding prevents necessary access.",
+        "D": "Accessibility serves functional purposes enabling repairs; appearance is secondary concern."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "How should wall-mounted faucets be installed?",
+      "options": {
+        "A": "With proper backing, sealing, and alignment for leak-free operation",
+        "B": "Random mounting",
+        "C": "No backing needed",
+        "D": "Surface mounting only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper backing supports faucet weight while sealing prevents water infiltration behind wall.",
+        "B": "Specific procedures ensure proper support and sealing; systematic installation prevents problems.",
+        "C": "Backing provides necessary support for wall-mounted fixtures; proper structure prevents failures.",
+        "D": "Wall-mounted faucets require proper backing and in-wall connections; surface mounting is insufficient."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.02 Installs plumbing fixtures and appliances",
+      "question": "What is the proper height for shower valve installation?",
+      "options": {
+        "A": "1200-1500 mm (48-60 inches) from shower floor for comfortable reach",
+        "B": "100 mm (4 inches)",
+        "C": "3000 mm (120 inches)",
+        "D": "Height is random"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Standard shower valve height provides comfortable reach for most users during operation.",
+        "B": "100 mm is far too low for comfortable reach; standard height is much higher.",
+        "C": "3000 mm is excessively high and unreachable; standard height is around 1200-1500 mm.",
+        "D": "Valve height affects usability; proper height ensures comfortable reach for operation."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "What causes shower heads to clog?",
+      "options": {
+        "A": "Mineral deposits blocking spray holes reducing flow and pattern",
+        "B": "Clogging never occurs",
+        "C": "Clogs are beneficial",
+        "D": "Water is pure"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Calcium and mineral accumulation blocks holes; cleaning restores proper spray pattern and flow.",
+        "B": "Shower heads accumulate minerals over time; periodic cleaning maintains proper function.",
+        "C": "Clogs reduce flow and disrupt pattern; cleaning restores proper operation.",
+        "D": "Most water contains minerals that precipitate; accumulation requires periodic cleaning."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "How should leaking toilet tank bolts be repaired?",
+      "options": {
+        "A": "By replacing washers and tightening carefully without over-tightening",
+        "B": "Maximum tightening only",
+        "C": "Leaks are normal",
+        "D": "Repair is impossible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "New washers create proper seals; careful tightening prevents leaks without cracking porcelain.",
+        "B": "Over-tightening cracks porcelain; proper torque with new washers creates leak-free seal.",
+        "C": "Tank leaks waste water and damage floors; proper repair stops leakage.",
+        "D": "Tank bolt leaks are repairable through washer replacement and proper tightening."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "Why do faucet handles become difficult to operate?",
+      "options": {
+        "A": "Mineral buildup, worn components, or corrosion increasing friction",
+        "B": "Stiffness is normal",
+        "C": "Operation difficulty is beneficial",
+        "D": "Handles never stiffen"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various causes increase operating force; service including cleaning or replacement restores easy operation.",
+        "B": "Increasing difficulty indicates problems; service restores proper operation.",
+        "C": "Operating difficulty indicates worn or corroded parts; service improves function.",
+        "D": "Handles stiffen from mineral deposits and wear; cleaning or replacement restores smooth operation."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "What causes whistling in faucets?",
+      "options": {
+        "A": "Loose washers, worn seats, or partially closed valves creating vibration",
+        "B": "Whistling is normal",
+        "C": "Perfect condition",
+        "D": "External noise only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flow restrictions cause vibration producing whistle; component replacement or adjustment eliminates noise.",
+        "B": "Whistling indicates component problems; service corrects issues eliminating noise.",
+        "C": "Whistling reveals worn or loose components; repair restores quiet operation.",
+        "D": "Internal flow conditions cause whistling; component service eliminates noise."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "How should toilet wax ring leaks be repaired?",
+      "options": {
+        "A": "By removing toilet, installing new wax ring, and properly reseating",
+        "B": "Add more wax on top",
+        "C": "Leaks cannot be repaired",
+        "D": "External sealing only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete wax ring replacement with proper toilet reseating creates effective seal preventing leaks.",
+        "B": "Additional wax without removing toilet is ineffective; complete replacement is necessary.",
+        "C": "Wax ring leaks are repairable through proper ring replacement and toilet reinstallation.",
+        "D": "External sealing cannot stop wax ring leaks; complete ring replacement is required."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "What maintenance extends dishwasher life?",
+      "options": {
+        "A": "Regular filter cleaning, spray arm inspection, and proper detergent use",
+        "B": "No maintenance needed",
+        "C": "Neglect is best",
+        "D": "Maintenance reduces life"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular maintenance prevents buildup and component wear extending dishwasher service life.",
+        "B": "Dishwashers benefit from regular maintenance; attention extends life and improves performance.",
+        "C": "Neglect accelerates wear and buildup; proper maintenance extends dishwasher life.",
+        "D": "Proper maintenance extends equipment life; regular attention prevents premature failures."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "Why do water heaters make rumbling noises?",
+      "options": {
+        "A": "Sediment accumulation on tank bottom causing localized boiling",
+        "B": "Rumbling is normal",
+        "C": "Noise indicates perfection",
+        "D": "External sources only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Sediment layer causes water to boil beneath creating rumbling; flushing removes deposits eliminating noise.",
+        "B": "Rumbling indicates excessive sediment requiring removal; it's not normal operation.",
+        "C": "Noise reveals sediment accumulation; flushing restores quiet operation and improves efficiency.",
+        "D": "Internal sediment causes rumbling; flushing eliminates noise source."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "How should frozen fixture supply lines be thawed?",
+      "options": {
+        "A": "Using gentle heat from hair dryer or heating tape, never open flame",
+        "B": "Blowtorch directly",
+        "C": "Freezing is permanent",
+        "D": "Hit with hammers"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Controlled gentle heating safely thaws frozen lines without damage or fire risk.",
+        "B": "Open flames create fire hazards and can damage pipes; controlled heating is safe and effective.",
+        "C": "Frozen lines are thawable using proper heating methods; controlled heat restores flow.",
+        "D": "Impact on frozen pipes causes breakage; thawing requires heat application, not force."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "What indicates water heater element failure?",
+      "options": {
+        "A": "Insufficient hot water, no heating, or tripped circuit breaker",
+        "B": "Elements never fail",
+        "C": "Perfect heating always",
+        "D": "Failure is undetectable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Failed elements produce inadequate heating; testing and replacement restore proper operation.",
+        "B": "Heating elements fail from mineral buildup and age; replacement restores heating.",
+        "C": "Heating problems indicate element failure; testing identifies failed components.",
+        "D": "Element failure is detectable through heating performance and electrical testing."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs, tests and services plumbing fixtures and appliances",
+      "subtask": "E-14.04 Services plumbing fixtures and appliances",
+      "question": "Why should fixture supply lines be replaced periodically?",
+      "options": {
+        "A": "To prevent failures from age-related deterioration causing floods",
+        "B": "Supply lines last forever",
+        "C": "Replacement is harmful",
+        "D": "Age doesn't affect supply lines"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Supply line deterioration from age and water exposure creates failure risk; periodic replacement prevents floods.",
+        "B": "Supply lines deteriorate over time; replacement before failure prevents expensive water damage.",
+        "C": "Timely replacement prevents catastrophic failures; preventive replacement protects against damage.",
+        "D": "Age affects all materials; supply line replacement before failure prevents floods and damage."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "What factors determine water softener sizing?",
+      "options": {
+        "A": "Water hardness, daily usage, and peak demand flow rate",
+        "B": "Random sizing",
+        "C": "One size fits all",
+        "D": "Sizing is irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sizing considers hardness level, consumption volume, and flow requirements ensuring adequate treatment.",
+        "B": "Softener sizing requires calculation based on water quality and usage; random selection causes problems.",
+        "C": "Water treatment needs vary widely; proper sizing matches system capacity to specific requirements.",
+        "D": "Proper sizing is critical for adequate treatment; undersized systems fail to treat adequately."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "How is filter capacity determined?",
+      "options": {
+        "A": "Based on contaminant levels, flow rate, and service life requirements",
+        "B": "Capacity is random",
+        "C": "All filters identical",
+        "D": "Capacity doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Filter selection considers contaminant type and level, required flow, and desired replacement interval.",
+        "B": "Filter capacity must match specific contamination and flow needs; proper selection ensures effectiveness.",
+        "C": "Filter capacity varies widely; selection must match specific water quality problems and flow requirements.",
+        "D": "Capacity is critical for adequate treatment and service life; proper sizing ensures effective filtration."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "What determines UV system sizing?",
+      "options": {
+        "A": "Flow rate and UV dosage required for target microorganism kill",
+        "B": "Any size works",
+        "C": "Sizing is random",
+        "D": "UV systems don't vary"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "UV sizing ensures adequate exposure time at flow rate delivering effective dosage for microbial inactivation.",
+        "B": "UV effectiveness depends on proper sizing; inadequate capacity reduces microbial kill effectiveness.",
+        "C": "UV sizing calculations ensure effective dosage; proper selection provides adequate treatment.",
+        "D": "UV systems vary in capacity; proper sizing matches flow and treatment requirements."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "Why must reverse osmosis systems be sized properly?",
+      "options": {
+        "A": "To provide adequate treated water production meeting household demand",
+        "B": "Any size is sufficient",
+        "C": "Sizing is irrelevant",
+        "D": "RO systems self-adjust"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "RO production rate must meet peak demand; proper sizing ensures adequate treated water availability.",
+        "B": "RO production is limited; inadequate sizing causes water shortage during peak use.",
+        "C": "Production capacity must match demand; undersized systems fail to meet consumption needs.",
+        "D": "RO systems have fixed production rates; sizing must match usage requirements."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "What affects water softener regeneration frequency?",
+      "options": {
+        "A": "Water hardness level, usage volume, and resin capacity",
+        "B": "Regeneration is random",
+        "C": "One regeneration sufficient forever",
+        "D": "Hardness doesn't affect frequency"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Higher hardness and usage exhaust capacity faster requiring more frequent regeneration.",
+        "B": "Regeneration timing is calculated based on capacity and usage; systematic scheduling ensures effectiveness.",
+        "C": "Resin capacity exhausts requiring regeneration; frequency depends on hardness and consumption.",
+        "D": "Hardness level directly affects regeneration frequency; higher hardness exhausts capacity faster."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "How does flow rate affect treatment effectiveness?",
+      "options": {
+        "A": "Excessive flow reduces contact time decreasing treatment effectiveness",
+        "B": "Flow rate doesn't affect treatment",
+        "C": "Higher flow always better",
+        "D": "Flow is irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Adequate contact time is essential for treatment; excessive flow reduces effectiveness.",
+        "B": "Flow rate critically affects contact time; proper sizing ensures adequate treatment at required flow.",
+        "C": "Excessive flow reduces treatment effectiveness; systems must be sized for required flow rates.",
+        "D": "Flow rate determines contact time which is critical for effective treatment."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "What determines carbon filter replacement interval?",
+      "options": {
+        "A": "Water quality, usage volume, and contaminant levels affecting capacity",
+        "B": "Filters last forever",
+        "C": "Random replacement",
+        "D": "Replacement is unnecessary"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Higher contaminant levels and usage exhaust carbon capacity faster requiring more frequent replacement.",
+        "B": "Carbon capacity is finite; exhausted filters lose effectiveness requiring replacement.",
+        "C": "Replacement timing is based on capacity and usage calculations; systematic replacement maintains effectiveness.",
+        "D": "Regular replacement maintains filtration effectiveness; exhausted carbon loses treatment capability."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "Why must treatment systems match water source characteristics?",
+      "options": {
+        "A": "Different contaminants require specific treatment technologies",
+        "B": "All systems treat everything",
+        "C": "Source doesn't matter",
+        "D": "One system fits all"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Effective treatment requires matching technology to specific contaminants present in water source.",
+        "B": "Each technology addresses specific contaminants; proper selection matches treatment to problems.",
+        "C": "Water source characteristics determine treatment needs; proper matching ensures effectiveness.",
+        "D": "Treatment requirements vary with contaminants; system selection must match specific water quality issues."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "What determines iron filter sizing?",
+      "options": {
+        "A": "Iron concentration, oxidation requirement, and flow rate capacity",
+        "B": "Random sizing",
+        "C": "One size fits all",
+        "D": "Iron level irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Filter sizing must accommodate iron oxidation and removal at required flow rates for effective treatment.",
+        "B": "Iron filter sizing requires calculation based on concentration and flow; proper sizing ensures effectiveness.",
+        "C": "Iron removal needs vary widely; proper sizing matches capacity to specific iron levels.",
+        "D": "Iron concentration determines required capacity; proper sizing ensures adequate treatment."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "How does water temperature affect treatment system sizing?",
+      "options": {
+        "A": "Temperature affects chemical reaction rates and system efficiency",
+        "B": "Temperature has no effect",
+        "C": "Cold water requires no treatment",
+        "D": "Temperature is irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Temperature affects treatment rates; systems may need larger capacity in cold water for equivalent effectiveness.",
+        "B": "Temperature significantly affects chemical processes; sizing may need adjustment for temperature conditions.",
+        "C": "Cold water may require larger systems for equivalent treatment; temperature affects all water qualities.",
+        "D": "Temperature affects treatment efficiency; proper sizing considers operating temperature conditions."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "What is the purpose of pre-filtration in treatment systems?",
+      "options": {
+        "A": "To remove sediment protecting downstream treatment components",
+        "B": "Pre-filtration is harmful",
+        "C": "Not necessary",
+        "D": "To add contaminants"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pre-filtration removes particles preventing damage and fouling of expensive downstream treatment equipment.",
+        "B": "Pre-filtration protects equipment and improves effectiveness; it's beneficial rather than harmful.",
+        "C": "Pre-filtration extends equipment life and improves treatment; it's often essential for system protection.",
+        "D": "Pre-filtration removes rather than adds contaminants; it improves water quality and protects equipment."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.01 Sizes water treatment systems",
+      "question": "Why must whole-house systems be sized differently than point-of-use?",
+      "options": {
+        "A": "Whole-house systems must handle higher simultaneous flow rates",
+        "B": "Sizing is identical",
+        "C": "Point-of-use is always larger",
+        "D": "Size doesn't vary"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Whole-house systems treat all household water requiring capacity for multiple simultaneous fixtures.",
+        "B": "Whole-house flow requirements far exceed point-of-use; sizing must reflect usage differences.",
+        "C": "Point-of-use treats single fixture; whole-house requires much larger capacity for multiple fixtures.",
+        "D": "System location determines required capacity; whole-house needs much greater flow capacity."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "Where should water softeners be installed?",
+      "options": {
+        "A": "After water meter, before distribution, with drain and power access",
+        "B": "Any random location",
+        "C": "After all fixtures",
+        "D": "Location doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper location treats all household water while providing necessary drain access for regeneration.",
+        "B": "Softener location affects treatment effectiveness; proper position ensures complete household treatment.",
+        "C": "Softeners must be installed before fixtures to treat supply water; downstream installation is ineffective.",
+        "D": "Location is critical for complete treatment; proper positioning ensures all household water is softened."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "Why should treatment systems have bypass valves?",
+      "options": {
+        "A": "To allow water service during maintenance or system failure",
+        "B": "Bypass valves are not needed",
+        "C": "Only for decoration",
+        "D": "To permanently bypass treatment"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Bypass capability maintains water service during maintenance enabling repairs without disrupting household.",
+        "B": "Bypass valves enable service during maintenance; they're essential for convenient system service.",
+        "C": "Bypass valves serve functional maintenance purposes; they're not decorative elements.",
+        "D": "Bypass is for temporary maintenance use; systems normally operate in treatment mode."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "How should UV systems be positioned?",
+      "options": {
+        "A": "Vertically or horizontally per manufacturer with pre-filtration upstream",
+        "B": "Random orientation",
+        "C": "Upside down always",
+        "D": "Position doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper orientation ensures complete water exposure to UV while pre-filtration prevents lamp fouling.",
+        "B": "UV orientation follows manufacturer specifications; proper position ensures effective treatment.",
+        "C": "Specific orientation is required for proper function; upside-down may prevent effective treatment.",
+        "D": "Orientation affects lamp life and treatment effectiveness; proper positioning is essential."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "Why must softener drain lines be properly sized?",
+      "options": {
+        "A": "To handle regeneration discharge flow preventing overflow or slow regeneration",
+        "B": "Drain sizing is random",
+        "C": "Smallest drain always",
+        "D": "Drains are not needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Adequate drain capacity prevents backup during high-flow regeneration cycles ensuring effective operation.",
+        "B": "Drain sizing must accommodate regeneration flow; proper sizing prevents backups and slow cycles.",
+        "C": "Undersized drains restrict flow causing incomplete regeneration; adequate sizing ensures proper operation.",
+        "D": "Drain connection is essential for regeneration discharge; proper connection is required for function."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "How should reverse osmosis systems be plumbed?",
+      "options": {
+        "A": "With proper feed connection, drain connection, and storage tank installation",
+        "B": "Random connections",
+        "C": "No connections needed",
+        "D": "Feed only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete RO installation requires feed supply, reject drain, and treated water storage for proper operation.",
+        "B": "RO systems require specific connections; proper plumbing ensures effective water production.",
+        "C": "Multiple connections are essential for RO operation; feed, drain, and storage are required.",
+        "D": "RO requires drain for reject water and storage for treated water; feed alone is insufficient."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "Why should filters be installed vertically?",
+      "options": {
+        "A": "To prevent air accumulation and ensure proper flow distribution",
+        "B": "Horizontal is required",
+        "C": "Orientation is irrelevant",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Vertical installation allows air release and ensures uniform flow through filter media maintaining effectiveness.",
+        "B": "While some filters can be horizontal, vertical is often preferred for air release and flow distribution.",
+        "C": "Orientation affects air handling and flow; proper position maintains filtration effectiveness.",
+        "D": "Orientation serves functional purposes affecting performance; it's not aesthetic consideration."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "What protection prevents treatment system damage from pressure surges?",
+      "options": {
+        "A": "Pressure regulators or expansion tanks dampening surge effects",
+        "B": "No protection needed",
+        "C": "Surges are beneficial",
+        "D": "Systems are surge-proof"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Surge protection prevents damage to valves and controls maintaining system integrity and operation.",
+        "B": "Pressure surges can damage treatment equipment; protection extends system life.",
+        "C": "Surges damage valves and controls; protection prevents expensive failures.",
+        "D": "Treatment systems are vulnerable to surge damage; protection prevents costly failures."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "Why must salt storage be protected from moisture?",
+      "options": {
+        "A": "To prevent premature dissolution and maintain proper salt bridge prevention",
+        "B": "Moisture improves salt",
+        "C": "Protection is unnecessary",
+        "D": "Salt doesn't absorb moisture"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Dry storage prevents bridging and caking maintaining proper softener regeneration salt delivery.",
+        "B": "Moisture causes salt problems; dry storage maintains proper consistency for system operation.",
+        "C": "Moisture protection prevents operational problems; proper storage ensures reliable salt delivery.",
+        "D": "Salt is hygroscopic absorbing moisture; protection prevents caking and bridging problems."
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "How should carbon filters be installed?",
+      "options": {
+        "A": "With proper flow direction, pre-filtration, and adequate support",
+        "B": "Random installation",
+        "C": "No flow direction",
+        "D": "Upside down"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper installation ensures effective filtration and prevents media loss maintaining treatment quality.",
+        "B": "Carbon filters require specific installation; proper procedures ensure effective treatment.",
+        "C": "Flow direction is critical for proper filtration; correct orientation maintains effectiveness.",
+        "D": "Specific orientation is required; improper installation reduces effectiveness and may cause media loss."
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "Why should treatment systems have pressure gauges?",
+      "options": {
+        "A": "To monitor pressure drop indicating filter condition and system performance",
+        "B": "Gauges are decorative only",
+        "C": "Pressure monitoring is unnecessary",
+        "D": "To reduce pressure"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure monitoring reveals filter loading and operational problems enabling timely maintenance.",
+        "B": "Pressure gauges serve functional monitoring purposes; they're not decorative elements.",
+        "C": "Pressure monitoring indicates system condition; observation enables proactive maintenance.",
+        "D": "Gauges monitor pressure without affecting it; they provide operational information."
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "How should UV lamp replacement be facilitated?",
+      "options": {
+        "A": "With adequate clearance and isolation valves for easy service access",
+        "B": "Access is not needed",
+        "C": "Permanent installation only",
+        "D": "Lamps never need replacement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper access provisions enable efficient lamp replacement maintaining treatment effectiveness.",
+        "B": "Lamp access is essential for required replacement; proper provisions enable efficient service.",
+        "C": "Lamps require periodic replacement; service provisions enable necessary maintenance.",
+        "D": "UV lamps require annual replacement; proper installation provides necessary service access."
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.02 Installs water treatment systems",
+      "question": "Why should treatment systems have proper electrical protection?",
+      "options": {
+        "A": "To prevent shock hazards in wet environments with GFCI protection",
+        "B": "No protection needed",
+        "C": "Standard outlets sufficient",
+        "D": "Treatment systems don't use electricity"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "GFCI protection prevents shock in wet locations ensuring user safety during operation and service.",
+        "B": "Wet environments require GFCI protection; proper electrical installation ensures safety.",
+        "C": "Standard outlets lack necessary protection; GFCI circuits are required for wet location safety.",
+        "D": "Many treatment systems use electricity for controls and UV lamps; proper protection is essential."
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.03 Tests water treatment systems",
+      "question": "How should softener operation be tested?",
+      "options": {
+        "A": "By initiating regeneration cycle and testing treated water hardness",
+        "B": "No testing needed",
+        "C": "Visual inspection only",
+        "D": "Testing is impossible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regeneration testing verifies mechanical operation while hardness testing confirms effective treatment.",
+        "B": "Operational testing ensures proper function; verification confirms effective water softening.",
+        "C": "Visual inspection cannot verify water quality; hardness testing confirms treatment effectiveness.",
+        "D": "Softener operation is testable through cycle testing and water quality measurement."
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.03 Tests water treatment systems",
+      "question": "What verifies UV system effectiveness?",
+      "options": {
+        "A": "UV intensity monitoring and microbiological water testing",
+        "B": "Testing is not done",
+        "C": "Visual inspection sufficient",
+        "D": "Effectiveness cannot be verified"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "UV intensity measurement confirms adequate output while microbial testing verifies treatment effectiveness.",
+        "B": "UV effectiveness testing ensures proper disinfection; verification confirms safe water production.",
+        "C": "Visual inspection cannot verify UV output or microbial kill; testing is necessary.",
+        "D": "UV effectiveness is verifiable through intensity measurement and microbiological testing."
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.03 Tests water treatment systems",
+      "question": "How should filter effectiveness be tested?",
+      "options": {
+        "A": "By comparing pre-filter and post-filter water quality for target contaminants",
+        "B": "Testing is not needed",
+        "C": "Visual observation only",
+        "D": "Filters always work"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Before-and-after testing demonstrates removal of target contaminants verifying filter effectiveness.",
+        "B": "Effectiveness testing confirms proper filtration; verification ensures treatment goals are met.",
+        "C": "Visual inspection cannot verify contaminant removal; chemical testing is necessary.",
+        "D": "Filter effectiveness varies with condition; testing verifies proper treatment performance."
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.03 Tests water treatment systems",
+      "question": "What confirms proper RO system operation?",
+      "options": {
+        "A": "TDS testing of product water and reject ratio verification",
+        "B": "No testing needed",
+        "C": "Visual only",
+        "D": "RO systems self-verify"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "TDS testing confirms contaminant removal while reject ratio indicates membrane condition.",
+        "B": "RO testing verifies proper water quality and system efficiency; testing is essential.",
+        "C": "Visual inspection cannot verify dissolved contaminant removal; water testing is necessary.",
+        "D": "RO requires testing for verification; operation must be confirmed through water quality measurement."
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.03 Tests water treatment systems",
+      "question": "Why should treatment systems be tested under load?",
+      "options": {
+        "A": "To verify performance under actual operating flow conditions",
+        "B": "Load testing is unnecessary",
+        "C": "No-flow testing sufficient",
+        "D": "Load testing damages systems"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Load testing reveals actual performance under operating conditions detecting problems static testing misses.",
+        "B": "Load testing demonstrates real-world performance; verification under actual conditions confirms adequacy.",
+        "C": "Static testing misses flow-related problems; load testing reveals actual operational performance.",
+        "D": "Proper load testing verifies function without damage; testing validates performance under use conditions."
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.03 Tests water treatment systems",
+      "question": "How should system pressure drop be measured?",
+      "options": {
+        "A": "Using pressure gauges before and after system during flow",
+        "B": "Pressure drop measurement is unnecessary",
+        "C": "Visual estimation only",
+        "D": "Cannot be measured"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Differential pressure measurement during flow reveals system resistance indicating condition and sizing adequacy.",
+        "B": "Pressure drop measurement indicates system loading and sizing; monitoring reveals maintenance needs.",
+        "C": "Visual estimation cannot quantify pressure drop; gauge measurement provides accurate values.",
+        "D": "Pressure drop is measurable using differential pressure measurement; testing reveals system condition."
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.03 Tests water treatment systems",
+      "question": "What verifies iron filter effectiveness?",
+      "options": {
+        "A": "Iron testing of treated water confirming removal to acceptable levels",
+        "B": "Testing is not done",
+        "C": "Visual water color only",
+        "D": "Iron filters always work"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Iron concentration testing before and after treatment verifies effective removal meeting water quality goals.",
+        "B": "Iron testing confirms treatment effectiveness; verification ensures acceptable water quality.",
+        "C": "While color indicates iron presence, laboratory testing quantifies iron removal effectiveness.",
+        "D": "Iron filter effectiveness varies with condition; testing confirms proper performance."
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.03 Tests water treatment systems",
+      "question": "Why should baseline water quality be established?",
+      "options": {
+        "A": "To enable comparison verifying treatment effectiveness over time",
+        "B": "Baseline is unnecessary",
+        "C": "One test sufficient forever",
+        "D": "Comparison is impossible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Baseline data enables comparison demonstrating treatment effectiveness and detecting performance changes.",
+        "B": "Baseline water quality provides reference for evaluating treatment and detecting problems.",
+        "C": "Ongoing testing compared to baseline reveals changes; single test is inadequate for monitoring.",
+        "D": "Baseline comparison is standard practice; systematic testing reveals treatment effectiveness changes."
+      }
+    },
+    {
+      "questionNumber": 113,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "How often should softener salt be checked?",
+      "options": {
+        "A": "Monthly or when low level indicator shows salt depletion",
+        "B": "Never check salt",
+        "C": "Once per decade",
+        "D": "Checking is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular salt checking ensures adequate supply for regeneration maintaining softening effectiveness.",
+        "B": "Salt monitoring ensures continuous operation; checking prevents operational interruption from depletion.",
+        "C": "Monthly checking is appropriate; decade-long intervals risk complete depletion stopping operation.",
+        "D": "Salt checking maintains operation; monitoring ensures continued effective water softening."
+      }
+    },
+    {
+      "questionNumber": 114,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "What causes salt bridging in softeners?",
+      "options": {
+        "A": "Humidity and improper salt type creating solid crust preventing dissolution",
+        "B": "Bridging is beneficial",
+        "C": "Bridges never form",
+        "D": "Any salt works"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Moisture causes salt crust formation blocking proper dissolution; breaking bridges restores operation.",
+        "B": "Bridging prevents salt dissolution interrupting regeneration; correction restores proper operation.",
+        "C": "Salt bridges form from moisture; detection and breaking maintains proper system operation.",
+        "D": "Proper salt type reduces bridging; appropriate salt selection prevents formation problems."
+      }
+    },
+    {
+      "questionNumber": 115,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "When should UV lamps be replaced?",
+      "options": {
+        "A": "Annually or per manufacturer schedule regardless of apparent operation",
+        "B": "When burned out only",
+        "C": "Never need replacement",
+        "D": "Replacement is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "UV output degrades before visible failure; scheduled replacement maintains treatment effectiveness.",
+        "B": "UV intensity decreases before visible failure; replacement at scheduled intervals maintains disinfection.",
+        "C": "UV lamps degrade with use requiring annual replacement; scheduled service maintains effectiveness.",
+        "D": "Timely replacement maintains treatment; worn lamps lose effectiveness before visible failure."
+      }
+    },
+    {
+      "questionNumber": 116,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "How should filter cartridges be disposed of?",
+      "options": {
+        "A": "Following local regulations for contaminated filters considering captured materials",
+        "B": "Random disposal",
+        "C": "Down the drain",
+        "D": "Disposal method doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Filters contain captured contaminants; proper disposal follows regulations protecting environment and health.",
+        "B": "Contaminated filters require proper disposal; regulations protect environment from hazardous materials.",
+        "C": "Filter disposal in drains contaminates water; proper disposal prevents environmental pollution.",
+        "D": "Disposal method matters for environmental protection; regulations specify proper filter handling."
+      }
+    },
+    {
+      "questionNumber": 117,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "What indicates carbon filter exhaustion?",
+      "options": {
+        "A": "Taste and odor breakthrough or reduced flow rate from clogging",
+        "B": "Filters never exhaust",
+        "C": "Exhaustion is beneficial",
+        "D": "No indicators exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Breakthrough or flow reduction indicates carbon exhaustion; replacement restores treatment effectiveness.",
+        "B": "Carbon capacity is finite; exhaustion occurs requiring replacement for continued treatment.",
+        "C": "Exhaustion means treatment loss; replacement restores filtration effectiveness.",
+        "D": "Clear indicators reveal exhaustion; observation enables timely replacement maintaining quality."
+      }
+    },
+    {
+      "questionNumber": 118,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "Why should RO membranes be cleaned periodically?",
+      "options": {
+        "A": "To remove fouling and scaling maintaining production rate and efficiency",
+        "B": "Cleaning is harmful",
+        "C": "Membranes are self-cleaning",
+        "D": "Cleaning is unnecessary"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Periodic cleaning removes deposits restoring membrane performance extending service life.",
+        "B": "Cleaning maintains membrane function; proper procedures restore performance without damage.",
+        "C": "RO membranes accumulate deposits; periodic cleaning maintains production and efficiency.",
+        "D": "Regular cleaning extends membrane life and maintains performance; neglect causes premature failure."
+      }
+    },
+    {
+      "questionNumber": 119,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "What causes resin fouling in softeners?",
+      "options": {
+        "A": "Iron, organics, or chlorine damaging resin reducing capacity",
+        "B": "Fouling never occurs",
+        "C": "Fouling is beneficial",
+        "D": "All water is safe"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various contaminants damage or coat resin; cleaning or replacement restores capacity.",
+        "B": "Resin can foul from contaminants; treatment or replacement maintains softening effectiveness.",
+        "C": "Fouling reduces capacity and effectiveness; prevention or correction maintains performance.",
+        "D": "Some water contains resin-damaging contaminants; proper water analysis enables preventive treatment."
+      }
+    },
+    {
+      "questionNumber": 120,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "How should UV quartz sleeves be cleaned?",
+      "options": {
+        "A": "With appropriate cleaner removing mineral deposits without scratching",
+        "B": "Cleaning is harmful",
+        "C": "Sleeves never need cleaning",
+        "D": "Abrasive scraping only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper cleaning removes deposits maintaining UV transmission without damaging sleeve surface.",
+        "B": "Sleeve cleaning maintains UV transmission; proper procedures restore effectiveness without damage.",
+        "C": "Mineral deposits reduce UV transmission; periodic cleaning maintains treatment effectiveness.",
+        "D": "Abrasive scraping damages sleeves; proper chemical cleaning removes deposits safely."
+      }
+    },
+    {
+      "questionNumber": 121,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "What maintenance extends iron filter life?",
+      "options": {
+        "A": "Regular backwashing and periodic chemical regeneration maintaining capacity",
+        "B": "No maintenance needed",
+        "C": "Filters last forever",
+        "D": "Maintenance reduces life"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Backwashing removes captured iron while regeneration restores oxidation capacity extending filter life.",
+        "B": "Iron filters require regular maintenance; attention extends life and maintains effectiveness.",
+        "C": "Filter media eventually exhausts; maintenance extends life but eventual replacement is necessary.",
+        "D": "Proper maintenance extends filter life; neglect causes premature capacity loss."
+      }
+    },
+    {
+      "questionNumber": 122,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "Why should treatment system drain lines be kept clear?",
+      "options": {
+        "A": "To enable proper regeneration discharge and backwash drainage",
+        "B": "Drain clogs are beneficial",
+        "C": "Drains are not needed",
+        "D": "Clogs improve performance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Clear drains enable complete regeneration and backwash; blockages prevent proper operation.",
+        "B": "Drain clogs prevent proper regeneration causing operational problems; clear drains ensure function.",
+        "C": "Drains are essential for waste discharge; proper drainage enables necessary system cycles.",
+        "D": "Clogs prevent proper discharge disrupting operation; clear drains maintain proper function."
+      }
+    },
+    {
+      "questionNumber": 123,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "How should sediment pre-filters be serviced?",
+      "options": {
+        "A": "Regular inspection and replacement when clogged or per schedule",
+        "B": "Pre-filters last forever",
+        "C": "Service is harmful",
+        "D": "Inspection is unnecessary"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular service maintains pre-filtration protecting downstream equipment and maintaining flow.",
+        "B": "Pre-filters accumulate sediment requiring replacement; timely service protects equipment.",
+        "C": "Pre-filter service maintains protection; replacement ensures continued equipment protection.",
+        "D": "Regular inspection reveals filter condition; monitoring enables timely replacement maintaining protection."
+      }
+    },
+    {
+      "questionNumber": 124,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "What indicates softener control valve problems?",
+      "options": {
+        "A": "Incomplete regeneration, continuous water use, or cycle timing errors",
+        "B": "Valves never fail",
+        "C": "All operation is normal",
+        "D": "Problems are undetectable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various symptoms indicate valve problems; service or replacement restores proper automatic operation.",
+        "B": "Control valves experience wear and fouling; service maintains proper system operation.",
+        "C": "Symptoms reveal specific problems; observation enables appropriate service intervention.",
+        "D": "Valve problems produce clear symptoms; detection enables timely correction maintaining operation."
+      }
+    },
+    {
+      "questionNumber": 125,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "Why should treatment system performance be monitored?",
+      "options": {
+        "A": "To detect declining effectiveness enabling proactive maintenance",
+        "B": "Monitoring is unnecessary",
+        "C": "Performance never changes",
+        "D": "Monitoring is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Performance monitoring reveals problems early; proactive service prevents complete failures.",
+        "B": "Monitoring identifies developing problems; attention enables efficient preventive maintenance.",
+        "C": "Performance degrades with use; monitoring reveals changes enabling timely intervention.",
+        "D": "Performance monitoring maintains effectiveness; observation enables maintenance before failures."
+      }
+    },
+    {
+      "questionNumber": 126,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "How should water quality changes affect maintenance?",
+      "options": {
+        "A": "Requiring adjustment of settings or more frequent service",
+        "B": "Settings never change",
+        "C": "Water quality is constant",
+        "D": "Changes are ignored"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Changing water quality may require system adjustment; monitoring enables appropriate response.",
+        "B": "Water quality changes may require setting adjustments; monitoring and adjustment maintain effectiveness.",
+        "C": "Water quality can vary seasonally or long-term; monitoring enables appropriate system adjustment.",
+        "D": "Quality changes affect treatment needs; appropriate response maintains effective water treatment."
+      }
+    },
+    {
+      "questionNumber": 127,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "What causes taste and odor in treated water?",
+      "options": {
+        "A": "Exhausted carbon filters, bacterial growth, or sanitizer breakthrough",
+        "B": "Taste and odor are beneficial",
+        "C": "Treatment improves taste",
+        "D": "Causes are unknown"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various causes create taste and odor; identification and correction restores water quality.",
+        "B": "Taste and odor indicate problems requiring attention; correction improves water acceptability.",
+        "C": "Treatment normally improves taste but problems can cause deterioration; troubleshooting identifies causes.",
+        "D": "Taste and odor causes are identifiable through systematic investigation; correction restores quality."
+      }
+    },
+    {
+      "questionNumber": 128,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs, tests and services water treatment systems",
+      "subtask": "E-15.04 Services water treatment systems",
+      "question": "Why should treatment system documentation be maintained?",
+      "options": {
+        "A": "To track maintenance, settings, and performance enabling effective troubleshooting",
+        "B": "Documentation is unnecessary",
+        "C": "Memory is sufficient",
+        "D": "Records are harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete records enable troubleshooting and demonstrate proper maintenance extending system life.",
+        "B": "Documentation provides valuable reference for troubleshooting and warranty; records protect investment.",
+        "C": "Written records provide reliable reference; memory is inadequate for tracking long-term trends.",
+        "D": "Documentation aids troubleshooting and proves maintenance; records protect investment and verify service."
+      }
+    }
+  ]
+}

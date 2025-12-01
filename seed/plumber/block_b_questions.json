@@ -1,0 +1,2191 @@
+{
+  "block": "B",
+  "blockTitle": "Prepares and Assembles Tube, Tubing and Pipe",
+  "totalQuestions": 104,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "What is the first step when inspecting copper tubing upon delivery?",
+      "options": {
+        "A": "Measure the wall thickness with calipers",
+        "B": "Check for physical damage, dents, and verify correct size and type",
+        "C": "Test the material hardness",
+        "D": "Apply pressure to test for leaks"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wall thickness measurement is important but comes after visual inspection for obvious damage and specification verification.",
+        "B": "Initial inspection includes visual examination for shipping damage, dents, kinks, and verification that materials match specifications before acceptance.",
+        "C": "Hardness testing is not a standard field inspection procedure; visual inspection and specification verification are the primary acceptance criteria.",
+        "D": "Pressure testing occurs after installation, not during receipt inspection of unused materials."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "What defect in copper tubing would make it unacceptable for potable water use?",
+      "options": {
+        "A": "Minor surface scratches",
+        "B": "Slight discoloration from oxidation",
+        "C": "Deep dents or kinks that reduce internal diameter",
+        "D": "Manufacturer's markings on the surface"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Minor surface scratches do not affect structural integrity or water quality if they don't penetrate the wall.",
+        "B": "Surface oxidation is normal and does not affect tubing integrity or water quality; it can be cleaned if necessary.",
+        "C": "Dents or kinks that reduce internal diameter create flow restrictions, stress concentrations, and potential failure points making the tubing unacceptable.",
+        "D": "Manufacturer's markings are required identification and do not affect tubing suitability for use."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "When inspecting threaded steel pipe, what thread condition would require rejection?",
+      "options": {
+        "A": "Threads showing slight handling marks",
+        "B": "Crossed, stripped, or damaged threads",
+        "C": "Threads with a light oil coating",
+        "D": "Threads with minor surface rust"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Minor handling marks that don't damage thread form are acceptable; threads must engage properly for leak-free joints.",
+        "B": "Crossed, stripped, or damaged threads cannot form proper sealing joints and will leak regardless of sealant applied.",
+        "C": "Light oil coating protects threads during storage and is normal; it should be cleaned before applying thread sealant.",
+        "D": "Minor surface rust can be cleaned with a wire brush; rejection is only necessary if rust has caused pitting or thread damage."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "What must be verified when inspecting plastic pipe before installation?",
+      "options": {
+        "A": "That it has been stored at freezing temperatures",
+        "B": "Material type, size, rating, and absence of cracks or deformation",
+        "C": "That it floats in water",
+        "D": "Color matches other installed piping"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Plastic pipe should be stored at moderate temperatures; freezing can cause brittleness or damage to some plastic types.",
+        "B": "Inspection must verify correct material type (PVC, CPVC, PEX), size, pressure rating, and check for cracks, deformation, or UV damage.",
+        "C": "Flotation is not an inspection criterion; material specifications, physical condition, and ratings determine suitability.",
+        "D": "While color coding helps identify pipe types, the critical factors are material specifications, ratings, and physical condition."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "Why must pipe ends be inspected for proper cutting before installation?",
+      "options": {
+        "A": "To verify the pipe length matches specifications",
+        "B": "To ensure cuts are square, deburred, and free of damage",
+        "C": "To check if the pipe was cut with approved tools",
+        "D": "To confirm the cutting date"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Length verification is separate from cut quality inspection; end condition affects joint integrity regardless of length.",
+        "B": "Square cuts ensure proper fitting engagement, while deburring prevents flow restriction, turbulence, and gasket damage.",
+        "C": "Tool type is less important than the quality of the resulting cut; various tools can produce acceptable cuts if used properly.",
+        "D": "Cutting date is irrelevant; the physical condition of the cut and preparation quality are the critical inspection factors."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "What should be checked when inspecting compression fittings before installation?",
+      "options": {
+        "A": "That the ferrule is present, undamaged, and properly sized",
+        "B": "That the fitting has been previously used",
+        "C": "The manufacturing date only",
+        "D": "The thread direction"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Compression fittings require undamaged ferrules of correct size to create leak-free seals; missing or damaged ferrules will cause leaks.",
+        "B": "Compression fittings should not be reused as ferrules deform during initial installation and will not seal properly if reinstalled.",
+        "C": "Manufacturing date is not a primary inspection concern for fittings; physical condition and proper components are critical.",
+        "D": "Compression fittings use standard right-hand threads; thread direction is not a variable requiring verification."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "When inspecting cast iron pipe, what surface condition indicates the pipe should be rejected?",
+      "options": {
+        "A": "Gray color typical of cast iron",
+        "B": "Deep cracks, holes, or honeycombing in the pipe wall",
+        "C": "Slight surface roughness",
+        "D": "Presence of manufacturer's markings"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Gray coloring is normal for cast iron and indicates proper material; color itself is not a rejection criterion.",
+        "B": "Cracks, holes, or honeycombing (porosity) compromise structural integrity and leak resistance, requiring pipe rejection.",
+        "C": "Some surface roughness is inherent to cast iron manufacturing and does not affect structural integrity or function.",
+        "D": "Manufacturer's markings are required for identification and quality assurance; their presence is desirable, not a defect."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "What must be verified when inspecting solder fittings for copper tubing?",
+      "options": {
+        "A": "That fittings have been pre-soldered at the factory",
+        "B": "Socket depth, proper size, and absence of dents or damage",
+        "C": "That fittings are magnetized",
+        "D": "The weight of each fitting"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Solder fittings are not pre-soldered; they require field soldering during installation after proper preparation.",
+        "B": "Socket depth must accommodate tubing properly, size must match, and fittings must be undamaged for proper joint formation.",
+        "C": "Copper fittings are non-magnetic; magnetic properties are not relevant to copper fitting inspection.",
+        "D": "Individual fitting weight is not a field inspection criterion; visual inspection and dimensional verification are the standard checks."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "Why is it important to inspect the interior of pipe and fittings before installation?",
+      "options": {
+        "A": "To verify the pipe color matches",
+        "B": "To remove debris, scale, and foreign material that could contaminate the system",
+        "C": "To measure the exact internal diameter",
+        "D": "To check for manufacturer defects only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Interior color is not visible during use and is not an inspection concern; cleanliness and freedom from debris are critical.",
+        "B": "Interior inspection ensures removal of manufacturing debris, scale, and contamination that could clog fixtures, damage equipment, or contaminate water.",
+        "C": "While internal diameter is important, it's verified by size markings; inspection focuses on cleanliness and absence of obstructions.",
+        "D": "Interior inspection addresses both manufacturing defects and accumulated contamination from handling and storage."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "What type of damage to plastic pipe indicates UV degradation requiring rejection?",
+      "options": {
+        "A": "Slight surface dirt accumulation",
+        "B": "Chalky, brittle surface with discoloration and cracking",
+        "C": "Condensation on the exterior surface",
+        "D": "Manufacturer's labeling has faded"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Surface dirt is easily cleaned and does not indicate material degradation or affect pipe integrity.",
+        "B": "UV exposure causes surface chalking, brittleness, discoloration, and cracking in plastics, compromising strength and requiring rejection.",
+        "C": "Condensation is a temporary environmental condition unrelated to UV damage or pipe integrity.",
+        "D": "While faded labels may indicate UV exposure, the critical factor is physical degradation of the pipe material itself."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "When inspecting flanged pipe fittings, what must be checked on the flange face?",
+      "options": {
+        "A": "That the flange face is smooth, flat, and free from gouges or warping",
+        "B": "That the flange has been painted",
+        "C": "The thickness of the flange only",
+        "D": "That bolt holes are oversized"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flange faces must be smooth and flat without gouges or warping to allow gaskets to seal properly and prevent leaks.",
+        "B": "Painting may be required for corrosion protection but is not a primary inspection criterion for the sealing surface.",
+        "C": "Flange thickness is a design specification already determined; face condition is the critical inspection factor for leak prevention.",
+        "D": "Bolt holes should be standard size with proper tolerance; oversized holes indicate damage or improper manufacturing."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.01 Inspects tube, tubing, pipe and fittings before installation",
+      "question": "What pressure rating information must be verified during pipe inspection?",
+      "options": {
+        "A": "That all pipe has the same color coding",
+        "B": "That the pipe pressure rating meets or exceeds system requirements",
+        "C": "That the pipe was manufactured locally",
+        "D": "That the pipe has been previously tested"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color coding helps identification but does not determine pressure capability; marked ratings are the definitive specification.",
+        "B": "Pipe pressure rating must meet or exceed system design pressure to prevent failure; using under-rated pipe creates dangerous conditions.",
+        "C": "Manufacturing location is irrelevant provided materials meet specifications and standards; ratings determine suitability.",
+        "D": "New pipe is not pre-tested; system testing occurs after installation to verify complete assembly integrity."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "What is the recommended cutting tool for rigid copper tubing to produce the cleanest cut?",
+      "options": {
+        "A": "Hacksaw with fine-tooth blade",
+        "B": "Tubing cutter with sharp cutting wheel",
+        "C": "Reciprocating saw",
+        "D": "Abrasive cutoff wheel"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hacksaws produce acceptable cuts but require more deburring and may not be as square as tubing cutter cuts.",
+        "B": "Tubing cutters produce clean, square cuts with minimal burrs, reducing preparation time and ensuring proper fitting engagement.",
+        "C": "Reciprocating saws cut quickly but produce rough edges requiring extensive deburring and may not achieve square cuts.",
+        "D": "Abrasive wheels create heat and metal dust contamination; they're not recommended for tubing that will carry potable water."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "Why should you avoid over-tightening a tubing cutter when cutting copper?",
+      "options": {
+        "A": "To prevent damage to the cutting wheel",
+        "B": "To prevent deformation of the tubing and internal lip formation",
+        "C": "To speed up the cutting process",
+        "D": "To reduce noise during cutting"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While excessive force can damage the wheel, the primary concern is tubing deformation affecting joint quality.",
+        "B": "Over-tightening causes tubing to deform and creates an internal lip (roll) that restricts flow and must be reamed out.",
+        "C": "Gradual tightening actually produces better cuts than aggressive tightening; speed is not improved by over-tightening.",
+        "D": "Noise reduction is not a factor in proper cutting technique; preventing deformation is the critical concern."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "What must be done immediately after cutting any pipe or tubing?",
+      "options": {
+        "A": "Apply primer to the cut end",
+        "B": "Deburr and remove sharp edges and internal burrs",
+        "C": "Paint the cut end",
+        "D": "Store the pipe in a vertical position"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Primer application is specific to certain plastic pipe joints and comes after deburring, not immediately after cutting.",
+        "B": "Deburring removes sharp edges that could injure workers and internal burrs that restrict flow or damage seals.",
+        "C": "Painting is a finishing step for certain applications and is not required immediately after cutting.",
+        "D": "Storage position is unrelated to cut preparation; deburring is the critical immediate step after cutting."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "When cutting plastic pipe with a handsaw, what blade type should be used?",
+      "options": {
+        "A": "Coarse-tooth blade for fast cutting",
+        "B": "Fine-tooth blade to prevent chipping and cracking",
+        "C": "Metal-cutting blade only",
+        "D": "Any available blade"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Coarse-tooth blades tear plastic rather than cutting cleanly, causing chips and cracks at the cut edge.",
+        "B": "Fine-tooth blades make clean cuts in plastic without chipping or cracking, producing edges suitable for proper joint preparation.",
+        "C": "While metal-cutting blades work, the critical factor is fine teeth; plastic-specific blades may actually perform better.",
+        "D": "Blade selection affects cut quality significantly; wrong blades damage plastic requiring extensive rework."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "What is the proper technique when using a pipe cutter on steel pipe?",
+      "options": {
+        "A": "Tighten fully and make one complete rotation",
+        "B": "Rotate the cutter around the pipe, gradually tightening after each rotation",
+        "C": "Push straight through without rotation",
+        "D": "Tighten until the pipe is crushed, then back off slightly"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Full tightening in one step crushes the pipe; gradual tightening with rotation produces clean cuts without deformation.",
+        "B": "Gradual tightening after each rotation allows the cutting wheel to progressively cut through the pipe wall without crushing.",
+        "C": "Pipe cutters work by rotation around the pipe; straight pushing is not possible with rotary cutting tools.",
+        "D": "Crushing the pipe creates deformation requiring extensive reaming; proper technique prevents this problem."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "Why is cutting cast iron pipe with snap cutters preferred over sawing?",
+      "options": {
+        "A": "Snap cutters are less expensive than saws",
+        "B": "Snap cutters produce clean breaks and minimal dust compared to sawing",
+        "C": "Snap cutters work on any pipe size",
+        "D": "Snap cutters require no maintenance"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cost is not the primary advantage; clean cutting and dust control are the key benefits of snap cutters.",
+        "B": "Snap cutters break cast iron cleanly along a scored line with minimal dust, unlike sawing which creates harmful dust.",
+        "C": "Snap cutters have size limitations; very large diameter cast iron must be cut with other methods.",
+        "D": "All tools require maintenance; the advantage is cutting quality and dust control, not maintenance elimination."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "What safety precaution is essential when cutting pipe with power tools?",
+      "options": {
+        "A": "Work in complete darkness",
+        "B": "Wear appropriate eye protection and secure the pipe properly",
+        "C": "Cut as quickly as possible",
+        "D": "Stand directly in line with the blade"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Adequate lighting is essential for safe operation; working in darkness increases accident risk significantly.",
+        "B": "Eye protection prevents injury from flying debris, and securing pipe prevents movement that could cause tool binding or kickback.",
+        "C": "Appropriate cutting speed maintains control; excessive speed increases heat, tool wear, and accident risk.",
+        "D": "Standing in line with cutting tools creates severe injury risk from kickback or blade failure; position yourself to the side."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "When cutting PVC pipe, at what temperature should cutting be avoided?",
+      "options": {
+        "A": "Above 15°C (59°F)",
+        "B": "Between 10-20°C (50-68°F)",
+        "C": "Below 0°C (32°F) when pipe is brittle",
+        "D": "Temperature does not affect PVC cutting"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Above 15°C is normal working temperature; PVC cuts well at moderate temperatures.",
+        "B": "This temperature range is ideal for cutting PVC; brittleness is not a concern in this range.",
+        "C": "Cold temperatures make PVC brittle and prone to cracking during cutting; warm pipe to above 0°C before cutting if possible.",
+        "D": "Temperature significantly affects PVC properties; cold makes it brittle while extreme heat makes it soft."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "What is the purpose of using a reamer after cutting copper tubing?",
+      "options": {
+        "A": "To polish the exterior surface",
+        "B": "To remove the internal burr and restore full internal diameter",
+        "C": "To create threads inside the tubing",
+        "D": "To mark the cutting location"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Reamers work on internal surfaces to remove burrs; exterior polishing is not the purpose of reaming.",
+        "B": "Reaming removes the internal lip and burrs created during cutting, restoring full flow diameter and preventing turbulence.",
+        "C": "Copper tubing is not threaded internally; it uses solder, compression, or press fittings for connections.",
+        "D": "Marking occurs before cutting; reaming is a post-cutting operation to remove burrs."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "When cutting multiple pieces of pipe to the same length, what method ensures accuracy?",
+      "options": {
+        "A": "Estimate by eye for each piece",
+        "B": "Use a template or measuring jig to mark all pieces consistently",
+        "C": "Cut one piece short and adjust others longer",
+        "D": "Rely on the saw's built-in measurement"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual estimation introduces significant variation; precise measurement is necessary for consistent results.",
+        "B": "Templates or jigs ensure all pieces are marked and cut to identical lengths, eliminating measurement errors.",
+        "C": "Intentional variation defeats the purpose of cutting to consistent lengths; precision requires accurate measurement.",
+        "D": "Most cutting saws do not have built-in measurement systems; separate measuring and marking is required."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "Why should threaded pipe be cut with a specific allowance beyond the measured length?",
+      "options": {
+        "A": "To account for thread engagement length into fittings",
+        "B": "To provide extra material for future modifications",
+        "C": "To reduce the weight of the pipe",
+        "D": "To improve the pipe's appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Thread engagement (typically 1/2 to 3/4 inch per end) must be added to measured length so threaded ends enter fittings properly.",
+        "B": "While some allowance for adjustments is wise, thread engagement is a specific dimensional requirement, not a general allowance.",
+        "C": "Weight reduction is not achieved by cutting allowances; proper length calculation ensures joints assemble correctly.",
+        "D": "Appearance is not a factor in thread engagement calculations; proper joint assembly is the critical concern."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.02 Cuts tube, tubing and pipe",
+      "question": "What problem can occur if pipe is not cut square to its centerline?",
+      "options": {
+        "A": "The pipe will be heavier",
+        "B": "Fittings will not seat properly, causing potential leaks and misalignment",
+        "C": "The pipe will be more flexible",
+        "D": "The pipe color will fade faster"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cut angle does not affect pipe weight; weight is determined by material and dimensions.",
+        "B": "Non-square cuts prevent complete fitting engagement, create stress concentration, and allow leaks at improperly seated joints.",
+        "C": "Flexibility is a material property unaffected by cut angle; proper fitting engagement is the concern with angled cuts.",
+        "D": "Color stability is unrelated to cut quality; proper fitting engagement and leak prevention are the critical issues."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "What is the minimum bend radius for copper tubing to prevent kinking?",
+      "options": {
+        "A": "One times the tubing outside diameter",
+        "B": "Three to five times the tubing outside diameter",
+        "C": "Ten times the tubing outside diameter",
+        "D": "Any radius is acceptable with enough force"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "One diameter is too sharp and will cause kinking, wall thinning, and collapse of the tubing.",
+        "B": "Minimum bend radius of 3-5 times the outside diameter prevents kinking and maintains wall integrity during bending.",
+        "C": "Ten times diameter is very conservative and often unnecessary; proper radius is 3-5 times for most applications.",
+        "D": "Sharp bends will kink regardless of force applied; minimum radius must be maintained to prevent tubing collapse."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "When should a tube bender be used instead of making a hand bend?",
+      "options": {
+        "A": "For all bends regardless of size",
+        "B": "When precise angles and radius control are needed, especially for rigid tubing",
+        "C": "Only for steel pipe, never for copper",
+        "D": "Hand bending is always preferred"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Very gentle bends in soft tubing can be made by hand; benders are necessary for controlled angles and rigid materials.",
+        "B": "Tube benders provide controlled radius and precise angles, preventing kinking especially in rigid or large diameter tubing.",
+        "C": "Tube benders work with various materials including copper, steel, and aluminum; material does not determine if benders are needed.",
+        "D": "Hand bending is limited to soft materials and gentle curves; most installations require the precision of bending tools."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "What is the purpose of using internal spring benders for soft copper tubing?",
+      "options": {
+        "A": "To make the tubing more rigid",
+        "B": "To support the tubing walls and prevent collapse during bending",
+        "C": "To increase the bend radius",
+        "D": "To eliminate the need for measurements"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Spring benders provide temporary support during bending; they do not permanently change tubing properties.",
+        "B": "Internal springs support tubing walls during bending, preventing kinking and collapse while allowing uniform radius formation.",
+        "C": "Spring benders actually allow tighter bends by preventing collapse; they support the walls rather than increase radius.",
+        "D": "Springs provide mechanical support during bending but do not eliminate the need for proper angle and length measurements."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "Why should bends be avoided near solder joints in copper installations?",
+      "options": {
+        "A": "Bending changes the copper color",
+        "B": "Heat from soldering can weaken tubing at bend locations",
+        "C": "Solder will flow into bent sections",
+        "D": "Bends are incompatible with solder joints"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color changes are cosmetic and not a structural concern; heat effects on bent material are the critical issue.",
+        "B": "Bending work-hardens copper; subsequent heating during soldering can cause stress relief and potential failure at the bend.",
+        "C": "Solder flows to fill gaps in joints, not along tubing length; flow into bends is not a concern.",
+        "D": "Bends and solder joints are compatible if properly spaced; the concern is heat effect on work-hardened bent material."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "What happens to the wall thickness when tubing is bent?",
+      "options": {
+        "A": "Wall thickness remains uniform throughout the bend",
+        "B": "Outside of bend becomes thinner, inside becomes thicker",
+        "C": "Inside of bend becomes thinner, outside becomes thicker",
+        "D": "Wall thickness increases uniformly"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bending stretches the outside and compresses the inside, necessarily changing wall thickness distribution.",
+        "B": "The outside radius stretches and thins while the inside radius compresses and thickens during bending.",
+        "C": "This reverses the actual effect; stretching thins material while compression thickens it.",
+        "D": "Overall material volume is constant; redistribution occurs with thinning in tension areas and thickening in compression areas."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "When bending PEX tubing, what characteristic allows tight radius bends?",
+      "options": {
+        "A": "PEX is rigid and resists bending",
+        "B": "PEX flexibility and memory allow tight bends without special tools",
+        "C": "PEX must be heated before any bending",
+        "D": "PEX cannot be bent under any circumstances"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "PEX is highly flexible compared to rigid materials; flexibility is one of its primary advantages.",
+        "B": "PEX's flexibility allows tight radius bends by hand, and its memory helps maintain bend shape without permanent deformation.",
+        "C": "PEX bends easily at room temperature; heating may be used for special applications but is not required for normal bending.",
+        "D": "PEX's flexibility is a key feature; it bends easily and is often chosen specifically for this characteristic."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "What tool is used to make precise multiple bends in rigid conduit and tubing?",
+      "options": {
+        "A": "Hammer and anvil",
+        "B": "Hydraulic or mechanical tube bender with degree markings",
+        "C": "Vise grips and pliers",
+        "D": "Cutting torch to heat the bend area"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hammers and anvils produce uncontrolled bends with kinking; precision bending requires specialized tools.",
+        "B": "Hydraulic or mechanical benders with degree markings allow precise, repeatable bends at controlled angles and radii.",
+        "C": "Hand tools cannot apply sufficient controlled force for precision bending of rigid materials without causing damage.",
+        "D": "Heat bending is used for some plastics and thick-wall pipe, but mechanical benders provide better control and consistency."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "Why should you avoid over-bending and then bending back to correct the angle?",
+      "options": {
+        "A": "It wastes time only",
+        "B": "Work hardening and fatigue from multiple bends can cause cracking",
+        "C": "The tubing will become permanently discolored",
+        "D": "Multiple bends improve tubing strength"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While time is wasted, the critical issue is material damage from repeated stress cycles.",
+        "B": "Each bending operation work-hardens the material; reversing bends creates fatigue that can lead to cracking and failure.",
+        "C": "Discoloration may occur but is cosmetic; structural damage from fatigue is the serious concern.",
+        "D": "Multiple bends weaken material through work hardening and fatigue; they do not improve strength."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "What is the maximum number of 90-degree bends typically allowed between pull points in continuous tubing runs?",
+      "options": {
+        "A": "One bend total",
+        "B": "Two 90-degree bends (180 degrees total)",
+        "C": "Four 90-degree bends (360 degrees total)",
+        "D": "Unlimited bends are acceptable"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "One bend is overly restrictive; multiple bends are acceptable within limits to maintain reasonable pulling force.",
+        "B": "Two 90-degree bends are acceptable but not the maximum; the limit is typically higher.",
+        "C": "Four 90-degree bends (360 degrees total) is typically the maximum to maintain reasonable pulling forces and prevent tubing damage.",
+        "D": "Excessive bends create too much friction for pulling wires or cleaning; practical limits exist based on pulling forces."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "When bending aluminum tubing, what special consideration is required?",
+      "options": {
+        "A": "Aluminum cannot be bent under any circumstances",
+        "B": "Aluminum is softer than copper and requires careful support to prevent collapse",
+        "C": "Aluminum is harder than steel and needs no special care",
+        "D": "Aluminum must be heated red-hot before bending"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Aluminum tubing can be bent successfully with proper techniques and tools; it requires more care than some materials.",
+        "B": "Aluminum's softness makes it prone to collapse during bending; proper mandrels or fillers are essential for quality bends.",
+        "C": "Aluminum is actually softer than many materials and requires more support during bending to prevent collapse.",
+        "D": "Aluminum does not require red-hot heating for bending; it can be bent cold with proper support tools."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "What is the purpose of annealing copper tubing before bending?",
+      "options": {
+        "A": "To make the copper harder and stronger",
+        "B": "To soften work-hardened copper, making it easier to bend",
+        "C": "To change the copper color",
+        "D": "To seal microscopic cracks"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Annealing is a softening process that reduces hardness; hardening requires different heat treatment processes.",
+        "B": "Annealing heats and slowly cools copper to relieve work hardening, making it softer and easier to bend without cracking.",
+        "C": "While heating may cause discoloration, this is a side effect; the purpose is to soften the material.",
+        "D": "Annealing affects material structure and hardness; it does not repair existing cracks or seal them."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.03 Bends tube, tubing and pipe",
+      "question": "Why must the proper size tube bender die be used for each tubing size?",
+      "options": {
+        "A": "To match tubing color to die color",
+        "B": "To ensure correct bend radius and prevent collapse or wrinkling",
+        "C": "To make bending faster",
+        "D": "Dies are interchangeable for all sizes"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color coding may help organization but die size determines bend quality; matching colors is not a functional requirement.",
+        "B": "Proper die size provides correct radius support, prevents collapse on the inside radius, and controls stretching on the outside.",
+        "C": "While proper dies may improve efficiency, their primary purpose is producing quality bends without defects.",
+        "D": "Dies are size-specific; using incorrect dies produces poor quality bends with collapse, wrinkling, or excessive thinning."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "What must be done to copper tubing before soldering?",
+      "options": {
+        "A": "Paint the exterior surface",
+        "B": "Clean and polish mating surfaces to remove oxides and contamination",
+        "C": "Roughen the surface with a file",
+        "D": "Apply oil to the joint area"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint prevents solder bonding; surfaces must be clean bare metal for proper capillary action and bonding.",
+        "B": "Cleaning removes oxides and contamination that prevent solder wetting and bonding; bright, clean copper is essential.",
+        "C": "Polishing smooths surfaces; roughening creates gaps that prevent proper capillary action in solder joints.",
+        "D": "Oil and grease prevent solder bonding; surfaces must be completely clean and free of all contamination."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "What is the purpose of applying flux to copper joints before soldering?",
+      "options": {
+        "A": "To cool the joint after heating",
+        "B": "To remove and prevent oxide formation, allowing solder to wet surfaces",
+        "C": "To increase the melting point of solder",
+        "D": "To provide structural strength to the joint"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flux is applied before heating to prepare surfaces; cooling occurs naturally after soldering is complete.",
+        "B": "Flux chemically cleans surfaces, prevents new oxide formation during heating, and allows solder to wet and bond properly.",
+        "C": "Flux does not change solder melting point; it prepares surfaces for bonding at the solder's normal melting temperature.",
+        "D": "Solder provides joint strength; flux is a chemical cleaner that enables proper solder bonding but adds no strength itself."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "When preparing threaded pipe connections, what must be applied to the threads?",
+      "options": {
+        "A": "Nothing is required",
+        "B": "Thread sealant compound or PTFE tape",
+        "C": "Grease or oil only",
+        "D": "Rubber cement"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Threads alone do not seal; spiral leak paths exist between thread roots and crests requiring sealant.",
+        "B": "Thread sealant or PTFE tape fills spiral leak paths in threads, creating pressure-tight, leak-free joints.",
+        "C": "Grease and oil may lubricate but do not seal; proper thread sealants are required for pressure-tight joints.",
+        "D": "Rubber cement is not a pipe thread sealant; approved thread compounds or PTFE tape are required."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "How should PTFE tape be applied to pipe threads?",
+      "options": {
+        "A": "Counter-clockwise when viewing the end of the pipe",
+        "B": "Clockwise when viewing the end of the pipe, in the direction of thread engagement",
+        "C": "Direction does not matter",
+        "D": "Wrapped around the outside of the fitting"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Counter-clockwise application causes tape to unwrap and bunch during fitting engagement, preventing proper sealing.",
+        "B": "Clockwise application (viewing from the end) ensures tape tightens and embeds into threads during clockwise fitting installation.",
+        "C": "Direction is critical; incorrect application causes tape to unwrap and fail to seal properly.",
+        "D": "Tape must be applied to male threads that enter the fitting; external wrapping provides no sealing function."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "What preparation is required for plastic pipe before solvent welding?",
+      "options": {
+        "A": "No preparation is necessary",
+        "B": "Clean, deburr, and apply primer to pipe and fitting surfaces",
+        "C": "Sand the surfaces until rough",
+        "D": "Heat the pipe until soft"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper preparation is essential for strong solvent weld joints; contaminants and lack of primer cause joint failure.",
+        "B": "Cleaning removes contamination, deburring prevents stress concentration, and primer softens surfaces for proper solvent welding.",
+        "C": "Surfaces should be smooth after deburring; excessive roughening creates voids rather than improving bonding.",
+        "D": "Heat softening is not required or desirable; solvent cement chemically softens the joint area during application."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "Why must compression fittings not be over-tightened?",
+      "options": {
+        "A": "Over-tightening improves the seal",
+        "B": "Over-tightening can crack the ferrule or fitting body, causing leaks",
+        "C": "Over-tightening makes disassembly easier",
+        "D": "Compression fittings should be tightened as much as possible"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper tightening compresses the ferrule adequately; excessive force damages components rather than improving sealing.",
+        "B": "Over-tightening cracks ferrules, distorts tubing, or cracks fitting bodies, creating leaks rather than preventing them.",
+        "C": "Over-tightening makes disassembly more difficult and damages ferrules making reuse impossible.",
+        "D": "Manufacturer specifications provide proper tightening torque; exceeding this damages fittings and causes leaks."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "What is the correct insertion depth for copper tubing into a solder fitting socket?",
+      "options": {
+        "A": "Halfway into the socket depth",
+        "B": "Fully inserted to the socket stop",
+        "C": "Just barely into the socket",
+        "D": "Insertion depth is not important"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Partial insertion reduces joint strength and creates areas where solder cannot flow, causing weak spots and leaks.",
+        "B": "Full insertion ensures maximum joint overlap, proper capillary gap, and complete solder coverage for strength and leak prevention.",
+        "C": "Minimal insertion provides inadequate joint area and strength; proper engagement requires full socket depth.",
+        "D": "Insertion depth directly affects joint strength and reliability; full insertion is critical for proper joint performance."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "When preparing cast iron pipe for no-hub coupling installation, what is required?",
+      "options": {
+        "A": "Thread the pipe ends",
+        "B": "Clean pipe ends and ensure they are cut square and deburred",
+        "C": "Heat the pipe ends until red hot",
+        "D": "Apply solder to the pipe surface"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cast iron for no-hub applications is not threaded; no-hub couplings seal against the smooth pipe exterior.",
+        "B": "Clean, square, deburred pipe ends ensure proper gasket sealing in no-hub couplings and correct pipe alignment.",
+        "C": "Heating is not required for no-hub couplings; gaskets seal at ambient temperature against clean pipe surfaces.",
+        "D": "Solder is not used with cast iron no-hub couplings; elastomeric gaskets provide the seal."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "What must be verified before making a threaded connection?",
+      "options": {
+        "A": "That threads are undamaged and properly formed",
+        "B": "That the pipe has been painted",
+        "C": "That the pipe is the newest available",
+        "D": "The manufacturing date of the pipe"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Damaged or improperly formed threads cannot create leak-free joints regardless of sealant used; inspection prevents leaks.",
+        "B": "Paint must be removed from thread areas; painted threads prevent proper engagement and sealing.",
+        "C": "Age is irrelevant if materials meet specifications and are in good condition; thread quality is the critical factor.",
+        "D": "Manufacturing date does not affect joint quality; thread condition and proper sealant application are the critical factors."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "Why should excess flux be removed from copper joints after soldering?",
+      "options": {
+        "A": "Flux residue is corrosive and can cause long-term damage",
+        "B": "Flux residue improves joint strength",
+        "C": "Flux residue is only cosmetic",
+        "D": "Flux removal is never necessary"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flux residue, especially from acid-based fluxes, is corrosive and can cause pitting and leaks over time if not removed.",
+        "B": "Flux aids bonding during soldering but has no structural function after completion; residue is harmful, not beneficial.",
+        "C": "While appearance is affected, the critical concern is preventing corrosion from acidic flux residue.",
+        "D": "Flux removal is essential maintenance that prevents long-term corrosion damage, especially with acid-based fluxes."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "What is the purpose of chamfering the end of plastic pipe before assembly?",
+      "options": {
+        "A": "To make the pipe look more professional",
+        "B": "To ease insertion and prevent gasket or O-ring damage during assembly",
+        "C": "To increase the pipe's pressure rating",
+        "D": "To reduce pipe weight"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While chamfering may improve appearance, its functional purpose is protecting seals during assembly.",
+        "B": "Chamfering creates a smooth entry that prevents sharp edges from cutting or displacing gaskets and O-rings during insertion.",
+        "C": "Pressure rating is determined by material and wall thickness; chamfering affects assembly ease but not pressure capacity.",
+        "D": "Material removal from chamfering is negligible; seal protection during assembly is the purpose."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Prepares tube, tubing and pipe",
+      "subtask": "B-6.04 Prepares tube, tubing and pipe connections",
+      "question": "When preparing flared connections for copper tubing, what angle is standard for flare fittings?",
+      "options": {
+        "A": "30 degrees",
+        "B": "45 degrees",
+        "C": "60 degrees",
+        "D": "90 degrees"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "30-degree flares are too shallow and would not match standard flare fittings, preventing proper sealing.",
+        "B": "Standard flare fittings use 45-degree angles to match the mating surfaces and create proper metal-to-metal seals.",
+        "C": "60-degree flares are too steep for standard fittings and would not mate properly with 45-degree fitting cones.",
+        "D": "90-degree bends are perpendicular; flare angles are acute angles that create conical sealing surfaces."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "What temperature should copper reach before applying solder to a joint?",
+      "options": {
+        "A": "100°C (212°F)",
+        "B": "The solder's melting temperature, indicated by solder flowing when touched to the joint",
+        "C": "500°C (932°F)",
+        "D": "Red hot, glowing temperature"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "100°C is too low; solder melts at much higher temperatures (typically 180-425°C depending on type).",
+        "B": "The joint should be heated until it melts solder on contact, indicating proper temperature for capillary flow and bonding.",
+        "C": "500°C is excessive for most solders and may overheat the joint, damaging flux and preventing proper bonding.",
+        "D": "Red hot temperature is far too high and will burn off flux, oxidize copper, and prevent proper solder bonding."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "What causes a cold solder joint in copper piping?",
+      "options": {
+        "A": "Using too much solder",
+        "B": "Insufficient heating, causing poor solder flow and weak bonding",
+        "C": "Excessive heating time",
+        "D": "Using the wrong flux type"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excess solder may be wasteful but does not create cold joints; insufficient temperature is the cause.",
+        "B": "Insufficient heating prevents solder from flowing properly into the joint through capillary action, creating weak, porous joints.",
+        "C": "Excessive heating burns flux and oxidizes surfaces but creates a different problem than classic cold joints from under-heating.",
+        "D": "Wrong flux may affect cleaning but cold joints specifically result from insufficient temperature for proper solder flow."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "Where should the flame be directed when soldering a copper joint?",
+      "options": {
+        "A": "Directly on the solder",
+        "B": "On the fitting and pipe, moving flame to heat evenly",
+        "C": "Only on the pipe, not the fitting",
+        "D": "On the flux container"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Heating solder directly melts it before the joint reaches proper temperature, preventing capillary flow into the joint.",
+        "B": "Heating both components evenly ensures proper joint temperature throughout, allowing complete solder penetration via capillary action.",
+        "C": "Heating only the pipe creates uneven temperatures; the fitting must also reach solder melting temperature for complete joint filling.",
+        "D": "Flux containers should be kept away from flames; heating work pieces, not materials, is proper technique."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "How can you tell when a solder joint is properly filled?",
+      "options": {
+        "A": "Solder appears as a complete ring around the joint",
+        "B": "The joint changes color",
+        "C": "Smoke stops rising from the flux",
+        "D": "The fitting becomes loose"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "A complete ring of solder around the joint indicates solder has flowed through the entire capillary space, ensuring full coverage.",
+        "B": "Color change indicates heating but does not confirm solder has filled the joint completely through capillary action.",
+        "C": "Smoke indicates flux activity but does not confirm complete solder penetration throughout the joint gap.",
+        "D": "Properly soldered joints become more secure; looseness indicates joint failure, not proper completion."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "What type of solder is required for potable water systems?",
+      "options": {
+        "A": "50/50 tin-lead solder",
+        "B": "Lead-free solder meeting NSF/ANSI 61 standards",
+        "C": "Any solder that melts easily",
+        "D": "Silver solder only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lead-based solders are prohibited in potable water systems due to lead leaching into drinking water.",
+        "B": "Lead-free solders meeting NSF/ANSI 61 (typically 95/5 tin-antimony or similar) are required to prevent water contamination.",
+        "C": "Ease of melting is not the criterion; lead-free composition meeting health standards is required for drinking water.",
+        "D": "While silver solder can be used, other lead-free compositions meeting NSF/ANSI 61 are also acceptable and more common."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "What is the advantage of using press fittings for copper tubing?",
+      "options": {
+        "A": "They are less expensive than solder fittings",
+        "B": "No flame or heat required, allowing safe installation near combustibles",
+        "C": "They work only with soft copper",
+        "D": "They require more time than soldering"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Press fittings are typically more expensive than solder fittings; their advantage is flame-free installation.",
+        "B": "Press fittings require only a pressing tool, eliminating hot work permits and fire risks near sensitive areas.",
+        "C": "Press fittings work with both rigid and soft copper; material hardness is not a limiting factor.",
+        "D": "Press fittings are typically faster than soldering once the press tool is available and eliminates heat-related delays."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "Why must moisture be removed from copper tubing before soldering?",
+      "options": {
+        "A": "Moisture improves solder flow",
+        "B": "Steam formation prevents proper heating and solder bonding",
+        "C": "Moisture is beneficial for the soldering process",
+        "D": "Moisture affects only the exterior appearance"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Moisture interferes with soldering by preventing proper temperature and causing steam; it does not aid solder flow.",
+        "B": "Water turns to steam, cooling the joint and preventing proper temperature for solder flow and bonding.",
+        "C": "Moisture is detrimental to soldering, preventing proper heat transfer and creating steam that disrupts solder application.",
+        "D": "Moisture affects joint quality fundamentally by preventing proper heating and solder flow, not just appearance."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "What happens if too much heat is applied when soldering copper?",
+      "options": {
+        "A": "The joint becomes stronger",
+        "B": "Flux burns away and copper oxidizes, preventing proper solder bonding",
+        "C": "Solder flows better",
+        "D": "The joint cools faster"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excessive heat damages flux protection and oxidizes copper, creating weak joints rather than strong ones.",
+        "B": "Overheating burns flux, allowing oxidation that prevents solder wetting and bonding, resulting in weak or failed joints.",
+        "C": "Proper temperature aids flow; excessive temperature destroys flux and oxidizes surfaces, preventing proper solder bonding.",
+        "D": "Overheated joints take longer to cool due to thermal mass; excessive heat does not accelerate cooling."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "How should a compression fitting be assembled on copper tubing?",
+      "options": {
+        "A": "Insert tubing, then tighten nut to compress ferrule against tubing",
+        "B": "Solder the ferrule to the tubing first",
+        "C": "Use only hand pressure, no tools",
+        "D": "Glue the ferrule in place"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Compression fittings work by nut tightening that compresses the ferrule, creating a seal against the tubing exterior.",
+        "B": "Ferrules are mechanical sealing devices; soldering defeats their purpose and prevents proper compression action.",
+        "C": "Proper tightening requires wrenches to compress the ferrule adequately; hand pressure is insufficient for leak-free seals.",
+        "D": "Adhesives are not used in compression fittings; mechanical compression of the ferrule creates the seal."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "What is brazing and when is it used for copper connections?",
+      "options": {
+        "A": "Brazing is another name for soldering",
+        "B": "Brazing uses higher temperature filler metals (above 450°C) for stronger joints in high-stress applications",
+        "C": "Brazing is only for steel pipe",
+        "D": "Brazing uses plastic adhesives"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Brazing and soldering are distinct processes; brazing uses higher temperatures and produces stronger joints.",
+        "B": "Brazing uses filler metals melting above 450°C, creating stronger joints for high-pressure, high-temperature, or stress applications.",
+        "C": "Brazing works on various metals including copper, bronze, and steel; it is not limited to steel applications.",
+        "D": "Brazing is a metal joining process using high-temperature metal filler; it does not involve plastic or adhesives."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "Why should copper joints be wiped clean while solder is still molten?",
+      "options": {
+        "A": "To cool the joint faster",
+        "B": "To remove excess solder and create a neat fillet",
+        "C": "To test if solder has hardened",
+        "D": "To apply additional flux"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wiping is for appearance and removing excess; rapid cooling can cause stress and should be avoided.",
+        "B": "Wiping molten solder creates a smooth fillet, removes excess, and improves appearance without affecting joint strength.",
+        "C": "Molten solder is obviously not hardened; wiping occurs while solder is still liquid to shape the fillet.",
+        "D": "Flux is applied before heating; wiping occurs after soldering to shape the cooled solder fillet."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.01 Joins copper tube, tubing and pipe",
+      "question": "What safety precaution is essential when soldering copper indoors?",
+      "options": {
+        "A": "Keep a fire extinguisher nearby and ensure adequate ventilation",
+        "B": "Work only in complete darkness",
+        "C": "Flood the floor with water",
+        "D": "Seal all doors and windows"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Fire extinguishers provide emergency protection, while ventilation removes harmful flux fumes and prevents gas accumulation.",
+        "B": "Good lighting is essential for quality work and safety; darkness increases accident and fire risks.",
+        "C": "Water on floors creates slip hazards and is unnecessary; proper fire watch and extinguishers are appropriate precautions.",
+        "D": "Sealing spaces traps harmful fumes; adequate ventilation is required to remove flux gases and combustion products."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "What is solvent welding in plastic pipe joining?",
+      "options": {
+        "A": "Using heat to melt pipes together",
+        "B": "Chemical process where solvent softens plastic surfaces allowing molecular bonding",
+        "C": "Mechanical threading of plastic pipe",
+        "D": "Using metal solder on plastic"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Heat fusion is a different process; solvent welding uses chemicals, not heat, to soften and bond plastic.",
+        "B": "Solvent cement chemically softens mating surfaces, allowing plastic molecules to intermingle and create a monolithic bond.",
+        "C": "Threading is a mechanical joint; solvent welding creates chemical bonds between plastic surfaces.",
+        "D": "Metal solders do not work on plastics; solvent welding is a plastic-specific chemical bonding process."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "Why must primer be applied before solvent cement on PVC and CPVC pipe?",
+      "options": {
+        "A": "Primer changes the pipe color only",
+        "B": "Primer cleans and begins surface softening for better cement penetration and bonding",
+        "C": "Primer is optional for all applications",
+        "D": "Primer cools the pipe"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While primer colors surfaces for inspection, its primary function is cleaning and preparing surfaces for bonding.",
+        "B": "Primer removes contaminants, begins chemical softening, and improves solvent cement penetration for stronger joints.",
+        "C": "Primer is required by most codes for PVC and CPVC pressure applications; it is not optional.",
+        "D": "Primer is a chemical surface treatment that prepares bonding surfaces; it does not affect temperature."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "How long should a solvent-welded PVC joint be held together after assembly?",
+      "options": {
+        "A": "No holding time is necessary",
+        "B": "10-30 seconds to allow initial bond formation",
+        "C": "5 minutes minimum",
+        "D": "Until the cement dries completely (several hours)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Joints must be held to prevent separation during initial softening; immediate movement can break developing bonds.",
+        "B": "Brief holding (10-30 seconds) maintains alignment during initial bonding; joints should not be disturbed for longer cure times.",
+        "C": "Five minutes of manual holding is impractical; initial set occurs in seconds, though full cure takes longer.",
+        "D": "Joints need brief holding for initial set; full cure occurs without manual holding over hours, but early holding prevents separation."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "What ambient temperature range is acceptable for solvent welding plastic pipe?",
+      "options": {
+        "A": "Any temperature is acceptable",
+        "B": "5°C to 40°C (40°F to 105°F) for proper cement cure",
+        "C": "Below -20°C (-4°F)",
+        "D": "Above 50°C (122°F)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Temperature significantly affects solvent cement cure rate and quality; extreme temperatures compromise bonding.",
+        "B": "Moderate temperatures allow proper cement flow and cure; extremes prevent adequate softening or cause overly rapid evaporation.",
+        "C": "Cold temperatures slow or prevent proper cement cure and may freeze cement; joints will not bond properly.",
+        "D": "High temperatures cause overly rapid solvent evaporation before proper bonding occurs, resulting in weak joints."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "What indicates a properly made solvent weld joint?",
+      "options": {
+        "A": "No cement visible at the joint",
+        "B": "Even bead of cement around entire joint circumference",
+        "C": "Excessive cement dripping from the joint",
+        "D": "Loose fitting after assembly"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Complete absence of visible cement may indicate insufficient application; a small even bead confirms adequate coverage.",
+        "B": "An even cement bead around the joint indicates proper cement quantity and confirms the pipe was fully inserted.",
+        "C": "Excessive cement waste material and may drip into the pipe, while moderate beading confirms proper application.",
+        "D": "Loose fittings indicate improper assembly or damaged components; properly cemented joints are rigid."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "How should PEX tubing be connected using mechanical fittings?",
+      "options": {
+        "A": "Solvent welding like PVC",
+        "B": "Using crimp rings or expansion fittings with proper tools",
+        "C": "Threading like steel pipe",
+        "D": "Soldering like copper"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "PEX cannot be solvent welded; it requires mechanical connection methods like crimping or expansion.",
+        "B": "PEX uses crimp rings compressed with crimp tools or expansion fittings with expansion tools to create secure connections.",
+        "C": "PEX is not threaded; its flexibility and material properties require mechanical compression or expansion fittings.",
+        "D": "PEX cannot be soldered as it melts at low temperatures; mechanical fittings are required."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "What must be verified when using crimp fittings on PEX?",
+      "options": {
+        "A": "That the crimp is round and within tolerance using a go/no-go gauge",
+        "B": "That the fitting is painted",
+        "C": "That crimp rings are rusty",
+        "D": "That connections are loose"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Go/no-go gauges verify crimp dimensions are correct; improper crimps are too tight (causing leaks) or too loose (allowing separation).",
+        "B": "Painting is not relevant to crimp fitting function; proper crimp dimensions ensure leak-free connections.",
+        "C": "Rust indicates corrosion that weakens crimp rings; only corrosion-resistant rings should be used.",
+        "D": "Loose connections indicate improper crimping or assembly; correctly crimped PEX connections are secure and leak-free."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "Why is proper pipe insertion depth critical in solvent-welded joints?",
+      "options": {
+        "A": "Appearance only",
+        "B": "Full insertion ensures adequate bonding area and prevents weak spots",
+        "C": "Insertion depth does not matter",
+        "D": "Shallow insertion is preferred"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While appearance may indicate proper assembly, the critical concern is achieving adequate bonding surface area.",
+        "B": "Full socket depth insertion maximizes bonding area and ensures uniform cement coverage for strong, leak-free joints.",
+        "C": "Insertion depth directly affects bond area and strength; incomplete insertion creates weak joints prone to failure.",
+        "D": "Shallow insertion reduces bonding area, creating weak joints that may leak or fail under pressure."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "What is the cure time for solvent-welded PVC before pressure testing?",
+      "options": {
+        "A": "Immediate testing is acceptable",
+        "B": "Minimum 15 minutes, preferably longer based on temperature and pipe size",
+        "C": "One year",
+        "D": "Testing is never required"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Immediate testing does not allow cement to cure adequately; premature pressure can break developing bonds.",
+        "B": "Minimum cure time allows solvent to evaporate and bonding to develop; larger pipes and lower temperatures require longer cure times.",
+        "C": "One year is excessive; adequate cure for testing occurs in hours to days depending on conditions.",
+        "D": "Pressure testing is required to verify joint integrity; cure time must be respected before testing."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "What causes solvent cement to fail to bond properly?",
+      "options": {
+        "A": "Moisture, oil, or dirt on surfaces preventing chemical bonding",
+        "B": "Using too much cement",
+        "C": "Ambient humidity",
+        "D": "Proper surface preparation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Contamination prevents solvent from softening plastic and creating molecular bonds; clean surfaces are essential.",
+        "B": "While excess cement is wasteful, inadequate surface preparation or contamination, not excess cement, causes bond failure.",
+        "C": "Moderate humidity does not prevent bonding; surface contamination and extreme temperatures are the primary concerns.",
+        "D": "Proper surface preparation promotes bonding; contaminated or improperly prepared surfaces cause bond failure."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "Why must expansion fittings for PEX use an expansion tool before assembly?",
+      "options": {
+        "A": "To make the fitting smaller",
+        "B": "To expand the PEX tubing so it fits over the fitting, then contracts for a tight seal",
+        "C": "To heat the fitting",
+        "D": "To thread the PEX"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Expansion tools enlarge PEX tubing, not fittings; the tubing expands to accept fittings then contracts.",
+        "B": "Expansion tools enlarge PEX tubing diameter; PEX memory causes it to contract around fittings, creating secure connections.",
+        "C": "Some expansion tools use heat, but the purpose is expanding tubing to fit over fittings, not heating fittings directly.",
+        "D": "PEX is not threaded; expansion fittings rely on PEX memory to contract around fittings after expansion."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.02 Joins plastic tube, tubing and pipe",
+      "question": "What type of cement is used for ABS plastic pipe?",
+      "options": {
+        "A": "PVC cement works for all plastics",
+        "B": "ABS-specific solvent cement formulated for ABS plastic",
+        "C": "Epoxy adhesive only",
+        "D": "Contact cement"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Different plastics require specific cement formulations; PVC cement may not properly bond ABS.",
+        "B": "ABS cement is formulated to dissolve and bond ABS plastic; using incorrect cement results in weak or failed joints.",
+        "C": "While epoxies exist for some applications, solvent cement specific to ABS is the standard joining method.",
+        "D": "Contact cement is for surface bonding of materials; solvent cement creates chemical bonds in plastic pipe."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "How many threads should be engaged in a proper threaded steel pipe joint?",
+      "options": {
+        "A": "One or two threads only",
+        "B": "Typically 4-6 threads for structural integrity and sealing",
+        "C": "All available threads on the pipe",
+        "D": "Thread engagement is not important"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "One or two threads provide insufficient engagement for strength or sealing; joints will leak and fail.",
+        "B": "4-6 threads (approximately 1/2 to 3/4 inch engagement) provide adequate strength and sealing for most applications.",
+        "C": "Complete thread engagement is excessive and indicates measurement errors; proper engagement leaves 1-2 threads visible.",
+        "D": "Thread engagement is critical for both mechanical strength and leak prevention in threaded pipe systems."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "What indicates a properly made threaded joint?",
+      "options": {
+        "A": "Pipe threads stripped during assembly",
+        "B": "Proper tightness with 1-2 threads visible past the fitting",
+        "C": "Fitting spins freely on threads",
+        "D": "Excessive thread sealant oozing from joint"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stripped threads indicate over-tightening or defective threads; proper joints maintain thread integrity.",
+        "B": "Properly assembled joints are tight with 1-2 threads visible, indicating correct engagement without over-tightening.",
+        "C": "Free spinning indicates insufficient tightening or damaged threads; proper joints are snug and sealed.",
+        "D": "Moderate sealant squeeze-out is normal, but excessive amounts indicate over-application rather than confirming proper assembly."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "What is the purpose of using two pipe wrenches when assembling threaded pipe?",
+      "options": {
+        "A": "To work faster",
+        "B": "One wrench tightens while the other holds back-up to prevent unintended rotation",
+        "C": "To provide more leverage only",
+        "D": "Two wrenches are never needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While two wrenches may be efficient, their primary purpose is preventing unwanted rotation of connected components.",
+        "B": "Back-up wrenches prevent rotation that could loosen previously assembled joints or damage connected equipment.",
+        "C": "While two wrenches provide control, their critical function is maintaining already-assembled joints while adding new connections.",
+        "D": "Back-up wrenches are essential when tightening fittings on assembled systems to prevent disturbing existing joints."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "What preparation is required for welding steel pipe?",
+      "options": {
+        "A": "No preparation needed",
+        "B": "Clean, bevel, and align pipe ends properly",
+        "C": "Paint the pipe before welding",
+        "D": "Thread the pipe first"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Welding requires careful preparation to ensure complete fusion, proper penetration, and structural integrity.",
+        "B": "Cleaning removes contamination, beveling allows weld penetration, and alignment ensures proper fit-up for quality welds.",
+        "C": "Paint must be removed before welding; coating contamination creates poor welds and releases toxic fumes.",
+        "D": "Threading and welding are separate joining methods; pipe is not threaded when welded joints are used."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "What fitting type is used for connecting pipes of different sizes in threaded systems?",
+      "options": {
+        "A": "Coupling",
+        "B": "Reducer or bushing",
+        "C": "Union",
+        "D": "Cap"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Couplings join pipes of the same size; reducers are needed for size changes.",
+        "B": "Reducers (gradual transition) and bushings (abrupt transition) connect different pipe sizes in threaded systems.",
+        "C": "Unions allow disassembly but do not change pipe size; reducers or bushings are needed for size transitions.",
+        "D": "Caps close pipe ends and do not facilitate connections between pipes of different sizes."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "Why are unions used in threaded pipe systems?",
+      "options": {
+        "A": "To increase pipe diameter",
+        "B": "To allow disassembly without cutting pipe or unthreading entire runs",
+        "C": "To reduce flow velocity",
+        "D": "To create permanent joints"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unions connect same-size pipes; reducers or bushings are used for size changes.",
+        "B": "Unions provide removable connections for maintenance, allowing systems to be disassembled without disturbing other joints.",
+        "C": "Unions do not significantly affect flow; their purpose is facilitating disassembly and reassembly.",
+        "D": "Unions are specifically designed for temporary disassembly; permanent joints use couplings or welding."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "What must be done to prevent galvanic corrosion when joining steel pipe to copper?",
+      "options": {
+        "A": "Paint both materials",
+        "B": "Use dielectric unions or insulators to electrically isolate dissimilar metals",
+        "C": "Use excessive thread sealant",
+        "D": "Galvanic corrosion is not a concern"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint may slow corrosion but does not prevent galvanic action; electrical isolation is required.",
+        "B": "Dielectric unions with insulating gaskets prevent electrical current flow between dissimilar metals, eliminating galvanic corrosion.",
+        "C": "Thread sealant provides leak prevention but does not insulate metals electrically or prevent galvanic corrosion.",
+        "D": "Galvanic corrosion actively occurs when dissimilar metals contact in the presence of electrolyte; isolation is essential."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "What is the advantage of grooved mechanical couplings for steel pipe?",
+      "options": {
+        "A": "Lower pressure ratings",
+        "B": "Fast installation without threading or welding, with some flexibility for movement",
+        "C": "Requires extensive surface preparation",
+        "D": "Cannot be disassembled"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Grooved couplings are available in various pressure ratings; they do not inherently have lower ratings than threaded joints.",
+        "B": "Grooved couplings install quickly with basic tools, require no threading or welding, and allow some angular deflection.",
+        "C": "Grooved couplings require minimal surface preparation compared to welding; pipe ends need grooving but not extensive prep.",
+        "D": "Grooved couplings are designed for disassembly; removal requires only unbolting for maintenance access."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "What issue can occur if excessive force is used when tightening threaded steel pipe?",
+      "options": {
+        "A": "Threads can be stripped or fittings cracked",
+        "B": "The joint becomes easier to disassemble",
+        "C": "Thread sealant works better",
+        "D": "Pipe becomes more flexible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Excessive torque strips threads, cracks fittings (especially cast iron), and damages joints rather than improving sealing.",
+        "B": "Over-tightening makes disassembly more difficult and can gall threads, potentially requiring cutting.",
+        "C": "Proper torque optimizes sealant performance; excessive force can squeeze out sealant or damage threads.",
+        "D": "Flexibility is a material property; over-tightening damages threads and fittings rather than affecting flexibility."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "Why is black steel pipe often used for gas systems instead of galvanized pipe?",
+      "options": {
+        "A": "Black pipe is less expensive",
+        "B": "Galvanizing can flake internally and cause blockages in gas systems",
+        "C": "Black pipe has higher pressure ratings",
+        "D": "Color preference only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While cost may be a factor, the primary technical reason is preventing zinc flaking in gas applications.",
+        "B": "Galvanized coating can flake off inside pipe, potentially blocking orifices in gas valves and appliances.",
+        "C": "Pressure ratings depend on schedule and size, not coating; both materials are available in equivalent ratings.",
+        "D": "Color indicates coating type; the concern is zinc coating behavior in gas systems, not appearance preference."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "What is the purpose of a pipe flange?",
+      "options": {
+        "A": "To reduce pipe weight",
+        "B": "To provide bolted connections for valves, equipment, and pipes requiring frequent disassembly",
+        "C": "To increase flow velocity",
+        "D": "For decorative purposes"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flanges add weight and material; their purpose is providing removable connections, not weight reduction.",
+        "B": "Flanges create strong, leak-tight connections that can be disassembled for maintenance on valves, equipment, and piping.",
+        "C": "Flanges do not significantly affect flow velocity; they provide mechanical connection capability.",
+        "D": "Flanges serve functional purposes in creating removable pressure-tight connections, not decorative roles."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.03 Joins steel tube, tubing and pipe",
+      "question": "What gasket material is commonly used for flanged steel pipe connections?",
+      "options": {
+        "A": "Notebook paper",
+        "B": "Rubber, fiber, or spiral-wound gaskets depending on service conditions",
+        "C": "Aluminum foil",
+        "D": "Plastic wrap"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paper products lack the strength and chemical resistance required for pressure piping applications.",
+        "B": "Gasket selection depends on pressure, temperature, and media; rubber, fiber, and spiral-wound types suit different conditions.",
+        "C": "Aluminum foil lacks the compressibility, resilience, and conformability required for reliable flange sealing.",
+        "D": "Plastic film cannot withstand pressures, temperatures, or chemical exposure in piping systems."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.04 Joins cast iron pipe",
+      "question": "What is the traditional joining method for hub and spigot cast iron pipe?",
+      "options": {
+        "A": "Threading",
+        "B": "Lead and oakum caulking in the hub",
+        "C": "Soldering",
+        "D": "Gluing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cast iron drainage pipe is typically not threaded; hub and spigot or no-hub methods are standard.",
+        "B": "Traditional joints use oakum packing and molten lead poured and caulked in the hub to seal against the spigot.",
+        "C": "Solder cannot bond to cast iron and lacks the strength required for drainage applications.",
+        "D": "Adhesives are not suitable for cast iron; mechanical packing or modern no-hub couplings are used."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.04 Joins cast iron pipe",
+      "question": "What modern alternative has largely replaced lead and oakum joints?",
+      "options": {
+        "A": "Solvent welding",
+        "B": "No-hub couplings with neoprene gaskets and stainless steel clamps",
+        "C": "Threading all joints",
+        "D": "Wire binding"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Solvent welding is for plastic pipe; cast iron requires mechanical or compression-type joints.",
+        "B": "No-hub couplings with elastomeric gaskets and clamps provide fast, reliable, lead-free joints for cast iron.",
+        "C": "Cast iron drainage pipe is not typically threaded; no-hub and hubbed joints with modern gaskets are standard.",
+        "D": "Wire binding provides no sealing capability; proper compression couplings with gaskets are required."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.04 Joins cast iron pipe",
+      "question": "How should no-hub couplings be installed on cast iron pipe?",
+      "options": {
+        "A": "Position gasket and shield over joint, tighten clamps to specified torque",
+        "B": "Weld the coupling to the pipe",
+        "C": "Use solder to attach the coupling",
+        "D": "Nail the coupling in place"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "No-hub installation requires centering the gasket over the joint, positioning the stainless shield, and torquing clamps properly.",
+        "B": "Welding is not used with no-hub couplings; the system relies on compression of gaskets by clamps.",
+        "C": "Solder does not bond to cast iron and cannot provide the mechanical compression needed for no-hub seals.",
+        "D": "Nails cannot provide the uniform compression force required; torqued clamps compress gaskets properly."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.04 Joins cast iron pipe",
+      "question": "What is the advantage of no-hub couplings over traditional lead joints?",
+      "options": {
+        "A": "No-hub joints are heavier",
+        "B": "Faster installation, no hot work, eliminates lead exposure hazards",
+        "C": "No-hub joints are permanent and cannot be disassembled",
+        "D": "No-hub joints only work on small diameter pipe"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "No-hub couplings are generally lighter than lead joints and easier to handle during installation.",
+        "B": "No-hub couplings install quickly without torches, eliminate lead exposure, and meet modern safety standards.",
+        "C": "No-hub couplings can be disassembled by removing clamps; they provide maintenance access unlike lead joints.",
+        "D": "No-hub couplings are available in all standard cast iron pipe sizes from small to large diameters."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.04 Joins cast iron pipe",
+      "question": "What must be verified before tightening no-hub coupling clamps?",
+      "options": {
+        "A": "That pipe ends are clean, aligned, and gasket is centered on joint",
+        "B": "That the pipe is painted",
+        "C": "That excessive gap exists between pipes",
+        "D": "That the gasket is torn"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Clean aligned pipes with centered gaskets ensure proper sealing; contamination or misalignment causes leaks.",
+        "B": "Paint should be removed from joint areas to ensure proper gasket contact; painted surfaces can prevent sealing.",
+        "C": "Excessive gaps prevent proper gasket compression and sealing; pipes should abut or have minimal gap per specifications.",
+        "D": "Torn or damaged gaskets must be replaced; they cannot seal properly regardless of clamp tightness."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.04 Joins cast iron pipe",
+      "question": "What is the purpose of a rubber gasket compression joint in cast iron soil pipe?",
+      "options": {
+        "A": "To improve appearance only",
+        "B": "Gasket compresses into hub providing flexible, watertight seal",
+        "C": "To make the pipe heavier",
+        "D": "No sealing function"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Gaskets are functional components that create seals; appearance is not their purpose.",
+        "B": "Compression gaskets seated in hubs create flexible watertight seals that accommodate minor movement and misalignment.",
+        "C": "Gaskets add negligible weight; their purpose is creating flexible, reliable seals in hubbed cast iron joints.",
+        "D": "Gasket sealing is the entire purpose of compression joints; they replace lead and oakum for sealing."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.04 Joins cast iron pipe",
+      "question": "Why must cast iron joints allow for some movement?",
+      "options": {
+        "A": "Movement allowance is not necessary",
+        "B": "To accommodate building settlement, thermal expansion, and vibration without cracking",
+        "C": "To make installation easier only",
+        "D": "To reduce material costs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cast iron is rigid and brittle; joints must accommodate movement to prevent fracture from building settling or thermal changes.",
+        "B": "Flexible joints accommodate inevitable building movement, preventing stress concentration and fracture in rigid cast iron.",
+        "C": "While flexible joints may ease installation, their primary purpose is allowing movement after installation.",
+        "D": "Movement allowance is a functional requirement for long-term integrity, not a cost reduction strategy."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.04 Joins cast iron pipe",
+      "question": "What support spacing is typically required for horizontal cast iron pipe?",
+      "options": {
+        "A": "Every 10 meters (30 feet)",
+        "B": "Every 1.5-3 meters (5-10 feet) depending on size",
+        "C": "No support needed due to pipe weight",
+        "D": "Support only at joints"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "10-meter spacing is excessive for cast iron; the pipe's weight and brittleness require closer support spacing.",
+        "B": "Cast iron requires support every 1.5-3 meters depending on diameter to prevent sagging and joint stress.",
+        "C": "Heavy weight makes support more critical, not less; unsupported cast iron sags and stresses joints.",
+        "D": "Supporting only at joints leaves long unsupported spans that will sag and stress connections."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "What joining method is used for stainless steel tubing in sanitary applications?",
+      "options": {
+        "A": "Threading only",
+        "B": "Orbital welding or tri-clamp fittings for smooth, cleanable surfaces",
+        "C": "Solvent welding",
+        "D": "Wire ties"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While threading is possible, sanitary applications typically use welding or clamp fittings to avoid crevices where bacteria can grow.",
+        "B": "Orbital welding creates smooth interior surfaces, while tri-clamp fittings allow disassembly, both meeting sanitary requirements.",
+        "C": "Solvent welding is for plastic pipe; stainless steel requires mechanical or fusion welding methods.",
+        "D": "Wire ties provide no pressure containment or sanitary sealing; proper welding or compression fittings are required."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "What is unique about joining HDPE (high-density polyethylene) pipe?",
+      "options": {
+        "A": "It uses standard PVC cement",
+        "B": "Heat fusion welding melts surfaces together creating monolithic joints",
+        "C": "It requires threading like steel",
+        "D": "It cannot be joined"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "HDPE cannot be solvent welded with PVC cement; it requires heat fusion or mechanical fittings.",
+        "B": "HDPE fusion welding heats mating surfaces to melting point, creating seamless molecular bonds stronger than the pipe.",
+        "C": "HDPE is not threaded for pressure applications; heat fusion or mechanical compression fittings are used.",
+        "D": "HDPE can be joined effectively through heat fusion or mechanical fittings appropriate for its properties."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "What is a press fitting connection for copper or stainless steel?",
+      "options": {
+        "A": "A threaded connection",
+        "B": "Special fitting mechanically pressed onto pipe using hydraulic tools",
+        "C": "A soldered joint",
+        "D": "A glued connection"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Press fittings are not threaded; they use mechanical deformation to create leak-tight seals.",
+        "B": "Press fittings with O-ring seals are mechanically compressed onto pipe using hydraulic press tools, creating permanent connections.",
+        "C": "Press fittings use mechanical compression, not solder; they eliminate hot work and flux.",
+        "D": "Adhesives are not used; mechanical compression of fittings with internal seals creates leak-tight joints."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "Why is proper preparation critical for electrofusion welding of plastic pipe?",
+      "options": {
+        "A": "Preparation is not necessary",
+        "B": "Contamination prevents proper molecular bonding during electrical heating",
+        "C": "Only to improve appearance",
+        "D": "To make the process faster"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Electrofusion requires careful surface preparation; contamination prevents the molecular bonding necessary for leak-free joints.",
+        "B": "Oils, dirt, and oxidation prevent proper molecular bonding during electrofusion; clean prepared surfaces ensure strong joints.",
+        "C": "While appearance may be affected, the critical concern is achieving complete molecular fusion for leak-free pressure-tight joints.",
+        "D": "Proper preparation may take time but ensures successful fusion; shortcuts result in weak or leaking joints."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "What advantage do push-fit fittings offer for copper and plastic pipe?",
+      "options": {
+        "A": "They only work with one pipe size",
+        "B": "No tools, heat, or solvents required - pipe simply pushes into fitting",
+        "C": "They are permanent and cannot be removed",
+        "D": "They require extensive training to use"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Push-fit fittings are available in various sizes compatible with multiple pipe materials and diameters.",
+        "B": "Push-fit fittings use internal grip rings and O-rings, allowing instant connections by simply pushing pipe into the fitting.",
+        "C": "Many push-fit fittings are removable using release tools; they provide convenient disconnection for repairs.",
+        "D": "Push-fit simplicity is their advantage; minimal training is needed compared to soldering or welding."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "What consideration is important when joining different types of plastic pipe?",
+      "options": {
+        "A": "All plastics can be joined with any cement",
+        "B": "Transition fittings or mechanical couplings compatible with both materials must be used",
+        "C": "Plastic pipes cannot be joined to each other",
+        "D": "Color is the only consideration"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Different plastics require specific cements; not all solvent cements work with all plastic types.",
+        "B": "Different plastics may require transition fittings, mechanical connections, or universal cements specifically approved for multi-material use.",
+        "C": "Plastics can be joined using appropriate transition methods including mechanical couplings and approved cement systems.",
+        "D": "Material compatibility, not color, determines appropriate joining methods; chemical compatibility is critical."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "What is a flanged connection used for in specialized piping?",
+      "options": {
+        "A": "To permanently weld pipes together",
+        "B": "To create bolted joints for valves, equipment, and pipes requiring periodic disassembly",
+        "C": "For decorative purposes only",
+        "D": "To reduce pipe weight"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flanges create removable bolted connections, not permanent welds; they enable disassembly for maintenance.",
+        "B": "Flanged connections allow equipment removal for maintenance, inspection, or replacement without cutting pipe.",
+        "C": "Flanges serve critical functional roles in creating pressure-tight removable connections, not decorative purposes.",
+        "D": "Flanges add weight and material; their purpose is providing removable connections, not weight reduction."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "Why must specialized gaskets be used with corrosive chemical piping?",
+      "options": {
+        "A": "For appearance only",
+        "B": "Standard gaskets may be chemically attacked, causing system leaks and failures",
+        "C": "To increase cost",
+        "D": "Gaskets are not needed with chemicals"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Chemical resistance is a functional safety requirement, not an appearance consideration.",
+        "B": "Incompatible gasket materials dissolve, swell, or degrade when exposed to chemicals, causing dangerous leaks.",
+        "C": "Chemical-compatible gaskets may cost more but are required for safety and system integrity, not to increase cost.",
+        "D": "Chemical systems require gaskets compatible with the specific chemicals; material selection is critical for safety."
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "What is butt fusion welding used for in plastic pipe installation?",
+      "options": {
+        "A": "Only for small diameter pipes",
+        "B": "Joining large diameter thermoplastic pipes by heating and pressing ends together",
+        "C": "For metal pipe only",
+        "D": "It is never used in plumbing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Butt fusion is particularly common for larger diameter pipes where its strength advantages and efficiency are significant.",
+        "B": "Butt fusion heats pipe ends to melting point, then presses them together under controlled pressure, creating strong seamless joints.",
+        "C": "Butt fusion is specifically for thermoplastic materials like HDPE and polypropylene, not metal.",
+        "D": "Butt fusion is widely used for water mains, industrial piping, and geothermal installations."
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "What determines the appropriate torque for bolted flange connections?",
+      "options": {
+        "A": "Personal preference",
+        "B": "Flange size, pressure rating, gasket type, and manufacturer specifications",
+        "C": "Tighten as much as possible always",
+        "D": "Torque is not important"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Torque specifications are engineering requirements based on materials and conditions, not personal judgment.",
+        "B": "Proper torque depends on size, rating, and gasket material; specifications ensure adequate sealing without damage.",
+        "C": "Over-torquing crushes gaskets, warps flanges, and can break bolts; proper specified torque is essential.",
+        "D": "Correct torque is critical for creating uniform gasket compression and leak-free joints without damage."
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "What safety consideration is important when working with glass or lined pipe?",
+      "options": {
+        "A": "No special considerations needed",
+        "B": "Extreme care to prevent scratches and impacts that could cause catastrophic failure",
+        "C": "These materials are indestructible",
+        "D": "Only appearance matters"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Glass and lined pipes require special handling due to brittleness and sensitivity to mechanical damage.",
+        "B": "Scratches, impacts, or thermal shock can cause cracks leading to sudden failure; careful handling is essential.",
+        "C": "Glass and linings are brittle and sensitive to mechanical and thermal stress; they require careful handling.",
+        "D": "Safety, not appearance, is the critical concern; damage can cause sudden catastrophic failure with potential injury."
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Joins tube, tubing and pipe",
+      "subtask": "B-7.05 Joins specialized tube, tubing and pipe",
+      "question": "Why are expansion joints important in long runs of specialized piping?",
+      "options": {
+        "A": "For decoration only",
+        "B": "To accommodate thermal expansion and contraction, preventing stress and joint failure",
+        "C": "To increase installation cost",
+        "D": "They are never necessary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Expansion joints serve critical functional roles in managing thermal movement, not decorative purposes.",
+        "B": "Long pipe runs experience significant thermal expansion; expansion joints prevent stress buildup that would cause leaks or failure.",
+        "C": "Expansion joints are necessary to prevent damage from thermal movement; their cost is justified by preventing failures.",
+        "D": "Expansion joints are essential in systems experiencing temperature changes to prevent stress-related failures."
+      }
+    }
+  ]
+}

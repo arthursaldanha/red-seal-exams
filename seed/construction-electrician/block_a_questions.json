@@ -1,0 +1,2317 @@
+{
+  "block": "A",
+  "blockTitle": "Performs Common Occupational Skills",
+  "totalQuestions": 110,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What is the minimum voltage rating required for electrical safety gloves when working on 600V systems?",
+      "options": {
+        "A": "Class 00 (500V AC)",
+        "B": "Class 0 (1000V AC)",
+        "C": "Class 1 (7500V AC)",
+        "D": "Class 2 (17000V AC)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Class 00 gloves are rated for maximum 500V AC and would be insufficient for 600V systems, providing inadequate protection.",
+        "B": "Class 0 gloves rated for 1000V AC are the minimum acceptable rating for working on 600V systems, providing adequate safety margin as per CSA standards.",
+        "C": "Class 1 gloves are overrated for 600V work but acceptable; however, they are not the minimum required rating.",
+        "D": "Class 2 gloves are significantly overrated for 600V systems and typically used for high voltage applications."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "When must safety glasses with side shields be worn on a construction site?",
+      "options": {
+        "A": "Only when performing grinding or cutting operations",
+        "B": "Only in designated hazardous areas marked by signage",
+        "C": "At all times while on the construction site",
+        "D": "Only when specifically instructed by a supervisor"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This is too restrictive; eye hazards exist beyond just grinding and cutting operations on construction sites.",
+        "B": "Hazards can occur anywhere on a construction site, not just in designated areas.",
+        "C": "Most construction sites require continuous eye protection throughout the site due to various potential hazards including falling debris, dust, and projectiles.",
+        "D": "Safety requirements are not dependent on supervisor instructions; they are mandatory based on site conditions and regulations."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What is the primary purpose of wearing arc-rated clothing when performing electrical work?",
+      "options": {
+        "A": "To prevent electric shock from contact with live conductors",
+        "B": "To protect against arc flash thermal energy and reduce burn injuries",
+        "C": "To improve visibility in low-light electrical rooms",
+        "D": "To comply with company uniform policies"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Arc-rated clothing does not prevent electric shock; insulated gloves and proper procedures prevent shock.",
+        "B": "Arc-rated clothing is specifically designed to self-extinguish and provide thermal protection during an arc flash event, significantly reducing burn severity.",
+        "C": "Visibility is typically addressed through high-visibility vests, not arc-rated clothing.",
+        "D": "While compliance is important, the primary purpose is worker protection from arc flash hazards."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What type of respiratory protection is required when working in an area with silica dust from concrete cutting?",
+      "options": {
+        "A": "A nuisance dust mask",
+        "B": "A supplied-air respirator (SAR)",
+        "C": "An N95 or higher rated particulate respirator",
+        "D": "No respiratory protection if the area is well-ventilated"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Nuisance dust masks provide insufficient protection against respirable crystalline silica, which can cause silicosis.",
+        "B": "Supplied-air respirators are typically reserved for immediately dangerous atmospheres or oxygen-deficient spaces, not for silica dust.",
+        "C": "N95 or higher rated respirators (preferably N100) are required for protection against respirable crystalline silica particles from concrete cutting operations.",
+        "D": "Ventilation alone is insufficient; respiratory protection is mandatory when silica dust is present regardless of ventilation."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "How often must electrical safety gloves be visually inspected before use?",
+      "options": {
+        "A": "Once per week",
+        "B": "Once per month",
+        "C": "Before each use",
+        "D": "Only after potential damage occurs"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Weekly inspection is insufficient; gloves can be damaged between uses and must be checked more frequently.",
+        "B": "Monthly inspection does not meet safety standards for equipment that protects against electrocution.",
+        "C": "Electrical safety gloves must be visually inspected and air-tested before each use to detect any cuts, punctures, or degradation that could compromise protection.",
+        "D": "Waiting until after suspected damage is too late; proactive inspection before each use is mandatory."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What is the maximum allowable noise exposure level for an 8-hour workday without hearing protection according to most Canadian jurisdictions?",
+      "options": {
+        "A": "80 dBA",
+        "B": "85 dBA",
+        "C": "90 dBA",
+        "D": "95 dBA"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "80 dBA is below the typical action level; while quieter is better, 85 dBA is the standard threshold.",
+        "B": "85 dBA for 8 hours is the standard occupational exposure limit in most Canadian jurisdictions, above which hearing protection is mandatory.",
+        "C": "90 dBA would exceed safe exposure limits and could cause hearing damage over an 8-hour period.",
+        "D": "95 dBA significantly exceeds safe limits and would cause hearing damage; exposure time must be greatly reduced at this level."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What class of hard hat provides both top impact and lateral impact protection?",
+      "options": {
+        "A": "Type I",
+        "B": "Type II",
+        "C": "Class E",
+        "D": "Class G"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Type I hard hats provide only top impact protection and do not protect against lateral (side) impacts.",
+        "B": "Type II hard hats are designed to protect against both top and lateral impacts, providing more comprehensive head protection.",
+        "C": "Class E refers to electrical protection rating (20,000V), not impact protection type.",
+        "D": "Class G refers to general electrical protection rating (2,200V), not impact protection type."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Maintains safe work environment",
+      "question": "What is the minimum clearance required around electrical panels to maintain a safe work environment?",
+      "options": {
+        "A": "600 mm (24 inches)",
+        "B": "900 mm (36 inches)",
+        "C": "1 meter (39 inches)",
+        "D": "1.2 meters (48 inches)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "600 mm is insufficient clearance for safe access and emergency egress from electrical panels.",
+        "B": "900 mm does not meet the Canadian Electrical Code minimum requirements for working space.",
+        "C": "1 meter (1000 mm) is the minimum working space clearance required in front of electrical equipment up to 150V to ground per CEC Section 2-308.",
+        "D": "While 1.2 meters provides additional safety margin, it exceeds the minimum requirement."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Maintains safe work environment",
+      "question": "What should be done first when you discover a frayed extension cord on a job site?",
+      "options": {
+        "A": "Report it to the supervisor at the end of the shift",
+        "B": "Wrap electrical tape around the damaged area",
+        "C": "Immediately remove it from service and tag it as defective",
+        "D": "Continue using it if the copper conductors are not exposed"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Waiting until end of shift leaves a hazard active that could injure workers; immediate action is required.",
+        "B": "Temporary repairs with electrical tape are not acceptable for damaged cords; proper repair or replacement is required.",
+        "C": "Damaged cords must be immediately removed from service and clearly tagged to prevent use until properly repaired or replaced.",
+        "D": "Any damage to cord insulation is unacceptable and creates shock and fire hazards regardless of conductor exposure."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Maintains safe work environment",
+      "question": "What is the primary purpose of ground fault circuit interrupters (GFCIs) on construction sites?",
+      "options": {
+        "A": "To prevent equipment damage from power surges",
+        "B": "To protect against electric shock from ground faults",
+        "C": "To reduce energy consumption",
+        "D": "To prevent circuit overloads"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Surge protection devices, not GFCIs, protect against power surges and transients.",
+        "B": "GFCIs detect ground fault currents as low as 5 mA and quickly disconnect power to prevent electric shock, which is critical in wet construction environments.",
+        "C": "GFCIs have no energy-saving function; their purpose is purely safety-related.",
+        "D": "Overcurrent protection devices (breakers/fuses) prevent overloads, not GFCIs."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Maintains safe work environment",
+      "question": "When working above other trades, what safety measure is most important?",
+      "options": {
+        "A": "Working only during scheduled times when others are absent",
+        "B": "Installing debris nets or barriers below the work area",
+        "C": "Wearing high-visibility clothing",
+        "D": "Completing work as quickly as possible"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Scheduling alone may not be practical or eliminate all overhead work situations on busy sites.",
+        "B": "Installing physical barriers, debris nets, or toe boards below overhead work areas prevents tools and materials from falling on workers below, which is the primary hazard.",
+        "C": "While visibility is important, it does not protect workers below from falling objects.",
+        "D": "Rushing work increases error risk and does not address the falling object hazard to workers below."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Maintains safe work environment",
+      "question": "What is the maximum acceptable height for a single ladder without requiring fall protection?",
+      "options": {
+        "A": "2 meters (6.5 feet)",
+        "B": "3 meters (10 feet)",
+        "C": "4 meters (13 feet)",
+        "D": "6 meters (20 feet)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "2 meters is overly conservative; workers can safely use ladders above this height without fall protection systems.",
+        "B": "Most jurisdictions require fall protection when working from a ladder at heights exceeding 3 meters, making this the threshold.",
+        "C": "4 meters exceeds the fall protection requirement threshold in most Canadian jurisdictions.",
+        "D": "6 meters significantly exceeds fall protection requirements and would be extremely hazardous without protection."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Maintains safe work environment",
+      "question": "What is the required action when encountering unmarked buried utilities during excavation?",
+      "options": {
+        "A": "Continue excavating carefully using hand tools only",
+        "B": "Stop work immediately and contact the utility locating service",
+        "C": "Mark the location and report it at the next safety meeting",
+        "D": "Excavate around it and continue with the project"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Continuing excavation, even carefully, risks damaging unmarked utilities and creating serious hazards.",
+        "B": "Work must stop immediately, and proper utility locating services must be contacted to identify and mark the utility before proceeding safely.",
+        "C": "Waiting until the next meeting delays proper hazard assessment and leaves an active danger.",
+        "D": "Working around unknown utilities is extremely dangerous and violates safe work procedures."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out",
+      "question": "Who is authorized to remove a lockout device from electrical equipment?",
+      "options": {
+        "A": "The site supervisor or project manager",
+        "B": "Only the worker who installed the lockout device",
+        "C": "Any qualified electrician on the crew",
+        "D": "The building maintenance staff"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Supervisors do not have authority to remove another worker's lockout device, even with management responsibility.",
+        "B": "Only the worker who installed the lockout device may remove it, ensuring they have completed their work and verified safety before re-energization.",
+        "C": "Other electricians, regardless of qualification, cannot remove another worker's lockout as they may not know if work is complete.",
+        "D": "Maintenance staff have no authority to remove lockout devices installed by contractors or other workers."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out",
+      "question": "What must be verified after locking out electrical equipment but before beginning work?",
+      "options": {
+        "A": "That all workers have left the area",
+        "B": "That the equipment is de-energized using a voltage tester",
+        "C": "That the lockout keys are secured in the office",
+        "D": "That the maintenance log has been updated"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Clearing the area is important but does not verify electrical safety; voltage must still be tested.",
+        "B": "Zero energy verification using an appropriate voltage tester is mandatory to confirm the equipment is truly de-energized before beginning work.",
+        "C": "Lockout keys must remain with the worker who installed the lock, not secured elsewhere.",
+        "D": "Documentation is important but secondary to verifying zero energy state before starting work."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out",
+      "question": "What information must be included on a lockout tag?",
+      "options": {
+        "A": "The equipment model number and serial number",
+        "B": "The worker's name, date, and reason for lockout",
+        "C": "The expected duration of the work",
+        "D": "The supervisor's authorization signature"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Equipment identification is helpful but not the critical information required on lockout tags.",
+        "B": "Lockout tags must identify who installed the lock, when it was installed, and why, allowing others to understand the hazard and contact the worker if needed.",
+        "C": "While duration estimates can be helpful, they are not mandatory information on lockout tags.",
+        "D": "Supervisor authorization may be required for the work but is not required information on the tag itself."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out",
+      "question": "When multiple workers are performing work on the same locked-out equipment, what procedure must be followed?",
+      "options": {
+        "A": "Only the crew leader needs to apply a lock",
+        "B": "Each worker must apply their own individual lock using a multiple lockout device",
+        "C": "Workers can share one lock as long as they all have keys",
+        "D": "The first worker to arrive applies the lock for the group"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Relying on one person's lock does not ensure each worker's safety; they have no control over when the lock is removed.",
+        "B": "Each worker must apply their own individual lock to ensure the equipment cannot be re-energized until all workers have completed their tasks and removed their locks.",
+        "C": "Shared locks violate the personal protection principle of lockout/tagout procedures.",
+        "D": "One lock for a group does not protect all workers adequately and violates lockout procedures."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out",
+      "question": "What is the correct sequence for lockout procedure?",
+      "options": {
+        "A": "Notify, isolate, lock, tag, test",
+        "B": "Lock, tag, isolate, test, notify",
+        "C": "Isolate, lock, notify, tag, test",
+        "D": "Test, notify, isolate, lock, tag"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "The correct sequence is: notify affected parties, isolate the energy source, apply locks, attach tags with information, then test to verify zero energy state.",
+        "B": "Locking before isolation is impossible and testing should be the final verification step.",
+        "C": "Notification should occur before isolation to ensure all affected workers are aware of the lockout.",
+        "D": "Testing cannot occur before isolation and lockout; it is a verification step after lockout is applied."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out",
+      "question": "What should be done if a lockout device is damaged or missing during work?",
+      "options": {
+        "A": "Continue working if the equipment appears to be de-energized",
+        "B": "Replace it with a similar lock at the end of the work period",
+        "C": "Immediately stop work, investigate, and restore proper lockout before continuing",
+        "D": "Use red danger tape as a temporary replacement"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Continuing work without proper lockout is extremely dangerous regardless of apparent equipment state.",
+        "B": "Waiting until work completion leaves an unprotected period where re-energization could occur.",
+        "C": "Any compromise to lockout protection requires immediate work stoppage, investigation of the cause, and restoration of proper lockout before resuming work.",
+        "D": "Danger tape is not a substitute for physical lockout devices and provides no protection against equipment energization."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out",
+      "question": "What is the purpose of bleeding stored energy after lockout?",
+      "options": {
+        "A": "To reduce equipment warm-up time after re-energization",
+        "B": "To prevent damage to the equipment",
+        "C": "To eliminate residual energy that could cause injury",
+        "D": "To test if the lockout was properly applied"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Equipment warm-up is not a safety concern related to lockout procedures.",
+        "B": "While equipment protection is important, the primary purpose of bleeding energy is worker safety.",
+        "C": "Stored energy in capacitors, compressed air, hydraulic systems, or elevated components must be safely released or blocked to prevent injury during work.",
+        "D": "Testing the lockout is done through voltage testing, not by bleeding stored energy."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.01 Uses common and specialty tools",
+      "question": "What is the primary advantage of using a torque screwdriver for electrical connections?",
+      "options": {
+        "A": "It works faster than regular screwdrivers",
+        "B": "It ensures consistent and proper tightening force preventing over or under-tightening",
+        "C": "It is less expensive than standard screwdrivers",
+        "D": "It eliminates the need for thread-locking compounds"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Torque screwdrivers may actually work slower due to the need to set proper torque values.",
+        "B": "Torque screwdrivers apply specified tightening force, preventing loose connections that can arc and overheat, or over-tightened connections that damage terminals.",
+        "C": "Torque screwdrivers are typically more expensive than standard screwdrivers due to their precision mechanisms.",
+        "D": "Thread-locking compounds serve a different purpose (preventing loosening from vibration) and are unrelated to torque control."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.01 Uses common and specialty tools",
+      "question": "When using a hole saw to cut through a metal panel, what safety feature must be used?",
+      "options": {
+        "A": "A pilot bit to stabilize and guide the hole saw",
+        "B": "Cutting oil applied every 30 seconds",
+        "C": "A minimum drill speed of 2000 RPM",
+        "D": "A special dust collection attachment"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "The pilot bit centers the hole saw and prevents it from walking or binding during cutting, which is critical for safety and accuracy.",
+        "B": "While cutting oil is beneficial for tool life and cut quality, it is not a primary safety feature.",
+        "C": "High speeds can cause overheating and bit binding; slower speeds are typically safer for metal cutting.",
+        "D": "Dust collection is not typically needed for metal cutting with hole saws, which produce chips rather than fine dust."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.01 Uses common and specialty tools",
+      "question": "What type of pliers should be used to strip wire insulation without damaging the conductor?",
+      "options": {
+        "A": "Needle-nose pliers",
+        "B": "Lineman's pliers",
+        "C": "Wire strippers with appropriate gauge settings",
+        "D": "Channel-lock pliers"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Needle-nose pliers can nick and damage conductors when attempting to strip insulation.",
+        "B": "Lineman's pliers are not designed for stripping and will likely damage the conductor.",
+        "C": "Wire strippers with adjustable or pre-set gauge openings remove insulation cleanly without scoring or cutting into the conductor strands.",
+        "D": "Channel-lock pliers are completely inappropriate for wire stripping and will damage both insulation and conductor."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.01 Uses common and specialty tools",
+      "question": "What is the purpose of the fish tape's leader end design?",
+      "options": {
+        "A": "To make the tape heavier for easier feeding",
+        "B": "To provide a connection point for attaching wires and a smooth profile to reduce snagging",
+        "C": "To act as a cutting edge for penetrating obstacles",
+        "D": "To increase the tape's stiffness"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Weight is not the primary function of the leader design; maneuverability and attachment are key.",
+        "B": "The fish tape leader has a reduced profile with attachment holes or loops, allowing secure wire attachment while minimizing the chance of snagging on obstructions.",
+        "C": "Fish tapes are not cutting tools and should not be used to penetrate obstacles forcefully.",
+        "D": "The leader does not significantly affect overall tape stiffness, which is determined by the tape material and thickness."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.01 Uses common and specialty tools",
+      "question": "When should a hydraulic crimping tool be used instead of a manual crimper?",
+      "options": {
+        "A": "For all crimping operations to save time",
+        "B": "Only for aluminum conductors",
+        "C": "For large gauge conductors requiring significant compression force",
+        "D": "When working in cold weather conditions"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Manual crimpers are adequate for smaller conductors; hydraulic tools are not always necessary.",
+        "B": "Material type does not determine tool choice; conductor size and required force do.",
+        "C": "Large conductors (typically 2 AWG and larger) and large terminals require compression forces that exceed manual tool capabilities, necessitating hydraulic crimpers.",
+        "D": "Temperature affects material handling but does not determine crimping tool selection."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.01 Uses common and specialty tools",
+      "question": "What is the correct way to use a knockout punch set?",
+      "options": {
+        "A": "Align the punch and die on opposite sides of the panel and tighten the draw stud with a wrench",
+        "B": "Place the punch on the outside of the panel and strike with a hammer",
+        "C": "Use a drill to slowly enlarge an existing hole",
+        "D": "Heat the panel first to soften the metal"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Knockout punch sets work by placing the die on one side and punch on the other, then tightening the draw stud to pull the punch through the metal, creating a clean hole.",
+        "B": "Knockout punches are not impact tools; they use draw stud pressure, not hammer strikes.",
+        "C": "Knockout punches create holes directly; they do not enlarge existing holes progressively.",
+        "D": "Heating panels is unnecessary and dangerous; knockout punches cut through metal without heat."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.01 Uses common and specialty tools",
+      "question": "What maintenance is required for insulated hand tools?",
+      "options": {
+        "A": "Monthly electrical testing at a certified laboratory",
+        "B": "Daily visual inspection for cracks, cuts, or damaged insulation before use",
+        "C": "Annual replacement regardless of condition",
+        "D": "Wiping with a dry cloth after each use"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Laboratory testing is required periodically per manufacturer specifications but not monthly for hand tools.",
+        "B": "Insulated tools must be visually inspected before each use to detect any damage to the insulation that could compromise electrical protection.",
+        "C": "Annual replacement is unnecessary if tools remain in good condition; replacement is based on condition, not time.",
+        "D": "While cleaning is good practice, it is not the critical safety maintenance requirement for insulated tools."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "What is the correct angle for positioning an extension ladder against a wall?",
+      "options": {
+        "A": "45 degrees",
+        "B": "60 degrees",
+        "C": "75 degrees (1:4 ratio - one unit out for every four units up)",
+        "D": "90 degrees (vertical)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "45 degrees is too shallow, creating an unstable setup prone to base sliding.",
+        "B": "60 degrees is too shallow and does not provide proper stability and load distribution.",
+        "C": "75 degrees (1:4 ratio) provides optimal balance between stability and climbing safety - the base should be one unit out for every four units of height.",
+        "D": "A vertical ladder would be extremely unstable and dangerous."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "How many points of contact must be maintained when climbing a ladder?",
+      "options": {
+        "A": "One - either a hand or foot",
+        "B": "Two - both feet or both hands",
+        "C": "Three - two hands and one foot, or two feet and one hand",
+        "D": "Four - both hands and both feet"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "One point of contact provides no stability and is extremely dangerous.",
+        "B": "Two points of contact is insufficient for safe climbing stability.",
+        "C": "Three points of contact (two hands and one foot, or two feet and one hand) must be maintained at all times while climbing to ensure stability if one point slips.",
+        "D": "Four points of contact is ideal when stationary but impractical when actively climbing; three points must be maintained during movement."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "What is the maximum load capacity for a Type I industrial ladder?",
+      "options": {
+        "A": "200 pounds (90 kg)",
+        "B": "225 pounds (100 kg)",
+        "C": "250 pounds (113 kg)",
+        "D": "300 pounds (136 kg)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "200 pounds is the rating for Type III ladders (light duty), not Type I.",
+        "B": "225 pounds is the rating for Type II ladders (medium duty), not Type I.",
+        "C": "Type I (industrial/heavy duty) ladders are rated for 250 pounds including the worker, tools, and materials.",
+        "D": "300 pounds exceeds standard Type I rating; some special duty (Type IA) ladders are rated for 300 pounds."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "When using a mobile scaffold, what must be done before climbing on it?",
+      "options": {
+        "A": "Ensure all wheels are locked or outriggers are deployed",
+        "B": "Notify the site supervisor",
+        "C": "Test it with sandbags equal to your weight",
+        "D": "Remove all tools from the platform"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "All wheels must be locked or outriggers properly deployed to prevent the scaffold from rolling or tipping when climbed or worked from.",
+        "B": "While communication is good practice, it does not address the immediate safety requirement of securing the scaffold.",
+        "C": "Load testing with sandbags is not a standard pre-use requirement for scaffolds.",
+        "D": "Tools may remain on the platform if properly secured; the critical safety issue is scaffold stability."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "What is the purpose of guardrails on scaffolding platforms?",
+      "options": {
+        "A": "To provide a surface for hanging tools",
+        "B": "To prevent falls from the platform edges",
+        "C": "To strengthen the scaffold structure",
+        "D": "To mark the scaffold's maximum reach"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Guardrails are not designed or intended for hanging tools or equipment.",
+        "B": "Guardrails (top rail, mid-rail, and toe board) are fall prevention devices that protect workers from falling off the platform edges.",
+        "C": "While guardrails add some rigidity, structural strength comes from the scaffold frame itself.",
+        "D": "Guardrails do not indicate reach; they are purely fall protection devices."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "What is the minimum platform width required for a working scaffold?",
+      "options": {
+        "A": "300 mm (12 inches)",
+        "B": "460 mm (18 inches)",
+        "C": "600 mm (24 inches)",
+        "D": "900 mm (36 inches)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "300 mm is too narrow to provide safe working space on a scaffold platform.",
+        "B": "460 mm (18 inches) is the minimum platform width required for scaffold working platforms to allow safe working space and passage.",
+        "C": "600 mm provides additional comfort but exceeds the minimum requirement.",
+        "D": "900 mm is wider than necessary for standard scaffold platforms."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting and lifting equipment",
+      "question": "What is the safe working load of a sling with a 1000 kg capacity when used in a basket hitch with a 60-degree angle?",
+      "options": {
+        "A": "500 kg",
+        "B": "866 kg",
+        "C": "1000 kg",
+        "D": "2000 kg"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "This underestimates the capacity; basket hitches increase capacity when both legs are supporting the load.",
+        "B": "866 kg would apply if only one leg was supporting the load at 60 degrees, not a basket configuration.",
+        "C": "This does not account for the mechanical advantage of the basket hitch with both sling legs engaged.",
+        "D": "In a basket hitch, both sling legs support the load, effectively doubling capacity to 2000 kg when the angle between legs is optimal."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting and lifting equipment",
+      "question": "What inspection must be performed on lifting slings before each use?",
+      "options": {
+        "A": "Load testing to 125% of rated capacity",
+        "B": "Visual inspection for cuts, abrasions, burns, and tag legibility",
+        "C": "Measurement of sling length and width",
+        "D": "Chemical composition analysis"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Load testing is performed during manufacturing and periodic recertification, not before each use.",
+        "B": "Visual inspection for damage (cuts, excessive wear, burns, broken stitching) and readable identification tags must be performed before each use to ensure sling integrity.",
+        "C": "While dimensions are important during initial certification, they do not need measurement before each use.",
+        "D": "Chemical testing is a manufacturing quality control step, not a field inspection requirement."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting and lifting equipment",
+      "question": "When using a chain hoist, what indicates it should be removed from service?",
+      "options": {
+        "A": "The chain shows any signs of rust",
+        "B": "More than three chain links are stretched or deformed",
+        "C": "The chain requires lubrication",
+        "D": "Any single link is stretched, cracked, or bent"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Surface rust alone may not require removal; significant corrosion with pitting or material loss requires removal.",
+        "B": "Any link damage is unacceptable; there is no acceptable threshold of multiple damaged links.",
+        "C": "Requiring lubrication is normal maintenance, not a criterion for removal from service.",
+        "D": "Any single link that is stretched, cracked, bent, or shows significant wear must result in the chain being removed from service immediately."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting and lifting equipment",
+      "question": "What is the purpose of a spreader beam in lifting operations?",
+      "options": {
+        "A": "To increase the total weight that can be lifted",
+        "B": "To reduce the angle between lifting slings and minimize side loading",
+        "C": "To distribute the load to multiple hoisting points",
+        "D": "To extend the reach of the crane"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Spreader beams do not increase crane capacity; they optimize sling geometry.",
+        "B": "Spreader beams keep slings at better angles (closer to vertical), reducing side loads and maintaining rated sling capacity by preventing excessive angles.",
+        "C": "While spreaders can facilitate multiple attachment points, their primary purpose is optimizing sling angles.",
+        "D": "Extending reach is not the function of spreader beams; that would be boom extensions or jibs."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting and lifting equipment",
+      "question": "What hand signal indicates 'stop' in crane operations?",
+      "options": {
+        "A": "Arm extended horizontally with palm down, moving side to side",
+        "B": "Arm extended with fist clenched, not moving",
+        "C": "Both arms extended overhead with palms touching",
+        "D": "Arm extended horizontally with palm out, not moving"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "This describes a 'travel' or 'move' signal, not stop.",
+        "B": "A clenched fist typically indicates 'hoist' or 'emergency stop' depending on position.",
+        "C": "Arms overhead with palms touching might indicate 'join'/'attach load' in some systems.",
+        "D": "Arm extended horizontally with palm facing out (like a traffic stop sign) is the universal signal for 'stop all operations' in crane work."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting and lifting equipment",
+      "question": "What is the primary reason for using shackles instead of hooks in some rigging applications?",
+      "options": {
+        "A": "Shackles are always stronger than hooks",
+        "B": "Shackles prevent load rotation and provide a positive connection",
+        "C": "Shackles are less expensive",
+        "D": "Shackles can be used at any angle without capacity reduction"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Strength depends on specific ratings; shackles are not inherently stronger than all hooks.",
+        "B": "Shackles provide a positive, closed connection that prevents the sling or load from accidentally disengaging, and they resist rotation better than open hooks.",
+        "C": "Cost is not a safety consideration and varies by size and type.",
+        "D": "Shackles still have angle limitations; improper loading (side loading) reduces capacity significantly."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting and lifting equipment",
+      "question": "Before lifting a load, what should be checked regarding the center of gravity?",
+      "options": {
+        "A": "The center of gravity must be marked with paint",
+        "B": "The center of gravity should be directly below the crane hook to prevent swinging or tipping",
+        "C": "The center of gravity must be measured with instruments",
+        "D": "The center of gravity only matters for loads over 5000 kg"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Marking is helpful but not required; understanding the load's balance point is what matters.",
+        "B": "Positioning the crane hook directly above the load's center of gravity ensures balanced lifting and prevents the load from swinging, rotating, or tipping during the lift.",
+        "C": "Instruments are rarely needed; experienced riggers can determine center of gravity through observation and load characteristics.",
+        "D": "Center of gravity is critical for loads of all sizes; even small loads can tip or swing if improperly rigged."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Interprets plans, drawings and specifications",
+      "question": "What does the symbol 'WP' typically indicate on electrical drawings?",
+      "options": {
+        "A": "Wall phone",
+        "B": "Weatherproof",
+        "C": "Watt peak",
+        "D": "Wire path"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wall phones are typically designated differently, often as 'TEL' or with a phone symbol.",
+        "B": "WP commonly indicates weatherproof equipment, outlets, or enclosures that are suitable for outdoor or wet locations.",
+        "C": "Watt peak is not a standard electrical drawing designation and relates to solar panel ratings, not general electrical symbols.",
+        "D": "Wire paths are shown as lines or conduit symbols, not abbreviated as WP."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Interprets plans, drawings and specifications",
+      "question": "On a riser diagram, what does a vertical line typically represent?",
+      "options": {
+        "A": "The physical wall where equipment is mounted",
+        "B": "The electrical conduit routing between floors",
+        "C": "The building's structural columns",
+        "D": "The grounding electrode conductor"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Riser diagrams are schematic; they do not represent physical wall locations.",
+        "B": "Vertical lines in riser diagrams show the electrical distribution path between floors, indicating how power rises through a building from panel to panel.",
+        "C": "Structural elements are shown on architectural drawings, not electrical riser diagrams.",
+        "D": "Grounding conductors would be specifically labeled and are not the primary vertical element in riser diagrams."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Interprets plans, drawings and specifications",
+      "question": "What information is found in the electrical specifications rather than on the drawings?",
+      "options": {
+        "A": "The exact location of every outlet",
+        "B": "The manufacturer requirements and installation methods for equipment",
+        "C": "The building floor plan layout",
+        "D": "The symbol legend for the drawing set"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Outlet locations are shown on floor plan drawings, not in written specifications.",
+        "B": "Specifications contain detailed requirements for materials, manufacturers, installation procedures, and quality standards that cannot be conveyed graphically on drawings.",
+        "C": "Floor plans are graphic drawings, not part of written specifications.",
+        "D": "Symbol legends are typically included on the drawings themselves or in a separate symbol sheet."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Interprets plans, drawings and specifications",
+      "question": "What does a dashed line on an electrical floor plan typically indicate?",
+      "options": {
+        "A": "Underground conduit or concealed wiring",
+        "B": "Future electrical work not included in current contract",
+        "C": "Temporary power connections",
+        "D": "Decommissioned electrical systems"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Dashed lines conventionally represent concealed, underground, or above-ceiling electrical runs that are not visible in the finished installation.",
+        "B": "Future work is typically indicated by notes or special designation, not standard dashed lines.",
+        "C": "Temporary power would be specifically noted and is not a standard drawing convention.",
+        "D": "Decommissioned systems would be noted specifically, not shown with standard dashed lines."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Interprets plans, drawings and specifications",
+      "question": "When a drawing note states 'NIC,' what does this mean?",
+      "options": {
+        "A": "Needs immediate correction",
+        "B": "Not in contract - provided by others",
+        "C": "New installation code",
+        "D": "Non-industrial classification"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "NIC does not indicate errors or corrections needed.",
+        "B": "NIC means 'Not In Contract' - the item is shown for reference but will be provided or installed by another contractor or trade.",
+        "C": "NIC is not related to building codes or classifications.",
+        "D": "Classification types are designated differently in specifications and codes."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Interprets plans, drawings and specifications",
+      "question": "What is the purpose of a reflected ceiling plan in electrical drawings?",
+      "options": {
+        "A": "To show the structural ceiling support system",
+        "B": "To display lighting fixtures and ceiling-mounted equipment as viewed from above",
+        "C": "To indicate the ceiling height measurements",
+        "D": "To show HVAC ductwork routing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Structural support is shown on structural drawings, not reflected ceiling plans.",
+        "B": "Reflected ceiling plans show the ceiling as if looking down from above (like a mirror reflection), displaying locations of light fixtures, exit signs, and other ceiling-mounted electrical equipment.",
+        "C": "While ceiling heights may be noted, the primary purpose is showing fixture locations.",
+        "D": "HVAC ductwork appears on mechanical drawings, though coordination with lighting is shown on reflected ceiling plans."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Interprets plans, drawings and specifications",
+      "question": "What does the drawing scale '1/4\" = 1'-0\"' mean?",
+      "options": {
+        "A": "Every 1/4 inch on the drawing represents 1 foot of actual distance",
+        "B": "The drawing is 1/4 the actual size",
+        "C": "Measurements should be multiplied by 0.25",
+        "D": "The drawing accuracy is within 1/4 inch"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "This scale notation means that 1/4 inch measured on the drawing equals 1 foot (12 inches) in actual construction, a common architectural scale.",
+        "B": "While mathematically related, this explanation is imprecise; the specific ratio is 1/4 inch to 1 foot.",
+        "C": "This misinterprets the scale; measurements should be multiplied by 48 (1/4 inch = 12 inches).",
+        "D": "Scale does not indicate accuracy tolerance; that would be specified separately."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "What is the proper method for storing PVC conduit on a job site?",
+      "options": {
+        "A": "Vertically against a wall in direct sunlight",
+        "B": "Horizontally on flat supports, protected from sunlight and weather",
+        "C": "Coiled in circles on the ground",
+        "D": "Stacked in pyramids for stability"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Vertical storage can cause warping, and direct sunlight degrades PVC through UV exposure.",
+        "B": "PVC conduit should be stored horizontally on flat, level supports to prevent warping, and covered or shaded to prevent UV degradation and thermal distortion.",
+        "C": "Coiling rigid PVC conduit will cause permanent deformation and make it unusable.",
+        "D": "Pyramid stacking puts pressure on lower pieces, causing deformation and potential crushing."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "How should wire stored on reels be protected during outdoor storage?",
+      "options": {
+        "A": "Wire reels require no special protection",
+        "B": "Cover with waterproof tarps and elevate above ground to prevent water damage",
+        "C": "Store only in climate-controlled buildings",
+        "D": "Spray with rust inhibitor weekly"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unprotected wire can suffer water damage, insulation degradation, and corrosion.",
+        "B": "Wire reels should be covered with tarps to prevent water entry and elevated on blocks to prevent ground moisture contact, protecting insulation and preventing rust on reels.",
+        "C": "While ideal, climate control is often impractical on construction sites; proper outdoor protection is acceptable.",
+        "D": "Rust inhibitors are for exposed metal, not for protecting wire insulation; proper covering is more effective."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "What is the best practice for organizing small electrical materials like connectors and fasteners?",
+      "options": {
+        "A": "Keep all items together in one large container",
+        "B": "Use labeled bins or compartmentalized storage sorted by type and size",
+        "C": "Store items in the packaging they arrived in",
+        "D": "Distribute items equally among all workers' tool pouches"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Mixed storage makes finding specific items time-consuming and increases loss.",
+        "B": "Compartmentalized, labeled storage allows quick identification and retrieval of specific items, reduces loss, and improves inventory control.",
+        "C": "Original packaging may not be durable or practical for repeated access in field conditions.",
+        "D": "Distribution to individuals reduces central inventory control and makes material tracking difficult."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "When receiving a material delivery, what should be verified first?",
+      "options": {
+        "A": "The manufacturer's warranty documentation",
+        "B": "That the delivery matches the packing slip and purchase order",
+        "C": "The unit prices of each item",
+        "D": "Installation instructions for each product"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Warranty documentation is important but secondary to verifying the correct items were delivered.",
+        "B": "Immediate verification against the packing slip and purchase order ensures the correct items and quantities were delivered, allowing prompt resolution of discrepancies.",
+        "C": "Pricing verification is an accounting function, not the primary field verification concern.",
+        "D": "Installation instructions are reviewed later during planning; delivery verification comes first."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Plans project tasks",
+      "question": "What is the primary purpose of creating a material take-off from electrical drawings?",
+      "options": {
+        "A": "To determine the project timeline",
+        "B": "To calculate the quantities of materials required for ordering",
+        "C": "To assign tasks to individual workers",
+        "D": "To obtain building permits"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Timeline development requires task sequencing and duration estimates, not just material quantities.",
+        "B": "A material take-off systematically reviews drawings to quantify all materials needed (wire, conduit, boxes, fixtures) for accurate ordering and cost estimation.",
+        "C": "Task assignment is part of project scheduling, which comes after material planning.",
+        "D": "Permit applications require drawings and specifications, not material take-offs."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Plans project tasks",
+      "question": "When planning electrical rough-in work, what phase of construction must typically be completed first?",
+      "options": {
+        "A": "Painting and finishing",
+        "B": "Framing and structural work",
+        "C": "HVAC installation",
+        "D": "Flooring installation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Painting occurs after all rough-in work is complete and inspected.",
+        "B": "Framing must be complete before electrical rough-in can begin, as boxes are mounted to studs and conduits run through framing members.",
+        "C": "Electrical and HVAC rough-in typically occur concurrently, coordinating space but not sequentially dependent.",
+        "D": "Flooring is one of the final finishing steps, occurring long after electrical rough-in."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Plans project tasks",
+      "question": "What is a critical path in project planning?",
+      "options": {
+        "A": "The safest route through the construction site",
+        "B": "The sequence of tasks that determines the minimum project duration",
+        "C": "The path of the main electrical service entrance",
+        "D": "The route for material deliveries"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Site safety routing is important but unrelated to project scheduling terminology.",
+        "B": "The critical path is the sequence of dependent tasks that, if delayed, will delay the entire project completion; managing these tasks is crucial for staying on schedule.",
+        "C": "Service entrance routing is technical design, not project management terminology.",
+        "D": "Delivery logistics are important but not what 'critical path' means in project management."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.04 Prepares worksite",
+      "question": "What is the first step in preparing a worksite for electrical installation?",
+      "options": {
+        "A": "Set up power tools and equipment",
+        "B": "Conduct a site safety inspection and identify hazards",
+        "C": "Begin material staging",
+        "D": "Contact the utility company"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tool setup should occur after safety assessment and site preparation.",
+        "B": "Before any work begins, a safety inspection identifies existing hazards (exposed wiring, unstable structures, environmental dangers) allowing proper planning and mitigation.",
+        "C": "Material staging should follow safety assessment to ensure staging areas are safe.",
+        "D": "Utility contact is important but typically occurs during planning phase, not site preparation."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.04 Prepares worksite",
+      "question": "When installing temporary power on a construction site, what protection is mandatory?",
+      "options": {
+        "A": "Surge protection on all circuits",
+        "B": "GFCI protection on all 120V receptacles",
+        "C": "Battery backup systems",
+        "D": "Automatic transfer switches"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Surge protection is beneficial but not mandatory for temporary power.",
+        "B": "GFCI protection is required on all 120V, 15A and 20A receptacles in temporary power installations to protect workers from ground faults in wet or harsh construction conditions.",
+        "C": "Battery backup is not required for construction temporary power.",
+        "D": "Transfer switches are for permanent installations with backup generators, not typical temporary power."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.04 Prepares worksite",
+      "question": "How should work areas be marked when electrical work creates trip hazards?",
+      "options": {
+        "A": "Post a sign at the site entrance only",
+        "B": "Use caution tape and signage directly around the hazard area",
+        "C": "Send an email notification to other trades",
+        "D": "No marking is needed if workers are vigilant"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "General entrance signs do not adequately warn of specific localized hazards.",
+        "B": "Physical barriers (caution tape, barricades) and signage must directly surround the hazard to provide immediate visual warning to anyone approaching the area.",
+        "C": "Electronic communication alone is insufficient; physical barriers and signs are required.",
+        "D": "Relying on vigilance without warnings is inadequate; visible warnings are mandatory."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.04 Prepares worksite",
+      "question": "What must be verified before beginning work in an area where other trades have been working?",
+      "options": {
+        "A": "That all their tools have been removed",
+        "B": "That no hidden hazards (live wires, weakened structures, hazardous materials) exist",
+        "C": "That their work has passed inspection",
+        "D": "That they have completed their punch list"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tool removal is courteous but not the primary safety concern.",
+        "B": "Other trades may have created or exposed hazards (energized conductors, compromised structures, chemical exposures) that must be identified before safely beginning electrical work.",
+        "C": "Inspection status of other trades' work does not directly affect electrical safety preparations.",
+        "D": "Completion status of other work is a scheduling concern, not a safety verification for starting work."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.05 Finalizes documentation",
+      "question": "What is the purpose of as-built drawings?",
+      "options": {
+        "A": "To show the original design intent",
+        "B": "To document actual installation details including field changes",
+        "C": "To provide manufacturer specifications",
+        "D": "To calculate project costs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Original design drawings show intent; as-builts show actual installation.",
+        "B": "As-built drawings document how the system was actually installed, including field modifications, relocated equipment, and routing changes from the original design.",
+        "C": "Manufacturer specs are separate submittal documents.",
+        "D": "Cost calculations use estimates and invoices, not as-built drawings."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.05 Finalizes documentation",
+      "question": "What information must be recorded in a panel schedule upon project completion?",
+      "options": {
+        "A": "The panel manufacturer's phone number",
+        "B": "Circuit numbers, loads, and connected equipment descriptions",
+        "C": "The electrician's certification number",
+        "D": "The wire manufacturer and date codes"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Manufacturer contact information is not required on panel schedules.",
+        "B": "Panel schedules must document each circuit breaker number, its amperage, the load it serves, and a description of connected equipment for future reference and maintenance.",
+        "C": "Electrician credentials may be on permits but not on panel schedules.",
+        "D": "Wire specifications are recorded elsewhere; panel schedules focus on circuit information."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.01 Fabricates support structures",
+      "question": "What is the maximum distance between supports for rigid metal conduit (RMC) run horizontally?",
+      "options": {
+        "A": "1.5 meters (5 feet)",
+        "B": "3 meters (10 feet)",
+        "C": "4.5 meters (15 feet)",
+        "D": "6 meters (20 feet)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "1.5 meters is overly conservative; properly installed RMC can span greater distances.",
+        "B": "Rigid metal conduit must be supported at intervals not exceeding 3 meters when run horizontally, per CEC requirements.",
+        "C": "4.5 meters exceeds code requirements and could result in sagging.",
+        "D": "6 meters is far too great and would result in excessive sag and potential damage."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.01 Fabricates support structures",
+      "question": "When fabricating a metal cable tray support system, what must be considered for thermal expansion?",
+      "options": {
+        "A": "Nothing - metal does not expand significantly",
+        "B": "Expansion joints or sliding supports for long runs",
+        "C": "Insulation around all support points",
+        "D": "Increased support frequency in warm areas"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Metal definitely expands with temperature; ignoring this will cause buckling or stress.",
+        "B": "Cable tray systems, especially long runs, require expansion joints or supports that allow sliding to accommodate thermal expansion and contraction without damaging the system.",
+        "C": "Insulation does not address expansion; it relates to condensation or temperature control.",
+        "D": "Support frequency does not accommodate expansion; expansion joints are needed."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.01 Fabricates support structures",
+      "question": "What type of fastener should be used when attaching conduit supports to concrete?",
+      "options": {
+        "A": "Wood screws",
+        "B": "Drywall anchors",
+        "C": "Concrete anchors (expansion or sleeve type) or concrete screws",
+        "D": "Toggle bolts"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Wood screws cannot grip concrete and will not provide adequate support.",
+        "B": "Drywall anchors are designed for drywall, not concrete, and will fail.",
+        "C": "Concrete anchors (wedge, sleeve, or drop-in type) or concrete screws (Tapcons) are specifically designed to create secure attachments in concrete and masonry.",
+        "D": "Toggle bolts require hollow walls and cannot be used in solid concrete."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.01 Fabricates support structures",
+      "question": "When using strut channel (Unistrut) for support systems, what is the purpose of the strut nut?",
+      "options": {
+        "A": "To seal the ends of the channel",
+        "B": "To provide a threaded connection point anywhere along the channel without pre-drilling",
+        "C": "To increase the load capacity of the strut",
+        "D": "To electrically bond the strut to the conduit"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Strut nuts do not seal channel ends; end caps serve that purpose if needed.",
+        "B": "Strut nuts slide into the channel slot and can be positioned anywhere along the length, providing adjustable threaded attachment points without drilling holes in the channel.",
+        "C": "Strut nuts do not affect load capacity; channel size and material determine capacity.",
+        "D": "Bonding is accomplished with grounding clamps or lugs, not strut nuts."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.02 Installs brackets, hangers and fasteners",
+      "question": "What is the primary advantage of using J-hooks for cable support over traditional conduit systems?",
+      "options": {
+        "A": "They provide better protection from physical damage",
+        "B": "They allow easier cable additions and changes in accessible locations",
+        "C": "They are stronger than conduit",
+        "D": "They are approved for outdoor use"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Conduit provides superior physical protection; J-hooks offer minimal protection.",
+        "B": "J-hooks allow cables to be easily added, removed, or replaced without disassembling conduit systems, making them ideal for accessible ceiling spaces where changes are common.",
+        "C": "Strength comparison is not the primary consideration; J-hooks are for accessible locations where conduit's protection is not required.",
+        "D": "J-hooks are typically for indoor use in accessible spaces; outdoor use requires appropriate protection."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.02 Installs brackets, hangers and fasteners",
+      "question": "When installing conduit hangers, what must be verified about the building structure?",
+      "options": {
+        "A": "The architectural style and age",
+        "B": "The load-bearing capacity of the attachment point",
+        "C": "The building's energy efficiency rating",
+        "D": "The original construction contractor"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Architectural style is not a structural consideration for hanger installation.",
+        "B": "The attachment point must have adequate load-bearing capacity to safely support the conduit, cables, and any additional loads without structural failure.",
+        "C": "Energy ratings do not affect structural attachment decisions.",
+        "D": "The original contractor information is irrelevant to structural capacity assessment."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.02 Installs brackets, hangers and fasteners",
+      "question": "What is the correct spacing for supporting EMT (electrical metallic tubing) vertically?",
+      "options": {
+        "A": "Every 1.5 meters (5 feet)",
+        "B": "Every 3 meters (10 feet)",
+        "C": "Every 4.5 meters (15 feet)",
+        "D": "Every 6 meters (20 feet)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "1.5 meters provides extra support but exceeds code requirements for vertical EMT.",
+        "B": "EMT run vertically must be supported at intervals not exceeding 3 meters to prevent sagging and maintain proper alignment.",
+        "C": "4.5 meters exceeds code requirements for vertical support.",
+        "D": "6 meters is far too great and will result in unacceptable sag or movement."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.02 Installs brackets, hangers and fasteners",
+      "question": "When must additional support be provided for conduits near termination points?",
+      "options": {
+        "A": "Only for conduits larger than 50 mm (2 inches)",
+        "B": "Within 900 mm (3 feet) of every box, cabinet, or conduit termination",
+        "C": "Only when requested by the inspector",
+        "D": "Only for rigid metal conduit, not EMT"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "The near-termination support requirement applies to all conduit sizes, not just large ones.",
+        "B": "CEC requires conduit to be supported within 900 mm of every termination point (boxes, cabinets, enclosures) to prevent stress on connections and maintain proper alignment.",
+        "C": "This is a code requirement, not an inspector preference.",
+        "D": "The requirement applies to all conduit types including EMT, RMC, and PVC."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.03 Installs seismic restraint systems",
+      "question": "What is the primary purpose of seismic bracing for electrical equipment?",
+      "options": {
+        "A": "To meet building code aesthetics requirements",
+        "B": "To prevent equipment movement and damage during earthquakes",
+        "C": "To reduce electrical noise and interference",
+        "D": "To simplify future equipment relocation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Aesthetics are not the purpose of seismic bracing; safety is the concern.",
+        "B": "Seismic bracing restrains equipment against lateral and vertical movement during seismic events, preventing equipment damage, falling hazards, and maintaining system integrity.",
+        "C": "Noise and interference are addressed through grounding and shielding, not seismic bracing.",
+        "D": "Seismic bracing makes equipment more permanent and secure, not easier to relocate."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.03 Installs seismic restraint systems",
+      "question": "Where must seismic restraints typically be installed in commercial buildings?",
+      "options": {
+        "A": "Only in basement electrical rooms",
+        "B": "On all electrical equipment in seismic zones, especially equipment above 400 kg or critical systems",
+        "C": "Only on the main service entrance equipment",
+        "D": "Nowhere - seismic restraints are optional"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Seismic restraints are required throughout the building, not just basements.",
+        "B": "In designated seismic zones, restraints are required on heavy equipment (typically over 400 kg), tall equipment prone to tipping, and critical life safety systems regardless of weight.",
+        "C": "Requirements extend beyond just service entrance to include major distribution equipment and critical loads.",
+        "D": "In seismic zones, restraints are code-required, not optional."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.03 Installs seismic restraint systems",
+      "question": "What type of attachment is typically used to connect seismic bracing to the building structure?",
+      "options": {
+        "A": "Adhesive mounting",
+        "B": "Magnetic mounts",
+        "C": "Through-bolts or expansion anchors rated for seismic loads",
+        "D": "Compression fittings"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Adhesive mounting cannot provide the strength required for seismic loads.",
+        "B": "Magnetic mounts are temporary and completely inappropriate for seismic restraint.",
+        "C": "Seismic attachments must use engineered fasteners (through-bolts, expansion anchors) specifically rated and tested for the dynamic loads imposed during seismic events.",
+        "D": "Compression fittings are for connecting components, not for structural attachment to buildings."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.03 Installs seismic restraint systems",
+      "question": "When installing cable tray in seismic zones, what additional requirement exists?",
+      "options": {
+        "A": "Cables must be individually secured every meter",
+        "B": "Lateral and longitudinal bracing to prevent tray movement",
+        "C": "Tray must be made of aluminum only",
+        "D": "Tray must be painted bright orange"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Individual cable securing is not a seismic requirement; tray system bracing is what's needed.",
+        "B": "Cable tray systems require both lateral (side-to-side) and longitudinal (end-to-end) bracing to prevent swaying, twisting, or collapse during seismic events.",
+        "C": "Material selection (steel, aluminum, fiberglass) does not satisfy seismic requirements; proper bracing does.",
+        "D": "Color coding is not a seismic requirement, though some jurisdictions may require identification."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.03 Installs seismic restraint systems",
+      "question": "What is the typical angle for installing seismic bracing from equipment to structure?",
+      "options": {
+        "A": "90 degrees (horizontal only)",
+        "B": "45 degrees for optimal force distribution",
+        "C": "30 degrees or less from horizontal",
+        "D": "Any angle is acceptable"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Purely horizontal bracing is less effective; angled bracing provides better lateral and vertical restraint.",
+        "B": "45-degree bracing angles provide optimal distribution of seismic forces in both horizontal and vertical directions, maximizing effectiveness of the restraint system.",
+        "C": "Shallow angles are less effective at resisting vertical seismic components.",
+        "D": "Brace angles significantly affect effectiveness; engineering standards specify optimal angles."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.03 Installs seismic restraint systems",
+      "question": "What documentation is required for seismic restraint installation?",
+      "options": {
+        "A": "None - visual inspection is sufficient",
+        "B": "Manufacturer's installation instructions and engineered drawings showing restraint locations and types",
+        "C": "Only photographs of the completed installation",
+        "D": "A simple checklist"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual inspection alone does not document compliance with seismic engineering requirements.",
+        "B": "Seismic installations require engineered documentation showing equipment weights, restraint types, attachment methods, and calculations proving adequacy for expected seismic forces.",
+        "C": "Photographs are helpful but insufficient without engineering documentation.",
+        "D": "Checklists may be used but must be accompanied by engineering drawings and calculations."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.01 Performs startup/shutdown procedures",
+      "question": "What is the first step in starting up a new electrical system?",
+      "options": {
+        "A": "Turn on the main breaker immediately",
+        "B": "Verify all circuits are properly labeled and documented",
+        "C": "Perform a thorough visual inspection and verify all equipment is properly installed and terminated",
+        "D": "Test all outlets with a plug tester"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Energizing before inspection risks equipment damage and safety hazards if installation errors exist.",
+        "B": "While labeling is important, physical inspection for installation errors must come first.",
+        "C": "Visual inspection verifies proper installation, secure terminations, correct equipment ratings, and absence of obvious defects before energization.",
+        "D": "Testing occurs after energization; pre-energization inspection is the first step."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.01 Performs startup/shutdown procedures",
+      "question": "During system startup, why should circuits be energized individually rather than all at once?",
+      "options": {
+        "A": "To reduce the starting current draw",
+        "B": "To isolate problems to specific circuits if issues occur",
+        "C": "To comply with utility company requirements",
+        "D": "To warm up the electrical equipment gradually"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While current management is a factor, the primary reason is fault isolation.",
+        "B": "Energizing circuits individually allows immediate identification of which circuit has a problem if faults occur, simplifying troubleshooting and preventing damage to other circuits.",
+        "C": "Utilities generally don't dictate individual circuit energization sequences.",
+        "D": "Electrical equipment does not require gradual warm-up like mechanical equipment."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.01 Performs startup/shutdown procedures",
+      "question": "When shutting down an electrical system for maintenance, what is the proper sequence?",
+      "options": {
+        "A": "Pull the meter, then turn off branch circuits",
+        "B": "Turn off branch circuits first, then main disconnect, then verify zero voltage",
+        "C": "Turn off main disconnect only",
+        "D": "Cut power at the utility transformer"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Meter pulling requires utility involvement and is not the standard shutdown procedure.",
+        "B": "Proper shutdown reduces loads first (branch circuits), then opens main disconnect, followed by voltage verification to ensure complete de-energization before maintenance.",
+        "C": "Only disconnecting the main leaves branch circuit breakers in the on position, which is poor practice.",
+        "D": "Utility transformer shutdown is beyond the building's control and unnecessary for maintenance."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.01 Performs startup/shutdown procedures",
+      "question": "What measurement should be taken before energizing a newly installed motor circuit?",
+      "options": {
+        "A": "Voltage output",
+        "B": "Insulation resistance using a megohmmeter",
+        "C": "Power factor",
+        "D": "Frequency stability"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Voltage output cannot be measured before energization.",
+        "B": "Insulation resistance testing (megger test) verifies that insulation is intact and no ground faults exist before applying power, preventing equipment damage or safety hazards.",
+        "C": "Power factor is measured on operating equipment, not before initial energization.",
+        "D": "Frequency is supplied by the utility and cannot be measured before energization."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.02 Performs commissioning/decommissioning",
+      "question": "What is the primary difference between startup and commissioning?",
+      "options": {
+        "A": "They are the same process",
+        "B": "Startup is simply turning on equipment; commissioning is systematic verification that systems meet design specifications",
+        "C": "Commissioning is only for HVAC systems",
+        "D": "Startup requires professional engineers; commissioning does not"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Startup and commissioning are distinct processes with different scopes.",
+        "B": "Commissioning is a comprehensive process verifying that all systems operate as designed, meet specifications, and achieve intended performance through testing and documentation.",
+        "C": "Commissioning applies to all building systems including electrical, not just HVAC.",
+        "D": "Both processes may require engineering involvement depending on project complexity."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.02 Performs commissioning/decommissioning",
+      "question": "During electrical system commissioning, what documentation must be provided?",
+      "options": {
+        "A": "Only the original electrical drawings",
+        "B": "Test results, as-built drawings, equipment manuals, and warranty information",
+        "C": "Just the final invoice",
+        "D": "Commissioning is not documented"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Original drawings alone are insufficient; actual installation and test data are required.",
+        "B": "Complete commissioning documentation includes test results proving performance, as-built drawings, equipment documentation for future reference, and warranty information.",
+        "C": "Financial documents are separate from technical commissioning documentation.",
+        "D": "Comprehensive documentation is a fundamental requirement of the commissioning process."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.02 Performs commissioning/decommissioning",
+      "question": "When decommissioning an electrical system, what is the primary safety concern?",
+      "options": {
+        "A": "Preserving equipment for future use",
+        "B": "Ensuring complete de-energization and proper isolation to prevent accidental re-energization",
+        "C": "Maintaining the building's appearance",
+        "D": "Minimizing labor costs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Equipment preservation is secondary to safety during decommissioning.",
+        "B": "Decommissioning must ensure complete power removal, physical isolation (locked out, tagged), and elimination of backfeed paths to prevent electrical hazards during and after decommissioning.",
+        "C": "Aesthetics are not a safety concern during decommissioning.",
+        "D": "Cost considerations never override safety requirements."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.02 Performs commissioning/decommissioning",
+      "question": "What testing is typically performed during electrical panel commissioning?",
+      "options": {
+        "A": "Visual inspection only",
+        "B": "Voltage measurements, proper operation of protective devices, and verification of correct circuit labeling",
+        "C": "Color matching of the panel to the wall",
+        "D": "Testing is not required for panels"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual inspection is important but insufficient; functional testing is required.",
+        "B": "Panel commissioning includes voltage verification, testing that breakers trip at rated currents, confirming all circuits are properly labeled, and verifying panel schedule accuracy.",
+        "C": "Aesthetics are not part of electrical commissioning.",
+        "D": "Panel testing is a critical component of system commissioning."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.02 Performs commissioning/decommissioning",
+      "question": "When decommissioning old wiring that will remain in place, what should be done?",
+      "options": {
+        "A": "Leave it as-is if de-energized",
+        "B": "Disconnect both ends, label as abandoned, and document location on as-builts",
+        "C": "Remove insulation to mark it clearly",
+        "D": "Paint it red"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Leaving abandoned wiring without documentation creates confusion and potential hazards for future work.",
+        "B": "Abandoned wiring must be disconnected at all termination points, clearly labeled as abandoned at accessible locations, and documented on as-built drawings to prevent future confusion.",
+        "C": "Removing insulation creates a hazard if any energization accidentally occurs.",
+        "D": "Paint marking alone is insufficient; proper disconnection and labeling are required."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.02 Performs commissioning/decommissioning",
+      "question": "What is functional performance testing during commissioning?",
+      "options": {
+        "A": "Testing that equipment turns on",
+        "B": "Verifying that systems operate correctly under actual load conditions and meet design intent",
+        "C": "Checking equipment color and finish",
+        "D": "Measuring equipment dimensions"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Simply turning on equipment is startup, not comprehensive functional testing.",
+        "B": "Functional performance testing verifies systems operate correctly under realistic load conditions, achieve design specifications, and interact properly with other systems.",
+        "C": "Physical appearance is not part of functional performance testing.",
+        "D": "Dimensional verification is part of installation inspection, not functional performance testing."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.01 Uses communication techniques",
+      "question": "When communicating technical information to a client, what is most important?",
+      "options": {
+        "A": "Using as much technical terminology as possible to demonstrate expertise",
+        "B": "Adapting language to the client's level of technical understanding",
+        "C": "Keeping communication exclusively in writing",
+        "D": "Avoiding all technical terms entirely"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excessive jargon can confuse clients and hinder effective communication.",
+        "B": "Effective communication requires assessing the client's technical knowledge and explaining concepts at an appropriate level, using analogies and simplified explanations when needed.",
+        "C": "Communication methods should match the situation; verbal, written, or visual may each be appropriate.",
+        "D": "Some technical terms may be necessary; the key is explaining them clearly when used."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.01 Uses communication techniques",
+      "question": "What is the most effective way to document changes to the scope of work?",
+      "options": {
+        "A": "Verbal agreement with the supervisor",
+        "B": "Written change order signed by both parties with description and cost impact",
+        "C": "Text message confirmation",
+        "D": "Email without signature"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verbal agreements are insufficient for scope changes and can lead to disputes.",
+        "B": "Formal written change orders with signatures document the modified scope, schedule impact, cost changes, and mutual agreement, preventing disputes.",
+        "C": "Text messages lack formality and may not include necessary detail for scope changes.",
+        "D": "Unsigned emails do not demonstrate mutual agreement as effectively as signed change orders."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.01 Uses communication techniques",
+      "question": "When reporting a safety concern to supervision, what information is most critical?",
+      "options": {
+        "A": "The name of who created the hazard",
+        "B": "The specific hazard, its location, and immediate risk level",
+        "C": "The estimated cost to fix the problem",
+        "D": "Whether other trades noticed it"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Identifying responsible parties is less urgent than describing the hazard itself.",
+        "B": "Safety reporting must clearly describe the hazard type, precise location, and urgency level to enable immediate assessment and appropriate response.",
+        "C": "Cost is a secondary consideration; safety is the immediate priority.",
+        "D": "Whether others noticed is irrelevant; the hazard must be reported regardless."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.01 Uses communication techniques",
+      "question": "What is the purpose of a pre-job safety briefing (toolbox talk)?",
+      "options": {
+        "A": "To satisfy regulatory paperwork requirements only",
+        "B": "To identify specific hazards for the day's work and ensure all workers understand safety procedures",
+        "C": "To assign work tasks",
+        "D": "To review company policies"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While documentation may be required, the actual purpose is hazard identification and communication.",
+        "B": "Toolbox talks identify specific hazards present in the day's work, review relevant safety procedures, and ensure every worker understands risks and controls before starting work.",
+        "C": "Task assignment is separate from safety briefings, though they may occur together.",
+        "D": "General policy review is not the primary purpose of daily safety briefings."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.01 Uses communication techniques",
+      "question": "When coordinating work with other trades, what is the most effective communication approach?",
+      "options": {
+        "A": "Leave notes at the job site",
+        "B": "Direct face-to-face meetings or coordinated job scheduling through the general contractor",
+        "C": "Assume other trades will adapt to your schedule",
+        "D": "Work independently without coordination"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Written notes may be missed or misunderstood; direct communication is more reliable.",
+        "B": "Direct communication ensures clear understanding of sequencing, space conflicts, and shared resource needs, preventing conflicts and delays.",
+        "C": "Assuming others will adapt without communication leads to conflicts and inefficiency.",
+        "D": "Independent work without coordination causes conflicts in shared spaces and scheduling problems."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.02 Uses mentoring techniques",
+      "question": "What is the most effective mentoring approach when teaching a new technique?",
+      "options": {
+        "A": "Demonstrate once and expect the apprentice to replicate it perfectly",
+        "B": "Demonstrate the technique, explain why each step is important, observe the apprentice's attempt, and provide constructive feedback",
+        "C": "Have the apprentice watch online videos only",
+        "D": "Assign the task without demonstration"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "One demonstration rarely ensures learning; repetition and feedback are essential.",
+        "B": "Effective skills transfer uses the demonstrate-explain-practice-feedback cycle, ensuring understanding of both how and why while allowing skill development through practice.",
+        "C": "Videos can supplement but cannot replace hands-on mentoring with direct feedback.",
+        "D": "Assigning tasks without instruction sets apprentices up for failure and potential safety issues."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.02 Uses mentoring techniques",
+      "question": "How should mistakes be addressed when mentoring an apprentice?",
+      "options": {
+        "A": "Publicly criticize to ensure they remember",
+        "B": "Ignore mistakes to avoid discouraging them",
+        "C": "Address privately, explain what went wrong and how to correct it, and use it as a learning opportunity",
+        "D": "Have them repeat the task until perfect without guidance"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Public criticism damages confidence and creates a negative learning environment.",
+        "B": "Ignoring mistakes allows bad habits to form and doesn't help learning.",
+        "C": "Constructive correction in private preserves dignity while ensuring learning; explaining the mistake and correct approach turns errors into valuable teaching moments.",
+        "D": "Repetition without guidance doesn't teach what was done wrong or how to improve."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.02 Uses mentoring techniques",
+      "question": "What is the importance of asking questions when mentoring?",
+      "options": {
+        "A": "To test if the apprentice was paying attention",
+        "B": "To verify understanding and encourage critical thinking about the work",
+        "C": "To find reasons to criticize their knowledge",
+        "D": "Questions should be avoided as they slow down work"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While attention matters, the goal is deeper understanding, not punishment.",
+        "B": "Questions assess comprehension, encourage apprentices to think through problems, and reveal gaps in understanding that need addressing, promoting deeper learning.",
+        "C": "Questions should be constructive learning tools, not weapons for criticism.",
+        "D": "Taking time for questions improves long-term efficiency by ensuring proper understanding."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.02 Uses mentoring techniques",
+      "question": "When should an apprentice be given more independent work responsibilities?",
+      "options": {
+        "A": "Immediately to build confidence",
+        "B": "After demonstrating competence and understanding of safety procedures for specific tasks",
+        "C": "Never - apprentices should always be directly supervised",
+        "D": "When there's too much work for journeypersons to handle"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Premature independence without proven competence creates safety risks.",
+        "B": "Gradual independence based on demonstrated skill, safety awareness, and task-specific competence builds capability while maintaining safety.",
+        "C": "Some independence is necessary for development; appropriate tasks can be done with general oversight.",
+        "D": "Workload should never compromise safety by forcing premature independence."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.02 Uses mentoring techniques",
+      "question": "What is the value of explaining the 'why' behind procedures to apprentices?",
+      "options": {
+        "A": "It's unnecessary - they just need to follow instructions",
+        "B": "Understanding the reasoning helps them apply principles to new situations and reinforces safe practices",
+        "C": "It wastes time that could be spent working",
+        "D": "It only matters for complex tasks"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Rote following without understanding limits adaptability and problem-solving ability.",
+        "B": "Understanding why procedures exist enables apprentices to make informed decisions, adapt to variations, and recognize when safety-critical steps cannot be skipped.",
+        "C": "Time spent on understanding improves long-term efficiency and safety.",
+        "D": "Understanding 'why' matters for all tasks, especially safety-related procedures."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What class of hard hat provides electrical protection up to 20,000 volts?",
+      "options": {
+        "A": "Class C",
+        "B": "Class G",
+        "C": "Class E",
+        "D": "Class A"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Class C hard hats provide no electrical protection and are designed for comfort in areas without electrical hazards.",
+        "B": "Class G (General) hard hats provide protection up to 2,200 volts, insufficient for 20,000V protection.",
+        "C": "Class E (Electrical) hard hats are tested and rated for protection against electrical contact up to 20,000 volts.",
+        "D": "Class A is an outdated designation; modern standards use Classes E, G, and C."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Maintains safe work environment",
+      "question": "At what height does fall protection become mandatory for construction work in most Canadian jurisdictions?",
+      "options": {
+        "A": "1.5 meters (5 feet)",
+        "B": "2.4 meters (8 feet)",
+        "C": "3 meters (10 feet)",
+        "D": "4.5 meters (15 feet)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "1.5 meters is below the typical fall protection threshold in Canadian regulations.",
+        "B": "2.4 meters may be a threshold in some specific situations but is not the standard across most jurisdictions.",
+        "C": "Most Canadian jurisdictions require fall protection when working at heights exceeding 3 meters (approximately 10 feet).",
+        "D": "4.5 meters exceeds the threshold; fall protection is required before reaching this height."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.01 Uses common and specialty tools",
+      "question": "What is the purpose of a voltage detector pen (proximity tester)?",
+      "options": {
+        "A": "To measure exact voltage values",
+        "B": "To detect the presence of AC voltage without direct contact",
+        "C": "To test circuit continuity",
+        "D": "To measure current flow"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Voltage detector pens indicate presence only, not specific voltage values; multimeters measure exact voltage.",
+        "B": "Non-contact voltage detectors sense AC electric fields, alerting users to energized conductors without requiring direct contact, useful for quick safety checks.",
+        "C": "Continuity testing requires contact-type testers or multimeters with continuity function.",
+        "D": "Current measurement requires clamp meters or inline current meters, not voltage detectors."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "What is the minimum overlap required when extending an extension ladder?",
+      "options": {
+        "A": "0.3 meters (1 foot)",
+        "B": "0.6 meters (2 feet)",
+        "C": "0.9 meters (3 feet)",
+        "D": "1.2 meters (4 feet)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "0.3 meters provides insufficient overlap for safe load transfer between ladder sections.",
+        "B": "0.6 meters is below minimum safety requirements for ladder section overlap.",
+        "C": "Extension ladders require minimum 0.9 meter (3 feet) overlap between sections to safely transfer loads and maintain structural integrity.",
+        "D": "While 1.2 meters provides extra safety margin, it exceeds the minimum requirement."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Interprets plans, drawings and specifications",
+      "question": "What does a circle with an 'X' through it typically represent on electrical drawings?",
+      "options": {
+        "A": "Junction box",
+        "B": "Light fixture outlet",
+        "C": "Smoke detector",
+        "D": "Deleted item"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Junction boxes are typically shown as squares or rectangles, not circles with X.",
+        "B": "A circle with an X is the standard symbol for a lighting outlet or ceiling-mounted light fixture on electrical drawings.",
+        "C": "Smoke detectors have a different specific symbol, usually with SD notation.",
+        "D": "Deleted or removed items are typically shown with different notation or clouded areas."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Plans project tasks",
+      "question": "What is the purpose of a Gantt chart in project planning?",
+      "options": {
+        "A": "To show material costs",
+        "B": "To display task schedules and dependencies over time visually",
+        "C": "To list safety requirements",
+        "D": "To calculate electrical loads"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Material costs are tracked in budgets and cost estimates, not Gantt charts.",
+        "B": "Gantt charts provide visual representation of project tasks plotted against time, showing task duration, sequence, and overlap, facilitating schedule management.",
+        "C": "Safety requirements are documented in safety plans and procedures, not scheduling tools.",
+        "D": "Load calculations are performed using electrical calculation methods, not project scheduling charts."
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.01 Fabricates support structures",
+      "question": "When bending conduit for a support rack, what must be maintained to preserve conduit integrity?",
+      "options": {
+        "A": "The bend radius must not be less than specified minimums for the conduit size",
+        "B": "The bend must be exactly 90 degrees",
+        "C": "The conduit must be heated before bending",
+        "D": "Multiple bends must be in the same plane"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Minimum bend radius requirements (typically 6 times conduit diameter) prevent conduit damage, wire pulling difficulties, and maintain conductor protection.",
+        "B": "Bends can be various angles; 90 degrees is common but not mandatory for all applications.",
+        "C": "Heating is only required for some plastic conduits; metal conduit is bent cold using proper benders.",
+        "D": "While alignment is good practice, bends do not have to be in the same plane for structural integrity."
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.02 Installs brackets, hangers and fasteners",
+      "question": "What is the purpose of expansion loops in long conduit runs?",
+      "options": {
+        "A": "To make wire pulling easier",
+        "B": "To accommodate thermal expansion and contraction without damaging the conduit system",
+        "C": "To meet minimum conduit length requirements",
+        "D": "To create service points for future access"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While expansion loops may slightly ease wire pulling, this is not their primary purpose.",
+        "B": "Expansion loops provide flexibility for conduit to expand and contract with temperature changes, preventing buckling, stress fractures, or fitting failure.",
+        "C": "There are no minimum length requirements that expansion loops fulfill.",
+        "D": "Access points are provided by pull boxes and junction boxes, not expansion loops."
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Fabricates and installs support components",
+      "subtask": "A-4.03 Installs seismic restraint systems",
+      "question": "What is the maximum spacing between seismic braces for cable tray systems?",
+      "options": {
+        "A": "3 meters",
+        "B": "6 meters",
+        "C": "9 meters",
+        "D": "12 meters"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "3 meters is overly conservative; seismic bracing can effectively span greater distances.",
+        "B": "6 meters is typical for regular support but seismic bracing may have different requirements.",
+        "C": "9 meters is approaching typical limits but may vary by jurisdiction.",
+        "D": "Most seismic standards allow maximum 12-meter spacing between four-way seismic braces on cable tray, though specific requirements vary by jurisdiction and seismic zone."
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.01 Performs startup/shutdown procedures",
+      "question": "What should be checked before re-energizing a system after maintenance?",
+      "options": {
+        "A": "Only that the main disconnect is off",
+        "B": "That all workers have left the building",
+        "C": "That all lockout devices are removed, tools are cleared, covers are replaced, and all workers are clear",
+        "D": "That the utility company has been notified"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Checking only the disconnect status is inadequate; comprehensive verification is required.",
+        "B": "All workers don't need to leave; only those working on or near the equipment must be clear and aware.",
+        "C": "Pre-energization checks must verify all lockout devices are properly removed, no tools or materials remain in equipment, all covers and guards are reinstalled, and all personnel are clear and aware.",
+        "D": "Utility notification is not typically required for equipment re-energization after maintenance."
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Commissions and decommissions electrical systems",
+      "subtask": "A-5.02 Performs commissioning/decommissioning",
+      "question": "What is typically included in an electrical system commissioning report?",
+      "options": {
+        "A": "Only photographs of the installation",
+        "B": "Test results, deficiencies found and corrected, system performance data, and operator training documentation",
+        "C": "Just the contractor's invoice",
+        "D": "A simple pass/fail statement"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Photos are supplementary; comprehensive test data and performance verification are essential.",
+        "B": "Commissioning reports document all testing performed, results achieved, any deficiencies and their resolution, and confirmation that systems meet specifications and operators are trained.",
+        "C": "Financial documents are separate from technical commissioning reports.",
+        "D": "Pass/fail alone is insufficient; detailed documentation of testing and results is required."
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.01 Uses communication techniques",
+      "question": "What is the most professional way to handle a disagreement with another trade on site?",
+      "options": {
+        "A": "Argue until one side gives up",
+        "B": "Discuss the issue calmly, refer to drawings and specifications, and involve supervision if necessary",
+        "C": "Ignore the other trade and proceed with your work",
+        "D": "File a formal complaint immediately"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Arguments are unprofessional and don't resolve technical disputes effectively.",
+        "B": "Professional dispute resolution involves calm discussion with reference to documentation, seeking to understand the other perspective, and escalating to supervision when agreement cannot be reached.",
+        "C": "Ignoring conflicts leads to poor coordination and potential rework or safety issues.",
+        "D": "Formal complaints should be a last resort after attempting direct resolution."
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "A",
+      "task": "A-6",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-6.02 Uses mentoring techniques",
+      "question": "How should a journeyperson respond when an apprentice asks a question they don't know the answer to?",
+      "options": {
+        "A": "Admit they don't know and research the answer together or find a reliable source",
+        "B": "Make up an answer to maintain authority",
+        "C": "Tell them to figure it out themselves",
+        "D": "Change the subject"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Admitting knowledge gaps and demonstrating how to find correct information models professional behavior and teaches research skills while maintaining credibility.",
+        "B": "Providing false information damages credibility and can lead to dangerous practices or damaged work.",
+        "C": "Refusing to help misses a teaching opportunity and damages the mentoring relationship.",
+        "D": "Avoiding the question leaves the apprentice without needed information and models poor problem-solving."
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out",
+      "question": "What should be done if a lockout device is found to be defective during inspection?",
+      "options": {
+        "A": "Continue using it if it still somewhat functions",
+        "B": "Replace it immediately with a properly functioning device before continuing work",
+        "C": "Use two defective devices together",
+        "D": "Report it but continue working"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Partially functioning lockout devices provide inadequate protection and must not be used.",
+        "B": "Defective lockout devices must be immediately replaced with properly functioning devices before any work continues to maintain proper protection.",
+        "C": "Multiple defective devices do not equal one functional device; proper functioning equipment is required.",
+        "D": "Continuing work with compromised lockout protection is unacceptable and dangerous."
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting and lifting equipment",
+      "question": "What is the inspection color code system for rigging equipment?",
+      "options": {
+        "A": "Random colors assigned by the user",
+        "B": "Annual inspection dates marked by specific colors that change each year",
+        "C": "Red means stop, green means go",
+        "D": "No color coding is used for rigging"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color coding must be systematic, not random, to be effective.",
+        "B": "Many jurisdictions use color-coded inspection tags that change annually, allowing quick visual verification of current inspection status.",
+        "C": "While red/green coding exists in some systems, rigging typically uses year-specific color rotation.",
+        "D": "Color coding is commonly used to indicate inspection currency in rigging equipment."
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "What is the benefit of implementing a just-in-time material delivery system?",
+      "options": {
+        "A": "Materials arrive before they are needed, maximizing storage time",
+        "B": "Materials arrive as needed, reducing on-site storage requirements and damage risk",
+        "C": "All materials arrive on the first day of the project",
+        "D": "Materials are never ordered until work is complete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Just-in-time specifically aims to minimize storage time, not maximize it.",
+        "B": "Just-in-time delivery coordinates material arrival with when they're needed in the work sequence, reducing storage space requirements, damage from extended storage, and theft risk.",
+        "C": "Delivering everything at project start is the opposite of just-in-time and creates major storage challenges.",
+        "D": "Materials must arrive before work begins; ordering after completion makes no sense."
+      }
+    }
+  ]
+}

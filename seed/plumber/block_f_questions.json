@@ -1,0 +1,2695 @@
+{
+  "block": "F",
+  "blockTitle": "Low-Pressure Steam and Hydronic Systems",
+  "totalQuestions": 128,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What is the primary advantage of a closed-loop hydronic system?",
+      "options": {
+        "A": "Uses less energy",
+        "B": "No makeup water required and reduced corrosion from oxygen exclusion",
+        "C": "Works without a pump",
+        "D": "Requires no expansion tank"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While closed systems can be efficient, the primary advantage is preventing water loss and oxygen entry, not inherent energy savings.",
+        "B": "Closed-loop systems exclude oxygen preventing corrosion and eliminate water loss requiring makeup water treatment.",
+        "C": "All hydronic systems require circulation pumps to move water through the system effectively.",
+        "D": "Closed systems specifically require expansion tanks to accommodate thermal expansion; this is a requirement, not eliminated."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "How is pipe sizing determined in hydronic systems?",
+      "options": {
+        "A": "Based on heat load, flow rate, and allowable pressure drop",
+        "B": "Always use 25 mm pipe",
+        "C": "Random selection",
+        "D": "By building height only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sizing considers heat delivery requirements, necessary flow rates, and system pressure drop constraints.",
+        "B": "Fixed sizing ignores varying loads and distances; proper calculation ensures adequate flow without excessive pumping costs.",
+        "C": "Random sizing causes inadequate heating or excessive energy consumption; engineering calculations are necessary.",
+        "D": "While elevation affects pressure, pipe sizing primarily depends on heat load, flow requirements, and friction losses."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What is the purpose of reverse return piping in hydronic systems?",
+      "options": {
+        "A": "To confuse installers",
+        "B": "To balance flow naturally by equalizing pipe lengths to all terminals",
+        "C": "To increase pressure drop",
+        "D": "Reverse return has no purpose"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Reverse return serves a clear engineering purpose balancing flow distribution, not causing confusion.",
+        "B": "Reverse return makes total pipe length equal to all terminals automatically balancing flow without extensive valve adjustment.",
+        "C": "While reverse return adds piping, the purpose is flow balance, not intentionally increasing pressure drop.",
+        "D": "Reverse return is specifically designed for flow balancing in multi-zone or multi-terminal systems."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What type of expansion tank is used in modern closed hydronic systems?",
+      "options": {
+        "A": "Open atmospheric tank",
+        "B": "Diaphragm or bladder-type expansion tank",
+        "C": "No expansion tank needed",
+        "D": "Water heater only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Open tanks were used historically but expose systems to oxygen causing corrosion; modern systems use closed tanks.",
+        "B": "Diaphragm or bladder tanks separate water from air maintaining closed system while accommodating expansion.",
+        "C": "Expansion tanks are mandatory in closed systems; thermal expansion creates dangerous pressure without accommodation.",
+        "D": "Water heaters are heat sources; separate expansion tanks are required for system expansion accommodation."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What is the typical design temperature drop in a hydronic heating system?",
+      "options": {
+        "A": "1°C (2°F)",
+        "B": "10-20°C (20-40°F)",
+        "C": "50°C (90°F)",
+        "D": "Temperature drop doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "1°C drop would require excessive flow rates making pumping costs prohibitive; larger drops are standard.",
+        "B": "Typical design delta-T is 10-20°C balancing heat transfer effectiveness with reasonable flow rates and pipe sizing.",
+        "C": "50°C drop would require very low flow rates causing inadequate heat transfer at terminals; moderate drops are optimal.",
+        "D": "Temperature drop directly affects flow rate and pipe sizing; proper design temperature difference is essential."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "Why are air vents necessary in hydronic systems?",
+      "options": {
+        "A": "To add air to the system",
+        "B": "To release trapped air preventing flow restriction and noise",
+        "C": "Only for decoration",
+        "D": "Air vents are not needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Air vents remove rather than add air; trapped air impedes circulation and causes system problems.",
+        "B": "Air vents automatically release trapped air preventing flow blockage, noise, and inadequate heat transfer.",
+        "C": "Air vents serve critical functional purposes removing air; they are not decorative elements.",
+        "D": "Air accumulation is inevitable in hydronic systems; vents are essential for removing trapped air."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What determines the required pump head in hydronic systems?",
+      "options": {
+        "A": "Total friction loss in piping, fittings, and equipment",
+        "B": "Building height only",
+        "C": "Random selection",
+        "D": "Pump head is not important"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pump head must overcome all friction losses throughout the system ensuring adequate flow to all terminals.",
+        "B": "While elevation creates static head, closed-loop systems primarily require head to overcome friction, not elevation.",
+        "C": "Pump head must be calculated from system friction; inadequate head causes insufficient flow.",
+        "D": "Pump head is critical for adequate circulation; insufficient head prevents proper system operation."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What is the purpose of primary-secondary pumping?",
+      "options": {
+        "A": "To isolate different system zones with independent flow control",
+        "B": "To use two pumps randomly",
+        "C": "Only for backup",
+        "D": "Primary-secondary is not used"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Primary-secondary allows boiler flow to be independent of zone flows enabling variable flow while protecting boiler.",
+        "B": "Primary-secondary has specific hydraulic purposes enabling independent flow control, not random dual pumping.",
+        "C": "While redundancy may be incorporated, the primary purpose is hydraulic separation enabling variable flow.",
+        "D": "Primary-secondary pumping is common in modern systems enabling efficient variable flow operation."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "Why must hydronic piping be properly insulated?",
+      "options": {
+        "A": "To prevent heat loss, condensation, and improve efficiency",
+        "B": "Insulation is not necessary",
+        "C": "Only for appearance",
+        "D": "To add weight"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Insulation prevents energy waste, controls condensation, and improves system efficiency by reducing heat losses.",
+        "B": "Insulation is essential for energy efficiency and condensation control; uninsulated systems waste energy.",
+        "C": "Insulation serves critical energy and moisture control functions; appearance is not the primary concern.",
+        "D": "Insulation adds minimal weight; its purpose is thermal performance, not adding mass to systems."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What is a zone valve in hydronic systems?",
+      "options": {
+        "A": "A valve controlling flow to individual zones enabling independent temperature control",
+        "B": "A geographical boundary",
+        "C": "Not used in hydronic systems",
+        "D": "Only for drainage"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Zone valves control flow to different areas allowing independent temperature control and improved comfort.",
+        "B": "While zones represent areas, zone valves are mechanical flow control devices, not geographical markers.",
+        "C": "Zone valves are common in multi-zone hydronic systems enabling area-specific temperature control.",
+        "D": "Zone valves control heating flow, not drainage; they enable selective area heating."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "How should hydronic piping be sloped?",
+      "options": {
+        "A": "To facilitate air removal and drainage toward fill/drain points",
+        "B": "Slope is not necessary",
+        "C": "Maximum slope always",
+        "D": "Level installation required"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper slope enables air migration to vents and complete drainage during maintenance.",
+        "B": "While forced circulation moves water, proper slope aids air removal and enables complete system drainage.",
+        "C": "Excessive slope may create air pockets; proper moderate slope facilitates air removal without creating problems.",
+        "D": "Level piping can trap air and prevent complete drainage; slight slope is beneficial for air removal."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What is the purpose of a flow meter in hydronic systems?",
+      "options": {
+        "A": "To measure and verify flow rates for balancing and troubleshooting",
+        "B": "Only for decoration",
+        "C": "Flow meters are not used",
+        "D": "To block flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flow meters enable flow verification ensuring proper distribution and aiding in system balancing and diagnostics.",
+        "B": "Flow meters serve functional measurement purposes; they are not decorative elements.",
+        "C": "Flow meters are valuable tools for system balancing and performance verification in hydronic systems.",
+        "D": "Flow meters measure rather than block flow; they provide diagnostic information for system optimization."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What determines expansion tank sizing?",
+      "options": {
+        "A": "System water volume, temperature range, and fill pressure",
+        "B": "Random selection",
+        "C": "One size fits all",
+        "D": "Tanks are not sized"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Tank sizing calculations consider water volume expansion through operating temperature range and system pressure.",
+        "B": "Expansion tank sizing requires calculation; undersized tanks fail to accommodate expansion causing pressure problems.",
+        "C": "Tank requirements vary widely with system size and temperature; proper calculation ensures adequate capacity.",
+        "D": "Proper tank sizing is critical for system protection; calculations ensure adequate expansion accommodation."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "Why are balancing valves used in hydronic systems?",
+      "options": {
+        "A": "To adjust flow to individual branches ensuring proper distribution",
+        "B": "For decoration only",
+        "C": "Balancing is not necessary",
+        "D": "To block all flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Balancing valves enable flow adjustment to branches ensuring each zone receives proper flow for design heat delivery.",
+        "B": "Balancing valves serve critical flow distribution functions; they are not decorative elements.",
+        "C": "Balancing is essential for proper system performance ensuring all zones receive adequate flow.",
+        "D": "Balancing valves adjust flow proportions, not block completely; they optimize distribution throughout the system."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What is a manifold in hydronic distribution?",
+      "options": {
+        "A": "A central distribution point feeding multiple circuits from one location",
+        "B": "A type of pump",
+        "C": "Not used in hydronic systems",
+        "D": "Only for drainage"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Manifolds provide central distribution enabling multiple circuits to be fed from one location with individual control.",
+        "B": "Manifolds are distribution headers, not pumps; they divide flow to multiple circuits.",
+        "C": "Manifolds are common in radiant and multi-zone systems providing organized circuit distribution.",
+        "D": "Manifolds distribute heating water to circuits, not drainage; they are active system components."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "How does pipe material affect hydronic system design?",
+      "options": {
+        "A": "Material determines corrosion resistance, expansion characteristics, and joining methods",
+        "B": "All materials are identical",
+        "C": "Material doesn't matter",
+        "D": "Only appearance differs"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Material selection affects corrosion resistance, thermal expansion accommodation, and installation methods requiring design consideration.",
+        "B": "Materials vary significantly in properties; proper selection matches application requirements.",
+        "C": "Material characteristics critically affect system performance and longevity; proper selection is essential.",
+        "D": "While appearance may vary, material affects functional characteristics including durability and installation methods."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "What is the purpose of a heat exchanger in hydronic systems?",
+      "options": {
+        "A": "To transfer heat between systems while separating fluids",
+        "B": "To cool water only",
+        "C": "Heat exchangers are not used",
+        "D": "To mix all fluids together"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Heat exchangers enable heat transfer between separate systems protecting equipment or enabling different fluid types.",
+        "B": "Heat exchangers can transfer heat in either direction; they're not limited to cooling applications.",
+        "C": "Heat exchangers are common in hydronic systems enabling system isolation and fluid separation.",
+        "D": "Heat exchangers specifically prevent fluid mixing while enabling heat transfer between separated systems."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.01 Plans layout and sizes piping and components for hydronic systems",
+      "question": "Why must hydronic systems have proper fill and drain connections?",
+      "options": {
+        "A": "To enable initial filling, maintenance drainage, and flushing",
+        "B": "Not necessary",
+        "C": "Only for decoration",
+        "D": "To permanently drain systems"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper fill and drain points enable initial filling, flushing, and complete drainage during maintenance or winterization.",
+        "B": "Fill and drain connections are essential for commissioning and maintenance enabling proper system service.",
+        "C": "Fill and drain connections serve critical functional purposes; they are not decorative elements.",
+        "D": "Fill and drain points enable temporary drainage for service; systems normally remain filled during operation."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "How should copper tubing joints be made in hydronic systems?",
+      "options": {
+        "A": "Using proper soldering or brazing with appropriate filler metal",
+        "B": "Tape only",
+        "C": "No joining needed",
+        "D": "Random methods"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper soldering or brazing creates leak-tight permanent joints suitable for system pressure and temperature.",
+        "B": "Tape cannot create pressure-tight joints for hydronic systems; proper soldering or mechanical fittings are required.",
+        "C": "Joints are essential for connecting system components; proper joining methods ensure leak-free operation.",
+        "D": "Specific joining methods ensure reliable leak-tight connections; proper techniques are critical for system integrity."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "Where should air vents be located?",
+      "options": {
+        "A": "At high points where air naturally accumulates",
+        "B": "Only at low points",
+        "C": "Random locations",
+        "D": "Air vents are not installed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Air rises to high points; vents at these locations effectively remove trapped air from systems.",
+        "B": "Low points are for drainage, not air removal; air accumulates at high points requiring venting there.",
+        "C": "Strategic placement at high points ensures effective air removal; random placement misses air accumulation points.",
+        "D": "Air vents are essential system components; proper installation at high points removes trapped air."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "How should expansion tanks be supported?",
+      "options": {
+        "A": "Adequately supported for water weight without pipe stress",
+        "B": "No support needed",
+        "C": "Hung from piping only",
+        "D": "Support is not important"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper support carries tank weight preventing pipe stress while allowing connection movement from thermal expansion.",
+        "B": "Expansion tanks contain significant water weight requiring proper support preventing pipe damage.",
+        "C": "Piping alone cannot support tank weight; independent support prevents pipe stress and potential failures.",
+        "D": "Proper support is essential preventing pipe stress and tank damage; adequate support ensures system integrity."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "Why must circulating pumps be installed with isolation valves?",
+      "options": {
+        "A": "To enable pump service without draining entire system",
+        "B": "Isolation is not necessary",
+        "C": "Only for decoration",
+        "D": "To permanently isolate pumps"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Isolation valves enable pump removal for service with minimal water loss and disruption to system.",
+        "B": "Isolation valves enable efficient pump maintenance; proper installation facilitates necessary service.",
+        "C": "Isolation valves serve functional maintenance purposes; they are not decorative elements.",
+        "D": "Isolation valves enable temporary isolation for maintenance; pumps normally operate with valves open."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "How should piping be supported in hydronic installations?",
+      "options": {
+        "A": "At proper intervals preventing sagging while allowing expansion movement",
+        "B": "No support needed",
+        "C": "Rigid restraint everywhere",
+        "D": "Random placement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper support prevents sagging and stress while allowing thermal expansion movement preventing damage.",
+        "B": "Piping requires support preventing sagging from weight and contents; unsupported pipes fail.",
+        "C": "Rigid restraint prevents necessary thermal expansion; proper support allows movement while preventing sagging.",
+        "D": "Support spacing follows specifications preventing sagging; systematic placement ensures adequate support."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "Why must hydronic piping penetrations be sealed?",
+      "options": {
+        "A": "To maintain fire ratings and prevent air infiltration",
+        "B": "Sealing is not required",
+        "C": "Only for appearance",
+        "D": "To restrict pipe movement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sealing maintains fire protection and prevents unwanted air movement through penetrations.",
+        "B": "Penetration sealing is required for fire protection and air barrier maintenance; proper sealing is mandatory.",
+        "C": "Sealing serves critical fire and air control functions; appearance is not the primary concern.",
+        "D": "Sealing accommodates pipe movement while closing openings; it doesn't restrict necessary expansion."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "How should PEX tubing be installed in hydronic systems?",
+      "options": {
+        "A": "With proper fittings, adequate support, and protection from damage",
+        "B": "Random installation",
+        "C": "No fittings needed",
+        "D": "PEX is not used"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "PEX requires appropriate fittings, proper support spacing, and protection from physical damage and UV exposure.",
+        "B": "PEX installation follows specific procedures ensuring leak-free connections and proper support.",
+        "C": "PEX requires approved mechanical fittings for connections; proper fittings ensure system integrity.",
+        "D": "PEX is commonly used in hydronic systems particularly for radiant heating applications."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "What prevents galvanic corrosion in mixed-metal hydronic systems?",
+      "options": {
+        "A": "Dielectric unions or fittings isolating dissimilar metals",
+        "B": "Direct connection is best",
+        "C": "Galvanic corrosion doesn't occur",
+        "D": "No prevention possible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Dielectric separation prevents electrical current flow between dissimilar metals eliminating galvanic corrosion.",
+        "B": "Direct connection of dissimilar metals causes galvanic corrosion; proper isolation is necessary.",
+        "C": "Galvanic corrosion occurs when dissimilar metals contact in electrolyte; prevention is essential.",
+        "D": "Galvanic corrosion is preventable through proper isolation of dissimilar metals using dielectric fittings."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "How should pressure gauges be installed?",
+      "options": {
+        "A": "With isolating valves enabling removal and gauge saver preventing temperature damage",
+        "B": "Direct connection always",
+        "C": "Gauges are not used",
+        "D": "Random installation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper installation enables gauge removal for testing while protecting from excessive temperature damage.",
+        "B": "Direct high-temperature connection damages gauges; gauge savers or siphons protect from excessive heat.",
+        "C": "Pressure gauges are essential monitoring devices; proper installation ensures accuracy and longevity.",
+        "D": "Gauge installation follows specific procedures protecting from damage while enabling removal for testing."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "Why must flow direction be observed for components?",
+      "options": {
+        "A": "Many components are directional for proper operation requiring correct installation",
+        "B": "Flow direction doesn't matter",
+        "C": "All components work either direction",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Check valves, strainers, and some valves are directional; incorrect installation prevents proper operation.",
+        "B": "Many components function properly only in correct flow direction; attention to arrows ensures proper operation.",
+        "C": "While some components are bidirectional, many require specific flow direction for proper function.",
+        "D": "Flow direction serves functional purposes ensuring proper component operation; it's not aesthetic consideration."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "How should thermometers be installed in hydronic systems?",
+      "options": {
+        "A": "In thermowells allowing removal without system drainage",
+        "B": "Direct insertion through pipe wall",
+        "C": "Thermometers are not used",
+        "D": "External only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Thermowells enable thermometer removal for calibration or replacement without draining system.",
+        "B": "While direct insertion is possible, thermowells enable removal for service without system drainage.",
+        "C": "Thermometers are essential for monitoring system operation and troubleshooting temperature problems.",
+        "D": "While external thermometers work, immersion provides more accurate water temperature measurement."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "Why should piping be identified with labels or color coding?",
+      "options": {
+        "A": "To identify contents, flow direction, and operating temperature for safety and maintenance",
+        "B": "Only for decoration",
+        "C": "Identification is not necessary",
+        "D": "To confuse service personnel"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper identification enables safe maintenance and troubleshooting by clearly indicating system contents and characteristics.",
+        "B": "Identification serves critical safety and functional purposes; it's not merely decorative.",
+        "C": "Proper identification is required for safety and efficient maintenance enabling proper system service.",
+        "D": "Identification clarifies system layout for efficient service; it aids rather than confuses personnel."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "How should strainers be oriented?",
+      "options": {
+        "A": "With basket or screen accessible for cleaning without affecting pipe alignment",
+        "B": "Random orientation",
+        "C": "Strainers are not used",
+        "D": "Upside down always"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper orientation enables screen cleaning while maintaining pipe support and alignment.",
+        "B": "Strainer orientation affects cleanability and proper operation; correct positioning ensures accessibility.",
+        "C": "Strainers protect equipment from debris; proper installation and maintenance are essential.",
+        "D": "Specific orientation is required for proper drainage and cleaning; inverted installation may prevent effective operation."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "Why must air separators be installed vertically?",
+      "options": {
+        "A": "To enable air separation by velocity reduction and bubble rise",
+        "B": "Horizontal is required",
+        "C": "Orientation doesn't matter",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Vertical orientation allows air bubbles to rise naturally to vent while heavier water descends.",
+        "B": "Horizontal installation prevents proper air separation; vertical orientation is necessary for effective operation.",
+        "C": "Orientation critically affects air separation efficiency; proper vertical position ensures effective air removal.",
+        "D": "Orientation serves functional air removal purposes; it's not aesthetic consideration."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "How should expansion tank connections be made?",
+      "options": {
+        "A": "To system before pump on cold side with isolation valve for service",
+        "B": "After pump on hot side",
+        "C": "Random connection",
+        "D": "Tanks don't connect"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Connection before pump on return provides proper pressure reference while cooler water extends tank life.",
+        "B": "Connection after pump or on supply creates improper pressure reference; return side connection is preferred.",
+        "C": "Connection location affects pressure reference and tank operation; proper positioning is essential.",
+        "D": "Expansion tanks require proper connection for system pressure control and expansion accommodation."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "Why should zone valves be accessible?",
+      "options": {
+        "A": "To enable adjustment, replacement, and troubleshooting without demolition",
+        "B": "Access is not important",
+        "C": "Bury valves in walls",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Accessible valves enable efficient service and adjustment maintaining system operation without expensive demolition.",
+        "B": "Valve accessibility enables efficient maintenance; proper access planning prevents costly future service.",
+        "C": "Concealed valves prevent service access; valves should be accessible while not necessarily visible.",
+        "D": "Accessibility serves functional maintenance purposes; it's not primarily aesthetic consideration."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "How should flexible connectors be used?",
+      "options": {
+        "A": "To absorb vibration and allow equipment service without system modification",
+        "B": "Not used in hydronic systems",
+        "C": "For permanent piping only",
+        "D": "To replace proper piping"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flexible connectors isolate vibration and enable equipment removal without disturbing rigid piping.",
+        "B": "Flexible connectors are useful for vibration isolation and enabling equipment service in hydronic systems.",
+        "C": "Flexible connectors are specifically for connections between rigid piping and equipment, not permanent piping.",
+        "D": "Flexible connectors supplement rather than replace proper piping; they serve specific connection purposes."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.02 Installs piping and components for hydronic systems",
+      "question": "Why must pipe penetrations through floors be sealed and sleeved?",
+      "options": {
+        "A": "To maintain fire ratings, prevent moisture migration, and allow pipe movement",
+        "B": "Not necessary",
+        "C": "Only for appearance",
+        "D": "To restrict all movement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sleeves maintain fire protection, prevent moisture travel, and accommodate thermal expansion.",
+        "B": "Penetration protection is required for fire safety and moisture control; proper installation is mandatory.",
+        "C": "Sleeves and seals serve critical protection functions; they're not merely decorative.",
+        "D": "Sleeves accommodate necessary pipe movement while providing protection; they don't rigidly restrict expansion."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "What pressure should hydronic systems be tested at?",
+      "options": {
+        "A": "1.5 times working pressure or as specified, typically 350-500 kPa above operating",
+        "B": "Working pressure only",
+        "C": "No testing needed",
+        "D": "Maximum possible pressure"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Elevated test pressure stresses systems revealing leaks before operation without damaging properly installed components.",
+        "B": "Working pressure testing provides inadequate stress; elevated pressure reveals marginal connections.",
+        "C": "Pressure testing is essential verifying leak-free installation before operation and concealment.",
+        "D": "Excessive pressure damages components; specified test pressure provides adequate stress without damage risk."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "How long should pressure be maintained during testing?",
+      "options": {
+        "A": "Minimum 2 hours or per specifications allowing slow leaks to reveal themselves",
+        "B": "5 seconds only",
+        "C": "No time requirement",
+        "D": "Testing is instantaneous"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Extended test duration allows small leaks time to become apparent through pressure decay or visible leakage.",
+        "B": "Brief testing misses slow leaks; adequate duration reveals all system leaks.",
+        "C": "Test duration is specified ensuring slow leaks reveal themselves; adequate time is essential.",
+        "D": "Proper testing requires time for pressure stabilization and leak detection; instant testing is inadequate."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "Why should air be purged before pressure testing?",
+      "options": {
+        "A": "Air compressibility prevents accurate leak detection and pressure stabilization",
+        "B": "Air improves testing",
+        "C": "Air removal is not necessary",
+        "D": "Air should be added"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete water filling eliminates air compression allowing accurate pressure testing and leak detection.",
+        "B": "Air compressibility masks leaks and prevents stabilization; water-filled testing provides accurate results.",
+        "C": "Air removal is essential for valid testing; complete water filling enables accurate leak detection.",
+        "D": "Air should be eliminated, not added; water-filled systems provide accurate pressure testing."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "What verifies proper system flow?",
+      "options": {
+        "A": "Flow meters, temperature measurements, and operational testing",
+        "B": "Visual inspection only",
+        "C": "Flow cannot be verified",
+        "D": "No verification needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple methods verify adequate flow including direct measurement and temperature differential analysis.",
+        "B": "Visual inspection cannot verify flow rates; measurement is necessary for proper verification.",
+        "C": "Flow is verifiable through measurement and temperature analysis; proper tools enable verification.",
+        "D": "Flow verification ensures adequate circulation for heat transfer; testing confirms proper operation."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "How should air removal be verified?",
+      "options": {
+        "A": "By operating system and checking for air release at vents and proper circulation",
+        "B": "Air removal cannot be verified",
+        "C": "Visual inspection sufficient",
+        "D": "No verification needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "System operation reveals remaining air through vent discharge and improved circulation as air is removed.",
+        "B": "Air removal is verifiable through operational testing and vent observations during circulation.",
+        "C": "Visual inspection alone is inadequate; operational testing reveals air through vent discharge and circulation improvement.",
+        "D": "Air removal verification ensures proper circulation and heat transfer; testing confirms complete air elimination."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "What indicates proper pump operation?",
+      "options": {
+        "A": "Correct pressure differential, rated flow, and minimal noise or vibration",
+        "B": "No indicators exist",
+        "C": "Visual only",
+        "D": "Pumps always work"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper operation is verified through performance measurements and observation of smooth quiet operation.",
+        "B": "Multiple indicators reveal pump performance including pressure, flow, and operational characteristics.",
+        "C": "Visual inspection misses performance problems; measurement of pressure and flow verifies proper operation.",
+        "D": "Pumps can malfunction or perform inadequately; testing verifies proper operation meeting design requirements."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "Why should expansion tank pre-charge be verified?",
+      "options": {
+        "A": "To ensure proper pressure cushion preventing waterlogging and maintaining system pressure",
+        "B": "Pre-charge is irrelevant",
+        "C": "Any pressure works",
+        "D": "Testing is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper pre-charge ensures tank provides necessary pressure cushion without waterlogging reducing effectiveness.",
+        "B": "Pre-charge pressure critically affects tank operation; proper setting ensures effective expansion accommodation.",
+        "C": "Pre-charge must match system pressure for proper operation; incorrect pressure reduces tank effectiveness.",
+        "D": "Pre-charge verification ensures proper operation; testing confirms correct pressure for effective function."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "How should zone valve operation be tested?",
+      "options": {
+        "A": "By cycling valves and verifying proper opening, closing, and flow control",
+        "B": "Testing is not done",
+        "C": "Visual only",
+        "D": "Valves always work"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Operational testing verifies mechanical function and proper flow control to individual zones.",
+        "B": "Zone valve testing ensures proper zone control; verification confirms correct operation before occupancy.",
+        "C": "Visual inspection cannot verify internal operation; cycling and flow observation tests proper function.",
+        "D": "Zone valves can malfunction; testing verifies proper operation and zone control capability."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "What verifies proper system balancing?",
+      "options": {
+        "A": "Flow measurements and temperature readings at terminals matching design values",
+        "B": "Balancing cannot be verified",
+        "C": "No testing needed",
+        "D": "Visual inspection only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Measurement of flow and temperatures verifies each terminal receives proper flow for design heat transfer.",
+        "B": "Balancing is verifiable through systematic flow and temperature measurement throughout system.",
+        "C": "Balance verification ensures proper heat distribution; testing confirms adequate flow to all zones.",
+        "D": "Visual inspection cannot verify flow distribution; measurement confirms proper system balancing."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "Why should control operation be verified?",
+      "options": {
+        "A": "To ensure proper system response to temperature demands maintaining comfort",
+        "B": "Controls always work",
+        "C": "Testing is not needed",
+        "D": "Visual only sufficient"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Control testing verifies proper system response ensuring comfort and efficient operation.",
+        "B": "Controls can malfunction or be improperly set; testing verifies correct operation.",
+        "C": "Control verification ensures proper system response; testing confirms correct operation before occupancy.",
+        "D": "Visual inspection cannot verify control operation; functional testing confirms proper response."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "How should safety devices be tested?",
+      "options": {
+        "A": "By verifying proper operation under simulated or actual conditions",
+        "B": "Safety testing is not done",
+        "C": "Devices cannot be tested",
+        "D": "Visual only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Safety device testing confirms proper operation protecting equipment and occupants.",
+        "B": "Safety device testing is essential verifying protection; confirmation ensures safe operation.",
+        "C": "Safety devices are testable through operational verification; proper testing confirms protection.",
+        "D": "Visual inspection cannot verify safety device operation; functional testing confirms proper protection."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "What documentation should accompany system testing?",
+      "options": {
+        "A": "Test pressures, duration, results, repairs, and flow measurements",
+        "B": "No documentation needed",
+        "C": "Contractor name only",
+        "D": "Documentation is optional"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete test records document system integrity and provide reference for future service and troubleshooting.",
+        "B": "Comprehensive documentation is required for verification and provides essential maintenance reference.",
+        "C": "Contractor identification is one component; complete technical test data must be documented.",
+        "D": "Test documentation is mandatory for proving compliance and providing records for warranty and future service."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "Why should system be flushed before operation?",
+      "options": {
+        "A": "To remove debris and flux preventing equipment damage and flow restriction",
+        "B": "Flushing is not necessary",
+        "C": "To add contaminants",
+        "D": "Debris improves operation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flushing removes installation debris protecting pumps, valves, and heat exchangers from damage.",
+        "B": "Flushing is essential removing installation debris; clean systems operate properly and protect equipment.",
+        "C": "Flushing removes contaminants; the purpose is clean operation, not adding debris.",
+        "D": "Debris damages equipment and restricts flow; flushing removes unwanted material ensuring proper operation."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "How should insulation be verified?",
+      "options": {
+        "A": "By inspection for complete coverage and proper thickness throughout system",
+        "B": "Insulation inspection is not done",
+        "C": "Random check sufficient",
+        "D": "Visual at one point only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete inspection verifies continuous insulation coverage preventing heat loss and condensation.",
+        "B": "Insulation verification ensures energy efficiency and condensation control; inspection confirms proper installation.",
+        "C": "Systematic inspection throughout system ensures complete coverage; random checks miss gaps.",
+        "D": "Single-point inspection is inadequate; complete coverage verification throughout system is necessary."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "What indicates proper automatic fill valve operation?",
+      "options": {
+        "A": "Maintaining system pressure without continuous operation or leaking",
+        "B": "Continuous running",
+        "C": "No pressure maintained",
+        "D": "Constant leaking"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper operation maintains pressure when needed without continuous operation indicating proper setpoint and sealing.",
+        "B": "Continuous operation indicates problems with setpoint, leaking, or valve failure requiring adjustment or repair.",
+        "C": "Inability to maintain pressure reveals valve failure requiring repair or replacement.",
+        "D": "Leaking indicates valve failure; proper operation includes complete shutoff when pressure is reached."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "How should check valve operation be verified?",
+      "options": {
+        "A": "By confirming proper flow direction and no reverse flow when system stops",
+        "B": "Check valves cannot be tested",
+        "C": "Visual only",
+        "D": "Testing is not needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper operation allows forward flow and prevents reverse flow protecting equipment and maintaining system integrity.",
+        "B": "Check valve operation is testable through flow observation; proper testing confirms correct function.",
+        "C": "Visual inspection cannot verify internal operation; flow testing confirms proper check function.",
+        "D": "Check valve verification ensures proper operation protecting equipment; testing confirms correct function."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.03 Tests hydronic systems",
+      "question": "Why should temperature sensors be verified?",
+      "options": {
+        "A": "To ensure accurate readings for proper control and system operation",
+        "B": "Sensors always accurate",
+        "C": "Verification is not needed",
+        "D": "Visual inspection sufficient"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Sensor accuracy verification ensures proper control response maintaining comfort and efficiency.",
+        "B": "Sensors can be inaccurate or fail; verification ensures proper readings for correct control operation.",
+        "C": "Sensor verification ensures accurate control; testing confirms proper readings before system operation.",
+        "D": "Visual inspection cannot verify sensor accuracy; temperature comparison testing confirms proper operation."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "What causes air accumulation in hydronic systems?",
+      "options": {
+        "A": "Fresh water makeup, leaks allowing air entry, or incomplete initial venting",
+        "B": "Air accumulation never occurs",
+        "C": "Air is beneficial",
+        "D": "Sealed systems exclude air completely"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various sources introduce air requiring periodic venting to maintain proper circulation and heat transfer.",
+        "B": "Air accumulation occurs in all systems over time; periodic venting removes trapped air.",
+        "C": "Air restricts flow and reduces heat transfer; removal improves system performance.",
+        "D": "Even closed systems accumulate air from dissolved gases and minor leaks; periodic venting is necessary."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "How often should circulating pumps be serviced?",
+      "options": {
+        "A": "Annually or per manufacturer schedule including lubrication and coupling inspection",
+        "B": "Never need service",
+        "C": "Once per decade",
+        "D": "Service is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular service maintains pump efficiency and extends life through lubrication and wear monitoring.",
+        "B": "Pumps require periodic service maintaining performance; attention extends life and prevents failures.",
+        "C": "Decade-long intervals ignore maintenance needs; annual service is appropriate for most applications.",
+        "D": "Proper service extends pump life; neglect accelerates wear and causes premature failures."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "What indicates strainer cleaning is needed?",
+      "options": {
+        "A": "Increased pressure drop or reduced flow indicating debris accumulation",
+        "B": "Strainers never clog",
+        "C": "Cleaning is not needed",
+        "D": "Visual inspection impossible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure differential increase reveals strainer loading; cleaning restores proper flow and protects equipment.",
+        "B": "Strainers accumulate debris over time; periodic cleaning maintains proper flow and equipment protection.",
+        "C": "Regular strainer cleaning maintains flow and protects equipment; monitoring enables timely cleaning.",
+        "D": "Strainer condition is observable through pressure drop measurement; monitoring indicates cleaning needs."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "Why should expansion tank air charge be checked?",
+      "options": {
+        "A": "To maintain proper pressure cushion preventing waterlogging and pressure problems",
+        "B": "Air charge is permanent",
+        "C": "Checking is harmful",
+        "D": "Charge never changes"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Tanks lose air over time; periodic checking and recharging maintains proper system pressure control.",
+        "B": "Expansion tanks gradually lose air; periodic checking ensures continued proper operation.",
+        "C": "Air charge checking maintains proper operation; verification ensures effective expansion accommodation.",
+        "D": "All tanks lose air gradually; periodic checking and recharging maintains proper pressure control."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "What causes system leaks?",
+      "options": {
+        "A": "Corrosion, mechanical damage, or deteriorated seals requiring repair",
+        "B": "Leaks never occur",
+        "C": "Leaks are beneficial",
+        "D": "Sealed systems cannot leak"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various causes create leaks over time; proper diagnosis and repair prevents water damage and system problems.",
+        "B": "All systems can develop leaks from various causes; monitoring and repair maintains system integrity.",
+        "C": "Leaks waste water and introduce air; repair maintains proper operation and prevents damage.",
+        "D": "Even closed systems can develop leaks from corrosion or damage; monitoring and repair are necessary."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "How should water quality be maintained?",
+      "options": {
+        "A": "Through treatment preventing corrosion, maintaining proper pH, and inhibitor dosing",
+        "B": "Water quality doesn't matter",
+        "C": "No treatment needed",
+        "D": "Any water is acceptable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper water treatment prevents corrosion extending system life and maintaining efficiency.",
+        "B": "Water quality critically affects system longevity; proper treatment prevents corrosion and deposits.",
+        "C": "Water treatment prevents expensive corrosion damage; proper chemistry maintains system integrity.",
+        "D": "Untreated water causes corrosion and deposits; proper treatment protects system investment."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "What indicates zone valve problems?",
+      "options": {
+        "A": "Zones not responding, continuous operation, or no flow when valve should be open",
+        "B": "Valves never fail",
+        "C": "All operation is normal",
+        "D": "Problems are undetectable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various symptoms indicate valve malfunction; diagnosis and repair restores proper zone control.",
+        "B": "Zone valves experience mechanical and electrical failures; monitoring reveals problems requiring service.",
+        "C": "Symptoms reveal specific problems; observation enables appropriate service intervention.",
+        "D": "Zone valve problems produce clear symptoms; detection enables timely repair restoring control."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "Why should automatic air vents be serviced?",
+      "options": {
+        "A": "To clean deposits and verify proper air release and sealing",
+        "B": "Vents never need service",
+        "C": "Service is harmful",
+        "D": "Vents are maintenance-free"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Periodic cleaning removes deposits maintaining proper air release preventing water leakage.",
+        "B": "Air vents accumulate deposits affecting operation; service maintains proper air removal.",
+        "C": "Proper service maintains vent function; cleaning restores air release capability.",
+        "D": "All mechanical devices require service; air vents need periodic attention for continued proper operation."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "How should pressure relief valves be maintained?",
+      "options": {
+        "A": "By annual testing and replacement if defective or weeping",
+        "B": "Testing damages valves",
+        "C": "Relief valves last forever",
+        "D": "Maintenance is not needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Annual testing verifies operation while replacement of defective valves maintains safety protection.",
+        "B": "Proper testing verifies function without damage; annual verification maintains safety protection.",
+        "C": "Relief valves can fail or weep; testing and replacement maintains necessary safety protection.",
+        "D": "Relief valve testing ensures safety protection; verification confirms proper operation preventing dangerous pressure."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "What causes reduced heat output?",
+      "options": {
+        "A": "Air binding, low flow, fouled heat exchangers, or control problems",
+        "B": "Output never decreases",
+        "C": "Reduction is beneficial",
+        "D": "Cause is untraceable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple causes reduce heat transfer; systematic diagnosis identifies problems enabling correction.",
+        "B": "Various factors reduce heat output over time; diagnosis and correction restore proper operation.",
+        "C": "Reduced output indicates problems requiring attention; correction restores proper heating.",
+        "D": "Heat output reduction has identifiable causes; systematic diagnosis reveals problems for correction."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "How should system be winterized?",
+      "options": {
+        "A": "By complete drainage or antifreeze addition preventing freeze damage",
+        "B": "Winterization is not needed",
+        "C": "Leave water in system",
+        "D": "Freezing is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete drainage or proper antifreeze prevents expensive freeze damage in unheated spaces.",
+        "B": "Winterization prevents costly freeze damage in systems exposed to freezing temperatures.",
+        "C": "Water freezing causes expensive damage; proper winterization prevents system destruction.",
+        "D": "Freezing causes catastrophic damage; winterization protects investment during cold weather shutdowns."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "What indicates pump bearing wear?",
+      "options": {
+        "A": "Increased noise, vibration, or excessive motor current draw",
+        "B": "Bearings never wear",
+        "C": "All operation is normal",
+        "D": "Wear is undetectable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various symptoms indicate bearing deterioration; timely replacement prevents pump failure and damage.",
+        "B": "Bearings wear over time from operation; monitoring reveals deterioration enabling timely replacement.",
+        "C": "Symptoms reveal bearing problems; observation enables proactive maintenance preventing failures.",
+        "D": "Bearing wear produces clear symptoms; monitoring enables timely replacement before catastrophic failure."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "Why should balancing be verified periodically?",
+      "options": {
+        "A": "To ensure proper flow distribution as system changes or valves drift",
+        "B": "Balance never changes",
+        "C": "One-time balance sufficient",
+        "D": "Balance verification is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Systems change over time; periodic verification ensures continued proper flow distribution.",
+        "B": "Balance can drift from valve position changes or system modifications; verification maintains proper operation.",
+        "C": "Initial balancing may not persist; changes require verification and adjustment maintaining proper distribution.",
+        "D": "Balance verification maintains proper operation; checking enables adjustment restoring proper flow distribution."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "How should insulation be maintained?",
+      "options": {
+        "A": "By inspecting for damage and repairing gaps or deteriorated sections",
+        "B": "Insulation is permanent",
+        "C": "Maintenance is not needed",
+        "D": "Damage is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular inspection and repair maintains energy efficiency and condensation control.",
+        "B": "Insulation can be damaged or deteriorate; maintenance maintains effectiveness.",
+        "C": "Insulation inspection and repair maintains energy efficiency; attention prevents heat loss and condensation.",
+        "D": "Damaged insulation wastes energy and allows condensation; repair restores proper protection."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "What causes noise in hydronic systems?",
+      "options": {
+        "A": "Air in system, excessive velocity, cavitation, or loose components",
+        "B": "Noise is normal",
+        "C": "All operation is silent",
+        "D": "Causes are unknown"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various causes create noise; identification and correction restores quiet operation.",
+        "B": "Excessive noise indicates problems requiring attention; proper systems operate quietly.",
+        "C": "Some noise is normal but excessive noise reveals problems requiring correction.",
+        "D": "Noise causes are identifiable through systematic diagnosis; correction restores proper operation."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "Why should system performance be monitored?",
+      "options": {
+        "A": "To detect deterioration enabling proactive maintenance preventing failures",
+        "B": "Monitoring is unnecessary",
+        "C": "Performance never changes",
+        "D": "Monitoring is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Performance monitoring reveals developing problems enabling efficient preventive maintenance.",
+        "B": "Monitoring identifies problems early; attention enables cost-effective preventive maintenance.",
+        "C": "Performance degrades with age and use; monitoring reveals changes enabling timely intervention.",
+        "D": "Performance monitoring maintains efficiency; observation enables maintenance before failures."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "How should chemical treatment be managed?",
+      "options": {
+        "A": "Through regular testing and adjustment maintaining proper levels for corrosion control",
+        "B": "Treatment is not needed",
+        "C": "One treatment lasts forever",
+        "D": "Random chemical addition"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular water testing and treatment adjustment maintains corrosion protection extending system life.",
+        "B": "Chemical treatment prevents corrosion; proper management protects system investment.",
+        "C": "Treatment degrades over time; regular testing and adjustment maintains protection.",
+        "D": "Treatment management requires testing and systematic adjustment; random addition may damage system."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "What indicates control sensor failure?",
+      "options": {
+        "A": "Erratic operation, wrong temperature readings, or no system response",
+        "B": "Sensors never fail",
+        "C": "All operation is correct",
+        "D": "Failure is undetectable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various symptoms indicate sensor problems; testing and replacement restores proper control.",
+        "B": "Sensors can fail or drift; monitoring reveals problems requiring replacement.",
+        "C": "Symptoms reveal sensor problems; observation enables appropriate service intervention.",
+        "D": "Sensor failure produces clear symptoms; testing enables diagnosis and correction."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Installs, tests and services piping and components for hydronic systems",
+      "subtask": "F-17.04 Services hydronic systems",
+      "question": "Why should documentation be maintained?",
+      "options": {
+        "A": "To track maintenance, enable troubleshooting, and maintain warranty compliance",
+        "B": "Documentation is unnecessary",
+        "C": "Memory is sufficient",
+        "D": "Records are harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete records enable effective troubleshooting and demonstrate proper maintenance protecting warranties.",
+        "B": "Documentation provides valuable reference for service and protects warranty; records are essential.",
+        "C": "Written records provide reliable reference; memory is inadequate for tracking system history.",
+        "D": "Documentation aids service and protects investment; records enable effective maintenance and troubleshooting."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "What clearances are required for boiler installation?",
+      "options": {
+        "A": "Manufacturer and code-specified clearances for fire safety and service access",
+        "B": "No clearances needed",
+        "C": "Minimum spacing always",
+        "D": "Random placement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper clearances prevent fire hazards and enable necessary service access for maintenance.",
+        "B": "Clearances are mandatory for fire safety and service; proper spacing is code-required.",
+        "C": "Minimum clearances vary by equipment; manufacturer and code specifications must be followed.",
+        "D": "Clearance requirements are specified; proper spacing ensures safety and serviceability."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "How should boilers be supported?",
+      "options": {
+        "A": "On adequate structural support distributing weight and maintaining level",
+        "B": "Random support",
+        "C": "No support needed",
+        "D": "Suspended from ceiling only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper support distributes boiler weight to adequate structure while maintaining level for proper operation.",
+        "B": "Support must be adequate for boiler weight; proper design distributes loads appropriately.",
+        "C": "Boilers require proper support distributing significant equipment and water weight to structure.",
+        "D": "Floor support is standard; proper foundation distributes loads to structure without overloading."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "Why must boiler piping allow for expansion?",
+      "options": {
+        "A": "To accommodate thermal movement preventing pipe and connection stress",
+        "B": "Expansion doesn't occur",
+        "C": "Rigid connection is best",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper expansion accommodation prevents pipe stress and connection failures from thermal movement.",
+        "B": "Significant thermal expansion occurs in boiler piping; accommodation prevents damage from movement.",
+        "C": "Rigid connection prevents necessary expansion causing stress and failures; flexibility is required.",
+        "D": "Expansion accommodation serves functional stress prevention; it's not aesthetic consideration."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "What prevents boiler damage from short cycling?",
+      "options": {
+        "A": "Proper sizing, buffer tanks, or primary-secondary piping maintaining minimum run time",
+        "B": "Short cycling is beneficial",
+        "C": "No prevention needed",
+        "D": "Damage never occurs"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various methods prevent short cycling protecting boiler and improving efficiency through adequate run time.",
+        "B": "Short cycling reduces efficiency and accelerates wear; prevention extends life and improves performance.",
+        "C": "Short cycling prevention protects equipment; proper design ensures adequate run time.",
+        "D": "Short cycling causes thermal stress and inefficiency; prevention protects boiler investment."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "How should condensing boilers be drained?",
+      "options": {
+        "A": "To proper condensate drainage preventing corrosion and enabling disposal",
+        "B": "Drainage is not needed",
+        "C": "To anywhere",
+        "D": "Condensate should accumulate"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper condensate drainage prevents equipment corrosion while enabling appropriate acidic condensate disposal.",
+        "B": "Condensate drainage is essential for equipment protection; proper disposal prevents corrosion damage.",
+        "C": "Condensate requires proper disposal due to acidity; appropriate drainage protects equipment and drains.",
+        "D": "Condensate must be removed preventing equipment corrosion; accumulation damages boilers and piping."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "Why must boiler venting be properly sized?",
+      "options": {
+        "A": "To remove combustion products safely preventing backdrafting and carbon monoxide risks",
+        "B": "Vent sizing doesn't matter",
+        "C": "Smallest vent always",
+        "D": "Venting is not needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper vent sizing ensures safe combustion product removal preventing dangerous backdrafting.",
+        "B": "Vent sizing is critical for safety; inadequate sizing causes dangerous backdrafting.",
+        "C": "Undersized vents cause backdrafting; proper sizing ensures safe combustion product removal.",
+        "D": "Venting is essential for combustion product removal; proper installation ensures safe operation."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "What protects boilers from low return temperature?",
+      "options": {
+        "A": "Mixing valves or primary-secondary piping maintaining minimum return temperature",
+        "B": "Low temperature is beneficial",
+        "C": "No protection needed",
+        "D": "Temperature doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Minimum return temperature prevents condensation in non-condensing boilers protecting from corrosion.",
+        "B": "Low return temperature causes condensation and corrosion in conventional boilers; protection extends life.",
+        "C": "Return temperature protection prevents corrosion damage in non-condensing boilers; minimum temperature is essential.",
+        "D": "Return temperature critically affects conventional boiler longevity; protection prevents condensation corrosion."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "How should radiators be installed?",
+      "options": {
+        "A": "Level, properly supported, with air vents at high points and drain at low point",
+        "B": "Random orientation",
+        "C": "No support needed",
+        "D": "Vertical only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Level installation with proper venting and drainage enables effective operation and service.",
+        "B": "Specific orientation ensures proper operation; level installation with air venting is required.",
+        "C": "Radiators require proper support; adequate mounting prevents failures and enables proper operation.",
+        "D": "Radiators are typically horizontal; proper installation includes leveling, venting, and drainage provisions."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "Why must air handlers have drain pans?",
+      "options": {
+        "A": "To collect condensation preventing water damage to structure and contents",
+        "B": "Drain pans are not needed",
+        "C": "Only for decoration",
+        "D": "To collect heating water"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Drain pans with proper drainage protect structures from condensation damage during cooling operation.",
+        "B": "Drain pans are essential for cooling applications; condensation collection prevents water damage.",
+        "C": "Drain pans serve functional water collection; they protect against condensation damage.",
+        "D": "Drain pans collect condensation from cooling coils, not heating water; they prevent moisture damage."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "How should baseboard heaters be installed?",
+      "options": {
+        "A": "Level, at proper height, with adequate clearance for air circulation",
+        "B": "Random mounting",
+        "C": "On ceiling only",
+        "D": "Orientation doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper installation enables natural convection air circulation maximizing heat output.",
+        "B": "Specific installation ensures proper convection; level mounting with clearances maximizes output.",
+        "C": "Baseboard heaters mount near floor utilizing natural convection; ceiling mounting prevents proper operation.",
+        "D": "Orientation affects convection effectiveness; proper installation maximizes heat output."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "What electrical protection is required for heating equipment?",
+      "options": {
+        "A": "Proper circuit sizing, overcurrent protection, and disconnecting means",
+        "B": "No protection needed",
+        "C": "Any wiring works",
+        "D": "Protection is optional"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper electrical protection prevents fires and enables safe servicing meeting code requirements.",
+        "B": "Electrical protection is mandatory for safety; proper installation prevents fires and enables service.",
+        "C": "Electrical installations must meet code; proper sizing and protection ensure safe operation.",
+        "D": "Electrical protection is mandatory; proper installation protects equipment and enables safe service."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "Why must controls be properly wired?",
+      "options": {
+        "A": "To ensure safe reliable operation and enable proper system response",
+        "B": "Wiring doesn't matter",
+        "C": "Random connections work",
+        "D": "Controls don't need power"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper control wiring ensures safe operation and correct system response to temperature demands.",
+        "B": "Control wiring must follow diagrams; proper connections ensure safe correct operation.",
+        "C": "Improper wiring causes malfunctions or hazards; proper connections ensure safe operation.",
+        "D": "Most controls require electrical connections; proper wiring ensures safe reliable operation."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "How should radiant tubing be installed?",
+      "options": {
+        "A": "At proper spacing, secured adequately, with proper pressure testing",
+        "B": "Random spacing",
+        "C": "No securing needed",
+        "D": "Testing is not done"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Systematic installation with proper spacing and testing ensures effective heating and leak-free operation.",
+        "B": "Tubing spacing follows heat loss calculations; proper spacing ensures adequate heating.",
+        "C": "Tubing must be secured preventing movement during concrete placement or floor installation.",
+        "D": "Pressure testing is essential verifying leak-free installation before encasement making repairs impossible."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.01 Installs hydronic heating equipment",
+      "question": "What prevents overheating in hydronic systems?",
+      "options": {
+        "A": "High limit controls, pressure relief valves, and proper control operation",
+        "B": "Overheating is impossible",
+        "C": "No protection needed",
+        "D": "Overheating is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple safety devices prevent dangerous overheating protecting equipment and occupants.",
+        "B": "Control failures can cause overheating; safety devices provide necessary protection.",
+        "C": "Overheating protection is essential for safety; multiple devices prevent dangerous conditions.",
+        "D": "Overheating creates safety hazards and equipment damage; prevention protects people and property."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "What prevents condensation on chilled water piping?",
+      "options": {
+        "A": "Proper vapor barrier insulation preventing moisture infiltration",
+        "B": "Insulation is not needed",
+        "C": "Condensation is beneficial",
+        "D": "Condensation doesn't occur"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Vapor barrier insulation prevents moisture reaching cold surfaces eliminating condensation and water damage.",
+        "B": "Insulation is essential for condensation control; cold surfaces without protection cause damage.",
+        "C": "Condensation causes water damage and mold; prevention protects structures and maintains conditions.",
+        "D": "Cold surfaces below dew point cause condensation; proper insulation prevents moisture problems."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "How should chillers be installed?",
+      "options": {
+        "A": "On adequate structural support with proper clearances for service and air circulation",
+        "B": "Random placement",
+        "C": "No support needed",
+        "D": "Against walls only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper support and clearances enable safe operation, adequate air circulation, and necessary service access.",
+        "B": "Chiller placement must consider structural capacity, clearances, and serviceability.",
+        "C": "Chillers require substantial support; proper installation distributes weight to adequate structure.",
+        "D": "Clearances are required for air circulation and service; specific spacing ensures proper operation."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "Why must cooling coil condensate be properly drained?",
+      "options": {
+        "A": "To prevent overflow causing water damage and mold growth",
+        "B": "Drainage is not needed",
+        "C": "Condensate should accumulate",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper condensate drainage prevents water damage and mold growth maintaining healthy indoor conditions.",
+        "B": "Condensate drainage is essential preventing water damage; proper removal protects structures.",
+        "C": "Condensate must be removed continuously; accumulation causes overflow and water damage.",
+        "D": "Condensate drainage serves functional water removal; it protects against moisture damage."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "How should cooling towers be connected?",
+      "options": {
+        "A": "With proper piping, overflow, makeup water, and bleed provisions",
+        "B": "Random connections",
+        "C": "No connections needed",
+        "D": "Supply only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete connections enable proper tower operation including water makeup and chemical treatment.",
+        "B": "Cooling tower connections must enable operation and maintenance; proper piping ensures function.",
+        "C": "Multiple connections are essential for tower operation; makeup, overflow, and bleed are required.",
+        "D": "Towers require multiple connections including makeup, overflow, and drain; supply alone is insufficient."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "What prevents freezing in cooling systems?",
+      "options": {
+        "A": "Glycol antifreeze, heat trace, or complete drainage in cold climates",
+        "B": "Freezing is impossible",
+        "C": "No protection needed",
+        "D": "Freezing is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple methods prevent freeze damage in exposed or seasonally unused cooling systems.",
+        "B": "Cooling systems can freeze during winter or in cold locations; protection prevents damage.",
+        "C": "Freeze protection prevents expensive damage; proper measures protect equipment in cold conditions.",
+        "D": "Freezing causes catastrophic equipment damage; protection is essential in cold climates."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "Why must fan coils have proper drainage?",
+      "options": {
+        "A": "To remove condensation preventing overflow and water damage",
+        "B": "Drainage is not needed",
+        "C": "Water should accumulate",
+        "D": "Only for heating"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Condensate drainage from cooling coils prevents overflow protecting finishes and preventing mold.",
+        "B": "Fan coil condensate drainage is essential; proper removal prevents water damage during cooling.",
+        "C": "Condensate must drain continuously; accumulation causes overflow damaging structures.",
+        "D": "Drainage is specifically for cooling condensate removal; heating operation produces no condensate."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "How should air separators be installed in chilled water systems?",
+      "options": {
+        "A": "Vertically with proper venting enabling air removal and pump protection",
+        "B": "Horizontal only",
+        "C": "Air separators not used",
+        "D": "Random orientation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Vertical installation with venting enables effective air removal protecting pumps and improving heat transfer.",
+        "B": "Vertical orientation is preferred for effective air separation; horizontal reduces effectiveness.",
+        "C": "Air separators are important in chilled water systems preventing circulation and heat transfer problems.",
+        "D": "Orientation affects separation effectiveness; proper vertical installation maximizes air removal."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "What controls are required for cooling systems?",
+      "options": {
+        "A": "Temperature controls, safety limits, and sequencing for proper operation",
+        "B": "No controls needed",
+        "C": "Manual operation only",
+        "D": "Controls are optional"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper controls ensure comfort, safety, and efficient operation through automatic system management.",
+        "B": "Controls are essential for automatic operation and safety; proper installation ensures effective cooling.",
+        "C": "While manual control is possible, automatic controls improve comfort and efficiency.",
+        "D": "Controls are required for safe efficient operation; proper installation ensures automatic management."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "Why must cooling equipment be sized properly?",
+      "options": {
+        "A": "To meet cooling load without excessive cycling or inadequate capacity",
+        "B": "Any size works",
+        "C": "Largest always best",
+        "D": "Sizing doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sizing matches capacity to load preventing short cycling or inadequate cooling.",
+        "B": "Equipment must match cooling load; improper sizing causes comfort and efficiency problems.",
+        "C": "Oversized equipment short cycles reducing efficiency; proper sizing matches load requirements.",
+        "D": "Sizing critically affects comfort and efficiency; proper calculation ensures adequate cooling."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "How should strainers be installed in cooling systems?",
+      "options": {
+        "A": "Before pumps and equipment protecting from debris damage",
+        "B": "After equipment only",
+        "C": "Strainers not needed",
+        "D": "Random location"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Upstream strainer installation protects expensive equipment from debris damage.",
+        "B": "Strainers must be upstream protecting equipment; downstream placement provides no protection.",
+        "C": "Strainers protect equipment from debris; proper installation prevents expensive damage.",
+        "D": "Strainer location is critical for equipment protection; upstream placement provides necessary protection."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "What prevents low temperature freeze-up?",
+      "options": {
+        "A": "Low temperature cutouts, glycol solutions, or proper control operation",
+        "B": "Freeze-up is impossible",
+        "C": "No protection needed",
+        "D": "Freeze-up is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple protection methods prevent coil freezing protecting expensive equipment from damage.",
+        "B": "Cooling coils can freeze from low temperatures or control failures; protection prevents damage.",
+        "C": "Freeze protection prevents expensive equipment damage; proper safeguards are essential.",
+        "D": "Freezing causes catastrophic coil damage; prevention protects cooling equipment investment."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "Why must condensate drains have traps?",
+      "options": {
+        "A": "To overcome negative pressure preventing drain backup and airflow reversal",
+        "B": "Traps are not needed",
+        "C": "To block all drainage",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper traps maintain drainage against negative pressure while preventing air infiltration.",
+        "B": "Traps are essential for drainage against negative pressure; proper design enables condensate removal.",
+        "C": "Traps enable drainage while preventing backflow; they facilitate rather than block proper drainage.",
+        "D": "Traps serve functional drainage and air control; they're not decorative elements."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "How should vibration isolation be provided?",
+      "options": {
+        "A": "Using isolators or flexible connections preventing vibration transmission",
+        "B": "Rigid mounting only",
+        "C": "Isolation not needed",
+        "D": "Maximum vibration desired"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper isolation prevents vibration transmission reducing noise and preventing structural fatigue.",
+        "B": "Rigid mounting transmits vibration; isolation improves comfort and prevents structural problems.",
+        "C": "Vibration isolation improves comfort and protects structures; proper installation reduces transmission.",
+        "D": "Vibration causes discomfort and damage; isolation minimizes transmission protecting comfort and structures."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.02 Installs hydronic cooling equipment",
+      "question": "What electrical protection is required for cooling equipment?",
+      "options": {
+        "A": "Proper circuit sizing, overcurrent protection, and disconnect switches",
+        "B": "No protection needed",
+        "C": "Any wiring acceptable",
+        "D": "Protection is optional"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper electrical protection prevents fires, enables safe servicing, and meets code requirements.",
+        "B": "Electrical protection is mandatory for safety; proper installation prevents hazards.",
+        "C": "Electrical installations must meet code; proper sizing and protection ensure safe operation.",
+        "D": "Electrical protection is required; proper installation ensures safe equipment operation and service."
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "How should boiler combustion be tested?",
+      "options": {
+        "A": "Using flue gas analysis measuring efficiency and ensuring safe operation",
+        "B": "Testing is not done",
+        "C": "Visual inspection only",
+        "D": "Combustion cannot be tested"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Combustion analysis verifies proper air-fuel ratio ensuring efficient safe operation.",
+        "B": "Combustion testing ensures efficiency and safety; analysis verifies proper operation.",
+        "C": "Visual inspection cannot verify combustion quality; gas analysis measures actual performance.",
+        "D": "Combustion is testable through flue gas analysis; testing optimizes efficiency and ensures safety."
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "What verifies proper heat output?",
+      "options": {
+        "A": "Temperature measurements, flow rates, and heat transfer calculations",
+        "B": "Output cannot be verified",
+        "C": "Visual only",
+        "D": "No verification needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple measurements enable heat output calculation verifying equipment meets design capacity.",
+        "B": "Heat output is verifiable through systematic measurement and calculation methods.",
+        "C": "Visual inspection cannot quantify heat output; measurement enables performance verification.",
+        "D": "Heat output verification ensures adequate capacity; testing confirms proper equipment operation."
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "How should safety controls be tested?",
+      "options": {
+        "A": "By simulating conditions and verifying proper response and shutoff",
+        "B": "Safety testing is not done",
+        "C": "Controls cannot be tested",
+        "D": "Visual only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Safety control testing verifies proper protection; functional testing confirms correct operation.",
+        "B": "Safety control testing is essential verifying protection; confirmation ensures safe operation.",
+        "C": "Safety controls are testable through operational simulation; proper testing confirms protection.",
+        "D": "Visual inspection cannot verify safety control operation; functional testing confirms proper response."
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "What verifies proper chiller operation?",
+      "options": {
+        "A": "Temperature measurements, refrigerant pressures, and electrical readings",
+        "B": "Chillers cannot be tested",
+        "C": "Visual only",
+        "D": "No testing needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple measurements verify proper chiller operation and efficiency meeting specifications.",
+        "B": "Chiller operation is testable through systematic measurement; testing verifies proper performance.",
+        "C": "Visual inspection cannot verify chiller performance; measurement confirms proper operation.",
+        "D": "Chiller testing verifies proper operation; measurement confirms adequate cooling capacity."
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "How should pump performance be verified?",
+      "options": {
+        "A": "By measuring pressure differential and flow rate comparing to pump curve",
+        "B": "Performance cannot be verified",
+        "C": "Visual only",
+        "D": "No verification needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure and flow measurements enable comparison to manufacturer data verifying proper operation.",
+        "B": "Pump performance is verifiable through pressure and flow measurement methods.",
+        "C": "Visual inspection cannot quantify pump performance; measurement confirms proper operation.",
+        "D": "Pump performance verification ensures adequate circulation; testing confirms proper operation."
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "What verifies proper control response?",
+      "options": {
+        "A": "Operating equipment through temperature ranges and observing system response",
+        "B": "Controls cannot be tested",
+        "C": "Visual only",
+        "D": "No testing needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Operational testing throughout control range verifies proper system response to demands.",
+        "B": "Control response is testable through operational observation; testing verifies proper function.",
+        "C": "Visual inspection cannot verify control operation; functional testing confirms proper response.",
+        "D": "Control testing ensures proper response; verification confirms correct operation before occupancy."
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "How should electrical connections be verified?",
+      "options": {
+        "A": "By measuring voltages, currents, and verifying proper operation",
+        "B": "Electrical testing is not done",
+        "C": "Visual only",
+        "D": "Connections cannot be tested"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Electrical measurement verifies proper power supply and equipment operation meeting specifications.",
+        "B": "Electrical testing ensures proper power delivery; verification confirms correct connections.",
+        "C": "Visual inspection cannot verify electrical performance; measurement confirms proper operation.",
+        "D": "Electrical connections are testable through measurement; proper testing confirms safe operation."
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "What verifies proper vent operation?",
+      "options": {
+        "A": "Draft measurements and visual observation of combustion products removal",
+        "B": "Venting cannot be tested",
+        "C": "Visual only",
+        "D": "No testing needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Draft testing and observation verify proper combustion product removal ensuring safe operation.",
+        "B": "Vent operation is testable through draft measurement; testing confirms safe combustion product removal.",
+        "C": "Visual observation is one component; draft measurement quantifies proper vent operation.",
+        "D": "Vent testing ensures safe operation; verification confirms proper combustion product removal."
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "How should refrigerant charge be verified?",
+      "options": {
+        "A": "By measuring pressures, temperatures, and subcooling/superheat values",
+        "B": "Charge cannot be verified",
+        "C": "Visual only",
+        "D": "No verification needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple measurements verify proper refrigerant charge ensuring efficient chiller operation.",
+        "B": "Refrigerant charge is verifiable through systematic measurement methods.",
+        "C": "Visual inspection cannot verify charge quantity; measurement confirms proper refrigerant amount.",
+        "D": "Charge verification ensures efficient operation; testing confirms proper refrigerant quantity."
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "What verifies proper sequencing operation?",
+      "options": {
+        "A": "Observing equipment starts and stops according to programmed sequence",
+        "B": "Sequencing cannot be tested",
+        "C": "Visual only at one condition",
+        "D": "No testing needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Operational testing through various conditions verifies proper equipment sequencing.",
+        "B": "Sequencing is testable through operational observation; testing verifies proper control.",
+        "C": "Multiple condition testing is necessary; single observation is inadequate for sequence verification.",
+        "D": "Sequencing testing ensures proper control; verification confirms correct operation throughout range."
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "How should condensate drainage be verified?",
+      "options": {
+        "A": "By operating cooling and observing proper drainage without overflow",
+        "B": "Drainage cannot be tested",
+        "C": "Visual only when not operating",
+        "D": "No testing needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Operational testing verifies proper condensate removal preventing overflow and water damage.",
+        "B": "Drainage is testable through operational observation; testing confirms proper condensate removal.",
+        "C": "Static observation is inadequate; operational testing verifies drainage under actual conditions.",
+        "D": "Drainage testing prevents water damage; verification confirms proper condensate removal."
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "What verifies proper insulation installation?",
+      "options": {
+        "A": "Inspection for complete coverage, proper thickness, and vapor barrier integrity",
+        "B": "Insulation cannot be verified",
+        "C": "Random check only",
+        "D": "No verification needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Systematic inspection verifies proper insulation preventing energy loss and condensation.",
+        "B": "Insulation is verifiable through systematic inspection; verification ensures proper installation.",
+        "C": "Complete inspection is necessary; random checks miss deficiencies in coverage.",
+        "D": "Insulation verification ensures efficiency and condensation control; inspection confirms proper installation."
+      }
+    },
+    {
+      "questionNumber": 113,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.03 Tests hydronic equipment",
+      "question": "How should equipment capacity be documented?",
+      "options": {
+        "A": "Recording test measurements and comparing to specifications and calculations",
+        "B": "Documentation is not needed",
+        "C": "No comparison necessary",
+        "D": "Visual observation sufficient"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete documentation provides verification of capacity and reference for future service.",
+        "B": "Capacity documentation provides essential verification and maintenance reference.",
+        "C": "Specification comparison verifies proper operation; documentation confirms adequate capacity.",
+        "D": "Visual observation cannot quantify capacity; measurement and documentation verify performance."
+      }
+    },
+    {
+      "questionNumber": 114,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "What indicates boiler cleaning is needed?",
+      "options": {
+        "A": "Reduced efficiency, increased fuel use, or high stack temperatures",
+        "B": "Cleaning is never needed",
+        "C": "All operation is normal",
+        "D": "Cleaning is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various symptoms indicate fouling requiring cleaning; service restores efficiency.",
+        "B": "Boilers accumulate deposits reducing efficiency; periodic cleaning maintains performance.",
+        "C": "Performance degradation reveals cleaning needs; symptoms indicate maintenance requirements.",
+        "D": "Proper cleaning restores efficiency; deposits reduce performance requiring removal."
+      }
+    },
+    {
+      "questionNumber": 115,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "How often should combustion be tuned?",
+      "options": {
+        "A": "Annually or per manufacturer schedule maintaining efficiency and safety",
+        "B": "Tuning is never needed",
+        "C": "Once is sufficient forever",
+        "D": "Tuning is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Annual combustion tuning maintains efficiency and safety through proper air-fuel ratio.",
+        "B": "Combustion efficiency degrades over time; annual tuning maintains proper operation.",
+        "C": "Initial tuning doesn't persist; changes require periodic adjustment maintaining efficiency.",
+        "D": "Proper tuning improves efficiency and safety; adjustment restores proper combustion."
+      }
+    },
+    {
+      "questionNumber": 116,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "What causes reduced heat transfer efficiency?",
+      "options": {
+        "A": "Fouling, scaling, air binding, or low flow reducing heat transfer",
+        "B": "Efficiency never decreases",
+        "C": "Reduction is beneficial",
+        "D": "Causes are unknown"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple factors reduce efficiency; diagnosis and correction restores proper heat transfer.",
+        "B": "Heat transfer efficiency degrades from various causes; service maintains proper performance.",
+        "C": "Reduced efficiency wastes energy; correction improves performance and reduces costs.",
+        "D": "Efficiency reduction has identifiable causes; diagnosis enables appropriate correction."
+      }
+    },
+    {
+      "questionNumber": 117,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "Why should burners be serviced?",
+      "options": {
+        "A": "To maintain proper combustion, efficiency, and safety through cleaning and adjustment",
+        "B": "Burners never need service",
+        "C": "Service is harmful",
+        "D": "Burners are maintenance-free"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular burner service maintains efficient safe operation through cleaning and adjustment.",
+        "B": "Burners require periodic service; maintenance ensures continued proper safe operation.",
+        "C": "Proper service maintains efficiency and safety; cleaning and adjustment restore proper operation.",
+        "D": "All burners require periodic service; maintenance ensures continued safe efficient operation."
+      }
+    },
+    {
+      "questionNumber": 118,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "What indicates chiller refrigerant leaks?",
+      "options": {
+        "A": "Reduced cooling capacity, low refrigerant pressure, or electronic leak detector signals",
+        "B": "Leaks never occur",
+        "C": "All operation is normal",
+        "D": "Leaks are undetectable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various symptoms indicate refrigerant loss; detection and repair restores proper operation.",
+        "B": "Refrigerant leaks can develop from various causes; monitoring enables detection and repair.",
+        "C": "Performance degradation reveals leaks; symptoms indicate loss requiring repair.",
+        "D": "Leaks are detectable through performance observation and electronic detection; repair restores capacity."
+      }
+    },
+    {
+      "questionNumber": 119,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "How should heat exchangers be maintained?",
+      "options": {
+        "A": "Through periodic cleaning removing deposits and maintaining heat transfer",
+        "B": "Cleaning is never needed",
+        "C": "Cleaning is harmful",
+        "D": "Heat exchangers are self-cleaning"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular cleaning removes fouling restoring heat transfer efficiency and capacity.",
+        "B": "Heat exchangers accumulate deposits reducing efficiency; cleaning maintains performance.",
+        "C": "Proper cleaning restores efficiency; deposits reduce performance requiring removal.",
+        "D": "Heat exchangers require periodic cleaning; deposits accumulate requiring removal for efficiency."
+      }
+    },
+    {
+      "questionNumber": 120,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "What causes fan motor failures?",
+      "options": {
+        "A": "Bearing wear, overheating, electrical problems, or contamination",
+        "B": "Motors never fail",
+        "C": "Failure is beneficial",
+        "D": "Causes are unknown"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple causes lead to motor failure; monitoring enables preventive maintenance.",
+        "B": "Motors experience wear and failures; proper maintenance extends life.",
+        "C": "Motor failure disrupts operation; preventive maintenance reduces failure frequency.",
+        "D": "Motor failure causes are identifiable; diagnosis enables preventive maintenance."
+      }
+    },
+    {
+      "questionNumber": 121,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "How should coils be protected from freezing?",
+      "options": {
+        "A": "Through proper controls, glycol solutions, or heat trace preventing freeze damage",
+        "B": "Freezing is impossible",
+        "C": "No protection needed",
+        "D": "Freezing is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple protection methods prevent expensive coil freeze damage in cooling systems.",
+        "B": "Coils can freeze from control failures or low temperatures; protection prevents damage.",
+        "C": "Freeze protection prevents expensive damage; proper safeguards protect equipment investment.",
+        "D": "Freezing causes catastrophic coil damage; prevention protects cooling equipment."
+      }
+    },
+    {
+      "questionNumber": 122,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "Why should cooling towers be cleaned?",
+      "options": {
+        "A": "To remove biological growth, scale, and debris maintaining heat transfer",
+        "B": "Cleaning is not needed",
+        "C": "Growth is beneficial",
+        "D": "Towers are self-cleaning"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular cleaning prevents fouling maintaining heat transfer efficiency and preventing health hazards.",
+        "B": "Cooling towers accumulate deposits and biological growth; cleaning maintains performance and safety.",
+        "C": "Growth reduces efficiency and creates health hazards; cleaning maintains proper operation.",
+        "D": "Towers require periodic cleaning; accumulation reduces efficiency requiring removal."
+      }
+    },
+    {
+      "questionNumber": 123,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "What indicates compressor problems?",
+      "options": {
+        "A": "Unusual noise, excessive current draw, or inadequate cooling capacity",
+        "B": "Compressors never fail",
+        "C": "All operation is normal",
+        "D": "Problems are undetectable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various symptoms indicate compressor problems; early detection enables repair preventing complete failure.",
+        "B": "Compressors experience wear and failures; monitoring reveals problems requiring attention.",
+        "C": "Symptoms reveal compressor problems; observation enables appropriate service intervention.",
+        "D": "Compressor problems produce clear symptoms; monitoring enables timely repair."
+      }
+    },
+    {
+      "questionNumber": 124,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "How should filters be maintained?",
+      "options": {
+        "A": "Through regular inspection, cleaning, or replacement maintaining airflow",
+        "B": "Filters never need service",
+        "C": "Service is harmful",
+        "D": "Filters are permanent"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular filter service maintains airflow and equipment protection improving efficiency.",
+        "B": "Filters accumulate particulates requiring cleaning or replacement; service maintains performance.",
+        "C": "Proper filter maintenance improves efficiency; clogged filters reduce airflow and efficiency.",
+        "D": "Filters require periodic replacement; accumulated particles reduce effectiveness requiring service."
+      }
+    },
+    {
+      "questionNumber": 125,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "What causes control failures?",
+      "options": {
+        "A": "Sensor drift, electrical problems, mechanical wear, or software issues",
+        "B": "Controls never fail",
+        "C": "Failure is beneficial",
+        "D": "Causes are unknown"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple causes lead to control failures; diagnosis and correction restores proper operation.",
+        "B": "Controls experience failures from various causes; service maintains proper operation.",
+        "C": "Control failure disrupts operation; repair restores proper automatic control.",
+        "D": "Control failure causes are identifiable; diagnosis enables appropriate correction."
+      }
+    },
+    {
+      "questionNumber": 126,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "Why should system performance be benchmarked?",
+      "options": {
+        "A": "To establish baseline enabling detection of degradation and optimization opportunities",
+        "B": "Benchmarking is not needed",
+        "C": "Performance never changes",
+        "D": "Benchmarking is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Baseline data enables comparison revealing performance changes indicating maintenance needs or opportunities.",
+        "B": "Benchmarking provides essential reference for monitoring and optimization; data enables effective management.",
+        "C": "Performance degrades over time; benchmarking reveals changes enabling timely intervention.",
+        "D": "Benchmarking enables performance management; data supports optimization and maintenance planning."
+      }
+    },
+    {
+      "questionNumber": 127,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "How should seasonal equipment be prepared?",
+      "options": {
+        "A": "Through proper startup and shutdown procedures preventing damage during idle periods",
+        "B": "No preparation needed",
+        "C": "Leave equipment running",
+        "D": "Preparation is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper seasonal procedures protect equipment during off-seasons enabling reliable startup.",
+        "B": "Seasonal preparation prevents damage during idle periods; proper procedures protect equipment.",
+        "C": "Continuous operation during off-season wastes energy; proper shutdown protects equipment.",
+        "D": "Seasonal preparation protects equipment; proper procedures prevent damage during idle periods."
+      }
+    },
+    {
+      "questionNumber": 128,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs, tests and services hydronic heating and cooling equipment",
+      "subtask": "F-18.04 Services hydronic equipment",
+      "question": "Why should service records be maintained?",
+      "options": {
+        "A": "To track maintenance, enable troubleshooting, and maintain warranty compliance",
+        "B": "Records are not needed",
+        "C": "Memory is sufficient",
+        "D": "Documentation is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete records enable effective service and demonstrate maintenance protecting warranties.",
+        "B": "Service records provide essential maintenance history and protect warranty; documentation is critical.",
+        "C": "Written records provide reliable reference; memory is inadequate for equipment history.",
+        "D": "Records aid service and protect investment; documentation enables effective maintenance management."
+      }
+    }
+  ]
+}

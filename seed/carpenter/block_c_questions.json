@@ -1,0 +1,2696 @@
+{
+  "block": "C",
+  "blockTitle": "Performs Concrete Work",
+  "blockDescription": "Builds and strips formwork, places and cures concrete, and installs related concrete products.",
+  "totalQuestions": 128,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "What is the primary purpose of excavation shoring?",
+      "options": {
+        "A": "To improve drainage",
+        "B": "To prevent soil collapse and protect workers in excavations",
+        "C": "To mark property boundaries",
+        "D": "To support formwork only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While drainage may be managed in excavations, shoring's primary purpose is preventing cave-ins and protecting workers.",
+        "B": "Shoring systems prevent soil collapse into excavations, protecting workers from burial and creating safe working conditions in trenches and excavations.",
+        "C": "Property boundaries are marked separately; shoring provides structural support to excavation walls.",
+        "D": "Shoring supports soil, not formwork; formwork support systems are separate."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "At what depth must excavations typically be shored or sloped?",
+      "options": {
+        "A": "0.6 m (2 ft.)",
+        "B": "1.2 m (4 ft.)",
+        "C": "2.4 m (8 ft.)",
+        "D": "3.0 m (10 ft.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "0.6 m is too shallow; most jurisdictions don't require shoring at this minimal depth.",
+        "B": "Most jurisdictions require protective systems (shoring, sloping, or shielding) for excavations 1.2 m (4 ft.) or deeper to prevent cave-ins.",
+        "C": "2.4 m is already dangerously deep without protection; requirements begin at much shallower depths.",
+        "D": "3.0 m far exceeds the depth where protection becomes mandatory."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "What are the three main types of excavation protective systems?",
+      "options": {
+        "A": "Concrete, steel, and wood",
+        "B": "Shoring, sloping, and shielding",
+        "C": "Vertical, horizontal, and diagonal",
+        "D": "Temporary, permanent, and semi-permanent"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "These are materials, not protective system types.",
+        "B": "The three main protective systems are: shoring (supporting walls), sloping (angling walls back), and shielding (trench boxes protecting workers).",
+        "C": "These describe directions, not excavation protection methods.",
+        "D": "These describe duration categories, not excavation protection system types."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "What is underpinning in construction?",
+      "options": {
+        "A": "Foundation waterproofing",
+        "B": "Supporting and strengthening an existing foundation from below",
+        "C": "Installing drainage systems",
+        "D": "Excavating for new construction"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Waterproofing protects against moisture; underpinning provides structural support.",
+        "B": "Underpinning is the process of strengthening and supporting an existing foundation from beneath, often when excavating adjacent to or deepening existing basements.",
+        "C": "Drainage is separate from structural underpinning work.",
+        "D": "Underpinning specifically addresses existing foundations, not new construction excavation."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "What type of soil requires the most substantial shoring?",
+      "options": {
+        "A": "Stable rock",
+        "B": "Sandy or granular soil",
+        "C": "Dense clay",
+        "D": "All soils are the same"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stable rock often requires minimal or no shoring due to natural stability.",
+        "B": "Sandy and granular soils are unstable, flow easily, and require robust shoring systems to prevent rapid collapse.",
+        "C": "Dense clay is more cohesive than sand and generally more stable, requiring less extensive shoring.",
+        "D": "Different soil types have vastly different stability characteristics requiring different shoring approaches."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "What is a trench box (shield)?",
+      "options": {
+        "A": "A permanent foundation support",
+        "B": "A protective structure that shields workers but doesn't prevent cave-ins",
+        "C": "A concrete forming system",
+        "D": "An excavation tool"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Trench boxes are temporary worker protection, not permanent structural elements.",
+        "B": "Trench boxes (shields) are protective structures placed in excavations that shield workers from cave-ins but don't prevent soil from collapsing around the box.",
+        "C": "Trench boxes protect workers during excavation, not form concrete.",
+        "D": "Trench boxes are protective equipment, not excavation tools."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "How far must shoring extend above the excavation edge?",
+      "options": {
+        "A": "Not necessary to extend above",
+        "B": "At least 150 mm (6 in.)",
+        "C": "At least 300 mm (12 in.)",
+        "D": "At least 600 mm (24 in.)"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Shoring must extend above excavation edges to prevent soil sloughing and protect workers.",
+        "B": "150 mm is insufficient; greater height is needed for effective protection.",
+        "C": "300 mm provides some protection but is still below the typical requirement.",
+        "D": "Shoring should extend at least 600 mm (24 in.) above the excavation edge to prevent material from falling in and provide worker protection."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "What must be done before installing underpinning?",
+      "options": {
+        "A": "Begin excavating immediately",
+        "B": "Conduct structural assessment and develop engineered support plan",
+        "C": "Remove the existing foundation",
+        "D": "Install new footings first"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excavating without planning can cause foundation failure; engineering analysis is essential.",
+        "B": "Underpinning requires thorough structural assessment, engineering design, and detailed sequencing plan to prevent foundation failure during the process.",
+        "C": "The existing foundation must be supported, not removed, during underpinning.",
+        "D": "New footings are installed as part of underpinning, after planning and excavation, not before."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "What is soldier pile and lagging shoring?",
+      "options": {
+        "A": "A concrete forming technique",
+        "B": "Vertical steel piles with horizontal wood planks (lagging) between them",
+        "C": "A type of trench box",
+        "D": "A drainage system"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Soldier pile and lagging is a shoring system, not a concrete forming method.",
+        "B": "This system uses vertical steel H-piles (soldiers) driven or placed at intervals with horizontal wood planks (lagging) installed between them to retain soil.",
+        "C": "Trench boxes are pre-fabricated shields; soldier pile and lagging is a constructed retention system.",
+        "D": "This is a structural shoring system, not drainage."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "How should spoil piles be positioned relative to excavations?",
+      "options": {
+        "A": "Directly at the excavation edge for easy access",
+        "B": "At least 600 mm (2 ft.) from edge to prevent surcharge loading",
+        "C": "Anywhere on site",
+        "D": "Inside the excavation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Spoil at the edge creates dangerous surcharge loads that can cause cave-ins.",
+        "B": "Spoil piles must be set back at least 600 mm (2 ft.) from excavation edges to prevent surcharge loading that could trigger collapse.",
+        "C": "While spoil location varies, proximity to excavations must be controlled for safety.",
+        "D": "Spoil cannot be placed inside the excavation being worked."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.01 Erects excavation shoring & underpinning",
+      "question": "What is the purpose of cross-bracing in shoring systems?",
+      "options": {
+        "A": "To provide walkways",
+        "B": "To resist lateral soil pressure and prevent shoring from collapsing inward",
+        "C": "To mark depth measurements",
+        "D": "To support formwork"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cross-braces are structural members, not access platforms.",
+        "B": "Cross-bracing (walers and struts) resists lateral soil pressure, preventing shoring walls from collapsing inward and maintaining excavation integrity.",
+        "C": "Depth is measured separately; bracing provides structural support.",
+        "D": "Shoring supports soil; formwork has its own support system."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "What is concrete falsework?",
+      "options": {
+        "A": "Decorative concrete finishing",
+        "B": "Temporary support structure for concrete formwork and loads during construction",
+        "C": "Permanent concrete reinforcement",
+        "D": "A type of concrete mix"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Falsework is structural support, not finishing work.",
+        "B": "Falsework is the temporary structure (shores, scaffolding, beams) that supports formwork and wet concrete until it gains sufficient strength.",
+        "C": "Falsework is temporary, removed after concrete cures; reinforcement is permanent.",
+        "D": "Falsework is a support system, not a material or mix design."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "What loads must falsework be designed to support?",
+      "options": {
+        "A": "Only the formwork weight",
+        "B": "Dead load (concrete/forms), live load (workers/equipment), and impact loads",
+        "C": "Wind loads only",
+        "D": "No specific load requirements"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Formwork weight is only one component; fresh concrete and construction loads are substantial.",
+        "B": "Falsework must support dead loads (wet concrete, formwork), live loads (workers, equipment, material storage), and impact/dynamic loads from concrete placement.",
+        "C": "Wind may be a consideration but dead and live loads are the primary design factors.",
+        "D": "Falsework requires careful engineering for specific, substantial loads."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "What is the recommended safety factor for falsework design?",
+      "options": {
+        "A": "1.5:1",
+        "B": "2.0:1",
+        "C": "3.0:1 or greater",
+        "D": "No safety factor needed"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "1.5:1 is insufficient for the critical nature of falsework supporting heavy concrete loads.",
+        "B": "2.0:1 provides some margin but is generally lower than recommended for falsework.",
+        "C": "Falsework typically requires a safety factor of 3.0:1 or greater due to the critical nature of supporting heavy loads and protecting workers below.",
+        "D": "Safety factors are essential for falsework to account for material variations and unexpected loads."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "What is a common type of adjustable falsework support?",
+      "options": {
+        "A": "Concrete blocks",
+        "B": "Steel shores (adjustable post shores)",
+        "C": "Wooden stakes",
+        "D": "Sandbags"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Concrete blocks lack adjustability and adequate capacity for falsework loads.",
+        "B": "Adjustable steel shores (also called posts or props) provide variable height support with high load capacity, commonly used in slab and beam falsework.",
+        "C": "Wooden stakes are inadequate for the loads and precision required in falsework systems.",
+        "D": "Sandbags cannot provide the rigid, adjustable support needed for concrete formwork."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "How should falsework be positioned on supporting surfaces?",
+      "options": {
+        "A": "Directly on soil",
+        "B": "On firm, level base with adequate bearing (mudsills if needed)",
+        "C": "At any angle for convenience",
+        "D": "Elevated on blocks"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Direct soil bearing may be inadequate; base preparation and load distribution are essential.",
+        "B": "Falsework must rest on firm, level, adequately compacted surfaces with mudsills or base plates to distribute loads and prevent settlement or failure.",
+        "C": "Falsework must be plumb and level; angled shores reduce capacity and create instability.",
+        "D": "Random block elevation creates instability; proper base preparation and bearing is required."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "What is the purpose of horizontal beams (stringers) in slab falsework?",
+      "options": {
+        "A": "To mark elevations",
+        "B": "To distribute formwork and concrete loads to vertical shores",
+        "C": "To provide walkways",
+        "D": "To hold reinforcing steel"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Elevation is set during installation, but stringers primarily serve structural purposes.",
+        "B": "Stringers (joists/beams) span between vertical shores, distributing formwork and concrete loads from the deck to the supporting shores.",
+        "C": "While workers may walk on them, stringers are primarily load-bearing structural members.",
+        "D": "Reinforcing steel is supported by chairs and bolsters, not falsework stringers."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "When can falsework be removed after concrete placement?",
+      "options": {
+        "A": "Immediately after finishing",
+        "B": "After concrete reaches specified strength (typically 70-75% of design strength)",
+        "C": "After 24 hours regardless of conditions",
+        "D": "Whenever convenient"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fresh concrete has no strength; immediate removal would cause catastrophic failure.",
+        "B": "Falsework removal requires concrete to reach specified strength (typically 70-75% of design) verified by testing or approved curing time under proper conditions.",
+        "C": "Fixed time periods don't account for temperature and curing variations affecting strength gain.",
+        "D": "Removal timing is critical and must be based on concrete strength, not convenience."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "What is 'reshoring' in concrete construction?",
+      "options": {
+        "A": "Removing all shores permanently",
+        "B": "Installing new shores after removing formwork to support concrete until full strength",
+        "C": "Repairing damaged shores",
+        "D": "Adding decorative elements"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Reshoring involves installing new supports, not removing all support.",
+        "B": "Reshoring means removing formwork and original shores, then installing new shores to continue supporting the concrete slab until it reaches full design strength.",
+        "C": "While damaged shores should be replaced, reshoring specifically means supporting cured concrete after form removal.",
+        "D": "Reshoring is structural support, not decorative work."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "What hazard must be prevented when erecting multi-level falsework?",
+      "options": {
+        "A": "Paint fumes",
+        "B": "Progressive collapse from overloading or instability",
+        "C": "Noise pollution",
+        "D": "Color mismatches"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint fumes are not relevant to falsework erection hazards.",
+        "B": "Multi-level falsework requires careful design and bracing to prevent progressive collapse where failure of one member triggers cascading failure throughout the system.",
+        "C": "While noise may be present, the critical hazard is structural failure and collapse.",
+        "D": "Appearance is irrelevant; structural integrity and collapse prevention are the critical safety concerns."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "How should adjustable shores be extended?",
+      "options": {
+        "A": "To maximum extension always",
+        "B": "Within manufacturer's rated capacity and overlap specifications",
+        "C": "By welding extensions",
+        "D": "With rope ties"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Maximum extension reduces capacity; shores must be used within load ratings for actual extension.",
+        "B": "Shores must be extended within manufacturer specifications for overlap and must not exceed load capacity at the extension being used.",
+        "C": "Welding can compromise shore integrity and voids manufacturer ratings; proper adjustment mechanisms must be used.",
+        "D": "Rope ties cannot provide the rigid support required; proper mechanical extension is necessary."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.02 Erects concrete falsework",
+      "question": "What is the purpose of lateral bracing in falsework systems?",
+      "options": {
+        "A": "To provide storage shelves",
+        "B": "To prevent lateral movement and buckling of vertical shores",
+        "C": "To mark layout lines",
+        "D": "To support electrical conduit"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lateral bracing is structural, not for material storage.",
+        "B": "Lateral bracing prevents shores from buckling or shifting laterally under load, maintaining system stability and preventing collapse.",
+        "C": "Layout marking is separate from structural bracing functions.",
+        "D": "Conduit support is separate; bracing provides structural stability."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "What is the primary function of a footing?",
+      "options": {
+        "A": "To provide finished floor surface",
+        "B": "To spread building loads over a larger soil area",
+        "C": "To create architectural features",
+        "D": "To waterproof the foundation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Footings are below-grade structural elements, not finish floor surfaces.",
+        "B": "Footings distribute concentrated column or wall loads over a larger area, reducing bearing pressure on soil to prevent settlement.",
+        "C": "Footings are structural, not architectural; they're typically not visible in finished buildings.",
+        "D": "While waterproofing may be applied, footings primarily serve structural load distribution."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "What material is commonly used for simple footing forms?",
+      "options": {
+        "A": "Cardboard",
+        "B": "Dimensional lumber (2x stock)",
+        "C": "Plastic sheeting",
+        "D": "Metal studs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cardboard lacks the strength and rigidity needed to contain concrete in footings.",
+        "B": "Dimensional lumber (typically 2x8, 2x10, or 2x12 depending on depth) provides economical, strong, and rigid forming for footings.",
+        "C": "Plastic sheeting cannot provide the structural support needed for concrete forms.",
+        "D": "Metal studs are too flexible and not designed for concrete forming applications."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "How are footing forms typically held in position?",
+      "options": {
+        "A": "By their own weight",
+        "B": "Stakes driven into ground with spreaders maintaining width",
+        "C": "Glued in place",
+        "D": "Held by workers during pour"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Form weight alone is insufficient; concrete pressure would push forms outward.",
+        "B": "Stakes driven outside forms hold position, while spreaders maintain correct width and prevent forms from being pushed apart by concrete pressure.",
+        "C": "Gluing doesn't provide the strength needed to resist concrete pressure.",
+        "D": "Forms must be secured before pouring; manual holding is unsafe and impractical."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "What must be verified before pouring footings?",
+      "options": {
+        "A": "Forms are correct size, level/elevation, square, plumb, and braced",
+        "B": "Weather forecast only",
+        "C": "Concrete color",
+        "D": "Landscape plans"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Before pouring, verify dimensions match plans, elevations are correct, forms are square and plumb, and adequate bracing prevents movement during pour.",
+        "B": "Weather is a consideration but dimensional accuracy and form integrity are critical pre-pour checks.",
+        "C": "Concrete color is rarely relevant for footings which are buried; structural accuracy is critical.",
+        "D": "Landscaping is future work; footing verification focuses on structural accuracy."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "When can forms be removed from footings?",
+      "options": {
+        "A": "Immediately after concrete sets",
+        "B": "After concrete has sufficient strength to support itself without damage (typically 12-24 hours)",
+        "C": "After 7 days always",
+        "D": "Forms should never be removed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Initial set doesn't provide adequate strength; premature removal can damage corners and edges.",
+        "B": "Forms can be removed when concrete has hardened enough to maintain shape without damage, typically 12-24 hours depending on temperature and mix.",
+        "C": "Seven days is excessive for simple footing forms; earlier removal is typically safe.",
+        "D": "Forms are temporary and must be removed after adequate curing."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "What is a keyway in a footing?",
+      "options": {
+        "A": "A decorative edge treatment",
+        "B": "An indentation in the footing top to lock the wall above",
+        "C": "A drainage channel",
+        "D": "A form tie system"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Keyways serve structural purposes, not decoration; footings are buried.",
+        "B": "A keyway is a groove formed in the footing top (typically using beveled wood strips) that keys the wall above, preventing lateral movement.",
+        "C": "While drainage may exist, keyways specifically provide mechanical connection between footing and wall.",
+        "D": "Form ties hold forms together; keyways lock footing to wall above."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "How deep should footing excavations extend below finished grade?",
+      "options": {
+        "A": "Any depth is acceptable",
+        "B": "Below frost line per local code requirements",
+        "C": "Exactly 12 inches always",
+        "D": "Just below topsoil"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Footing depth is regulated to prevent frost heaving and ensure bearing on suitable soil.",
+        "B": "Footings must extend below the local frost depth to prevent frost heaving and must bear on undisturbed or properly compacted soil per code.",
+        "C": "Required depth varies by climate; frost depth determines minimum depth, not a fixed 12 inches.",
+        "D": "Shallow footings below only topsoil are inadequate; proper bearing soil and frost protection are required."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "What happens if footing forms are not properly braced?",
+      "options": {
+        "A": "Nothing - bracing is optional",
+        "B": "Forms can bow or shift during pour, creating undersized or misaligned footings",
+        "C": "Concrete will cure faster",
+        "D": "Only appearance is affected"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bracing is essential; unbraced forms will move under concrete pressure.",
+        "B": "Inadequate bracing allows concrete pressure to push forms out of position, creating footings that are too narrow, crooked, or misaligned, compromising structural integrity.",
+        "C": "Bracing doesn't affect curing rate; it maintains form position.",
+        "D": "Dimensional accuracy affects structural performance, not just appearance."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "What is a stepped footing?",
+      "options": {
+        "A": "A footing with decorative steps",
+        "B": "A footing that changes elevation in steps on sloped sites",
+        "C": "A footing used only for stairs",
+        "D": "A temporary support system"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stepped footings are functional for sloped terrain, not decorative.",
+        "B": "Stepped footings change elevation in horizontal steps on sloping sites, maintaining required depth below grade while following slope efficiently.",
+        "C": "Stepped footings are used on sloped sites for various structures, not exclusively for stairs.",
+        "D": "Stepped footings are permanent foundation elements, not temporary supports."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "Why must footing excavations be clean before placing concrete?",
+      "options": {
+        "A": "For aesthetic reasons only",
+        "B": "Debris, water, and loose soil compromise concrete bond and bearing capacity",
+        "C": "To prevent staining",
+        "D": "It's not necessary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Footings are buried; cleanliness serves structural purposes, not aesthetics.",
+        "B": "Water, mud, debris, and loose soil contaminate concrete, reduce bearing capacity, and prevent proper bond with reinforcing steel and soil.",
+        "C": "Staining is irrelevant for buried footings; structural integrity is the concern.",
+        "D": "Clean excavations are essential for proper concrete performance and structural capacity."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.03 Constructs footing forms",
+      "question": "What is the typical minimum width for a residential footing?",
+      "options": {
+        "A": "150 mm (6 in.)",
+        "B": "200 mm (8 in.)",
+        "C": "300 mm (12 in.)",
+        "D": "600 mm (24 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "150 mm is too narrow for adequate bearing and structural support.",
+        "B": "200 mm is insufficient for typical residential loads and soil conditions.",
+        "C": "Residential footings typically have a minimum width of 300 mm (12 in.) for adequate bearing, though actual sizing depends on loads and soil conditions.",
+        "D": "600 mm is wider than typical minimum requirements, though it may be needed for heavy loads or poor soil."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "What is the primary concern when forming concrete walls?",
+      "options": {
+        "A": "Concrete color",
+        "B": "Resisting lateral concrete pressure to maintain alignment and prevent blowouts",
+        "C": "Speed of construction only",
+        "D": "Decorative patterns"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color may matter for exposed walls but lateral pressure resistance is the critical forming concern.",
+        "B": "Wall forms must resist substantial lateral (sideways) concrete pressure without bowing, bulging, or bursting, requiring proper ties, walers, and bracing.",
+        "C": "While efficiency matters, structural integrity and preventing blowouts is the primary concern.",
+        "D": "Decorative elements are secondary to structural form integrity and pressure resistance."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "What are form ties used for in wall forming?",
+      "options": {
+        "A": "To mark layout lines",
+        "B": "To hold form panels at correct spacing and resist concrete pressure",
+        "C": "To provide drainage",
+        "D": "To attach finishes"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Form ties are structural fasteners, not layout markers.",
+        "B": "Form ties (snap ties, she-bolts, etc.) hold opposing form panels at the correct wall thickness apart and resist lateral concrete pressure during pour.",
+        "C": "Drainage is handled separately; ties maintain form spacing and resist pressure.",
+        "D": "Finishes are applied after forms are removed; ties are structural forming components."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "What is the maximum recommended concrete placement rate to prevent excessive form pressure?",
+      "options": {
+        "A": "As fast as possible always",
+        "B": "Controlled rate per engineer specifications (typically 1-1.5 m/hour vertically)",
+        "C": "No limit - forms can handle any rate",
+        "D": "1 meter per day"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Rapid placement creates excessive pressure exceeding form capacity and causing blowouts.",
+        "B": "Controlled placement rates (typically 1-1.5 m vertical per hour) allow concrete to begin setting, reducing pressure on lower form sections and preventing failure.",
+        "C": "All forms have pressure limits; uncontrolled rates can exceed capacity and cause failure.",
+        "D": "1 meter per day is extremely slow and impractical; typical rates are per hour with specific limits."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "What are walers in wall formwork?",
+      "options": {
+        "A": "Workers who install forms",
+        "B": "Horizontal members on form face that distribute tie loads",
+        "C": "Vertical reinforcing bars",
+        "D": "Concrete additives"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Walers are structural components, not workers (though the term may confuse).",
+        "B": "Walers (also called wales) are horizontal wood or steel members on the outside of forms that distribute loads from ties and prevent bulging between tie points.",
+        "C": "Reinforcing bars are separate from formwork; walers are forming components.",
+        "D": "Walers are structural lumber or steel, not concrete additives."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "What is a grade beam?",
+      "options": {
+        "A": "A beam used to level grades",
+        "B": "A reinforced concrete beam at or below grade connecting footings or piles",
+        "C": "A wooden grading tool",
+        "D": "A type of finish treatment"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Grade beams are structural elements, not leveling tools.",
+        "B": "Grade beams are reinforced concrete beams at or near grade level that tie together pile caps or spread footings, often supporting walls above.",
+        "C": "Grade beams are concrete structural members, not wooden tools.",
+        "D": "Grade beams are structural, not finish elements."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "How are wall forms typically aligned for plumb?",
+      "options": {
+        "A": "By eye estimation",
+        "B": "Using levels, plumb bobs, and bracing adjusted until vertical",
+        "C": "Wall forms don't need to be plumb",
+        "D": "Using only a tape measure"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual estimation is inadequate for the precision required in wall forming.",
+        "B": "Forms are checked with levels or plumb bobs and adjusted using bracing and wedges until precisely vertical before concrete placement.",
+        "C": "Plumb walls are essential for structural and aesthetic reasons; precise alignment is critical.",
+        "D": "Tape measures check dimensions but cannot verify vertical alignment like levels or plumb bobs."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "What causes most wall form failures?",
+      "options": {
+        "A": "Cold weather",
+        "B": "Inadequate bracing, improper tie spacing, or excessive pour rate",
+        "C": "Wrong concrete color",
+        "D": "Insufficient workers"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While weather affects concrete, form failures result from inadequate structural support.",
+        "B": "Form failures typically result from inadequate external bracing, ties spaced too far apart, or pouring too fast creating excessive pressure.",
+        "C": "Concrete color doesn't affect form structural integrity.",
+        "D": "Worker quantity doesn't cause structural failure; improper design and installation do."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "What is a form blowout?",
+      "options": {
+        "A": "Air escaping from concrete",
+        "B": "Catastrophic form failure where concrete bursts through forms",
+        "C": "Planned concrete discharge",
+        "D": "A finishing technique"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Air release is normal; blowouts are structural failures of formwork.",
+        "B": "A blowout occurs when forms fail under pressure, allowing concrete to burst through, creating safety hazards, material waste, and project delays.",
+        "C": "Blowouts are uncontrolled failures, not planned operations.",
+        "D": "Blowouts are catastrophic failures, not finishing techniques."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "What material is commonly used for wall form facing?",
+      "options": {
+        "A": "Drywall",
+        "B": "Plywood sheathing (form ply or HDO)",
+        "C": "Particle board",
+        "D": "Cardboard"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Drywall disintegrates when wet and cannot withstand concrete pressure.",
+        "B": "Form-grade plywood (especially High Density Overlay/HDO) provides smooth surfaces, strength, and moisture resistance for multiple reuses.",
+        "C": "Particle board lacks strength and water resistance needed for concrete forming.",
+        "D": "Cardboard cannot provide structural support or moisture resistance for wall forms."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "How should blockouts for windows or doors be secured in wall forms?",
+      "options": {
+        "A": "They float freely in the forms",
+        "B": "Fastened to forms and braced to maintain position during concrete pour",
+        "C": "Held by hand during pour",
+        "D": "Not installed until after pour"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Floating blockouts would shift during pour, creating misaligned or irregular openings.",
+        "B": "Blockouts must be securely fastened to form panels and adequately braced to resist concrete pressure and maintain exact position.",
+        "C": "Manual holding during pour is unsafe and impractical; secure fastening is required.",
+        "D": "Blockouts must be in place during pour to create openings; post-pour cutting is difficult and damages concrete."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.04 Constructs wall/grade beam forms",
+      "question": "What is the purpose of applying form release agent?",
+      "options": {
+        "A": "To strengthen concrete",
+        "B": "To prevent concrete from bonding to forms, facilitating easy removal",
+        "C": "To waterproof forms",
+        "D": "To color the concrete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Form release doesn't strengthen concrete; it affects only the bond between concrete and forms.",
+        "B": "Form release agents (oils or chemical releases) prevent concrete from sticking to forms, making removal easier and preserving form surfaces for reuse.",
+        "C": "Forms may be naturally moisture-resistant; release agents specifically prevent bonding, not water penetration.",
+        "D": "Release agents don't color concrete; they facilitate form removal."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.05 Constructs slab formwork",
+      "question": "What type of slab is formed on compacted fill or existing ground?",
+      "options": {
+        "A": "Suspended slab",
+        "B": "Slab-on-grade",
+        "C": "Elevated deck",
+        "D": "Waffle slab"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Suspended slabs are elevated and supported by beams or walls, not on ground.",
+        "B": "Slab-on-grade (or slab-on-ground) is cast directly on prepared, compacted soil or fill, commonly used for basements and ground floors.",
+        "C": "Elevated decks are above ground; slab-on-grade rests on earth.",
+        "D": "Waffle slabs have a specific ribbed pattern and may be elevated; this doesn't describe ground-supported slabs."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.05 Constructs slab formwork",
+      "question": "What is required beneath a slab-on-grade before pouring?",
+      "options": {
+        "A": "Nothing - pour directly on soil",
+        "B": "Compacted granular fill, vapor barrier, and often insulation",
+        "C": "Sand only",
+        "D": "Plastic sheeting only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Direct soil contact creates moisture problems and inadequate support; proper base preparation is essential.",
+        "B": "Proper base includes compacted granular fill for drainage and support, vapor barrier to prevent moisture migration, and often rigid insulation for thermal performance.",
+        "C": "Sand alone is insufficient; vapor barriers and proper compaction are needed.",
+        "D": "Vapor barrier is important but must be on proper compacted base; it's not the only requirement."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.05 Constructs slab formwork",
+      "question": "How are screeds used in slab forming?",
+      "options": {
+        "A": "To hold reinforcing steel",
+        "B": "As temporary guides for establishing correct slab elevation during placement",
+        "C": "To waterproof the slab",
+        "D": "To color concrete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Reinforcing is supported by chairs; screeds establish surface elevation.",
+        "B": "Screeds are straight guides (wood or metal) set at proper elevation that concrete finishers use to strike off excess concrete to correct height.",
+        "C": "Screeds are elevation guides; waterproofing uses different materials and methods.",
+        "D": "Screeds don't affect concrete color; they're leveling guides."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.05 Constructs slab formwork",
+      "question": "What is edge forming for slabs?",
+      "options": {
+        "A": "Decorative border finishing",
+        "B": "Vertical forms at slab perimeter defining thickness and containing concrete",
+        "C": "Reinforcement at edges",
+        "D": "Drainage channels"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Edge forms serve structural containment purposes, not decoration.",
+        "B": "Edge forms (typically lumber) are vertical barriers at slab edges that define thickness, contain concrete during pour, and are removed after initial set.",
+        "C": "Edge reinforcement is separate from forming; forms contain concrete during placement.",
+        "D": "Drainage may exist but edge forms primarily contain concrete and define slab perimeter."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.05 Constructs slab formwork",
+      "question": "How should control joints be formed in slabs?",
+      "options": {
+        "A": "Random cracks are acceptable",
+        "B": "Tooled grooves, saw cuts, or installed joint material creating weakened planes",
+        "C": "Joints are not necessary",
+        "D": "Only in decorative patterns"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Random cracks are uncontrolled and unsightly; control joints direct cracking to planned locations.",
+        "B": "Control joints are formed by tooling grooves while fresh, saw-cutting when partially cured, or installing joint formers, creating weakened planes where controlled cracking occurs.",
+        "C": "Control joints are essential to manage shrinkage cracking in concrete slabs.",
+        "D": "While joints create patterns, their primary purpose is crack control, not decoration."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.05 Constructs slab formwork",
+      "question": "What is typical control joint spacing for interior slabs?",
+      "options": {
+        "A": "1-2 meters",
+        "B": "3-4.5 meters (10-15 ft.)",
+        "C": "10-12 meters",
+        "D": "No specific spacing needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "1-2 meters is too close; joints would be excessive and unnecessary.",
+        "B": "Control joints in interior slabs typically space at 3-4.5 meters (10-15 ft.) or 2-3 times slab thickness in mm, whichever is less.",
+        "C": "10-12 meters is too far; uncontrolled random cracking would likely occur between joints.",
+        "D": "Proper spacing is critical for effective crack control; random spacing is ineffective."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.05 Constructs slab formwork",
+      "question": "What are isolation joints in slabs?",
+      "options": {
+        "A": "Cracks to be repaired",
+        "B": "Full-depth separations allowing independent movement between slab and adjoining structures",
+        "C": "Reinforcing steel placement",
+        "D": "Waterproofing details"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Isolation joints are intentional separations, not defects requiring repair.",
+        "B": "Isolation joints (expansion joints) provide full-depth separation with compressible filler, allowing slab to move independently from columns, walls, or other structures.",
+        "C": "Reinforcing steel is separate from joint design; joints manage movement.",
+        "D": "While joints may be sealed, their primary purpose is allowing independent movement."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.05 Constructs slab formwork",
+      "question": "How is slab thickness typically maintained during forming?",
+      "options": {
+        "A": "By guessing",
+        "B": "Using grade stakes, screed rails, or laser levels set to proper elevation",
+        "C": "Thickness doesn't matter",
+        "D": "By concrete weight alone"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Thickness must be precise per structural requirements; estimation is inadequate.",
+        "B": "Thickness is controlled by setting grade stakes, screed rails, or laser reference at design elevation, guiding placement and striking to exact depth.",
+        "C": "Slab thickness is critical for structural capacity and must meet design specifications.",
+        "D": "Concrete weight settles material but doesn't control thickness; screeding to guides determines thickness."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.05 Constructs slab formwork",
+      "question": "What is a suspended slab?",
+      "options": {
+        "A": "A slab resting on grade",
+        "B": "A slab supported by beams, walls, or columns with space below",
+        "C": "A temporary slab",
+        "D": "A decorative ceiling treatment"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Grade-supported slabs rest on earth; suspended slabs are elevated with space below.",
+        "B": "Suspended slabs are elevated floor systems supported by structural elements with accessible space below, requiring formwork and falsework.",
+        "C": "Suspended refers to support method, not temporary status; these are permanent structures.",
+        "D": "Suspended slabs are structural floor systems, not decorative elements."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.05 Constructs slab formwork",
+      "question": "What supports suspended slab forms during concrete placement?",
+      "options": {
+        "A": "The forms support themselves",
+        "B": "Falsework system of shores, joists, and decking",
+        "C": "Concrete hardens instantly",
+        "D": "No support needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Forms cannot support heavy wet concrete loads; substantial support structure is required.",
+        "B": "Suspended slabs require extensive falsework including vertical shores, horizontal joists/beams, and form decking to support concrete until it cures.",
+        "C": "Concrete requires hours to days to gain strength; support must be provided during this period.",
+        "D": "Massive support is essential; wet concrete and forms create substantial loads requiring engineered support."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.06 Constructs column formwork",
+      "question": "What shape are most column forms?",
+      "options": {
+        "A": "Always triangular",
+        "B": "Square, rectangular, or round depending on design",
+        "C": "Only octagonal",
+        "D": "Irregular shapes only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Triangular columns are rare; most are rectangular or round.",
+        "B": "Column forms are typically square or rectangular (formed with flat panels) or round (using fiber tubes or steel forms) as specified in structural design.",
+        "C": "Octagonal columns exist but are less common than square, rectangular, or round.",
+        "D": "Most columns use standard geometric shapes; irregular forms are exceptional."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.06 Constructs column formwork",
+      "question": "How are rectangular column forms held together?",
+      "options": {
+        "A": "Glue",
+        "B": "Column clamps or adjustable yokes spaced vertically",
+        "C": "Rope ties",
+        "D": "They are not restrained"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Glue cannot provide the strength needed to resist concrete pressure in columns.",
+        "B": "Column forms use metal clamps, adjustable yokes, or bands spaced vertically to resist lateral concrete pressure and maintain dimensions.",
+        "C": "Rope lacks the strength and rigidity needed; metal clamps or yokes are required.",
+        "D": "Column forms must be strongly restrained to prevent bulging under concrete pressure."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.06 Constructs column formwork",
+      "question": "What is a fiber tube column form?",
+      "options": {
+        "A": "A permanent structural element",
+        "B": "A disposable cardboard/fiber tube for forming round columns",
+        "C": "A steel reinforcing system",
+        "D": "A finishing tool"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fiber tubes are temporary forms removed or left as non-structural form liners.",
+        "B": "Fiber tube forms (Sonotubes®) are economical, single-use cylindrical forms made of laminated fiber for casting round columns.",
+        "C": "Fiber tubes are formwork; reinforcing steel is placed inside the tube.",
+        "D": "Fiber tubes are forming systems, not finishing tools."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.06 Constructs column formwork",
+      "question": "Why must column forms be plumb?",
+      "options": {
+        "A": "For appearance only",
+        "B": "To ensure proper load transfer and alignment with structure above",
+        "C": "Plumb is not necessary",
+        "D": "To save concrete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While appearance matters, structural alignment and load transfer are critical functional requirements.",
+        "B": "Plumb columns ensure vertical load transfer, proper alignment with beams/floors above, and structural integrity throughout the building.",
+        "C": "Plumb alignment is essential for structural performance; out-of-plumb columns compromise structure.",
+        "D": "Plumb relates to vertical alignment, not material savings."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.06 Constructs column formwork",
+      "question": "How is the top elevation of a column form established?",
+      "options": {
+        "A": "Random height",
+        "B": "Measured from benchmark to design elevation per drawings",
+        "C": "By the concrete truck capacity",
+        "D": "Estimated by eye"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Column height is precisely specified for structural reasons; random heights are unacceptable.",
+        "B": "Column top elevation is measured from established benchmarks or floor elevations to match structural drawings, ensuring proper connection to beams above.",
+        "C": "Concrete quantity is calculated from design; design determines height, not truck capacity.",
+        "D": "Visual estimation lacks precision; accurate measurement from benchmarks is required."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.06 Constructs column formwork",
+      "question": "What prevents column forms from floating up during concrete pour?",
+      "options": {
+        "A": "Forms are too heavy to float",
+        "B": "Forms are anchored to footing with nails, pins, or weighted",
+        "C": "Concrete weight holds them down",
+        "D": "Nothing - floating is acceptable"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Empty forms are relatively light; concrete pressure can lift unsecured forms.",
+        "B": "Column forms must be positively anchored to footings or previous concrete using nails, pins, weights, or bracing to prevent uplift during pour.",
+        "C": "Before concrete hardens, pressure can lift forms; positive anchoring is required.",
+        "D": "Form movement during pour creates dimensional problems and waste; secure anchoring is essential."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.06 Constructs column formwork",
+      "question": "Where should column clamps be spaced most closely?",
+      "options": {
+        "A": "At the top only",
+        "B": "At the bottom where concrete pressure is greatest",
+        "C": "Evenly spaced throughout",
+        "D": "Spacing doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Top has minimal pressure; bottom requires closest spacing due to maximum pressure.",
+        "B": "Concrete pressure increases with depth, so clamps/yokes must be spaced most closely at column bottom where pressure is greatest, with wider spacing above.",
+        "C": "While some designs use even spacing, optimal design concentrates support where pressure is highest - at the bottom.",
+        "D": "Spacing is critical; inadequate spacing allows bulging and dimensional problems."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.06 Constructs column formwork",
+      "question": "What is a column capital?",
+      "options": {
+        "A": "The column base",
+        "B": "An enlarged section at column top supporting beams or slabs",
+        "C": "Reinforcing steel",
+        "D": "A decorative feature only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "The base is the bottom; capital is the enlarged top section.",
+        "B": "A column capital is an enlarged section at the column top that increases bearing area for beams/slabs and often houses additional reinforcement.",
+        "C": "Capitals are concrete elements that may contain reinforcing; they're not the reinforcing itself.",
+        "D": "While capitals may be decorative, they primarily serve structural functions increasing load-bearing area."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.06 Constructs column formwork",
+      "question": "How long should column forms remain in place?",
+      "options": {
+        "A": "Until concrete reaches sufficient strength to support itself (typically 24-48 hours minimum)",
+        "B": "12 hours always",
+        "C": "Remove immediately after pour",
+        "D": "One week always"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Forms stay until concrete gains adequate strength (typically 24-48 hours minimum) to support itself without damage, though time varies with temperature and mix.",
+        "B": "Fixed time doesn't account for temperature variations affecting curing; minimum strength is the criterion.",
+        "C": "Immediate removal would damage fresh concrete; forms must stay until adequate strength develops.",
+        "D": "One week is conservative and may be unnecessarily long for many conditions."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.06 Constructs column formwork",
+      "question": "What is the purpose of a cleanout opening in column forms?",
+      "options": {
+        "A": "Decorative feature",
+        "B": "Access to remove debris and verify clean base before final concrete pour",
+        "C": "Drainage after pour",
+        "D": "Ventilation during curing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cleanouts serve functional purposes, not decoration.",
+        "B": "Cleanout openings (usually near bottom of tall forms) allow removal of debris and verification that the base is clean before the main pour.",
+        "C": "Drainage isn't needed after pour; cleanouts are for pre-pour cleaning.",
+        "D": "Curing doesn't require ventilation through forms; cleanouts are for debris removal before pouring."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.07 Constructs stair formwork",
+      "question": "What are the critical dimensions in stair formwork?",
+      "options": {
+        "A": "Color and texture",
+        "B": "Riser height and tread depth, which must be uniform",
+        "C": "Cost only",
+        "D": "Width only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color and texture are finishes; dimensional accuracy of risers and treads is critical.",
+        "B": "Uniform riser heights and tread depths are essential for safety and code compliance; variations cause tripping hazards.",
+        "C": "Cost is a consideration but safety and code compliance through accurate dimensions is critical.",
+        "D": "Width matters but riser and tread uniformity is the most critical dimensional consideration."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.07 Constructs stair formwork",
+      "question": "How are stair risers formed in concrete stairs?",
+      "options": {
+        "A": "Painted on after curing",
+        "B": "Vertical boards secured at each step creating step faces",
+        "C": "Not formed - cut later",
+        "D": "Carved by hand"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Risers are physical vertical faces, not surface treatments.",
+        "B": "Riser boards (vertical panels) are securely fastened at each step height, forming the vertical face of each step during concrete pour.",
+        "C": "Steps must be formed during pour; cutting afterward is impractical and damages concrete.",
+        "D": "Concrete cannot be carved into precise steps; forming during pour is required."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.07 Constructs stair formwork",
+      "question": "What supports the underside of concrete stairs during forming?",
+      "options": {
+        "A": "Air",
+        "B": "Sloped formwork (soffits) supported by braced shores or falsework",
+        "C": "The stairs support themselves",
+        "D": "Nothing needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stairs require substantial support; unsupported concrete would collapse.",
+        "B": "Stair soffits (undersides) require sloped formwork panels supported by shores, stringers, and bracing to carry wet concrete weight.",
+        "C": "Fresh concrete has no strength; extensive support structure is necessary.",
+        "D": "Concrete stairs create substantial loads requiring engineered support systems."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.07 Constructs stair formwork",
+      "question": "Why must stair formwork be especially rigid?",
+      "options": {
+        "A": "Aesthetic reasons only",
+        "B": "To prevent deflection creating uneven steps or dangerous variations in riser height",
+        "C": "To save materials",
+        "D": "Rigidity doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While appearance matters, safety through dimensional accuracy is the critical concern.",
+        "B": "Any deflection in stair forms creates riser height variations or tread depth changes that create serious tripping hazards; extreme rigidity is essential.",
+        "C": "Rigidity requires more materials, not less; safety justifies the investment.",
+        "D": "Rigidity is critical for safety; dimensional variations in stairs cause accidents."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.07 Constructs stair formwork",
+      "question": "What is a stair soffit?",
+      "options": {
+        "A": "The handrail system",
+        "B": "The underside (bottom surface) of the stair structure",
+        "C": "The top tread surface",
+        "D": "Decorative trim"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Handrails are separate from structural formwork; soffit is the underside.",
+        "B": "The soffit is the sloped underside of the stair that requires formwork support during concrete placement and curing.",
+        "C": "The top surface is the tread; soffit is the bottom surface.",
+        "D": "Soffit is structural, not decorative trim."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.07 Constructs stair formwork",
+      "question": "How are stair forms typically removed?",
+      "options": {
+        "A": "Immediately after concrete placement",
+        "B": "Carefully, starting with risers once concrete can support itself, leaving soffit supported longer",
+        "C": "With explosives",
+        "D": "Never removed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fresh concrete needs support; immediate removal would cause collapse.",
+        "B": "Riser forms can be removed when concrete is firm (24-48 hours), but soffit support must remain until concrete reaches adequate strength (often 7-14 days).",
+        "C": "Explosive removal would damage concrete; careful manual removal is required.",
+        "D": "Forms are temporary and must be removed after adequate curing."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.07 Constructs stair formwork",
+      "question": "What is the maximum allowable variation in riser heights?",
+      "options": {
+        "A": "25 mm (1 in.)",
+        "B": "10 mm (3/8 in.) typically",
+        "C": "50 mm (2 in.)",
+        "D": "No limit"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "25 mm variation is excessive and creates serious tripping hazards.",
+        "B": "Building codes typically limit riser height variation to approximately 10 mm (3/8 in.) maximum to prevent tripping hazards from irregular steps.",
+        "C": "50 mm variation is dangerous and violates code; much tighter tolerances are required.",
+        "D": "Strict limits exist because variations cause tripping; uniformity is legally required."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "What is the primary purpose of reinforcing steel (rebar) in concrete?",
+      "options": {
+        "A": "To add weight",
+        "B": "To resist tension forces, as concrete is weak in tension",
+        "C": "To color the concrete",
+        "D": "To speed curing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While rebar adds some weight, its purpose is structural reinforcement, not mass.",
+        "B": "Concrete is strong in compression but weak in tension; steel reinforcement resists tensile forces, creating a composite material that handles both.",
+        "C": "Rebar is embedded and invisible; it doesn't affect concrete color.",
+        "D": "Rebar doesn't affect curing rate; it provides tensile strength."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "What is concrete cover for reinforcing steel?",
+      "options": {
+        "A": "A protective coating on the rebar",
+        "B": "The minimum thickness of concrete between rebar and the surface",
+        "C": "A tarp over fresh concrete",
+        "D": "Decorative finish"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cover refers to concrete thickness, not rebar coating (though epoxy coating exists separately).",
+        "B": "Cover is the minimum concrete thickness between rebar and the nearest surface, protecting steel from corrosion and fire.",
+        "C": "Protective tarps are temporary curing covers, not the structural cover dimension.",
+        "D": "Cover is a structural specification, not a decorative treatment."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "What are rebar chairs used for?",
+      "options": {
+        "A": "Seating for workers",
+        "B": "Supporting rebar at proper elevation and spacing from forms",
+        "C": "Decorative elements",
+        "D": "Cutting tools"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Despite the name, chairs are small supports for rebar, not furniture.",
+        "B": "Rebar chairs (and bolsters) are supports that maintain proper rebar position and concrete cover during placement.",
+        "C": "Chairs are functional supports embedded in concrete, not visible decorative elements.",
+        "D": "Chairs support rebar; cutting uses different tools like bolt cutters or saws."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "How should rebar be tied together at intersections?",
+      "options": {
+        "A": "Not tied - left loose",
+        "B": "With tie wire or plastic zip ties to maintain position",
+        "C": "Welded always",
+        "D": "With duct tape"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Loose rebar shifts during concrete placement; ties maintain design positioning.",
+        "B": "Rebar intersections are tied with steel wire or approved plastic ties to maintain spacing and prevent displacement during concrete placement.",
+        "C": "Welding may be specified for some applications but tying is standard for conventional reinforcement.",
+        "D": "Tape lacks strength and durability; metal or plastic ties designed for the purpose are required."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "What is the standard lap length when splicing rebar?",
+      "options": {
+        "A": "Any overlap is acceptable",
+        "B": "Typically 30-40 times bar diameter or per engineering specifications",
+        "C": "Exactly 100 mm always",
+        "D": "Rebar cannot be spliced"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lap length is engineered to develop bar strength; random overlaps are inadequate.",
+        "B": "Lap splices typically require 30-40 bar diameters (or more for smaller bars or higher stresses) as specified by structural engineer to develop full bar strength.",
+        "C": "Required lap varies with bar size and stress; 100 mm is arbitrary and often inadequate.",
+        "D": "Lapping is a standard splicing method; bars can and must be spliced when continuous lengths aren't practical."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "What are anchor bolts used for in concrete?",
+      "options": {
+        "A": "Decorative purposes",
+        "B": "Fastening structural elements like sill plates or steel columns to concrete",
+        "C": "Reinforcing the concrete",
+        "D": "Drainage"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Anchor bolts are structural fasteners, not decorative elements.",
+        "B": "Anchor bolts embedded in concrete provide attachment points for wood sills, steel columns, equipment, or other structural elements.",
+        "C": "Rebar reinforces concrete; anchor bolts attach other elements to concrete.",
+        "D": "Anchor bolts are fasteners; drainage uses different systems."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "When must anchor bolts be placed during concrete pour?",
+      "options": {
+        "A": "After concrete fully cures",
+        "B": "While concrete is still plastic and workable",
+        "C": "Before forms are installed",
+        "D": "Anchor bolts are not embedded"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Post-cure installation requires drilling and epoxy or expansion anchors; cast-in bolts must be placed during pour.",
+        "B": "Cast-in-place anchor bolts must be positioned while concrete is workable, then held in position until concrete sets around them.",
+        "C": "Bolts are placed during or shortly after pour, not before forms are installed.",
+        "D": "Cast-in anchor bolts are embedded; post-installed anchors exist but cast-in is common practice."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "What is a common minimum concrete cover for rebar in slabs-on-grade?",
+      "options": {
+        "A": "5 mm",
+        "B": "20 mm (3/4 in.)",
+        "C": "50 mm (2 in.)",
+        "D": "150 mm (6 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "5 mm is far too thin to provide adequate protection from moisture and abrasion.",
+        "B": "20 mm is insufficient for slabs exposed to ground moisture and wear.",
+        "C": "Slabs-on-grade typically require 50 mm (2 in.) minimum cover on the bottom for corrosion protection and 20 mm on top for wear resistance.",
+        "D": "150 mm is excessive and would position rebar too deep to be effective."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "What is welded wire mesh (WWM) used for?",
+      "options": {
+        "A": "Fencing only",
+        "B": "Distributed reinforcement in slabs and pavements",
+        "C": "Formwork support",
+        "D": "Concrete finishing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While similar to fencing, WWM used in concrete is specifically designed for reinforcement.",
+        "B": "WWM provides distributed temperature and shrinkage reinforcement in slabs and pavements, resisting cracking from volume changes.",
+        "C": "WWM is reinforcement within concrete, not formwork support.",
+        "D": "WWM is embedded reinforcement, not a surface finishing material."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "How should rebar be stored on site?",
+      "options": {
+        "A": "Directly on muddy ground",
+        "B": "Off ground on supports, separated by size, protected from excessive rust",
+        "C": "Submerged in water",
+        "D": "Mixed randomly in piles"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ground contact causes excessive rust and contamination; elevation is necessary.",
+        "B": "Rebar should be elevated on supports to prevent ground contact, separated by size for easy identification, and kept reasonably clean.",
+        "C": "Submersion would cause excessive corrosion; protection from moisture is important.",
+        "D": "Organization by size is necessary for efficiency; random piling causes confusion and damage."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "What is the purpose of dowels between slabs and walls?",
+      "options": {
+        "A": "Decoration",
+        "B": "Load transfer and connection between pours while allowing movement",
+        "C": "Drainage",
+        "D": "Curing aid"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dowels are structural connection elements, not decorative features.",
+        "B": "Dowels transfer loads between concrete elements poured at different times while allowing some differential movement through smooth bar or sleeve details.",
+        "C": "Dowels connect structural elements; drainage uses different systems.",
+        "D": "Dowels provide structural connection; they don't affect curing process."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.08 Installs embedded reinforcements",
+      "question": "What happens if rebar is placed too close to the concrete surface?",
+      "options": {
+        "A": "Nothing - any position is acceptable",
+        "B": "Inadequate cover leads to corrosion, spalling, and structural weakness",
+        "C": "Concrete becomes stronger",
+        "D": "Only appearance is affected"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Rebar position is critical; inadequate cover causes serious deterioration.",
+        "B": "Insufficient cover exposes rebar to moisture and chemicals, causing rust that expands, cracks concrete (spalling), and reduces structural capacity.",
+        "C": "Proper positioning optimizes strength; too-shallow placement reduces durability and long-term performance.",
+        "D": "While spalling affects appearance, the primary concern is structural deterioration and safety."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "What determines when formwork can be safely removed?",
+      "options": {
+        "A": "Project schedule deadlines",
+        "B": "Concrete reaching specified strength through testing or approved curing time",
+        "C": "Weather conditions only",
+        "D": "Contractor preference"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While schedules matter, premature removal based on deadlines rather than strength causes failures.",
+        "B": "Formwork removal requires concrete to reach specified strength (verified by testing or approved curing period considering temperature) to safely support itself and anticipated loads.",
+        "C": "Weather affects curing rate but strength achievement, not just weather, determines removal timing.",
+        "D": "Engineering criteria, not preference, must govern form removal to prevent collapse."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "Which formwork components can typically be removed first?",
+      "options": {
+        "A": "All components simultaneously",
+        "B": "Vertical surfaces (walls, columns) before load-bearing horizontal forms (slabs, beams)",
+        "C": "Horizontal forms first always",
+        "D": "Removal order doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Staged removal allows safe inspection and prevents overloading partially cured concrete.",
+        "B": "Vertical forms can be removed earlier (24-48 hours) as they don't carry loads, while horizontal forms supporting weight must remain until adequate strength develops.",
+        "C": "Horizontal forms carry concrete weight and must remain longest; vertical forms are removed first.",
+        "D": "Removal sequence is critical for safety; vertical non-load-bearing forms before horizontal load-bearing forms."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "How should formwork be removed to avoid damaging concrete?",
+      "options": {
+        "A": "With heavy machinery pulling forms off rapidly",
+        "B": "Carefully, using wedges and pry bars, avoiding impact or shock loads",
+        "C": "With explosives for speed",
+        "D": "Forms should never be removed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Rapid pulling can tear concrete surfaces and break edges; careful removal is essential.",
+        "B": "Forms should be carefully loosened with wedges, removing fasteners systematically, avoiding impact that could damage corners, edges, or surfaces.",
+        "C": "Explosive removal would shatter concrete; careful manual removal protects the concrete.",
+        "D": "Forms are temporary and must be removed after adequate curing for reuse and to expose concrete."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "What should be done with reusable forms after removal?",
+      "options": {
+        "A": "Discard immediately",
+        "B": "Clean, repair damage, apply release agent, and store properly for reuse",
+        "C": "Leave them where they fall",
+        "D": "Burn for disposal"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Reusable forms are valuable equipment; discarding wastes resources.",
+        "B": "Forms should be cleaned of concrete residue, damaged areas repaired, release agent applied, and stored flat to maintain quality for multiple uses.",
+        "C": "Proper storage protects forms from damage and maintains site safety and organization.",
+        "D": "Burning destroys valuable reusable equipment and may violate environmental regulations."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "What hazard must be prevented during form removal?",
+      "options": {
+        "A": "Excessive noise only",
+        "B": "Forms or shores falling on workers or premature concrete failure",
+        "C": "Paint fumes",
+        "D": "Sunburn"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While noise may be present, falling forms and concrete collapse are the critical hazards.",
+        "B": "Form removal creates falling object hazards and risk of premature concrete failure if removal is too early or improperly sequenced.",
+        "C": "Paint is not used during form removal; falling forms and structural failure are the dangers.",
+        "D": "Sun exposure may occur but falling forms and structural collapse are the primary removal hazards."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "What is 'stripping' in concrete work?",
+      "options": {
+        "A": "Removing paint from forms",
+        "B": "Removing formwork from cured concrete",
+        "C": "Removing reinforcing steel",
+        "D": "Surface grinding"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint removal is different; stripping specifically means removing formwork.",
+        "B": "Stripping (or striking) forms means removing formwork from concrete after adequate curing, exposing the finished concrete surface.",
+        "C": "Reinforcing steel remains embedded; forms are what's removed during stripping.",
+        "D": "Surface grinding is a finishing operation; stripping refers to form removal."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "How should form ties be addressed during removal?",
+      "options": {
+        "A": "Leave all tie ends exposed",
+        "B": "Snap or cut tie ends at proper depth, patch holes if required",
+        "C": "Pull ties completely through concrete",
+        "D": "Ignore them"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Exposed tie ends create corrosion points and unsightly surface defects.",
+        "B": "Snap ties break at designed points leaving minimal metal; rod ties are cut back, and holes may be patched for appearance or moisture protection.",
+        "C": "Pulling ties through creates large holes damaging concrete; ties should break/cut at designed points.",
+        "D": "Tie ends must be addressed to prevent corrosion and for appearance."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "What inspection should occur immediately after form removal?",
+      "options": {
+        "A": "No inspection needed",
+        "B": "Check for surface defects, proper dimensions, and structural adequacy",
+        "C": "Only check color",
+        "D": "Wait weeks before inspection"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Immediate inspection identifies problems while repairs are most practical.",
+        "B": "Forms should be checked for honeycomb, voids, cracks, dimensional accuracy, and alignment immediately after stripping while repairs are easiest.",
+        "C": "Color is minor; structural integrity and dimensional accuracy are critical inspection points.",
+        "D": "Immediate inspection allows prompt correction; delayed inspection makes repairs more difficult."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "What minimum concrete strength is typically required before removing slab forms?",
+      "options": {
+        "A": "10% of design strength",
+        "B": "50% of design strength",
+        "C": "70-75% of design strength or as engineered",
+        "D": "100% always required"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "10% is far too low; concrete cannot support itself and construction loads at this strength.",
+        "B": "50% may be insufficient for safe load support; higher strength is typically required.",
+        "C": "Slab forms typically require 70-75% of design strength (or engineer's specification) to safely support self-weight and anticipated construction loads.",
+        "D": "While conservative, 100% is not always necessary if engineering analysis shows adequate capacity at lower strength."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "Why must some shores be left in place or reshoring installed?",
+      "options": {
+        "A": "For decorative purposes",
+        "B": "To continue supporting concrete until it reaches full design strength",
+        "C": "To mark the area",
+        "D": "Shores should always be removed immediately"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Shores are structural supports, not decorative elements.",
+        "B": "Reshoring supports recently stripped concrete that can hold its shape but hasn't reached full strength to support all anticipated loads including upper floors.",
+        "C": "Shores provide structural support; area marking uses different methods.",
+        "D": "Critical shores must remain or be replaced to prevent premature loading and failure."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "What weather consideration affects form removal timing?",
+      "options": {
+        "A": "Wind direction",
+        "B": "Cold temperatures slow curing requiring longer form support periods",
+        "C": "Humidity only",
+        "D": "Weather has no effect"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wind direction has minimal effect on curing rate and form removal timing.",
+        "B": "Cold weather significantly slows concrete strength gain, requiring forms to remain in place longer; hot weather accelerates curing allowing earlier removal.",
+        "C": "While humidity affects surface curing, temperature is the primary weather factor affecting strength gain and removal timing.",
+        "D": "Temperature dramatically affects curing rate and must be considered when planning form removal."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "What documentation should be maintained for formwork removal?",
+      "options": {
+        "A": "No documentation needed",
+        "B": "Date of removal, concrete age, test results or curing conditions",
+        "C": "Only worker names",
+        "D": "Color photographs only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Documentation provides critical record for quality control and potential future reference.",
+        "B": "Records should include removal dates, concrete age, strength test results if performed, temperature history, and engineer approval when required.",
+        "C": "While worker records may exist, technical data about concrete condition is the critical documentation.",
+        "D": "Photos may supplement records but technical data about strength and timing is essential documentation."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Constructs formwork",
+      "subtask": "C-8.09 Dismantles formwork",
+      "question": "What tool is commonly used to loosen forms stuck to concrete?",
+      "options": {
+        "A": "Hammer directly against concrete",
+        "B": "Wooden or plastic wedges driven carefully to avoid damaging concrete",
+        "C": "Explosives",
+        "D": "Water jets"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hammering directly on concrete can cause chips, cracks, and surface damage.",
+        "B": "Wooden or plastic wedges driven gently between forms and concrete create separation without damaging the concrete surface.",
+        "C": "Explosives would destroy the concrete; careful manual methods are required.",
+        "D": "Water jets are not effective for form removal and may cause surface damage."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.01 Places concrete",
+      "question": "What is the maximum free-fall height when placing concrete?",
+      "options": {
+        "A": "Any height is acceptable",
+        "B": "Approximately 1.5 m (5 ft.) to prevent segregation",
+        "C": "10 m (30 ft.)",
+        "D": "No limit with chutes"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excessive drop height causes segregation where aggregates separate from cement paste.",
+        "B": "Free-fall should be limited to approximately 1.5 m (5 ft.) to prevent segregation; greater heights require drop chutes or elephant trunks.",
+        "C": "10 m drop would cause severe segregation and honeycombing; controlled placement is required.",
+        "D": "Even with chutes, drop height must be controlled to prevent segregation at the discharge point."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.01 Places concrete",
+      "question": "How should concrete be consolidated after placement?",
+      "options": {
+        "A": "Left alone to settle naturally",
+        "B": "Vibrated with immersion vibrators to eliminate air voids",
+        "C": "Hit with hammers",
+        "D": "Stirred with shovels"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Natural settling leaves air voids creating weak, porous concrete; mechanical consolidation is essential.",
+        "B": "Internal vibrators (poker vibrators) inserted systematically consolidate concrete, removing air voids and ensuring proper flow around reinforcement.",
+        "C": "Hammering forms (external vibration) has limited effect; internal vibration is more effective for consolidation.",
+        "D": "Stirring doesn't consolidate effectively and can cause segregation; proper vibration is required."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.01 Places concrete",
+      "question": "What is honeycombing in concrete?",
+      "options": {
+        "A": "A decorative finish pattern",
+        "B": "Voids and gaps from inadequate consolidation leaving exposed aggregate",
+        "C": "Proper concrete texture",
+        "D": "Intentional roughening"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Honeycombing is a defect, not an intentional decorative treatment.",
+        "B": "Honeycombing is a defect showing interconnected voids and exposed aggregate from inadequate vibration, form leakage, or excessive aggregate size.",
+        "C": "Honeycombing is a serious defect reducing strength and durability, not proper texture.",
+        "D": "Surface roughening is controlled; honeycombing is an uncontrolled defect."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.01 Places concrete",
+      "question": "When should concrete placement be avoided?",
+      "options": {
+        "A": "Never - always place concrete",
+        "B": "During freezing temperatures without protection, or during heavy rain",
+        "C": "On Mondays only",
+        "D": "During summer"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Certain conditions compromise concrete quality and placement should be delayed or protected.",
+        "B": "Freezing temperatures damage fresh concrete, and heavy rain dilutes surface cement causing weakness; protection or delay is necessary.",
+        "C": "Day of week is irrelevant; weather conditions and concrete temperature are the concerns.",
+        "D": "Summer placement is common; proper curing addresses hot weather concerns."
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.01 Places concrete",
+      "question": "What is the purpose of construction joints in concrete placement?",
+      "options": {
+        "A": "Decorative elements",
+        "B": "Planned stopping points allowing concrete to bond when placement resumes",
+        "C": "Defects to be avoided",
+        "D": "Drainage channels"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Construction joints are functional necessities, not decorative features.",
+        "B": "Construction joints are planned locations where placement stops and resumes, prepared to achieve proper bond between successive pours.",
+        "C": "Construction joints are intentional and necessary; unplanned cold joints are the defects to avoid.",
+        "D": "Drainage is handled separately; construction joints manage placement sequencing."
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.01 Places concrete",
+      "question": "What is a cold joint?",
+      "options": {
+        "A": "A joint formed in cold weather",
+        "B": "An unplanned weak joint where concrete has begun setting before next placement",
+        "C": "A properly prepared construction joint",
+        "D": "A temperature control joint"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cold joints can occur in any weather; the term refers to concrete setting, not temperature.",
+        "B": "Cold joints are weak bonds formed when fresh concrete is placed against concrete that has already begun to set, creating a plane of weakness.",
+        "C": "Properly prepared construction joints are acceptable; cold joints are defects from unplanned delays.",
+        "D": "Cold joints are placement defects, not intentional temperature control features."
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.01 Places concrete",
+      "question": "How should concrete be placed on slopes?",
+      "options": {
+        "A": "Pour from top and let it flow down",
+        "B": "Start at bottom and work upward, preventing segregation",
+        "C": "Random placement",
+        "D": "Slopes cannot have concrete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Top-down placement allows concrete to flow, causing severe segregation.",
+        "B": "Sloped placement should start at the lowest point and work upward in lifts, preventing flow and segregation while maintaining consolidation.",
+        "C": "Systematic placement from bottom up is required to prevent segregation; random placement causes defects.",
+        "D": "Slopes can be concreted using proper bottom-up placement techniques."
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.02 Facilitates curing of concrete",
+      "question": "What is the purpose of curing concrete?",
+      "options": {
+        "A": "To change concrete color",
+        "B": "To maintain moisture and temperature for proper hydration and strength gain",
+        "C": "To speed up construction only",
+        "D": "Curing is optional"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Curing affects strength development, not color change.",
+        "B": "Curing maintains adequate moisture and temperature allowing cement hydration to continue, developing strength and durability.",
+        "C": "While curing timing affects schedule, its primary purpose is ensuring proper strength development.",
+        "D": "Curing is essential for achieving specified strength and durability; it's never optional."
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.02 Facilitates curing of concrete",
+      "question": "What is a common method of moist curing concrete slabs?",
+      "options": {
+        "A": "Leaving them exposed to air",
+        "B": "Covering with plastic sheeting or applying wet burlap/curing compound",
+        "C": "Painting immediately",
+        "D": "No treatment needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Air exposure allows rapid moisture loss, preventing proper curing and reducing strength.",
+        "B": "Plastic sheeting retains moisture, wet burlap provides continuous moisture, and curing compounds seal the surface, all maintaining moisture for hydration.",
+        "C": "Painting is a finish applied after curing; it doesn't provide curing moisture retention.",
+        "D": "Active moisture retention is essential; untreated concrete dries too quickly reducing strength."
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.02 Facilitates curing of concrete",
+      "question": "What is the minimum recommended curing period for concrete?",
+      "options": {
+        "A": "24 hours",
+        "B": "3 days",
+        "C": "7 days minimum (longer in cold weather)",
+        "D": "No minimum required"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "24 hours is far too short; significant strength gain continues well beyond one day.",
+        "B": "3 days is better than one but still shorter than the standard minimum recommendation.",
+        "C": "Standard practice requires at least 7 days of curing, with longer periods needed for cold weather, high-strength concrete, or critical structures.",
+        "D": "Minimum curing periods are specified to ensure adequate strength development."
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.02 Facilitates curing of concrete",
+      "question": "What happens if concrete dries too quickly?",
+      "options": {
+        "A": "Becomes stronger",
+        "B": "Develops surface cracks and reduced strength from incomplete hydration",
+        "C": "Changes color only",
+        "D": "No effect"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Rapid drying stops hydration prematurely, reducing strength rather than increasing it.",
+        "B": "Rapid moisture loss causes surface shrinkage cracks (plastic shrinkage), incomplete cement hydration, and reduced strength and durability.",
+        "C": "Color may be affected but strength loss and cracking are the critical problems.",
+        "D": "Moisture loss has severe negative effects on strength and crack resistance."
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.02 Facilitates curing of concrete",
+      "question": "What is a curing compound?",
+      "options": {
+        "A": "A strength enhancer",
+        "B": "A liquid membrane sprayed on to seal surface and retain moisture",
+        "C": "A cleaning solution",
+        "D": "A coloring agent"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Curing compounds don't add strength; they preserve moisture needed for strength development.",
+        "B": "Curing compounds are sprayed liquids that form a membrane sealing the surface, preventing moisture evaporation and allowing proper hydration.",
+        "C": "Cleaning solutions remove materials; curing compounds seal surfaces to retain moisture.",
+        "D": "Curing compounds may tint concrete but their purpose is moisture retention, not coloring."
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.02 Facilitates curing of concrete",
+      "question": "How does temperature affect concrete curing?",
+      "options": {
+        "A": "Temperature has no effect",
+        "B": "Cold slows hydration requiring longer curing; heat accelerates but can cause cracking",
+        "C": "Only affects color",
+        "D": "All temperatures cure equally"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Temperature dramatically affects hydration rate and curing requirements.",
+        "B": "Cold temperatures slow chemical reactions requiring extended curing and protection; high temperatures accelerate early strength but may cause thermal cracking and long-term strength reduction.",
+        "C": "Temperature primarily affects strength development rate, not just appearance.",
+        "D": "Hydration rate varies significantly with temperature requiring adjusted curing procedures."
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.03 Performs basic concrete finishing",
+      "question": "What is screeding in concrete finishing?",
+      "options": {
+        "A": "Final smooth troweling",
+        "B": "Initial leveling/striking off excess concrete to proper elevation",
+        "C": "Adding decorative patterns",
+        "D": "Applying sealers"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Troweling is a later finishing step; screeding is initial leveling.",
+        "B": "Screeding uses a straight edge moved across screed rails or forms to strike off excess concrete and establish rough grade before further finishing.",
+        "C": "Decorative work comes after basic finishing; screeding is initial leveling.",
+        "D": "Sealers are applied after finishing and curing; screeding is the first finishing step."
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.03 Performs basic concrete finishing",
+      "question": "What is the purpose of bull floating a concrete slab?",
+      "options": {
+        "A": "To make final smooth finish",
+        "B": "To embed aggregate and remove high/low spots after screeding",
+        "C": "To add texture",
+        "D": "To cure the concrete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Final smooth finish comes from troweling; bull floating is intermediate smoothing.",
+        "B": "Bull floating (using a large flat tool on a long handle) follows screeding, embedding large aggregate, filling depressions, and removing minor irregularities.",
+        "C": "Texture is added later if desired; bull floating creates initial smooth surface.",
+        "D": "Bull floating is a finishing step; curing methods are applied after finishing."
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.03 Performs basic concrete finishing",
+      "question": "When should troweling of concrete slabs begin?",
+      "options": {
+        "A": "Immediately after placement",
+        "B": "After bleed water evaporates and concrete will support finisher weight",
+        "C": "After concrete fully cures",
+        "D": "Troweling is not necessary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Immediate troweling traps bleed water causing weakness and scaling; water must evaporate first.",
+        "B": "Troweling begins when bleed water has evaporated, surface has stiffened, and concrete can support the finisher without deep marks.",
+        "C": "Troweling must occur while concrete is still workable; cured concrete cannot be troweled.",
+        "D": "Troweling is essential for creating smooth, dense, durable slab surfaces."
+      }
+    },
+    {
+      "questionNumber": 113,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.03 Performs basic concrete finishing",
+      "question": "What is bleed water in concrete?",
+      "options": {
+        "A": "Water added for cleaning",
+        "B": "Excess mix water rising to surface as solids settle",
+        "C": "Rainwater on surface",
+        "D": "Curing water"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bleed water comes from the concrete mix, not external cleaning water.",
+        "B": "Bleed water is excess mix water that rises to the surface as heavier particles settle, and must evaporate before finishing to avoid surface weakness.",
+        "C": "Rain is external; bleed water originates from within the concrete mix.",
+        "D": "Curing water is applied after finishing; bleed water emerges from fresh concrete during placement."
+      }
+    },
+    {
+      "questionNumber": 114,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.03 Performs basic concrete finishing",
+      "question": "What creates a broom finish on concrete?",
+      "options": {
+        "A": "Smooth steel troweling",
+        "B": "Dragging a stiff broom across semi-hardened surface creating texture for traction",
+        "C": "Acid etching",
+        "D": "Sandblasting"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Steel troweling creates smooth finishes; broom finishing adds slip-resistant texture.",
+        "B": "Broom finishing drags stiff bristles across partially set concrete, creating grooves that provide slip resistance for exterior surfaces and ramps.",
+        "C": "Acid etching removes surface paste; brooming mechanically textures the surface.",
+        "D": "Sandblasting is done after curing; brooming textures fresh concrete."
+      }
+    },
+    {
+      "questionNumber": 115,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.03 Performs basic concrete finishing",
+      "question": "What is edging in concrete finishing?",
+      "options": {
+        "A": "Cutting expansion joints",
+        "B": "Rounding slab edges with an edging tool to prevent chipping",
+        "C": "Installing edge forms",
+        "D": "Final cleanup"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Joint cutting is separate; edging shapes slab perimeter.",
+        "B": "Edging uses a specialized tool to round and compact slab edges after form removal or along construction joints, preventing edge damage.",
+        "C": "Edge forms are installed before pour; edging is a finishing operation on fresh concrete.",
+        "D": "Edging is a specific finishing step, not general cleanup."
+      }
+    },
+    {
+      "questionNumber": 116,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.03 Performs basic concrete finishing",
+      "question": "What causes surface scaling on concrete?",
+      "options": {
+        "A": "Proper finishing only",
+        "B": "Finishing too early, trapping bleed water, or freeze-thaw cycles on weak surface",
+        "C": "Correct curing methods",
+        "D": "Using proper tools"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper finishing prevents scaling; it doesn't cause it.",
+        "B": "Scaling results from premature finishing trapping bleed water, inadequate curing creating weak surface, or freeze-thaw damage on improperly cured concrete.",
+        "C": "Correct curing prevents scaling by developing surface strength.",
+        "D": "Proper tools contribute to good finishes; scaling results from timing and curing issues."
+      }
+    },
+    {
+      "questionNumber": 117,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.04 Installs pre-cast components",
+      "question": "What are precast concrete components?",
+      "options": {
+        "A": "Concrete mixed on site",
+        "B": "Concrete elements manufactured off-site and delivered for installation",
+        "C": "Decorative finishes",
+        "D": "Temporary forms"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Site-mixed concrete is cast-in-place; precast is manufactured elsewhere.",
+        "B": "Precast components (stairs, wall panels, beams, hollowcore slabs) are manufactured in controlled plant conditions and delivered ready for installation.",
+        "C": "While some precast is decorative, the term refers to factory-manufactured concrete elements.",
+        "D": "Precast components are permanent structural elements, not temporary forms."
+      }
+    },
+    {
+      "questionNumber": 118,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.04 Installs pre-cast components",
+      "question": "What is the primary advantage of precast concrete?",
+      "options": {
+        "A": "Lower quality control",
+        "B": "Factory production allows better quality control, faster site installation, weather independence",
+        "C": "More expensive always",
+        "D": "Requires no planning"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Factory production improves quality control through controlled conditions and specialized equipment.",
+        "B": "Precast offers superior quality from factory conditions, faster site erection, reduced weather delays, and often better finishes than field-cast concrete.",
+        "C": "Precast can be economical for repetitive elements despite higher unit costs due to labor and schedule savings.",
+        "D": "Precast requires extensive planning for fabrication, delivery, and erection sequencing."
+      }
+    },
+    {
+      "questionNumber": 119,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.04 Installs pre-cast components",
+      "question": "What equipment is typically needed to install precast concrete panels?",
+      "options": {
+        "A": "Hand tools only",
+        "B": "Cranes or other lifting equipment with adequate capacity",
+        "C": "Wheelbarrows",
+        "D": "No special equipment"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precast elements are heavy and require mechanical lifting; hand installation is impossible.",
+        "B": "Precast installation requires cranes, boom trucks, or other lifting equipment with capacity to safely handle component weight and reach.",
+        "C": "Wheelbarrows transport materials; precast requires cranes for lifting and positioning.",
+        "D": "Precast weight necessitates specialized lifting equipment for safe installation."
+      }
+    },
+    {
+      "questionNumber": 120,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.04 Installs pre-cast components",
+      "question": "How are precast components typically connected to structures?",
+      "options": {
+        "A": "Glued in place",
+        "B": "Through embedded plates, anchors, welded connections, or grouted joints",
+        "C": "Friction only",
+        "D": "Not connected - just stacked"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Adhesives alone cannot provide the structural connection required for precast elements.",
+        "B": "Precast connections use embedded steel plates welded together, cast-in anchors bolted, or grouted connections transferring loads to supporting structure.",
+        "C": "Friction is inadequate for structural connections; positive mechanical connections are required.",
+        "D": "Precast must be positively connected to resist wind, seismic, and other lateral loads."
+      }
+    },
+    {
+      "questionNumber": 121,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.04 Installs pre-cast components",
+      "question": "What must be verified before setting precast components?",
+      "options": {
+        "A": "Nothing - just install",
+        "B": "Supporting surface elevation, bearing pads, anchor locations match shop drawings",
+        "C": "Color only",
+        "D": "Time of day"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Careful verification prevents costly errors; precast cannot be easily adjusted after setting.",
+        "B": "Before setting, verify support elevations are correct, bearing pads or leveling shims are in place, and anchor locations match component embedments.",
+        "C": "While finish may be checked, dimensional accuracy and connection points are critical for installation.",
+        "D": "Timing may matter for scheduling but dimensional verification is the critical pre-installation check."
+      }
+    },
+    {
+      "questionNumber": 122,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.04 Installs pre-cast components",
+      "question": "What is a common precast product for residential stairs?",
+      "options": {
+        "A": "Precast stair units or treads",
+        "B": "Precast walls only",
+        "C": "Precast foundations",
+        "D": "Precast roofs"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Precast stairs (complete units or individual treads) are common for basements, exterior entries, and commercial buildings, offering durability and fast installation.",
+        "B": "While precast walls exist, stairs are a very common precast residential element.",
+        "C": "Foundations are typically cast-in-place; stairs are more commonly precast in residential work.",
+        "D": "Residential roofs rarely use precast; stairs are the common residential precast application."
+      }
+    },
+    {
+      "questionNumber": 123,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.05 Installs grout",
+      "question": "What is grout in construction?",
+      "options": {
+        "A": "A cleaning solution",
+        "B": "A fluid cementitious material for filling voids and securing elements",
+        "C": "A paint type",
+        "D": "A waterproofing membrane"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Grout is a construction material, not a cleaning solution.",
+        "B": "Grout is a flowable cement-based mixture (or epoxy) used to fill joints, voids, or cavities and secure items like anchor bolts, precast connections, or masonry cells.",
+        "C": "Paint is a coating; grout is a structural filling material.",
+        "D": "While some grouts resist moisture, the primary purpose is filling voids and structural connections."
+      }
+    },
+    {
+      "questionNumber": 124,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.05 Installs grout",
+      "question": "What is the difference between grout and mortar?",
+      "options": {
+        "A": "They are identical",
+        "B": "Grout is more fluid for flowing into voids; mortar is stiffer for laying masonry",
+        "C": "Grout is always colored",
+        "D": "Mortar is only for concrete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While both are cement-based, they have different consistencies and applications.",
+        "B": "Grout has higher water content creating flowability for filling cavities; mortar is stiffer to support units during laying and not slump.",
+        "C": "Color is independent of material type; both grout and mortar can be colored or natural.",
+        "D": "Mortar is primarily for masonry bedding; both grout and mortar are cement-based but used differently."
+      }
+    },
+    {
+      "questionNumber": 125,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.05 Installs grout",
+      "question": "How is grout typically placed in narrow spaces?",
+      "options": {
+        "A": "Packed by hand",
+        "B": "Poured or pumped, allowing gravity flow into voids",
+        "C": "Sprayed from distance",
+        "D": "Grout cannot fill narrow spaces"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hand packing is used for stiff mortar; fluid grout is designed to flow into spaces.",
+        "B": "Grout's fluid consistency allows it to be poured or pumped into narrow joints, anchor bolt holes, or masonry cells where it flows and fills voids.",
+        "C": "Spraying is used for surface applications; grout placement in voids uses pouring or pumping.",
+        "D": "Grout is specifically designed to fill narrow, confined spaces that cannot be easily accessed."
+      }
+    },
+    {
+      "questionNumber": 126,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.05 Installs grout",
+      "question": "What is non-shrink grout used for?",
+      "options": {
+        "A": "All grouting applications",
+        "B": "Applications requiring volume stability like bearing plates and anchor bolts",
+        "C": "Decorative work only",
+        "D": "Non-shrink grout doesn't exist"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Non-shrink grout is specialized and more expensive; standard grout suffices for many applications.",
+        "B": "Non-shrink grout contains expansion agents preventing volume loss, critical for maintaining contact under bearing plates, column base plates, and precision anchor installations.",
+        "C": "Non-shrink grout serves structural purposes where dimensional stability is critical, not decoration.",
+        "D": "Non-shrink grout is a common specialized product for precision applications."
+      }
+    },
+    {
+      "questionNumber": 127,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.05 Installs grout",
+      "question": "What must be done to surfaces before grouting?",
+      "options": {
+        "A": "Nothing - grout over dirt and oil",
+        "B": "Clean surfaces, remove debris, dampen to prevent moisture absorption from grout",
+        "C": "Paint the surfaces",
+        "D": "Apply release agent"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Contaminated surfaces prevent bonding; cleaning is essential for grout adhesion.",
+        "B": "Surfaces must be clean, free of debris, oil, and loose material, and often dampened (saturated surface dry) to prevent premature water loss from grout.",
+        "C": "Paint prevents bonding; clean bare surfaces are required for proper grout adhesion.",
+        "D": "Release agents prevent bonding and are used on formwork, not surfaces being grouted."
+      }
+    },
+    {
+      "questionNumber": 128,
+      "block": "C",
+      "task": "C-9",
+      "taskTitle": "Installs concrete, cement-based and epoxy products",
+      "subtask": "C-9.05 Installs grout",
+      "question": "How should grout be cured?",
+      "options": {
+        "A": "Curing is not necessary",
+        "B": "Keep moist and protect from rapid drying like concrete",
+        "C": "Expose to direct sunlight for rapid drying",
+        "D": "Freeze immediately"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Grout is cement-based and requires curing for strength development like concrete.",
+        "B": "Grout requires moisture retention (wet covering, curing compound, or plastic sheeting) to allow proper cement hydration and strength gain.",
+        "C": "Rapid drying from sun exposure causes cracking and reduced strength; moisture retention is essential.",
+        "D": "Freezing damages fresh grout; protection from freezing and moisture retention are required for proper curing."
+      }
+    }
+  ]
+}

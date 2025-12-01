@@ -1,0 +1,1688 @@
+{
+  "block": "G",
+  "blockTitle": "Performs Renovations",
+  "blockDescription": "Removes existing assemblies and modifies or integrates new work into existing structures.",
+  "totalQuestions": 80,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What is the first step before removing any existing material in a renovation project?",
+      "options": {
+        "A": "Start demolition immediately",
+        "B": "Identify and assess hazardous materials and structural conditions",
+        "C": "Remove all fixtures and fittings",
+        "D": "Disconnect all utilities without assessment"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Starting demolition without assessment is dangerous and may disturb hazardous materials",
+        "B": "Before any demolition, a thorough assessment must identify hazardous materials (asbestos, lead, mold) and evaluate structural conditions to ensure safe removal",
+        "C": "Fixtures can be removed but only after proper assessment is complete",
+        "D": "Utilities must be identified and properly disconnected, but assessment comes first"
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What is the purpose of installing temporary shoring during renovations?",
+      "options": {
+        "A": "To provide storage space",
+        "B": "To support loads when load-bearing elements are removed or modified",
+        "C": "To create temporary work platforms",
+        "D": "To improve ventilation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Shoring is structural support, not storage",
+        "B": "Temporary shoring supports structural loads when load-bearing walls, beams, or other elements are being removed or altered during renovation",
+        "C": "Work platforms serve a different purpose than structural shoring",
+        "D": "Ventilation is unrelated to shoring purposes"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "When was asbestos commonly used in building materials?",
+      "options": {
+        "A": "Only before 1950",
+        "B": "Between 1930 and 1990",
+        "C": "Only after 2000",
+        "D": "Asbestos was never used in buildings"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Asbestos use continued well beyond 1950",
+        "B": "Asbestos was commonly used in various building materials from the 1930s through the 1990s in insulation, floor tiles, ceiling tiles, and other products",
+        "C": "Asbestos use was largely banned by the 1990s",
+        "D": "Asbestos was widely used in construction for decades"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "What is the primary challenge when joining new lumber to old lumber in renovations?",
+      "options": {
+        "A": "Color matching only",
+        "B": "Different dimensions, moisture content, and wood species",
+        "C": "Cost differences",
+        "D": "No challenges exist"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While color may differ, structural compatibility is the primary concern",
+        "B": "Old lumber often has different actual dimensions (true 2x4 vs. nominal), moisture content, species, and strength characteristics requiring careful planning for connections",
+        "C": "Cost is a concern but not a technical challenge for joining",
+        "D": "Significant technical challenges exist when joining new to old materials"
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What material is commonly used to protect finished floors during renovation work?",
+      "options": {
+        "A": "Newspaper only",
+        "B": "Ram board, plywood, or heavy-duty protective sheeting",
+        "C": "Plastic sheeting alone",
+        "D": "No protection is needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Newspaper provides insufficient protection from impacts and moisture",
+        "B": "Ram board, plywood, or heavy-duty floor protection products provide adequate protection from impacts, scratches, and moisture during renovation",
+        "C": "Plastic alone is slippery and doesn't protect from impacts",
+        "D": "Floor protection is essential to prevent costly damage"
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What must be installed when removing a load-bearing wall?",
+      "options": {
+        "A": "Nothing; just remove the wall",
+        "B": "A beam or header properly sized to carry the load",
+        "C": "Decorative columns only",
+        "D": "Additional insulation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Removing a load-bearing wall without support will cause structural failure",
+        "B": "A properly engineered beam or header must be installed to carry the loads previously supported by the wall, with adequate bearing at each end",
+        "C": "Decorative columns alone typically lack structural capacity",
+        "D": "Insulation doesn't provide structural support"
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What PPE is essential when removing materials that may contain lead paint?",
+      "options": {
+        "A": "Regular dust mask only",
+        "B": "Safety glasses only",
+        "C": "Respirator rated for lead, protective clothing, and gloves",
+        "D": "No PPE required"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Regular dust masks don't filter lead particles adequately",
+        "B": "Eye protection alone is insufficient for lead exposure",
+        "C": "Lead paint removal requires proper respirator (HEPA or P100), protective clothing to prevent dust accumulation, and gloves to prevent skin contact",
+        "D": "PPE is mandatory when working with lead-containing materials"
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What is the purpose of dust barriers during renovation?",
+      "options": {
+        "A": "Decorative only",
+        "B": "To contain dust and debris within work area",
+        "C": "To provide privacy",
+        "D": "To block light"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dust barriers serve a functional, not decorative purpose",
+        "B": "Dust barriers (typically plastic sheeting with zippers) contain construction dust and debris within the work area, protecting occupied spaces and HVAC systems",
+        "C": "While they may provide privacy, containment is the primary purpose",
+        "D": "Light blocking is incidental to the primary containment function"
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "How should new foundation be joined to existing foundation?",
+      "options": {
+        "A": "Simply pour concrete next to existing",
+        "B": "Use dowels or rebar drilled into existing foundation with proper overlap and bonding agent",
+        "C": "Stack concrete blocks without connection",
+        "D": "No connection needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "A cold joint without reinforcement will crack and separate",
+        "B": "New concrete must be mechanically connected to existing using drilled and epoxied dowels or rebar, with bonding agents to ensure monolithic behavior",
+        "C": "Stacking without connection creates a weak point prone to failure",
+        "D": "Connection is essential for load transfer and preventing separation"
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What is selective demolition?",
+      "options": {
+        "A": "Demolishing entire building",
+        "B": "Carefully removing specific materials while preserving surrounding areas",
+        "C": "Random removal of materials",
+        "D": "Demolition performed only on weekends"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Complete demolition is not selective",
+        "B": "Selective demolition carefully removes only designated materials while protecting adjacent areas, utilities, and structural elements that will remain",
+        "C": "Random removal is not selective or controlled",
+        "D": "Timing doesn't define selective demolition"
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What professional should be consulted before removing or modifying structural elements?",
+      "options": {
+        "A": "Real estate agent",
+        "B": "Structural engineer or architect",
+        "C": "Insurance agent",
+        "D": "No consultation needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Real estate agents don't provide structural engineering services",
+        "B": "Structural engineers or architects must evaluate and design solutions for structural modifications to ensure building safety and code compliance",
+        "C": "Insurance agents handle coverage, not structural design",
+        "D": "Professional consultation is required for structural changes"
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "How should HVAC systems be protected during dusty renovation work?",
+      "options": {
+        "A": "No protection needed",
+        "B": "Cover or seal vents and consider shutting down system",
+        "C": "Run system continuously",
+        "D": "Remove all ductwork"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unprotected HVAC systems can distribute dust throughout the building",
+        "B": "Vents should be sealed with plastic or filters, and the system may need to be shut down to prevent dust circulation and contamination",
+        "C": "Running systems spreads dust and contaminates ductwork",
+        "D": "Complete removal is excessive and expensive"
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What is the safest method for removing old drywall?",
+      "options": {
+        "A": "Smash with hammer randomly",
+        "B": "Score, cut, and carefully remove sections",
+        "C": "Use explosives",
+        "D": "Pull with vehicle"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Random smashing creates excessive dust and debris, and may damage framing",
+        "B": "Scoring seams, cutting manageable sections, and carefully removing them minimizes dust, protects framing, and allows inspection for hazards",
+        "C": "Explosives are dangerous and inappropriate for residential demolition",
+        "D": "This method is dangerous and damages surrounding structure"
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When adding a room addition, how should new framing be attached to existing structure?",
+      "options": {
+        "A": "Simply nail to exterior siding",
+        "B": "Remove siding, expose framing, and properly connect new to existing framing members",
+        "C": "Use adhesive only",
+        "D": "Leave a gap between new and old"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Nailing to siding doesn't provide adequate structural connection",
+        "B": "Siding must be removed to expose structural framing, allowing proper connection of new framing to existing studs, plates, and headers",
+        "C": "Adhesive alone is insufficient for structural connections",
+        "D": "Gaps create thermal bridges and structural discontinuity"
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What is the purpose of temporary weather protection during renovation?",
+      "options": {
+        "A": "Aesthetic improvement only",
+        "B": "To protect building interior and materials from weather damage",
+        "C": "To hide work from neighbors",
+        "D": "To create shade"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Weather protection serves a functional, not aesthetic purpose",
+        "B": "Temporary tarps, plastic sheeting, or weather barriers protect the building interior, materials, and work from rain, snow, and wind damage",
+        "C": "Privacy is incidental to weather protection",
+        "D": "Shade is a minor benefit, not the primary purpose"
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is sistering a joist?",
+      "options": {
+        "A": "Installing a second joist alongside an existing one for reinforcement",
+        "B": "Removing every other joist",
+        "C": "Painting joists in pairs",
+        "D": "Connecting joists perpendicular to each other"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Sistering involves attaching a new joist alongside a damaged or undersized existing joist to increase strength and load capacity",
+        "B": "Removing joists reduces strength",
+        "C": "Painting is unrelated to sistering",
+        "D": "This describes blocking or bridging, not sistering"
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "How should plaster walls be removed?",
+      "options": {
+        "A": "Wet down to reduce dust, then carefully break and remove sections",
+        "B": "Dry demolition with no dust control",
+        "C": "Leave plaster in place always",
+        "D": "Use water pressure washer"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Wetting plaster reduces dust generation, then careful sectional removal minimizes mess while protecting lath and framing that may remain",
+        "B": "Dry plaster demolition creates excessive hazardous dust",
+        "C": "Plaster can be safely removed when needed",
+        "D": "Pressure washing creates excessive mess and water damage"
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What should be done to protect windows during construction?",
+      "options": {
+        "A": "Leave uncovered",
+        "B": "Cover with plywood, cardboard, or protective film",
+        "C": "Remove all windows",
+        "D": "Paint windows for protection"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unprotected windows are easily damaged by debris and materials",
+        "B": "Plywood covers, heavy cardboard, or protective film shields windows from scratches, impacts, and overspray during construction",
+        "C": "Window removal is expensive and usually unnecessary",
+        "D": "Paint doesn't protect from physical damage"
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When adding new roofing, how should it be integrated with existing roof?",
+      "options": {
+        "A": "Lay new shingles over old without integration",
+        "B": "Properly flash and weave new roofing into existing, following manufacturer guidelines",
+        "C": "Leave a gap between old and new",
+        "D": "Use duct tape to connect"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Simply overlaying without integration creates leak paths",
+        "B": "New roofing must be properly integrated using flashing, weaving techniques, or valley methods to ensure waterproof transitions per manufacturer specifications",
+        "C": "Gaps will leak water",
+        "D": "Duct tape is not a roofing material"
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What is the recommended approach for removing load-bearing walls?",
+      "options": {
+        "A": "Remove immediately without preparation",
+        "B": "Install temporary support, then remove wall after permanent beam is ready",
+        "C": "Remove half the wall at a time",
+        "D": "No special approach needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Immediate removal without support will cause structural collapse",
+        "B": "Temporary shoring must support loads, then the wall can be removed and replaced with a properly sized permanent beam or header",
+        "C": "Partial removal without shoring is still dangerous",
+        "D": "Load-bearing walls require careful engineered removal process"
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is underpinning?",
+      "options": {
+        "A": "Painting foundation walls",
+        "B": "Strengthening or deepening existing foundations",
+        "C": "Removing foundations",
+        "D": "Adding decorative foundation covers"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Painting is not underpinning",
+        "B": "Underpinning is the process of strengthening or extending existing foundations, often to support additional loads or repair settlement issues",
+        "C": "Removal is not underpinning",
+        "D": "Decorative work is not underpinning"
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "How should existing finished cabinets be protected during nearby renovation work?",
+      "options": {
+        "A": "No protection needed",
+        "B": "Cover with plastic sheeting or protective padding",
+        "C": "Remove and store off-site",
+        "D": "Paint them first"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unprotected cabinets will be damaged by dust, debris, and impacts",
+        "B": "Plastic sheeting and padding protect cabinets from dust, scratches, and impacts while allowing them to remain in place",
+        "C": "While removal is an option, in-place protection is usually more practical",
+        "D": "Paint doesn't protect from physical damage"
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What precaution should be taken when removing old flooring?",
+      "options": {
+        "A": "Remove without testing",
+        "B": "Test for asbestos in vinyl flooring and adhesives, especially pre-1990",
+        "C": "Burn flooring to remove quickly",
+        "D": "Flood with water"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Removing without testing may disturb hazardous materials",
+        "B": "Old vinyl flooring, backing, and adhesives may contain asbestos; testing is required before removal, especially in buildings constructed before 1990",
+        "C": "Burning creates toxic fumes",
+        "D": "Flooding creates unnecessary water damage"
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When tying new concrete to existing, what surface preparation is required?",
+      "options": {
+        "A": "No preparation needed",
+        "B": "Clean, roughen surface, and apply bonding agent",
+        "C": "Simply pour new concrete against old",
+        "D": "Coat with oil"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unprepared surfaces won't bond properly",
+        "B": "Existing concrete must be cleaned, roughened (scarified), and coated with bonding agent to ensure new concrete bonds properly and acts monolithically",
+        "C": "Pouring against unprepared surface creates a weak cold joint",
+        "D": "Oil prevents bonding"
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What is the purpose of negative air pressure systems in renovation containment?",
+      "options": {
+        "A": "To cool the work area",
+        "B": "To prevent dust and contaminants from spreading to other areas",
+        "C": "To heat the space",
+        "D": "To create noise"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cooling is not the primary purpose of negative pressure",
+        "B": "Negative air machines with HEPA filters exhaust air from the work area, creating lower pressure that prevents dust and contaminants from escaping to adjacent spaces",
+        "C": "Negative air systems don't heat space",
+        "D": "Noise is incidental, not the purpose"
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is balloon framing and why is it important to identify in renovations?",
+      "options": {
+        "A": "Modern framing with balloons",
+        "B": "Old framing method with continuous studs from foundation to roof, creating fire hazards",
+        "C": "Framing with inflatable walls",
+        "D": "Standard modern platform framing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Balloon framing has nothing to do with actual balloons",
+        "B": "Balloon framing (pre-1950s) has continuous wall studs creating open cavities from basement to attic, allowing rapid fire spread; must be identified and fire-blocked during renovation",
+        "C": "Walls are not inflatable",
+        "D": "Platform framing is different and newer than balloon framing"
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "How should ceramic tile be removed from walls?",
+      "options": {
+        "A": "Use hammer and chisel carefully, protecting underlying surfaces",
+        "B": "Blast with high-pressure water",
+        "C": "Burn off with torch",
+        "D": "Leave in place always"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Careful chiseling breaks tile and mortar while minimizing damage to substrate, which may be preserved depending on condition",
+        "B": "High pressure water creates excessive mess without effectively removing set tile",
+        "C": "Torches don't remove tile and may cause fire",
+        "D": "Tile can be removed when needed"
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What method is used to protect stairs during construction?",
+      "options": {
+        "A": "Close off and prohibit use",
+        "B": "Cover treads with protective material secured in place",
+        "C": "Remove stairs entirely",
+        "D": "Paint stairs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While sometimes necessary, protected stairs can often remain in use",
+        "B": "Ram board, carpet remnants, or protective sheeting secured to treads protects stairs while allowing continued use during construction",
+        "C": "Stair removal is extreme and impractical",
+        "D": "Paint doesn't protect from physical damage"
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When adding new electrical service, how should it be integrated with existing?",
+      "options": {
+        "A": "Run new system completely separate",
+        "B": "Coordinate with electrician to properly integrate, meet code, and ensure adequate capacity",
+        "C": "Connect randomly to existing panels",
+        "D": "Carpenters install all electrical"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Separate systems are inefficient and may not meet code",
+        "B": "Licensed electricians must evaluate existing capacity, integrate new circuits properly, ensure code compliance, and coordinate with carpenter for openings and backing",
+        "C": "Random connections are dangerous and illegal",
+        "D": "Electrical work requires licensed electricians"
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What information should be documented before demolition begins?",
+      "options": {
+        "A": "Nothing needs documentation",
+        "B": "Photos, dimensions, material types, and conditions of existing structure",
+        "C": "Just worker names",
+        "D": "Only the demolition date"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Documentation is essential for multiple reasons",
+        "B": "Photos and documentation of existing conditions protect against damage claims, assist with planning, and provide reference for reconstruction",
+        "C": "Worker names alone don't document existing conditions",
+        "D": "Date alone is insufficient documentation"
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is the minimum bearing length required when installing a new beam?",
+      "options": {
+        "A": "25 mm (1 in.)",
+        "B": "38 mm (1-1/2 in.)",
+        "C": "89 mm (3-1/2 in.) or as specified by engineer",
+        "D": "No minimum required"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This bearing length is insufficient for beam loads",
+        "B": "Still inadequate for typical beam bearing",
+        "C": "Beams typically require minimum 89 mm (3-1/2 in.) bearing, though engineer specifications may require more based on loads and conditions",
+        "D": "Adequate bearing is critical for beam support"
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "How should adjacent properties be protected during renovation?",
+      "options": {
+        "A": "No protection needed",
+        "B": "Notify neighbors, install barriers, control dust, and prevent debris migration",
+        "C": "Only protect if complaints are received",
+        "D": "Protection is not the contractor's responsibility"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Neighbors have rights to protection from construction impacts",
+        "B": "Professional practice includes notification, dust barriers, construction fencing, and measures to prevent debris, dust, and damage to adjacent properties",
+        "C": "Proactive protection prevents complaints and damage",
+        "D": "Contractors are responsible for protecting adjacent properties"
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What is the proper procedure for removing old insulation?",
+      "options": {
+        "A": "Remove without testing",
+        "B": "Test for asbestos or vermiculite, use proper PPE, and contain during removal",
+        "C": "Vacuum with household vacuum",
+        "D": "Burn insulation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Testing is required to identify hazards",
+        "B": "Old insulation may contain asbestos or contaminated vermiculite; testing, proper respirators, containment, and specialized disposal are required",
+        "C": "Household vacuums spread contamination; HEPA vacuums are required",
+        "D": "Burning creates toxic fumes"
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "How should new drywall be joined to existing plaster walls?",
+      "options": {
+        "A": "Butt directly against plaster",
+        "B": "Install transition strips or molding to accommodate different thicknesses and materials",
+        "C": "Leave large gap",
+        "D": "Never join drywall to plaster"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Direct butt joints crack due to different materials and thicknesses",
+        "B": "Transition strips, reveals, or molding accommodate thickness differences and material properties while creating professional-looking joints",
+        "C": "Large gaps look unprofessional and don't seal properly",
+        "D": "Drywall and plaster can be successfully joined with proper technique"
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What is the purpose of shoring existing structure before creating new openings?",
+      "options": {
+        "A": "Aesthetic reasons only",
+        "B": "To prevent structural collapse by supporting loads during opening creation",
+        "C": "To provide work platforms",
+        "D": "Shoring is never necessary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Shoring serves critical structural purposes",
+        "B": "Temporary shoring must support structural loads when cutting through walls, floors, or roofs to prevent collapse during the opening creation process",
+        "C": "Work platforms are different from structural shoring",
+        "D": "Shoring is often essential for safety"
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is jacking in renovation work?",
+      "options": {
+        "A": "Stealing tools",
+        "B": "Lifting sagging floors or roofs with hydraulic jacks to restore level",
+        "C": "Installing car jacks permanently",
+        "D": "A type of finish work"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This describes theft, not construction technique",
+        "B": "Jacking uses hydraulic jacks and temporary posts to gradually lift sagging structural elements, allowing repair or reinforcement of supports",
+        "C": "Car jacks are for temporary lifting, not permanent installation",
+        "D": "Jacking is structural work, not finish work"
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "How should old nails and fasteners be handled during demolition?",
+      "options": {
+        "A": "Leave protruding from lumber",
+        "B": "Remove or bend over to prevent injuries",
+        "C": "Ignore completely",
+        "D": "Paint them"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Protruding nails create serious puncture wound hazards",
+        "B": "All exposed nails and fasteners should be removed or bent over flush to prevent injuries during handling and disposal of materials",
+        "C": "Ignoring fasteners creates safety hazards",
+        "D": "Paint doesn't eliminate the puncture hazard"
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What protection is needed for existing landscaping during renovation?",
+      "options": {
+        "A": "No protection needed",
+        "B": "Fence off areas, protect tree roots, and prevent equipment damage",
+        "C": "Remove all landscaping",
+        "D": "Landscape protection is not carpenter's concern"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Landscaping is valuable and easily damaged",
+        "B": "Temporary fencing, tree root protection barriers, and equipment restrictions protect existing landscaping from compaction, damage, and contamination",
+        "C": "Removal is expensive and unnecessary with proper protection",
+        "D": "All trades share responsibility for site protection"
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "How should new framing be attached to existing concrete walls?",
+      "options": {
+        "A": "Nailed directly into concrete",
+        "B": "Use appropriate concrete anchors, powder-actuated fasteners, or expansion bolts",
+        "C": "Adhesive only",
+        "D": "No fastening needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Regular nails cannot penetrate concrete adequately",
+        "B": "Proper concrete attachment requires concrete anchors, powder-actuated fasteners, or expansion bolts rated for the loads",
+        "C": "Adhesive alone is insufficient for structural attachment",
+        "D": "Positive mechanical fastening is essential"
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What should be done with construction debris and waste materials?",
+      "options": {
+        "A": "Leave on site indefinitely",
+        "B": "Sort for recycling, proper disposal, and hazardous waste handling according to regulations",
+        "C": "Burn everything on site",
+        "D": "Dump in any available location"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Accumulated debris creates safety hazards",
+        "B": "Materials should be sorted for recycling where possible, disposed of properly at approved facilities, and hazardous materials handled according to regulations",
+        "C": "Burning is illegal, dangerous, and environmentally harmful",
+        "D": "Illegal dumping violates environmental regulations"
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is the purpose of a structural engineer's stamp on renovation plans?",
+      "options": {
+        "A": "Decoration only",
+        "B": "Indicates professional engineering approval that structural changes meet code and safety requirements",
+        "C": "Increases project cost unnecessarily",
+        "D": "No purpose"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Engineering stamps have legal significance",
+        "B": "An engineer's stamp certifies that structural modifications have been properly designed to meet building codes and safety standards",
+        "C": "While adding cost, engineering is necessary for safety and code compliance",
+        "D": "Stamps serve critical legal and safety purposes"
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "How should utilities be managed during renovation?",
+      "options": {
+        "A": "Leave all active during work",
+        "B": "Identify, protect, and shut off utilities in work areas with proper coordination",
+        "C": "Cut all lines without verification",
+        "D": "Ignore utility locations"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Active utilities in demolition areas create serious hazards",
+        "B": "All utilities must be identified, properly shut off where needed, protected in place, and coordinated with utility companies and licensed trades",
+        "C": "Cutting without verification is extremely dangerous",
+        "D": "Ignoring utilities causes injury and damage"
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When extending existing rafters or joists, what connection method is typically used?",
+      "options": {
+        "A": "Butt joint only",
+        "B": "Scarf joint or splice with properly engineered connection",
+        "C": "Duct tape",
+        "D": "No connection needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Simple butt joints lack adequate strength",
+        "B": "Extensions require scarf joints or splice plates with bolts or nails in an engineered pattern to transfer loads properly",
+        "C": "Tape has no structural capacity",
+        "D": "Proper connection is essential for load transfer"
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What is soft stripping in demolition?",
+      "options": {
+        "A": "Removing wallpaper",
+        "B": "Removing non-structural elements like fixtures, finishes, and equipment before structural demolition",
+        "C": "Partial demolition",
+        "D": "Using soft hammers"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wallpaper removal is just one small part",
+        "B": "Soft stripping is the removal of non-structural elements (fixtures, doors, cabinets, finishes) before structural demolition begins",
+        "C": "Soft stripping is a phase, not a level of demolition",
+        "D": "Tool type doesn't define soft stripping"
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What is the purpose of covering openings during multi-day renovations?",
+      "options": {
+        "A": "Aesthetic only",
+        "B": "To secure site, prevent weather damage, and deter unauthorized entry",
+        "C": "To hide work",
+        "D": "No purpose"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Opening protection serves important functional purposes",
+        "B": "Temporary covering of door and window openings protects from weather, provides security, and prevents accidents during non-working hours",
+        "C": "While it may conceal work, security and protection are primary",
+        "D": "Opening protection is essential for site safety"
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What must be considered when cutting floor joists for new stairs or openings?",
+      "options": {
+        "A": "Nothing; just cut",
+        "B": "Proper headers and trimmers must be installed to carry interrupted loads",
+        "C": "Cut any joists needed",
+        "D": "Floor joists can never be cut"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cutting without support causes floor failure",
+        "B": "When joists are cut, doubled headers and trimmers must be installed to carry the loads from interrupted joists, similar to new construction framing",
+        "C": "Random cutting without compensation compromises structure",
+        "D": "Joists can be cut with proper engineering and support"
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "How should mold-affected materials be handled during removal?",
+      "options": {
+        "A": "Remove without protection",
+        "B": "Contain area, use PPE, wet materials during removal, and dispose properly",
+        "C": "Paint over mold",
+        "D": "Ignore mold"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Mold exposure creates health hazards",
+        "B": "Mold remediation requires containment, proper respirators, wetting materials to reduce spore release, and disposal in sealed bags",
+        "C": "Paint doesn't eliminate mold",
+        "D": "Mold must be remediated for health and structural reasons"
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When adding new siding over existing, what must be verified?",
+      "options": {
+        "A": "Nothing needs verification",
+        "B": "Wall plane, moisture barriers, and compatibility with existing assembly",
+        "C": "Only color match",
+        "D": "Just price"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Multiple factors must be verified for proper installation",
+        "B": "Wall plane must be verified, proper moisture barriers ensured, and new siding must be compatible with existing wall assembly and ventilation",
+        "C": "Color is aesthetic; structural and moisture issues are critical",
+        "D": "Cost doesn't ensure proper installation"
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What is the purpose of using protective coatings on nearby surfaces during painting or finishing?",
+      "options": {
+        "A": "To change their color",
+        "B": "To prevent overspray and protect from damage",
+        "C": "To improve adhesion",
+        "D": "No purpose"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Protection doesn't change color of protected surfaces",
+        "B": "Masking and protective films prevent paint overspray, stains, and damage to surfaces not being finished",
+        "C": "Adhesion improvement is for surfaces being finished, not protected",
+        "D": "Protection prevents costly damage"
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What is the safest way to remove abandoned wiring?",
+      "options": {
+        "A": "Cut wires randomly",
+        "B": "Have licensed electrician verify power is off, then remove according to code",
+        "C": "Pull wires out with vehicle",
+        "D": "Leave all wiring in place"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Random cutting may electrocute workers",
+        "B": "Licensed electricians must verify circuits are de-energized and properly disconnected before wiring removal",
+        "C": "This method is dangerous and damages structure",
+        "D": "While sometimes left, removal may be necessary and must be done safely"
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is required when converting an attic to living space?",
+      "options": {
+        "A": "Nothing special required",
+        "B": "Structural evaluation, proper stairs, adequate headroom, insulation, and ventilation per code",
+        "C": "Just add flooring",
+        "D": "Paint only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Attic conversions have extensive code requirements",
+        "B": "Converting attics requires structural evaluation for floor loads, proper egress stairs, minimum 2.3m headroom, insulation, HVAC, and proper ventilation",
+        "C": "Flooring alone doesn't meet code for habitable space",
+        "D": "Paint is cosmetic; structural and safety issues must be addressed"
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "How should existing hardwood floors be protected?",
+      "options": {
+        "A": "No protection needed",
+        "B": "Multiple layers: protective film, ram board, and plywood for traffic areas",
+        "C": "Single layer plastic only",
+        "D": "Wet mop only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unprotected hardwood will be damaged",
+        "B": "Hardwood requires layered protection: protective film on floor, ram board over that, and plywood walkways in high-traffic areas",
+        "C": "Plastic alone doesn't prevent impact damage",
+        "D": "Wet mopping doesn't protect from construction damage"
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When adding insulation to existing walls, what must be considered?",
+      "options": {
+        "A": "Just fill cavities completely",
+        "B": "Vapor barriers, ventilation, electrical considerations, and fire blocking",
+        "C": "Only R-value",
+        "D": "Insulation is never added to existing walls"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Simply filling cavities may create moisture and fire hazards",
+        "B": "Existing wall insulation must consider vapor barrier placement, ventilation needs, electrical box protection, and fire blocking requirements",
+        "C": "R-value is one factor but not the only consideration",
+        "D": "Insulation can be added with proper techniques"
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What documentation is required for hazardous material disposal?",
+      "options": {
+        "A": "No documentation needed",
+        "B": "Manifests tracking material type, quantity, transport, and disposal location",
+        "C": "Just a receipt",
+        "D": "Only verbal confirmation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hazardous waste requires extensive documentation",
+        "B": "Hazardous materials require manifests that track materials from generation through transport to approved disposal, maintaining chain of custody",
+        "C": "Receipts alone don't meet regulatory requirements",
+        "D": "Written documentation is legally required"
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What is the purpose of temporary bracing during renovation?",
+      "options": {
+        "A": "Decorative only",
+        "B": "To stabilize structure when permanent bracing is compromised",
+        "C": "To create storage",
+        "D": "To mark work areas"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bracing serves critical structural purposes",
+        "B": "Temporary bracing prevents collapse when walls, sheathing, or other structural bracing elements are removed during renovation",
+        "C": "Bracing is structural, not for storage",
+        "D": "Marking is incidental to structural support"
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is required when lowering a basement floor?",
+      "options": {
+        "A": "Just dig and pour concrete",
+        "B": "Structural engineering for underpinning, waterproofing, and foundation stability",
+        "C": "Remove all foundation walls",
+        "D": "No special requirements"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Digging below foundations undermines them dangerously",
+        "B": "Lowering basement floors requires engineered underpinning to maintain foundation support, waterproofing systems, and careful excavation to prevent collapse",
+        "C": "Foundation walls must be maintained or replaced, not removed",
+        "D": "Extensive engineering and precautions are required"
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "How should old window units be removed?",
+      "options": {
+        "A": "Smash from outside",
+        "B": "Remove interior stops, carefully extract unit, protect opening",
+        "C": "Cut through wall around window",
+        "D": "Leave windows in place always"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Smashing damages surrounding structure",
+        "B": "Removing interior stops allows careful window extraction while protecting the rough opening and exterior finish for new window installation",
+        "C": "Cutting through wall creates unnecessary damage",
+        "D": "Windows can be replaced during renovation"
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When matching new trim to existing historic trim, what approach is recommended?",
+      "options": {
+        "A": "Use any modern trim",
+        "B": "Custom mill or purchase historically accurate profiles matching existing",
+        "C": "Don't add any new trim",
+        "D": "Paint all trim to hide differences"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Modern profiles often don't match historic details",
+        "B": "Historic renovations require custom-milled or specially sourced trim profiles that match existing historic details for seamless integration",
+        "C": "New trim is often necessary for additions or repairs",
+        "D": "Paint doesn't hide profile differences"
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What fire safety measures are required during renovation?",
+      "options": {
+        "A": "No special measures needed",
+        "B": "Working smoke detectors, fire extinguishers, hot work permits, and clear egress",
+        "C": "Just one fire extinguisher",
+        "D": "Fire safety is not relevant"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Renovations create elevated fire risks",
+        "B": "Fire safety requires maintained detection systems, appropriate fire extinguishers, permits for hot work, and clear emergency egress paths",
+        "C": "One extinguisher is insufficient for most renovation sites",
+        "D": "Fire safety is critical during renovation"
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What is the best practice for removing carpeting?",
+      "options": {
+        "A": "Tear up randomly",
+        "B": "Cut into manageable sections, remove tack strips carefully, protect subfloor",
+        "C": "Burn in place",
+        "D": "Cover with new carpet"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Random removal is inefficient and messy",
+        "B": "Cutting carpet into sections facilitates handling, careful tack strip removal prevents subfloor damage, and protection prevents damage during removal",
+        "C": "Burning creates toxic fumes and fire hazard",
+        "D": "Covering doesn't remove the old carpet"
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is required when cutting through roof structure for a skylight?",
+      "options": {
+        "A": "Just cut opening",
+        "B": "Headers and trimmers to support interrupted rafters or trusses per engineering",
+        "C": "No reinforcement needed",
+        "D": "Roof openings are not permitted"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cutting without support compromises roof structure",
+        "B": "Skylight openings require proper headers and trimmers to carry loads from cut rafters or special truss modifications per manufacturer",
+        "C": "Reinforcement is essential for structural integrity",
+        "D": "Skylights are permitted with proper engineering"
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "How should appliances and fixtures be protected during nearby work?",
+      "options": {
+        "A": "No protection needed",
+        "B": "Cover with protective materials and cardboard, disconnect if necessary",
+        "C": "Remove all appliances always",
+        "D": "Protection is owner's responsibility"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unprotected appliances are easily damaged",
+        "B": "Appliances and fixtures should be covered with cardboard and protective materials, and disconnected if work is extensive or poses risks",
+        "C": "Removal is often unnecessary with proper protection",
+        "D": "Contractor is responsible for protecting client's property"
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When connecting new ductwork to existing HVAC, what must be coordinated?",
+      "options": {
+        "A": "Nothing needs coordination",
+        "B": "System capacity, proper sealing, insulation, and balancing with HVAC contractor",
+        "C": "Just connect anywhere",
+        "D": "Carpenters install all ductwork"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Extensive coordination is required",
+        "B": "HVAC contractors must verify system capacity, ensure proper connections, sealing, insulation, and balance airflow for new additions",
+        "C": "Random connections create inefficient or failed systems",
+        "D": "HVAC work requires licensed contractors"
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What should be checked before removing any wall?",
+      "options": {
+        "A": "Only wall color",
+        "B": "Whether wall is load-bearing, location of utilities, and presence of hazardous materials",
+        "C": "Nothing needs checking",
+        "D": "Only owner preference"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color is irrelevant to safe removal",
+        "B": "Assessment must determine if wall is load-bearing, locate utilities within the wall, and identify any hazardous materials before removal",
+        "C": "Thorough assessment is essential for safety",
+        "D": "Technical factors override preferences"
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What is the purpose of sealing work areas from occupied spaces?",
+      "options": {
+        "A": "Privacy only",
+        "B": "To control dust, noise, and maintain indoor air quality in occupied areas",
+        "C": "To hide work quality",
+        "D": "Not necessary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sealing serves important health and comfort purposes",
+        "B": "Sealing work areas with plastic barriers and zipper doors prevents dust migration, reduces noise transmission, and maintains livable conditions in occupied spaces",
+        "C": "Quality work doesn't need hiding",
+        "D": "Sealing is essential for occupied renovations"
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is required when reinforcing existing foundations?",
+      "options": {
+        "A": "Just add concrete",
+        "B": "Engineering design, proper excavation, reinforcement integration, and curing",
+        "C": "No reinforcement is possible",
+        "D": "Paint existing foundation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Simply adding concrete may not bond or provide needed reinforcement",
+        "B": "Foundation reinforcement requires engineering design, careful excavation, proper cleaning and bonding of existing foundation, reinforcement placement, and proper curing",
+        "C": "Foundations can be reinforced with proper techniques",
+        "D": "Paint provides no structural reinforcement"
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "How should vermiculite insulation be handled?",
+      "options": {
+        "A": "Remove like any insulation",
+        "B": "Test for asbestos contamination, use certified contractors if present",
+        "C": "Leave in place always",
+        "D": "Vacuum with any vacuum"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Vermiculite may contain asbestos contamination",
+        "B": "Vermiculite, especially Zonolite brand, may contain asbestos; testing is required and removal must be by certified contractors if contaminated",
+        "C": "Contaminated vermiculite should be removed",
+        "D": "Regular vacuums spread contamination"
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When extending plumbing in renovations, what must be coordinated?",
+      "options": {
+        "A": "Nothing needs coordination",
+        "B": "System capacity, proper venting, code compliance, and slope with plumber",
+        "C": "Just connect pipes randomly",
+        "D": "Carpenters do all plumbing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Extensive coordination is essential",
+        "B": "Licensed plumbers must verify system capacity, ensure proper venting, maintain required slopes, and meet all code requirements for extensions",
+        "C": "Random connections violate code and create problems",
+        "D": "Plumbing requires licensed plumbers"
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What access considerations are important during occupied renovations?",
+      "options": {
+        "A": "Block all access",
+        "B": "Maintain safe access routes, mark hazards, and coordinate work hours",
+        "C": "Allow unrestricted access to work areas",
+        "D": "Access is not relevant"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Occupants need safe access to their spaces",
+        "B": "Safe, clearly marked access routes must be maintained, hazards identified, and work scheduled to minimize disruption while maintaining safety",
+        "C": "Work areas must be restricted for safety",
+        "D": "Access management is critical during occupied renovations"
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What is the proper method for disposing of old paint cans?",
+      "options": {
+        "A": "Regular trash",
+        "B": "Take to hazardous waste facility or follow local disposal regulations",
+        "C": "Pour down drain",
+        "D": "Burn contents"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint is often considered hazardous waste",
+        "B": "Paint and paint cans should be taken to hazardous waste collection facilities or disposed of according to local regulations",
+        "C": "Paint disposal in drains is illegal and harmful",
+        "D": "Burning paint creates toxic fumes"
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is required when increasing floor loads in renovation?",
+      "options": {
+        "A": "Nothing special required",
+        "B": "Structural evaluation and reinforcement of floors, beams, and foundations as needed",
+        "C": "Just add flooring",
+        "D": "Floor load increases are not possible"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Increasing loads requires structural assessment",
+        "B": "Engineers must evaluate existing capacity and design reinforcement of floor systems, supporting beams, and foundations to safely carry increased loads",
+        "C": "Flooring alone doesn't increase structural capacity",
+        "D": "Loads can be increased with proper reinforcement"
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "How should electrical panels and meters be protected during work?",
+      "options": {
+        "A": "No protection needed",
+        "B": "Barrier protection preventing contact while maintaining access for emergency shutdown",
+        "C": "Cover completely with plastic",
+        "D": "Move panels temporarily"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Electrical equipment needs protection",
+        "B": "Panels need barrier protection from dust and impacts while maintaining clear access for emergency shutoffs and required clearances",
+        "C": "Complete covering violates code clearance requirements",
+        "D": "Moving panels is expensive and often impractical"
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When matching new brick to existing, what must be considered?",
+      "options": {
+        "A": "Only size",
+        "B": "Size, color, texture, mortar composition, and bonding pattern",
+        "C": "Just mortar color",
+        "D": "Brick matching is impossible"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Size alone doesn't ensure proper match",
+        "B": "Matching brick requires considering size, color, texture, absorption rate, mortar type and color, and bonding pattern for visual and structural compatibility",
+        "C": "Mortar alone doesn't match brickwork",
+        "D": "Brick can be matched with careful selection"
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What precaution is necessary when removing walls near plumbing stacks?",
+      "options": {
+        "A": "Remove walls without concern",
+        "B": "Identify and protect plumbing, coordinate with plumber for any modifications",
+        "C": "Cut through any pipes encountered",
+        "D": "Plumbing is not affected by wall removal"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Plumbing damage creates costly problems",
+        "B": "Plumbing stacks must be identified, protected during demolition, and any required modifications coordinated with licensed plumbers",
+        "C": "Cutting plumbing causes flooding and code violations",
+        "D": "Plumbing is frequently affected by wall removal"
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "What is the purpose of daily site cleanup during renovation?",
+      "options": {
+        "A": "Aesthetic only",
+        "B": "To maintain safety, prevent accidents, and show professionalism",
+        "C": "To satisfy building inspector only",
+        "D": "Cleanup is not necessary during work"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cleanup serves important safety purposes",
+        "B": "Daily cleanup removes trip hazards, controls dust, prevents accidents, maintains professional appearance, and protects completed work",
+        "C": "While inspectors appreciate it, safety is the primary reason",
+        "D": "Regular cleanup is essential for safety"
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What is scabbing in structural reinforcement?",
+      "options": {
+        "A": "A construction disease",
+        "B": "Adding reinforcing members alongside damaged structural elements",
+        "C": "Removing damaged parts",
+        "D": "Surface finishing technique"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Scabbing is a construction technique, not a disease",
+        "B": "Scabbing involves attaching new structural members alongside damaged ones to restore or increase load capacity",
+        "C": "Removal is not scabbing",
+        "D": "This describes finishing, not structural work"
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.01 Joins new to existing construction",
+      "question": "When adding new exterior doors, how should they be flashed with existing walls?",
+      "options": {
+        "A": "No flashing needed",
+        "B": "Integrate flashing with existing water barriers following proper sequencing",
+        "C": "Caulk only",
+        "D": "Leave gaps for drainage"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flashing is essential for water protection",
+        "B": "New door flashing must integrate with existing weather barriers in proper sequence (sill, sides, head) to create continuous water protection",
+        "C": "Caulk alone is insufficient for water management",
+        "D": "Intentional gaps without flashing allow water infiltration"
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.02 Protects structure during renovations",
+      "question": "How should valuable or irreplaceable items be handled during renovation?",
+      "options": {
+        "A": "Leave in place unprotected",
+        "B": "Recommend removal to secure location or provide special protection",
+        "C": "Contractor assumes no responsibility",
+        "D": "Cover with single plastic sheet"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Valuable items are at risk during construction",
+        "B": "Best practice recommends removal of valuables to secure locations; if remaining on-site, special protection and documentation are warranted",
+        "C": "While liability is limited, professionals should recommend appropriate protection",
+        "D": "Single layer protection is insufficient for valuables"
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "G",
+      "task": "G-22",
+      "taskTitle": "Performs renovation-specific construction activities",
+      "subtask": "G-22.02 Changes existing structure during renovations",
+      "question": "What must be maintained when removing interior walls in multi-story buildings?",
+      "options": {
+        "A": "Nothing special required",
+        "B": "Fire separations, structural support, and code-required compartmentation",
+        "C": "Just aesthetics",
+        "D": "Walls can all be removed freely"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Multi-story buildings have critical code requirements",
+        "B": "Fire separations between units and floors, structural support for upper levels, and required compartmentation must be maintained or properly compensated",
+        "C": "Code compliance is mandatory, not just aesthetic",
+        "D": "Many walls serve critical code and structural functions"
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Performs renovation-specific support activities",
+      "subtask": "G-21.01 Removes existing material",
+      "question": "What final inspection should occur after demolition work?",
+      "options": {
+        "A": "No inspection needed",
+        "B": "Verify complete removal, check for damage to remaining structure, and ensure safety for next phase",
+        "C": "Only verify debris removal",
+        "D": "Only check for remaining materials"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Post-demolition inspection is essential",
+        "B": "Final inspection verifies complete removal per scope, assesses any damage to remaining elements requiring repair, and confirms site safety for construction phases",
+        "C": "Debris removal is one aspect but not complete",
+        "D": "Inspection must be comprehensive, not limited to materials"
+      }
+    }
+  ]
+}

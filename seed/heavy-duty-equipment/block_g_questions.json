@@ -1,0 +1,1015 @@
+{
+  "block": "G",
+  "title": "Environmental Control Systems",
+  "totalQuestions": 48,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.01 Diagnoses heating systems",
+      "question": "What is the most common cause of insufficient heat in a cab heating system?",
+      "options": {
+        "A": "Low coolant level or restricted coolant flow through heater core.",
+        "B": "Excessive outside air temperature.",
+        "C": "Overcharged air conditioning system.",
+        "D": "High engine oil pressure."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "AC system charge does not affect heating performance.",
+        "B": "Outside temperature affects heating load but doesn't cause insufficient heat output.",
+        "C": "Low coolant or restricted flow prevents adequate heat transfer to cabin air.",
+        "D": "Oil pressure has no relation to heating system performance."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.01 Diagnoses heating systems",
+      "question": "A heater produces warm air only at high engine RPM. What is the likely cause?",
+      "options": {
+        "A": "Failed thermostat.",
+        "B": "Restricted heater core or low coolant flow.",
+        "C": "Blower motor failure.",
+        "D": "Excessive refrigerant charge."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Thermostat affects engine temperature, not RPM-dependent heating.",
+        "B": "Blower failure would prevent air delivery at all speeds.",
+        "C": "Restriction requires higher RPM to generate sufficient flow for heat transfer.",
+        "D": "Refrigerant is for AC system, not heating."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.01 Diagnoses heating systems",
+      "question": "What indicates a leaking heater core?",
+      "options": {
+        "A": "Black smoke from exhaust.",
+        "B": "Sweet smell in cab and coolant loss without external leaks.",
+        "C": "Excessive engine noise.",
+        "D": "Poor fuel economy only."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Black smoke indicates rich fuel mixture, not coolant leak.",
+        "B": "Fuel economy is not primary indicator of heater core leak.",
+        "C": "Heater core leaks don't cause engine noise.",
+        "D": "Coolant has sweet odor; internal cab leak shows these symptoms."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.01 Diagnoses heating systems",
+      "question": "When diagnosing a heating system, what tool measures coolant flow through the heater core?",
+      "options": {
+        "A": "Compression tester.",
+        "B": "Infrared thermometer to compare inlet and outlet temperatures.",
+        "C": "Torque wrench.",
+        "D": "Tire pressure gauge."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Compression tester is for engine cylinders.",
+        "B": "Torque wrench tightens fasteners, doesn't measure flow.",
+        "C": "Temperature difference between inlet/outlet indicates flow and heat transfer.",
+        "D": "Tire gauge measures air pressure, not coolant flow."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.01 Diagnoses heating systems",
+      "question": "A blend door actuator fails in a heating system. What symptom occurs?",
+      "options": {
+        "A": "No blower operation.",
+        "B": "Inability to control temperature or stuck at one temperature.",
+        "C": "Complete loss of coolant.",
+        "D": "Engine overheating."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Blend door controls hot/cold air mix; failure prevents temperature adjustment.",
+        "B": "Blower motor is separate from blend door control.",
+        "C": "Blend door is internal air control, doesn't cause coolant loss.",
+        "D": "Blend door doesn't affect engine cooling system."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.01 Diagnoses heating systems",
+      "question": "What causes heater hoses to collapse?",
+      "options": {
+        "A": "Excessive coolant pressure.",
+        "B": "Restricted radiator cap or cooling system vacuum.",
+        "C": "High ambient temperature.",
+        "D": "Low oil pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pressure would expand hoses, not collapse them.",
+        "B": "Vacuum condition during cooldown collapses weakened or restricted hoses.",
+        "C": "Temperature alone doesn't cause collapse.",
+        "D": "Oil pressure is unrelated to coolant hose condition."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.01 Diagnoses heating systems",
+      "question": "An auxiliary heater fails to operate. What should be checked first?",
+      "options": {
+        "A": "Tire pressure.",
+        "B": "Fuel supply, electrical power, and control switch operation.",
+        "C": "Transmission fluid level.",
+        "D": "Brake pad thickness."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Auxiliary heaters require fuel, power, and control signal to operate.",
+        "B": "Tire pressure is unrelated to auxiliary heater.",
+        "C": "Transmission fluid doesn't affect heater operation.",
+        "D": "Brake pads are unrelated to heating system."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.01 Diagnoses heating systems",
+      "question": "What indicates a stuck-open heater control valve?",
+      "options": {
+        "A": "No heat available.",
+        "B": "Constant heat output regardless of control position.",
+        "C": "Engine overheating.",
+        "D": "Low fuel pressure."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Valve stuck open allows continuous coolant flow, heat cannot be shut off.",
+        "B": "Stuck open allows continuous coolant flow, providing heat.",
+        "C": "Open heater valve aids cooling, doesn't cause overheating.",
+        "D": "Heater valve position doesn't affect fuel pressure."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.02 Diagnoses ventilation and filtration systems",
+      "question": "What is the primary symptom of a clogged cabin air filter?",
+      "options": {
+        "A": "Engine misfire.",
+        "B": "Reduced airflow from HVAC vents.",
+        "C": "Transmission slipping.",
+        "D": "Steering wheel vibration."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Clogged filter restricts airflow into cabin ventilation system.",
+        "B": "Cabin filter doesn't affect engine operation.",
+        "C": "Cabin air filter has no relation to transmission.",
+        "D": "Air filter doesn't cause steering vibration."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.02 Diagnoses ventilation and filtration systems",
+      "question": "A ventilation system produces musty odor. What is the likely cause?",
+      "options": {
+        "A": "Low engine oil.",
+        "B": "Mold or bacteria growth in evaporator or ventilation ducts.",
+        "C": "Worn brake pads.",
+        "D": "Incorrect tire pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil level doesn't cause cabin odors.",
+        "B": "Moisture accumulation promotes microbial growth causing musty smell.",
+        "C": "Brake wear produces burning smell, not musty odor.",
+        "D": "Tire pressure is unrelated to cabin odors."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.02 Diagnoses ventilation and filtration systems",
+      "question": "The recirculation door fails to close. What symptom occurs?",
+      "options": {
+        "A": "Engine overheating.",
+        "B": "Inability to recirculate cabin air; fresh air constantly enters.",
+        "C": "Low fuel pressure.",
+        "D": "Transmission shifting problems."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Stuck open door allows only outside air, preventing recirculation mode.",
+        "B": "Recirculation door affects cabin air, not engine cooling.",
+        "C": "Air door position doesn't affect fuel system.",
+        "D": "Recirculation door is separate from transmission operation."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.02 Diagnoses ventilation and filtration systems",
+      "question": "What causes excessive dust inside the cab despite closed windows?",
+      "options": {
+        "A": "High engine RPM.",
+        "B": "Missing, damaged, or incorrectly installed cabin air filter.",
+        "C": "Low coolant level.",
+        "D": "Overcharged battery."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Engine speed doesn't directly cause dust infiltration.",
+        "B": "Filter failure allows unfiltered air and dust to enter cabin.",
+        "C": "Coolant level is unrelated to dust filtration.",
+        "D": "Battery charge doesn't affect air filtration."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.02 Diagnoses ventilation and filtration systems",
+      "question": "A fresh air intake duct is disconnected. What occurs?",
+      "options": {
+        "A": "Increased fuel economy.",
+        "B": "Reduced ventilation airflow and possible dust/debris entry into blower.",
+        "C": "Improved engine performance.",
+        "D": "Enhanced cooling capacity."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Ventilation duct doesn't affect fuel consumption.",
+        "B": "Fresh air duct serves cabin, not engine cooling.",
+        "C": "Cabin ventilation doesn't affect engine operation.",
+        "D": "Disconnected duct reduces airflow and allows contamination of blower system."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.02 Diagnoses ventilation and filtration systems",
+      "question": "When diagnosing poor ventilation airflow, what should be inspected?",
+      "options": {
+        "A": "Transmission fluid color.",
+        "B": "Cabin filter condition, duct connections, and blower motor operation.",
+        "C": "Engine compression.",
+        "D": "Differential oil level."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "These components directly affect airflow delivery to cabin.",
+        "B": "Transmission fluid is unrelated to ventilation.",
+        "C": "Engine compression doesn't affect cabin ventilation.",
+        "D": "Differential oil is separate from ventilation system."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.02 Diagnoses ventilation and filtration systems",
+      "question": "What indicates a clogged fresh air intake screen?",
+      "options": {
+        "A": "Engine knocking.",
+        "B": "Reduced airflow with blower on high speed.",
+        "C": "Hydraulic system overheating.",
+        "D": "Excessive fuel consumption."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Intake screen affects cabin air, not engine operation.",
+        "B": "Fresh air screen restriction doesn't impact fuel economy.",
+        "C": "Cabin air intake doesn't affect hydraulic temperature.",
+        "D": "Blocked screen restricts air entering ventilation system despite blower effort."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.03 Diagnoses air conditioning systems",
+      "question": "What is the most common cause of insufficient cooling in an AC system?",
+      "options": {
+        "A": "Excessive engine oil.",
+        "B": "Low refrigerant charge or compressor failure.",
+        "C": "High tire pressure.",
+        "D": "Clean air filter."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Engine oil level doesn't affect AC cooling.",
+        "B": "Clean filter improves airflow, doesn't cause poor cooling.",
+        "C": "Tire pressure is unrelated to AC performance.",
+        "D": "Low refrigerant or failed compressor prevents adequate heat removal."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.03 Diagnoses air conditioning systems",
+      "question": "An AC compressor clutch fails to engage. What should be checked first?",
+      "options": {
+        "A": "Transmission fluid level.",
+        "B": "Refrigerant pressure, clutch coil voltage, and pressure switches.",
+        "C": "Brake fluid level.",
+        "D": "Coolant temperature."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Transmission fluid doesn't affect AC clutch.",
+        "B": "While high coolant temp may disable AC, refrigerant and electrical are primary checks.",
+        "C": "Brake fluid is separate from AC operation.",
+        "D": "Low pressure, no voltage, or failed switches prevent clutch engagement."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.03 Diagnoses air conditioning systems",
+      "question": "What indicates a restricted expansion valve or orifice tube?",
+      "options": {
+        "A": "High pressure on both high and low sides.",
+        "B": "Excessive frost on evaporator and low suction pressure.",
+        "C": "Engine overheating.",
+        "D": "Loud exhaust noise."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Restriction limits refrigerant flow, causing evaporator icing and low pressure.",
+        "B": "Restriction causes low suction pressure, not high.",
+        "C": "Expansion device affects AC, not directly engine temperature.",
+        "D": "Exhaust noise is unrelated to AC metering device."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.03 Diagnoses air conditioning systems",
+      "question": "An AC system shows normal pressures but produces warm air. What is the likely cause?",
+      "options": {
+        "A": "Blend door stuck in heat position or mode door malfunction.",
+        "B": "Overcharged refrigerant.",
+        "C": "Excessive hydraulic pressure.",
+        "D": "Low battery voltage."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Hydraulic system is separate from AC operation.",
+        "B": "Overcharge would show abnormal pressures and reduced cooling.",
+        "C": "Normal AC operation but doors directing air improperly prevents cold air delivery.",
+        "D": "While low voltage affects compressor, normal pressures indicate AC is running."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.03 Diagnoses air conditioning systems",
+      "question": "What causes an AC system to cycle on and off rapidly?",
+      "options": {
+        "A": "Perfect refrigerant charge.",
+        "B": "Low refrigerant charge or faulty pressure switch.",
+        "C": "High engine oil pressure.",
+        "D": "Clean condenser."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper charge provides stable operation without rapid cycling.",
+        "B": "Low charge triggers pressure cutout; switch failure causes erratic cycling.",
+        "C": "Oil pressure doesn't affect AC cycling.",
+        "D": "Clean condenser improves performance, doesn't cause rapid cycling."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.03 Diagnoses air conditioning systems",
+      "question": "During AC diagnosis, both high and low side pressures are high. What is indicated?",
+      "options": {
+        "A": "Low refrigerant charge.",
+        "B": "Overcharge, restricted condenser, or failed cooling fan.",
+        "C": "System is operating perfectly.",
+        "D": "Compressor is not running."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Low charge causes low pressures on both sides.",
+        "B": "High pressures on both sides indicate a problem.",
+        "C": "High pressures indicate inability to reject heat, often from overcharge or poor airflow.",
+        "D": "If compressor wasn't running, pressures would equalize and be moderate."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.03 Diagnoses air conditioning systems",
+      "question": "What tool is used to detect refrigerant leaks in an AC system?",
+      "options": {
+        "A": "Compression tester.",
+        "B": "Electronic leak detector or UV dye with UV light.",
+        "C": "Torque wrench.",
+        "D": "Ohmmeter."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Compression tester is for engine cylinders.",
+        "B": "Ohmmeter measures electrical resistance, not refrigerant leaks.",
+        "C": "Torque wrench tightens fasteners.",
+        "D": "Electronic detectors sense refrigerant; UV dye glows under UV light at leak sites."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.03 Diagnoses air conditioning systems",
+      "question": "An evaporator shows excessive frost buildup. What causes this?",
+      "options": {
+        "A": "Overcharged system.",
+        "B": "Restricted airflow across evaporator or low refrigerant charge.",
+        "C": "High ambient temperature.",
+        "D": "Excessive engine speed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Overcharge typically shows high pressures without excessive frost.",
+        "B": "Restricted air or low charge causes evaporator temperature to drop below freezing.",
+        "C": "High ambient temperature would reduce frost formation.",
+        "D": "Engine speed affects compressor speed but isn't primary cause of frost."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.04 Diagnoses sound suppression systems",
+      "question": "What is the primary cause of excessive cab noise in heavy equipment?",
+      "options": {
+        "A": "Clean air filter.",
+        "B": "Missing or damaged cab insulation, worn door seals, or failed engine mounts.",
+        "C": "Proper tire inflation.",
+        "D": "Full fuel tank."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Clean filter doesn't cause noise.",
+        "B": "Damaged insulation and seals allow noise transmission; worn mounts transmit vibration.",
+        "C": "Proper inflation reduces noise, doesn't cause it.",
+        "D": "Fuel level doesn't significantly affect cab noise."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.04 Diagnoses sound suppression systems",
+      "question": "Exhaust noise increases significantly after muffler work. What should be checked?",
+      "options": {
+        "A": "Transmission fluid level.",
+        "B": "Muffler installation, gasket condition, and exhaust leaks.",
+        "C": "Battery terminals.",
+        "D": "Coolant level."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Transmission fluid doesn't affect exhaust noise.",
+        "B": "Battery terminals are unrelated to exhaust noise.",
+        "C": "Improper installation or leaks allow noise to escape before suppression.",
+        "D": "Coolant level doesn't affect exhaust sound level."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.04 Diagnoses sound suppression systems",
+      "question": "What causes a rattling noise from the exhaust system?",
+      "options": {
+        "A": "Fresh engine oil.",
+        "B": "Loose heat shields, broken hangers, or internal muffler baffles.",
+        "C": "New tires.",
+        "D": "Clean fuel filter."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Oil condition doesn't cause exhaust rattles.",
+        "B": "Tire condition is unrelated to exhaust noise.",
+        "C": "Loose components vibrate and rattle against exhaust or chassis.",
+        "D": "Fuel filter doesn't affect exhaust system noise."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.04 Diagnoses sound suppression systems",
+      "question": "When diagnosing cab noise issues, what tool helps identify sound sources?",
+      "options": {
+        "A": "Compression gauge.",
+        "B": "Sound level meter or acoustic camera.",
+        "C": "Torque wrench.",
+        "D": "Feeler gauge."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Sound meter measures levels; acoustic camera visually maps noise sources.",
+        "B": "Compression gauge is for engine cylinders.",
+        "C": "Torque wrench tightens fasteners.",
+        "D": "Feeler gauge measures clearances."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.04 Diagnoses sound suppression systems",
+      "question": "Cab windows whistle at highway speeds. What is the likely cause?",
+      "options": {
+        "A": "Low coolant level.",
+        "B": "Damaged or missing window seals allowing air infiltration.",
+        "C": "High engine compression.",
+        "D": "Excessive hydraulic pressure."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Coolant level doesn't cause window noise.",
+        "B": "Hydraulic pressure doesn't affect window sealing.",
+        "C": "Compression is internal engine characteristic, not related to window noise.",
+        "D": "Compromised seals allow air to flow through gaps, creating whistle."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.04 Diagnoses sound suppression systems",
+      "question": "What indicates failed engine mounts causing excessive noise transmission?",
+      "options": {
+        "A": "Reduced fuel economy only.",
+        "B": "Increased vibration and noise in cab, especially during acceleration.",
+        "C": "Improved ride quality.",
+        "D": "Lower oil consumption."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While mounts may affect efficiency slightly, noise is primary symptom.",
+        "B": "Failed mounts allow engine vibration and noise to transfer directly to chassis and cab.",
+        "C": "Failed mounts worsen ride quality and noise.",
+        "D": "Oil consumption is unrelated to mount condition."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "G",
+      "task": "G-17",
+      "taskTitle": "Diagnoses environmental control systems",
+      "subtask": "G-17.04 Diagnoses sound suppression systems",
+      "question": "A backup alarm operates at incorrect volume. What should be checked?",
+      "options": {
+        "A": "Tire pressure.",
+        "B": "Alarm adjustment setting or failed alarm unit.",
+        "C": "Transmission fluid level.",
+        "D": "Battery water level only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tire pressure doesn't affect alarm volume.",
+        "B": "Alarms often have volume adjustment; internal failure can also affect output.",
+        "C": "Transmission fluid is unrelated to alarm operation.",
+        "D": "While battery affects alarm power, adjustment and unit condition are primary concerns."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.01 Repairs heating systems",
+      "question": "What is the correct procedure for replacing a heater core?",
+      "options": {
+        "A": "Drain coolant, remove dash components for access, replace core, refill and bleed system.",
+        "B": "Replace without draining coolant.",
+        "C": "Install while engine is hot.",
+        "D": "Skip bleeding procedure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Coolant will spill during removal causing mess and coolant loss.",
+        "B": "Proper procedure prevents coolant spills and ensures complete system refill.",
+        "C": "Hot coolant creates burn hazard during service.",
+        "D": "Bleeding removes air pockets that prevent proper heating and cause overheating."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.01 Repairs heating systems",
+      "question": "When installing heater hoses, what ensures proper connection?",
+      "options": {
+        "A": "Use wire to secure hoses.",
+        "B": "Install correct size hose with proper clamps torqued to specification.",
+        "C": "Force fit without clamps.",
+        "D": "Use any available hose material."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wire is inadequate for coolant pressure and temperature.",
+        "B": "Proper size and torqued clamps prevent leaks under pressure and temperature cycles.",
+        "C": "Pressure will cause leaks without proper clamping.",
+        "D": "Hose must be rated for coolant temperature and pressure."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.01 Repairs heating systems",
+      "question": "After heater core replacement, what must be done to ensure proper operation?",
+      "options": {
+        "A": "Nothing, installation is complete.",
+        "B": "Bleed air from cooling system and verify heat output and no leaks.",
+        "C": "Only check for external leaks.",
+        "D": "Replace thermostat regardless of condition."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Air bleeding and verification are critical final steps.",
+        "B": "Air removal ensures proper flow and heat; leak check confirms installation quality.",
+        "C": "System must also be bled and heat output verified.",
+        "D": "Thermostat replacement is only needed if faulty."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.01 Repairs heating systems",
+      "question": "What is the proper method to repair a leaking heater control valve?",
+      "options": {
+        "A": "Apply sealant over leak.",
+        "B": "Replace valve with correct type for system pressure and temperature.",
+        "C": "Tighten nearby components.",
+        "D": "Ignore small leaks."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "External sealant is temporary fix that will fail under pressure.",
+        "B": "Small leaks will worsen and cause coolant loss and heating problems.",
+        "C": "Tightening doesn't fix internal valve leaks.",
+        "D": "Valve replacement with proper specifications ensures reliable operation."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.01 Repairs heating systems",
+      "question": "When replacing a blend door actuator, what should be verified?",
+      "options": {
+        "A": "Tire pressure only.",
+        "B": "Actuator calibration, door movement, and temperature control function.",
+        "C": "Fuel pressure.",
+        "D": "Transmission operation."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Calibration and functional testing ensure proper temperature control.",
+        "B": "Tire pressure is unrelated to actuator installation.",
+        "C": "Fuel pressure doesn't relate to blend door operation.",
+        "D": "Transmission is separate from HVAC system."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.02 Repairs ventilation and filtration systems",
+      "question": "What is the correct procedure for replacing a cabin air filter?",
+      "options": {
+        "A": "Access filter location, remove old filter, clean housing, install new filter in correct direction.",
+        "B": "Install filter backwards for better filtration.",
+        "C": "Leave housing dirty during replacement.",
+        "D": "Reuse old filter after shaking it."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper direction ensures airflow through filter media; clean housing prevents contamination.",
+        "B": "Backwards installation prevents proper filtration and may damage filter.",
+        "C": "Debris in housing will contaminate new filter.",
+        "D": "Filters should be replaced at service intervals, not reused."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.02 Repairs ventilation and filtration systems",
+      "question": "When repairing ventilation ducts, what material should be used?",
+      "options": {
+        "A": "Duct tape only.",
+        "B": "Proper HVAC-grade duct material or approved repair tape/sealant.",
+        "C": "Paper products.",
+        "D": "Any available plastic."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Standard duct tape degrades from heat and fails over time.",
+        "B": "Paper products are fire hazard and will deteriorate.",
+        "C": "HVAC-rated materials withstand temperature and maintain airflow integrity.",
+        "D": "Plastic must be rated for temperature and not emit harmful vapors."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.02 Repairs ventilation and filtration systems",
+      "question": "After cleaning the evaporator to remove mold, what should be done?",
+      "options": {
+        "A": "Nothing further required.",
+        "B": "Apply antimicrobial treatment and replace cabin filter.",
+        "C": "Increase refrigerant charge.",
+        "D": "Replace engine air filter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Preventive treatment and filter change prevent immediate recurrence.",
+        "B": "Antimicrobial prevents regrowth; new cabin filter removes contamination.",
+        "C": "Refrigerant charge is unrelated to mold remediation.",
+        "D": "Engine air filter is separate from cabin ventilation cleaning."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.02 Repairs ventilation and filtration systems",
+      "question": "What is the proper method to repair a disconnected fresh air duct?",
+      "options": {
+        "A": "Leave disconnected if airflow seems adequate.",
+        "B": "Reconnect securely and seal with appropriate clamp or fastener.",
+        "C": "Tape loosely in place.",
+        "D": "Block off duct completely."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Disconnected duct reduces efficiency and allows contamination.",
+        "B": "Tape alone will fail from vibration and temperature changes.",
+        "C": "Secure connection ensures proper airflow and prevents debris entry.",
+        "D": "Blocking prevents necessary fresh air ventilation."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.03 Repairs air conditioning systems",
+      "question": "What is the first step when replacing an AC compressor?",
+      "options": {
+        "A": "Add refrigerant immediately.",
+        "B": "Recover refrigerant from system using approved equipment.",
+        "C": "Cut refrigerant lines.",
+        "D": "Start engine and disconnect compressor."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "System must be emptied before compressor removal.",
+        "B": "Cutting lines releases refrigerant illegally; use proper recovery.",
+        "C": "Refrigerant recovery is legally required and prevents environmental release.",
+        "D": "Compressor must be disconnected with system empty."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.03 Repairs air conditioning systems",
+      "question": "After replacing AC components, what procedure is required before recharging?",
+      "options": {
+        "A": "Immediately add refrigerant.",
+        "B": "Evacuate system to remove air and moisture.",
+        "C": "Skip testing and operate system.",
+        "D": "Add only half charge."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Evacuation removes air and moisture that would damage system and reduce cooling.",
+        "B": "Air and moisture must be removed first.",
+        "C": "Proper evacuation and charging are essential for operation.",
+        "D": "System requires full specified charge for proper operation."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.03 Repairs air conditioning systems",
+      "question": "When installing a new AC compressor, what must be added?",
+      "options": {
+        "A": "Nothing, compressor comes ready to install.",
+        "B": "Correct type and amount of refrigerant oil per specifications.",
+        "C": "Engine oil.",
+        "D": "Brake fluid."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper oil type and quantity essential for compressor longevity.",
+        "B": "Compressor requires oil for lubrication; amount must be correct.",
+        "C": "Engine oil is incompatible with refrigerant system.",
+        "D": "Brake fluid has no place in AC system."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.03 Repairs air conditioning systems",
+      "question": "What is the proper procedure to repair a refrigerant leak at a hose connection?",
+      "options": {
+        "A": "Tighten connection without recovering refrigerant.",
+        "B": "Recover refrigerant, replace O-rings and fittings, evacuate and recharge.",
+        "C": "Apply sealant over leak.",
+        "D": "Ignore if leak is small."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Tightening can damage fittings; refrigerant must be recovered first.",
+        "B": "External sealant doesn't fix AC leaks and contaminates system.",
+        "C": "Proper repair includes recovery, component replacement, and system preparation.",
+        "D": "All leaks must be repaired to maintain charge and prevent moisture entry."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.03 Repairs air conditioning systems",
+      "question": "After AC repair, system pressures are normal but cooling is poor. What should be checked?",
+      "options": {
+        "A": "Engine compression.",
+        "B": "Blend door operation and airflow across evaporator.",
+        "C": "Transmission fluid level.",
+        "D": "Tire pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Compression doesn't affect AC cooling directly.",
+        "B": "Normal pressures indicate AC working; air delivery problem prevents cooling.",
+        "C": "Transmission fluid is unrelated to AC cooling.",
+        "D": "Tire pressure doesn't affect cabin cooling."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.04 Repairs sound suppression systems",
+      "question": "What is the correct method to replace damaged cab insulation?",
+      "options": {
+        "A": "Leave damaged areas exposed.",
+        "B": "Replace with proper insulation material rated for temperature and fire resistance.",
+        "C": "Use household insulation material.",
+        "D": "Apply duct tape over damage."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper material ensures noise reduction, thermal control, and safety.",
+        "B": "Missing insulation increases noise and heat transfer.",
+        "C": "Household insulation may not meet fire and temperature requirements.",
+        "D": "Tape doesn't provide insulation properties."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.04 Repairs sound suppression systems",
+      "question": "When replacing door seals, what ensures proper fit?",
+      "options": {
+        "A": "Use any available rubber material.",
+        "B": "Install correct seal profile for door design and ensure complete contact.",
+        "C": "Leave gaps for ventilation.",
+        "D": "Compress seal excessively during installation."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Seal profile must match door design for proper sealing.",
+        "B": "Excessive compression can damage seal and prevent proper function.",
+        "C": "Gaps defeat purpose of seal and allow noise infiltration.",
+        "D": "Proper profile and complete contact ensure noise and weather sealing."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.04 Repairs sound suppression systems",
+      "question": "What is the proper procedure for replacing a muffler?",
+      "options": {
+        "A": "Weld directly without gaskets.",
+        "B": "Install with proper hangers, gaskets, and verify no exhaust leaks.",
+        "C": "Use wire to hang muffler.",
+        "D": "Leave loose for expansion."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Welding without gaskets can create stress points and future leak areas.",
+        "B": "Loose mounting causes noise and potential damage.",
+        "C": "Wire is inadequate for exhaust system weight and vibration.",
+        "D": "Proper support, sealing, and leak testing ensure quiet, safe operation."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "G",
+      "task": "G-18",
+      "taskTitle": "Repairs environmental control systems",
+      "subtask": "G-18.04 Repairs sound suppression systems",
+      "question": "When installing engine mounts, what must be verified?",
+      "options": {
+        "A": "Mounts are hand-tightened only.",
+        "B": "Correct mount type, orientation, and torque specifications are followed.",
+        "C": "Any mount can be used in any position.",
+        "D": "Mounts can be installed while engine is running."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Mounts must be torqued to specification for proper clamping.",
+        "B": "Engine must be supported and off during mount installation.",
+        "C": "Mounts are position-specific with different load ratings.",
+        "D": "Proper type, position, and torque ensure vibration isolation and safety."
+      }
+    }
+  ]
+}

@@ -1,0 +1,2360 @@
+{
+  "block": "F",
+  "blockTitle": "Performs Interior Finishing",
+  "blockDescription": "Installs drywall, ceilings, flooring, interior doors, trim and finish components, including stairs.",
+  "totalQuestions": 112,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.01 Installs wallboard",
+      "question": "What is the standard thickness of drywall used for walls in residential construction?",
+      "options": {
+        "A": "6 mm (1/4 in.)",
+        "B": "10 mm (3/8 in.)",
+        "C": "13 mm (1/2 in.)",
+        "D": "16 mm (5/8 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This thickness is too thin and used only for curved surfaces or repairs",
+        "B": "This thickness is sometimes used but not the standard for walls",
+        "C": "13 mm (1/2 in.) drywall is the standard thickness for residential walls, providing adequate strength and fire resistance",
+        "D": "This thickness is typically used for ceilings or fire-rated assemblies, not standard walls"
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.01 Installs wallboard",
+      "question": "What is the maximum spacing for drywall screws on walls when fastening to wood studs?",
+      "options": {
+        "A": "150 mm (6 in.) o.c.",
+        "B": "200 mm (8 in.) o.c.",
+        "C": "300 mm (12 in.) o.c.",
+        "D": "400 mm (16 in.) o.c."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "This spacing is tighter than necessary for walls",
+        "B": "While acceptable, this exceeds the minimum requirement",
+        "C": "This is the maximum for ceiling applications, not walls",
+        "D": "For walls, drywall screws should be spaced maximum 400 mm (16 in.) o.c. on wood studs, with screws placed on all edges and in the field"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.02 Applies compound",
+      "question": "How many coats of joint compound are typically required for a smooth finish?",
+      "options": {
+        "A": "One coat",
+        "B": "Two coats",
+        "C": "Three coats",
+        "D": "Four coats"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "One coat is insufficient for a smooth, professional finish",
+        "B": "Two coats leave visible imperfections and tape edges",
+        "C": "Three coats are standard: first coat (taping), second coat (fill/block), and third coat (finish/skim) to achieve a smooth, level surface",
+        "D": "Four coats are excessive for standard applications"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.01 Installs wallboard",
+      "question": "What type of drywall should be used in high-moisture areas like bathrooms?",
+      "options": {
+        "A": "Standard drywall",
+        "B": "Fire-rated drywall (Type X)",
+        "C": "Moisture-resistant drywall (green board or purple board)",
+        "D": "Foil-backed drywall"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Standard drywall deteriorates rapidly in high-moisture environments",
+        "B": "Fire-rated drywall provides fire protection but not moisture resistance",
+        "C": "Moisture-resistant drywall (green board, purple board, or paperless) has treated core and facings that resist mold growth and moisture damage",
+        "D": "Foil backing provides vapor barrier but not moisture resistance for the core"
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.02 Applies compound",
+      "question": "What is the purpose of sanding between coats of joint compound?",
+      "options": {
+        "A": "To roughen the surface for better adhesion",
+        "B": "To remove ridges, bumps, and excess compound",
+        "C": "To open the pores of the paper",
+        "D": "Sanding between coats is not necessary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Good adhesion occurs without sanding when compound is still slightly damp",
+        "B": "Sanding removes high spots, tool marks, and excess compound, creating a smooth surface for the next coat",
+        "C": "The paper doesn't need pore opening for compound adhesion",
+        "D": "Sanding between coats is essential for a quality finish"
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.01 Installs wallboard",
+      "question": "How far should drywall screws be placed from the edge of the board?",
+      "options": {
+        "A": "6 mm (1/4 in.)",
+        "B": "10 mm (3/8 in.)",
+        "C": "13 mm (1/2 in.)",
+        "D": "25 mm (1 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This distance is too close and risks edge crumbling",
+        "B": "Screws should be placed approximately 10 mm (3/8 in.) from edges to prevent crumbling while ensuring secure attachment",
+        "C": "This distance is acceptable but further than necessary",
+        "D": "This distance is excessive and doesn't provide adequate edge support"
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.03 Installs panels, tiles, solid wood finishes",
+      "question": "What is the standard panel size for 4x8 sheet products in interior wall paneling?",
+      "options": {
+        "A": "1200 mm x 2400 mm (4 ft. x 8 ft.)",
+        "B": "1220 mm x 2440 mm (4 ft. x 8 ft.)",
+        "C": "1200 mm x 3000 mm (4 ft. x 10 ft.)",
+        "D": "1500 mm x 2400 mm (5 ft. x 8 ft.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is close but not the actual standard dimension",
+        "B": "Standard sheet goods are 1220 mm x 2440 mm (4 ft. x 8 ft.), which matches standard wall heights and stud spacing",
+        "C": "This represents 4x10 sheets, not standard 4x8",
+        "D": "This is not a standard panel size"
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.01 Installs wallboard",
+      "question": "What is the proper way to install drywall on walls?",
+      "options": {
+        "A": "Vertically only",
+        "B": "Horizontally only",
+        "C": "Horizontally is preferred to reduce seams",
+        "D": "Direction doesn't matter"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Vertical installation creates more seams and is less efficient",
+        "B": "While horizontal is preferred, vertical is sometimes necessary",
+        "C": "Horizontal installation is preferred because it reduces the number of seams, creates stronger joints at mid-wall height, and is more efficient",
+        "D": "Installation direction significantly affects finish quality and efficiency"
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.02 Applies compound",
+      "question": "What type of joint compound is best for the first coat (taping coat)?",
+      "options": {
+        "A": "Lightweight all-purpose compound",
+        "B": "Taping compound or all-purpose compound",
+        "C": "Topping compound",
+        "D": "Setting-type compound"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lightweight compound can be used but isn't specifically designed for tape embedment",
+        "B": "Taping compound or all-purpose compound has stronger bonding properties and is specifically formulated for tape embedment",
+        "C": "Topping compound is too soft for tape embedment and provides insufficient bonding",
+        "D": "While setting-type can be used by professionals, it's not necessary for standard first coat"
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.04 Installs suspended ceilings",
+      "question": "What is the standard grid size for suspended ceiling tile systems?",
+      "options": {
+        "A": "300 mm x 300 mm (1 ft. x 1 ft.)",
+        "B": "450 mm x 450 mm (1.5 ft. x 1.5 ft.)",
+        "C": "600 mm x 600 mm (2 ft. x 2 ft.)",
+        "D": "900 mm x 900 mm (3 ft. x 3 ft.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This size is too small and not standard",
+        "B": "This is not a standard ceiling tile size",
+        "C": "600 mm x 600 mm (2 ft. x 2 ft.) is the most common standard size for suspended ceiling tiles, though 600 mm x 1200 mm is also used",
+        "D": "This size is too large for standard ceiling systems"
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.01 Installs wallboard",
+      "question": "What should be done to outside corners before drywall installation?",
+      "options": {
+        "A": "Nothing special required",
+        "B": "Install corner bead after drywall",
+        "C": "Pre-install corner bead on framing",
+        "D": "Double the studs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Outside corners require protection and finishing",
+        "B": "Corner bead is installed after drywall is hung, protecting the vulnerable corner and providing a straight edge for compound application",
+        "C": "Corner bead is applied over the drywall corner, not to bare framing",
+        "D": "Stud doubling is for structural purposes, not corner finishing"
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.02 Applies compound",
+      "question": "How wide should the final coat of joint compound be feathered?",
+      "options": {
+        "A": "100 mm (4 in.)",
+        "B": "150 mm (6 in.)",
+        "C": "250-300 mm (10-12 in.)",
+        "D": "450 mm (18 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This width is too narrow and will show a ridge",
+        "B": "Still too narrow for proper feathering",
+        "C": "The final coat should be feathered 250-300 mm (10-12 in.) wide to create an imperceptible transition to the drywall surface",
+        "D": "While providing good transition, this is wider than necessary"
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.03 Installs panels, tiles, solid wood finishes",
+      "question": "What type of adhesive is commonly used for installing decorative wall paneling?",
+      "options": {
+        "A": "White glue",
+        "B": "Panel adhesive or construction adhesive",
+        "C": "Carpenter's glue",
+        "D": "Contact cement"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "White glue lacks the strength for panel installation",
+        "B": "Panel adhesive or construction adhesive provides strong, flexible bonds specifically formulated for wall panel installation",
+        "C": "Carpenter's glue is for wood joints, not panel installation",
+        "D": "Contact cement is used for laminates, not wall panels"
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.04 Installs suspended ceilings",
+      "question": "What is the minimum clearance typically required for a suspended ceiling installation?",
+      "options": {
+        "A": "25 mm (1 in.)",
+        "B": "50 mm (2 in.)",
+        "C": "75 mm (3 in.)",
+        "D": "100 mm (4 in.)"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "This clearance is insufficient for grid installation",
+        "B": "Still too tight for proper grid and tile installation",
+        "C": "Minimal but often insufficient for mechanical systems",
+        "D": "A minimum 100 mm (4 in.) clearance is typically required to accommodate the grid system, though more is needed if mechanical systems must be concealed"
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.01 Installs wallboard",
+      "question": "What is the purpose of leaving a small gap at the bottom of drywall sheets?",
+      "options": {
+        "A": "To save material",
+        "B": "To allow for floor adjustment",
+        "C": "To prevent moisture wicking from floor and allow for baseboard installation",
+        "D": "To create ventilation"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Material savings is not the purpose of the gap",
+        "B": "Floor adjustment is not related to drywall gaps",
+        "C": "A 10-15 mm gap prevents moisture from wicking into the drywall from the floor and allows space for baseboard installation over irregularities",
+        "D": "The gap is not for ventilation purposes"
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.05 Installs demountable systems",
+      "question": "What is the primary advantage of demountable partition systems?",
+      "options": {
+        "A": "Lower initial cost",
+        "B": "Better sound insulation",
+        "C": "Can be relocated and reconfigured without waste",
+        "D": "Easier to paint"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Demountable systems typically cost more initially than drywall",
+        "B": "Sound insulation depends on design; not inherently better",
+        "C": "Demountable systems can be disassembled, moved, and reconfigured with minimal waste, making them ideal for flexible office spaces",
+        "D": "Paint application is similar to or more difficult than standard walls"
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.02 Applies compound",
+      "question": "What grit sandpaper is typically used for final sanding of joint compound?",
+      "options": {
+        "A": "60 grit (coarse)",
+        "B": "80 grit (medium-coarse)",
+        "C": "120 grit (fine)",
+        "D": "220 grit (very fine)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Coarse grit would scratch and damage the surface",
+        "B": "Medium-coarse grit can leave visible scratches",
+        "C": "120 grit sandpaper provides a smooth finish without over-sanding or creating visible scratches in the compound",
+        "D": "Very fine grit is unnecessary and less efficient for compound"
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.01 Installs wallboard",
+      "question": "How should drywall screws be driven into the board?",
+      "options": {
+        "A": "Flush with the surface",
+        "B": "Slightly countersunk below the surface without breaking paper",
+        "C": "Protruding slightly above surface",
+        "D": "Deep below surface"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flush screws are difficult to cover with compound",
+        "B": "Screws should be slightly countersunk (dimpled) to allow compound coverage while keeping the paper intact for maximum holding power",
+        "C": "Protruding screws will show through finish and aren't properly secured",
+        "D": "Over-driving breaks the paper and reduces holding strength"
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.03 Installs panels, tiles, solid wood finishes",
+      "question": "When installing tongue and groove wood paneling, which direction should installation proceed?",
+      "options": {
+        "A": "Left to right only",
+        "B": "Right to left only",
+        "C": "From one side to the other, with groove facing the starting wall",
+        "D": "From center outward"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Direction depends on room layout and groove orientation",
+        "B": "Either direction works if properly oriented",
+        "C": "Installation should proceed from one side with the groove edge toward the starting wall, allowing the tongue to insert into each successive board",
+        "D": "Center-out installation is impractical for tongue and groove"
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.04 Installs suspended ceilings",
+      "question": "What is the maximum spacing for hanger wires supporting suspended ceiling main runners?",
+      "options": {
+        "A": "600 mm (2 ft.)",
+        "B": "900 mm (3 ft.)",
+        "C": "1200 mm (4 ft.)",
+        "D": "1800 mm (6 ft.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This spacing is tighter than necessary",
+        "B": "While conservative, this isn't the standard maximum",
+        "C": "Hanger wires should be spaced maximum 1200 mm (4 ft.) o.c. along main runners to prevent sagging",
+        "D": "This spacing is too wide and would allow sagging"
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.02 Applies compound",
+      "question": "What is the purpose of mesh tape versus paper tape for drywall joints?",
+      "options": {
+        "A": "Mesh is stronger in all applications",
+        "B": "Mesh is self-adhesive and faster to apply but may need setting compound",
+        "C": "Mesh is only for corners",
+        "D": "There is no difference"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paper tape is actually stronger when properly embedded",
+        "B": "Mesh tape is self-adhesive for quick application but requires setting-type or all-purpose compound for adequate strength; paper tape is stronger when embedded",
+        "C": "Mesh can be used on flat seams, not just corners",
+        "D": "The tapes have significant differences in application and performance"
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.01 Installs wallboard",
+      "question": "What is the recommended maximum spacing for drywall screws on ceilings?",
+      "options": {
+        "A": "150 mm (6 in.) o.c.",
+        "B": "200 mm (8 in.) o.c.",
+        "C": "300 mm (12 in.) o.c.",
+        "D": "400 mm (16 in.) o.c."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This spacing is tighter than necessary",
+        "B": "While acceptable, this exceeds minimum requirements",
+        "C": "Ceiling drywall requires screws at maximum 300 mm (12 in.) o.c. due to gravity loads, which is tighter than wall spacing",
+        "D": "This spacing is too wide for ceilings and will cause sagging"
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.04 Installs suspended ceilings",
+      "question": "How should wall angles be installed for a suspended ceiling system?",
+      "options": {
+        "A": "Level all around the room",
+        "B": "Following floor contours",
+        "C": "Sloped for drainage",
+        "D": "Attached to ceiling joists only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Wall angles must be installed level around the entire room to ensure the ceiling grid and tiles are level, regardless of floor irregularities",
+        "B": "Following floor would create an unlevel ceiling",
+        "C": "Interior ceilings should be level, not sloped",
+        "D": "Wall angles attach to walls, not ceiling joists"
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "F",
+      "task": "F-17",
+      "taskTitle": "Applies wall and ceiling finishes",
+      "subtask": "F-17.03 Installs panels, tiles, solid wood finishes",
+      "question": "What expansion gap should be left when installing solid wood wall paneling?",
+      "options": {
+        "A": "No gap needed",
+        "B": "1-2 mm (1/16 in.)",
+        "C": "3-6 mm (1/8-1/4 in.)",
+        "D": "13 mm (1/2 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Wood expands and contracts with humidity changes",
+        "B": "This gap is too small for seasonal wood movement",
+        "C": "A 3-6 mm expansion gap allows for seasonal wood movement without buckling, covered by trim",
+        "D": "This gap is excessive and difficult to conceal with trim"
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.01 Installs underlayment",
+      "question": "What is the standard thickness of plywood underlayment for resilient flooring?",
+      "options": {
+        "A": "3 mm (1/8 in.)",
+        "B": "6 mm (1/4 in.)",
+        "C": "10 mm (3/8 in.)",
+        "D": "13 mm (1/2 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This thickness is too thin for adequate support",
+        "B": "6 mm (1/4 in.) plywood underlayment is standard for resilient flooring, providing a smooth, stable surface",
+        "C": "This thickness is acceptable but thicker than necessary",
+        "D": "This thickness is excessive for underlayment purposes"
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.02 Installs floor coverings",
+      "question": "What is the recommended acclimation time for hardwood flooring before installation?",
+      "options": {
+        "A": "No acclimation needed",
+        "B": "24 hours",
+        "C": "3-5 days minimum",
+        "D": "30 days"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Acclimation is essential to prevent expansion/contraction issues",
+        "B": "24 hours is insufficient for wood to adjust to site conditions",
+        "C": "Hardwood flooring should acclimate 3-5 days minimum (sometimes longer) to adjust to the installation environment's temperature and humidity",
+        "D": "While longer acclimation doesn't hurt, 30 days is excessive"
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.01 Installs underlayment",
+      "question": "How should underlayment panels be fastened?",
+      "options": {
+        "A": "Adhesive only",
+        "B": "Staples at 300 mm o.c.",
+        "C": "Ring shank nails or screws at 150 mm o.c. along edges, 200 mm in field",
+        "D": "No fastening required"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Adhesive alone doesn't provide adequate holding",
+        "B": "Staples don't provide sufficient holding power for underlayment",
+        "C": "Ring shank nails or screws at 150 mm edges and 200 mm field spacing prevent movement and squeaking while creating a stable surface",
+        "D": "Proper fastening is essential to prevent movement"
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.02 Installs floor coverings",
+      "question": "What expansion gap should be left around the perimeter when installing laminate flooring?",
+      "options": {
+        "A": "No gap needed",
+        "B": "3 mm (1/8 in.)",
+        "C": "6 mm (1/4 in.)",
+        "D": "10-12 mm (3/8-1/2 in.)"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Laminate flooring requires expansion space",
+        "B": "This gap is too small for laminate movement",
+        "C": "Still insufficient for proper expansion",
+        "D": "Laminate flooring requires 10-12 mm expansion gap around all fixed objects to allow for expansion/contraction with humidity changes"
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.01 Installs underlayment",
+      "question": "What should be done to underlayment seams before installing vinyl flooring?",
+      "options": {
+        "A": "Leave as-is",
+        "B": "Fill and sand smooth",
+        "C": "Tape only",
+        "D": "Caulk the seams"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unsealed seams will telegraph through vinyl",
+        "B": "Underlayment seams should be filled with floor patch compound and sanded smooth to prevent telegraphing through vinyl flooring",
+        "C": "Tape alone doesn't create a smooth transition",
+        "D": "Caulk is inappropriate for this application"
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.03 Installs access flooring",
+      "question": "What is the primary purpose of access flooring (raised floor) systems?",
+      "options": {
+        "A": "Sound insulation",
+        "B": "To provide concealed space for electrical, data, and HVAC distribution",
+        "C": "To level uneven concrete",
+        "D": "To add cushioning"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While they may provide some sound benefits, this isn't the primary purpose",
+        "B": "Access flooring creates a raised floor system with accessible underfloor space for flexible distribution of power, data, and HVAC in commercial settings",
+        "C": "Leveling is a secondary benefit, not the primary purpose",
+        "D": "Cushioning is not the main function of access flooring"
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.02 Installs floor coverings",
+      "question": "In which direction should hardwood flooring typically be installed?",
+      "options": {
+        "A": "Parallel to the longest wall",
+        "B": "Perpendicular to floor joists",
+        "C": "At 45 degrees to walls",
+        "D": "Direction doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While often coinciding with joist direction, joist orientation is the determining factor",
+        "B": "Hardwood flooring should run perpendicular to floor joists for maximum strength and to minimize deflection",
+        "C": "Diagonal installation wastes material and is uncommon except for design purposes",
+        "D": "Direction is critical for structural performance"
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.01 Installs underlayment",
+      "question": "How should underlayment panel joints be oriented relative to subfloor joints?",
+      "options": {
+        "A": "Aligned with subfloor joints",
+        "B": "Offset from subfloor joints",
+        "C": "Perpendicular to subfloor joints",
+        "D": "Joint alignment doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Aligned joints create weak points and will telegraph through",
+        "B": "Underlayment joints should be offset from subfloor joints to prevent weak areas and seam telegraphing through finished flooring",
+        "C": "While perpendicular is one way to offset, any offset pattern works",
+        "D": "Joint alignment significantly affects floor performance"
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.02 Installs floor coverings",
+      "question": "What is the purpose of underlayment pad for laminate flooring?",
+      "options": {
+        "A": "Structural support only",
+        "B": "To provide moisture barrier, sound reduction, and cushioning",
+        "C": "To level the floor",
+        "D": "To provide adhesion"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Laminate is a floating floor; pad isn't for structural support",
+        "B": "Underlayment pad provides moisture barrier (if not built-in), reduces sound transmission, provides minor cushioning, and helps laminate float smoothly",
+        "C": "Leveling requires floor preparation, not pad",
+        "D": "Laminate flooring floats; it's not adhered"
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.01 Installs underlayment",
+      "question": "What type of underlayment is recommended under ceramic tile?",
+      "options": {
+        "A": "Plywood",
+        "B": "Particleboard",
+        "C": "Cement board or appropriate backer board",
+        "D": "Foam underlayment"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Plywood alone doesn't provide adequate dimensional stability for tile",
+        "B": "Particleboard deteriorates with moisture and isn't suitable",
+        "C": "Cement board or similar backer board provides a stable, moisture-resistant substrate specifically designed for tile installation",
+        "D": "Foam compresses and is completely unsuitable for tile"
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.02 Installs floor coverings",
+      "question": "How should the first row of hardwood flooring be fastened?",
+      "options": {
+        "A": "Face-nailed near the wall edge, covered by baseboard",
+        "B": "Blind-nailed only",
+        "C": "Glued only",
+        "D": "Floating installation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "The first row should be face-nailed close to the wall where baseboard will cover the nails, providing a secure starting point for the floor",
+        "B": "The first row can't be blind-nailed due to lack of access for nailer",
+        "C": "Glue alone doesn't provide adequate holding for the starter row",
+        "D": "Solid hardwood is typically nailed, not floated"
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.03 Installs access flooring",
+      "question": "What is the typical height range for commercial access flooring systems?",
+      "options": {
+        "A": "25-50 mm (1-2 in.)",
+        "B": "100-200 mm (4-8 in.)",
+        "C": "150-600 mm (6-24 in.)",
+        "D": "1000 mm (40 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This height is too shallow for effective cable management",
+        "B": "While within range, this is on the low end",
+        "C": "Access flooring typically ranges from 150-600 mm to accommodate various amounts of cabling, ductwork, and ease of access",
+        "D": "This height is excessive and creates accessibility issues"
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.01 Installs underlayment",
+      "question": "What is the maximum gap acceptable between underlayment panels?",
+      "options": {
+        "A": "No gap; panels should touch",
+        "B": "1 mm (1/32 in.)",
+        "C": "3 mm (1/8 in.)",
+        "D": "6 mm (1/4 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Panels need slight gap for expansion",
+        "B": "A 1 mm gap allows for expansion while being small enough to fill effectively and prevent telegraphing",
+        "C": "This gap is too large and will be visible through flooring",
+        "D": "This gap is excessive and creates weak points"
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.02 Installs floor coverings",
+      "question": "What moisture content should hardwood flooring have before installation?",
+      "options": {
+        "A": "5-7%",
+        "B": "6-9%",
+        "C": "10-15%",
+        "D": "20% or higher"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is slightly too dry for most installations",
+        "B": "Hardwood should be 6-9% moisture content (within 2% of subfloor) to prevent excessive expansion or contraction after installation",
+        "C": "This moisture level is too high and will cause shrinkage",
+        "D": "This moisture content is far too high and will cause severe problems"
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.02 Installs floor coverings",
+      "question": "What is the purpose of staggering end joints in hardwood flooring?",
+      "options": {
+        "A": "Aesthetic appearance only",
+        "B": "To distribute structural loads and prevent weak lines",
+        "C": "To use shorter pieces",
+        "D": "To save money"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While appearance is enhanced, structural reasons are primary",
+        "B": "Staggering end joints (typically 150-200 mm minimum) distributes loads and prevents continuous weak lines that could cause floor failure",
+        "C": "Using short pieces is a result, not the purpose",
+        "D": "Proper staggering actually requires more careful planning, not cost savings"
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "F",
+      "task": "F-18",
+      "taskTitle": "Installs flooring",
+      "subtask": "F-18.03 Installs access flooring",
+      "question": "What type of panels are commonly used for access flooring systems?",
+      "options": {
+        "A": "Solid wood only",
+        "B": "Steel, aluminum, or composite panels on pedestals",
+        "C": "Concrete slabs",
+        "D": "Foam panels"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wood is not typical for commercial access flooring",
+        "B": "Access flooring uses steel, aluminum, or wood composite panels supported by adjustable pedestals, allowing for level installation and easy removal",
+        "C": "Concrete is too heavy and not removable for access",
+        "D": "Foam cannot support floor loads"
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.01 Installs interior jambs/frames",
+      "question": "What is the standard width of interior door jambs?",
+      "options": {
+        "A": "89 mm (3-1/2 in.)",
+        "B": "114 mm (4-1/2 in.)",
+        "C": "140 mm (5-1/2 in.)",
+        "D": "Match wall thickness"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "This is only correct for 2x4 walls",
+        "B": "This is only correct for 2x4 walls with 13 mm drywall both sides",
+        "C": "This is only correct for 2x6 walls",
+        "D": "Interior jamb width should match the finished wall thickness, which varies based on framing and drywall installation"
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "What is the standard thickness for interior doors in residential construction?",
+      "options": {
+        "A": "32 mm (1-1/4 in.)",
+        "B": "35 mm (1-3/8 in.)",
+        "C": "45 mm (1-3/4 in.)",
+        "D": "50 mm (2 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This thickness is too thin for standard doors",
+        "B": "Standard interior doors are 35 mm (1-3/8 in.) thick, providing adequate strength while being lighter than exterior doors",
+        "C": "This is the thickness for exterior doors",
+        "D": "This thickness is excessive for interior applications"
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.04 Installs interior door and window hardware",
+      "question": "What is the standard height for interior door handles from the finished floor?",
+      "options": {
+        "A": "860 mm (34 in.)",
+        "B": "915 mm (36 in.)",
+        "C": "965 mm (38 in.)",
+        "D": "1070 mm (42 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This height is too low for comfortable operation",
+        "B": "While sometimes used, this is below standard height",
+        "C": "965 mm (38 in.) to the center of the handle is standard height for interior door hardware, providing comfortable access for most users",
+        "D": "This height is too high and uncomfortable"
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.01 Installs interior jambs/frames",
+      "question": "How should interior door jambs be secured to the framing?",
+      "options": {
+        "A": "Nails only through jamb face",
+        "B": "Shimmed and screwed/nailed through shims into framing",
+        "C": "Adhesive only",
+        "D": "Friction fit"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Face nailing alone doesn't provide adequate stability",
+        "B": "Jambs should be shimmed at hinge and strike locations, then fastened through shims into framing to maintain proper spacing and prevent warping",
+        "C": "Adhesive alone is insufficient for door frame stability",
+        "D": "Friction fit provides no secure attachment"
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "What is the standard rough opening width for a 760 mm (30 in.) interior door?",
+      "options": {
+        "A": "760 mm (30 in.)",
+        "B": "815 mm (32 in.)",
+        "C": "865 mm (34 in.)",
+        "D": "915 mm (36 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This is the door width, not the rough opening",
+        "B": "This opening is too tight for jamb and shimming",
+        "C": "Rough opening should be approximately 50 mm (2 in.) wider than door width to accommodate jambs, shimming, and adjustment",
+        "D": "This opening is too wide and wastes space"
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.04 Installs interior door and window hardware",
+      "question": "How many hinges are typically required for a standard interior door?",
+      "options": {
+        "A": "One hinge",
+        "B": "Two hinges",
+        "C": "Three hinges",
+        "D": "Four hinges"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "One hinge is insufficient for door support",
+        "B": "Standard interior doors typically use two hinges; three may be used for heavy or tall doors",
+        "C": "Three hinges are used for heavy doors but exceed standard requirements",
+        "D": "Four hinges are excessive for standard interior doors"
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "What clearance should be maintained between the door and floor for carpet?",
+      "options": {
+        "A": "3 mm (1/8 in.)",
+        "B": "6 mm (1/4 in.)",
+        "C": "13-19 mm (1/2-3/4 in.)",
+        "D": "25 mm (1 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This clearance is too tight for carpet",
+        "B": "Still insufficient for carpet pile",
+        "C": "Doors over carpet should have 13-19 mm clearance to allow for carpet pile and padding while maintaining proper operation",
+        "D": "This clearance is excessive and looks unprofessional"
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.01 Installs interior jambs/frames",
+      "question": "What should be verified before installing a pre-hung interior door?",
+      "options": {
+        "A": "Only door swing direction",
+        "B": "Rough opening is square, plumb, and correct size",
+        "C": "Only that hardware is included",
+        "D": "Nothing needs verification"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Swing direction is important but rough opening condition is critical",
+        "B": "The rough opening must be verified as square, plumb, level, and properly sized before installation to ensure proper door operation",
+        "C": "Hardware is secondary to opening preparation",
+        "D": "Proper verification prevents installation problems"
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.04 Installs interior door and window hardware",
+      "question": "What is the typical backset for interior door locksets?",
+      "options": {
+        "A": "38 mm (1-1/2 in.)",
+        "B": "60 mm (2-3/8 in.)",
+        "C": "70 mm (2-3/4 in.)",
+        "D": "100 mm (4 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This backset is too shallow for standard doors",
+        "B": "Standard interior door lockset backset is 60 mm (2-3/8 in.) from door edge to center of knob, though 70 mm is also common",
+        "C": "This is an alternative standard backset but not the most common",
+        "D": "This backset is excessive for residential doors"
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "How should bifold doors be adjusted for proper operation?",
+      "options": {
+        "A": "Adjust top pivot only",
+        "B": "Adjust bottom pivot only",
+        "C": "Adjust both top and bottom pivots for alignment and smooth operation",
+        "D": "No adjustment possible"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Top pivot alone doesn't provide complete adjustment",
+        "B": "Bottom pivot alone is insufficient for proper alignment",
+        "C": "Both top and bottom pivots must be adjusted to achieve proper door alignment, smooth operation, and even gaps",
+        "D": "Bifold doors have multiple adjustment points"
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.01 Installs interior jambs/frames",
+      "question": "Where should shims be placed when installing an interior door frame?",
+      "options": {
+        "A": "Top corners only",
+        "B": "Behind hinges, strike plate, and mid-height on both sides",
+        "C": "Bottom only",
+        "D": "Random placement"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Top corners alone don't provide adequate support",
+        "B": "Shims should be placed behind all hinges, behind the strike plate, and at mid-height to prevent frame distortion and ensure proper door operation",
+        "C": "Bottom shimming alone leaves the frame unsupported",
+        "D": "Strategic shimming at stress points is essential"
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.03 Installs interior windows",
+      "question": "What is the primary purpose of interior windows in residential construction?",
+      "options": {
+        "A": "Structural support",
+        "B": "To allow natural light between rooms",
+        "C": "Ventilation",
+        "D": "Sound insulation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Interior windows provide no structural support",
+        "B": "Interior windows (like transom windows) allow natural light to pass between rooms, making interior spaces brighter without exterior exposure",
+        "C": "Interior windows rarely open for ventilation",
+        "D": "Interior windows actually reduce sound insulation between rooms"
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "What is the typical reveal around an interior door between jamb and casing?",
+      "options": {
+        "A": "Flush (no reveal)",
+        "B": "3-6 mm (1/8-1/4 in.)",
+        "C": "13 mm (1/2 in.)",
+        "D": "25 mm (1 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flush installation is difficult and doesn't provide a clean line",
+        "B": "A 3-6 mm reveal creates a consistent shadow line around the door and allows for minor imperfections in the jamb",
+        "C": "This reveal is too large and looks disproportionate",
+        "D": "This reveal is excessive and unprofessional"
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.04 Installs interior door and window hardware",
+      "question": "How should hinge screws be positioned in an interior door jamb?",
+      "options": {
+        "A": "All short screws into jamb only",
+        "B": "All long screws through jamb into framing",
+        "C": "At least one long screw per hinge through jamb into framing",
+        "D": "No screws needed; friction fit"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Jamb-only attachment may not provide adequate holding",
+        "B": "All long screws is acceptable but may split jamb",
+        "C": "At least one screw per hinge should be long enough (typically 75 mm) to penetrate through jamb and shims into solid framing",
+        "D": "Proper screw attachment is essential for door support"
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "What is the standard height for interior doors?",
+      "options": {
+        "A": "1980 mm (6 ft. 8 in.)",
+        "B": "2030 mm (6 ft. 8 in.)",
+        "C": "2040 mm (6 ft. 8 in.)",
+        "D": "2130 mm (7 ft.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This height is below standard",
+        "B": "Close but not the standard measurement",
+        "C": "Standard interior door height is 2040 mm (6 ft. 8 in.) or 80 inches, providing adequate clearance for most people",
+        "D": "This is taller than standard, used for special applications"
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.01 Installs interior jambs/frames",
+      "question": "What material is commonly used for interior door jambs?",
+      "options": {
+        "A": "Solid hardwood only",
+        "B": "Pine, poplar, or finger-jointed primed wood",
+        "C": "Particleboard",
+        "D": "Plastic only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hardwood is sometimes used but not the most common",
+        "B": "Pine, poplar, or finger-jointed primed wood are standard materials, offering good workability and paint-grade finish",
+        "C": "Particleboard lacks the strength for door jambs",
+        "D": "Plastic is rarely used for jambs in residential construction"
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.04 Installs interior door and window hardware",
+      "question": "What is the purpose of the strike plate on an interior door?",
+      "options": {
+        "A": "Decorative only",
+        "B": "To protect the jamb and receive the latch bolt",
+        "C": "To prevent door swing",
+        "D": "To hold weatherstripping"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While visible, the strike plate has an important function",
+        "B": "The strike plate reinforces the jamb and provides a precise, durable receptacle for the latch bolt",
+        "C": "Door stops control swing, not strike plates",
+        "D": "Weatherstripping is used on exterior doors"
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "How should pocket doors be maintained for smooth operation?",
+      "options": {
+        "A": "Oil the tracks monthly",
+        "B": "Keep tracks clean and properly aligned with good rollers",
+        "C": "Tighten all screws quarterly",
+        "D": "Replace annually"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil can attract dust and debris, causing problems",
+        "B": "Smooth operation requires clean tracks, proper alignment, and functional rollers; lubrication should be dry-type (silicone spray)",
+        "C": "While maintenance helps, this doesn't address track condition",
+        "D": "Properly installed pocket doors last for years"
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.01 Installs interior jambs/frames",
+      "question": "What is the purpose of a door stop on an interior jamb?",
+      "options": {
+        "A": "Structural support",
+        "B": "To position the door in the closed position and prevent over-swing",
+        "C": "To attach hardware",
+        "D": "Decorative only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Door stops provide no structural support",
+        "B": "The door stop creates a positive stop for the door in closed position and prevents it from swinging through the frame",
+        "C": "Hardware attaches to the jamb face, not the stop",
+        "D": "While affecting appearance, function is primary"
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.04 Installs interior door and window hardware",
+      "question": "What hole diameter is typically required for a standard interior door knob?",
+      "options": {
+        "A": "38 mm (1-1/2 in.)",
+        "B": "54 mm (2-1/8 in.)",
+        "C": "70 mm (2-3/4 in.)",
+        "D": "100 mm (4 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This hole is too small for standard locksets",
+        "B": "Standard interior door locksets require a 54 mm (2-1/8 in.) hole through the door face for the knob mechanism",
+        "C": "This hole is too large for standard locksets",
+        "D": "This hole is far too large"
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "What is the recommended gap between door edge and jamb on the latch side?",
+      "options": {
+        "A": "1 mm (1/32 in.)",
+        "B": "3 mm (1/8 in.)",
+        "C": "6 mm (1/4 in.)",
+        "D": "10 mm (3/8 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This gap is too tight and may cause binding",
+        "B": "A 3 mm (1/8 in.) gap allows smooth operation while maintaining a neat appearance",
+        "C": "This gap is slightly too wide and may look sloppy",
+        "D": "This gap is excessive and unprofessional"
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.03 Installs interior windows",
+      "question": "How should glass be secured in an interior window frame?",
+      "options": {
+        "A": "Adhesive only",
+        "B": "Points or clips, with glazing compound or stops",
+        "C": "Friction fit",
+        "D": "Screws through glass"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Adhesive alone may not provide adequate security",
+        "B": "Glass should be secured with glazier's points or clips, then sealed with compound or held with removable stops for safety and ease of replacement",
+        "C": "Friction fit is insecure and dangerous",
+        "D": "Screws cannot go through glass without special drilling"
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "What is the typical width of a standard bedroom door?",
+      "options": {
+        "A": "610 mm (24 in.)",
+        "B": "710 mm (28 in.)",
+        "C": "760 mm (30 in.)",
+        "D": "860 mm (34 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This width is typically used for closets, not bedrooms",
+        "B": "This is below standard for bedroom doors",
+        "C": "Standard bedroom door width is 760 mm (30 in.), providing adequate access for furniture and meeting code requirements",
+        "D": "This width is wider than standard, often used for main entries"
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.04 Installs interior door and window hardware",
+      "question": "How should door casing miters be secured at corners?",
+      "options": {
+        "A": "Glue only",
+        "B": "Nailed from face only",
+        "C": "Glued and pin-nailed through miter",
+        "D": "No fastening required"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Glue alone may not hold miters closed long-term",
+        "B": "Face nailing doesn't secure the miter joint itself",
+        "C": "Miters should be glued and pin-nailed through the joint to pull corners tight and prevent opening from wood movement",
+        "D": "Miters must be secured to prevent gaps"
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.01 Installs interior jambs/frames",
+      "question": "What is the proper sequence for installing a split-jamb door?",
+      "options": {
+        "A": "Install both halves together from one side",
+        "B": "Install one half from each side, interlock at center",
+        "C": "Install frame, then hang door",
+        "D": "Hang door first, then add jambs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Split-jambs are designed for two-sided installation",
+        "B": "One jamb half is installed from each side of the wall and they interlock at the center, eliminating the need for casing nails through the jamb",
+        "C": "Standard jamb procedure doesn't apply to split-jambs",
+        "D": "The door comes pre-hung in the jamb assembly"
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "What causes a door to bind on the hinge side?",
+      "options": {
+        "A": "Hinge jamb bowed outward",
+        "B": "Hinge jamb bowed inward",
+        "C": "Strike plate misaligned",
+        "D": "Door is too narrow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "If the hinge jamb bows outward (away from door stop), the door edge binds against the jamb",
+        "B": "Inward bow would create a gap, not binding",
+        "C": "Strike plate alignment affects latching, not hinge binding",
+        "D": "A narrow door would create gaps, not binding"
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.04 Installs interior door and window hardware",
+      "question": "What is the purpose of door casing?",
+      "options": {
+        "A": "Structural support only",
+        "B": "To cover the gap between jamb and wall and provide finished appearance",
+        "C": "To stop the door swing",
+        "D": "To hold the jamb square"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Casing provides no structural support",
+        "B": "Casing (trim) covers the gap between door jamb and wall surface, concealing the rough opening while providing decorative finish",
+        "C": "The door stop controls swing, not casing",
+        "D": "Shimming holds the jamb square, not casing"
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "How much clearance is needed for a sliding bypass door to operate properly?",
+      "options": {
+        "A": "Doors should fit tightly",
+        "B": "6 mm (1/4 in.) minimum between doors",
+        "C": "13 mm (1/2 in.) minimum between doors",
+        "D": "25 mm (1 in.) between doors"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tight fit will cause binding and damage",
+        "B": "Bypass doors need minimum 6 mm clearance between them to slide smoothly without binding or rubbing",
+        "C": "This clearance is more than necessary",
+        "D": "This gap is excessive and looks unprofessional"
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.01 Installs interior jambs/frames",
+      "question": "What is the purpose of head clearance above an interior door?",
+      "options": {
+        "A": "Decorative space only",
+        "B": "To allow for framing settlement and door swing clearance",
+        "C": "To install lighting",
+        "D": "No purpose; doors should fit tightly"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Head clearance has practical purposes",
+        "B": "Head clearance (typically 3-6 mm) allows for minor building settlement and ensures the door doesn't bind on the head jamb during operation",
+        "C": "Lighting is separate from clearance requirements",
+        "D": "Some clearance is essential for proper operation"
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.04 Installs interior door and window hardware",
+      "question": "What size finishing nails are typically used for interior door casing?",
+      "options": {
+        "A": "38 mm (1-1/2 in.)",
+        "B": "50 mm (2 in.)",
+        "C": "64 mm (2-1/2 in.)",
+        "D": "75 mm (3 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This length is too short for adequate holding",
+        "B": "Still too short to reach framing behind drywall",
+        "C": "64 mm (2-1/2 in.) finishing nails provide adequate length to penetrate through casing, drywall, and into framing for secure attachment",
+        "D": "This length is longer than necessary for casing"
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.02 Installs interior doors",
+      "question": "What should be done if a door swings open or closed by itself?",
+      "options": {
+        "A": "Install a door closer",
+        "B": "Adjust the hinge jamb to be perfectly plumb",
+        "C": "Replace the door",
+        "D": "Add more hinges"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "A door closer is unnecessary for a properly installed door",
+        "B": "Self-closing or opening indicates the hinge jamb is not plumb; adjusting shims to make it perfectly vertical solves the problem",
+        "C": "Door replacement is unnecessary for a plumb issue",
+        "D": "Additional hinges won't solve a plumb problem"
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "F",
+      "task": "F-19",
+      "taskTitle": "Installs interior doors and windows",
+      "subtask": "F-19.03 Installs interior windows",
+      "question": "What type of glass is recommended for interior windows near stairs or in other hazardous locations?",
+      "options": {
+        "A": "Single-pane annealed glass",
+        "B": "Tempered or laminated safety glass",
+        "C": "Plastic only",
+        "D": "Any glass is acceptable"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Annealed glass breaks into dangerous shards",
+        "B": "Tempered or laminated safety glass should be used in hazardous locations to reduce injury risk if broken",
+        "C": "While safe, plastic is not required and may not be preferred",
+        "D": "Building codes require safety glass in specific locations"
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is the primary purpose of a backer board when fabricating trim?",
+      "options": {
+        "A": "To add weight",
+        "B": "To provide support behind thin or built-up trim pieces",
+        "C": "To change trim color",
+        "D": "To waterproof the trim"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Weight is not a purpose of backer boards",
+        "B": "Backer boards provide support behind complex or built-up trim assemblies, creating a stable nailing surface and preventing flexing",
+        "C": "Backer boards are hidden and don't affect appearance",
+        "D": "Waterproofing is not the function of interior backer boards"
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "What is the standard height for installing chair rail molding?",
+      "options": {
+        "A": "460 mm (18 in.)",
+        "B": "760 mm (30 in.)",
+        "C": "860-1070 mm (34-42 in.)",
+        "D": "1500 mm (60 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This height is too low for chair rail",
+        "B": "This is below typical chair rail height",
+        "C": "Chair rail is typically installed 860-1070 mm (34-42 in.) from the floor, with 915 mm (36 in.) being most common",
+        "D": "This height is too high and defeats the purpose"
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is the maximum variation allowed between stair risers in a flight?",
+      "options": {
+        "A": "3 mm (1/8 in.)",
+        "B": "6 mm (1/4 in.)",
+        "C": "10 mm (3/8 in.)",
+        "D": "13 mm (1/2 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While ideal, this tolerance is tighter than code requires",
+        "B": "Riser height variation should not exceed 6 mm (1/4 in.) in a flight to prevent tripping hazards and meet building codes",
+        "C": "This variation is too large and creates a tripping hazard",
+        "D": "This variation is dangerous and violates code"
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "How should baseboard be fastened to walls?",
+      "options": {
+        "A": "Adhesive only",
+        "B": "Nailed into bottom plate and studs",
+        "C": "Screwed every 150 mm",
+        "D": "Not fastened; friction fit"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Adhesive alone may not hold long-term",
+        "B": "Baseboard should be nailed into the wall bottom plate and into studs where possible to ensure secure attachment",
+        "C": "Screws are unnecessary and screw heads are difficult to conceal",
+        "D": "Friction fit provides no secure attachment"
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is the purpose of a coping cut in trim carpentry?",
+      "options": {
+        "A": "To create decorative patterns",
+        "B": "To join inside corners by cutting trim profile to match adjoining piece",
+        "C": "To create outside corners",
+        "D": "To attach trim to walls"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Coping is functional, not decorative",
+        "B": "A coped joint cuts the profile of one trim piece to fit tightly against the face of another, creating tight inside corners that won't gap with wood movement",
+        "C": "Outside corners typically use mitered joints",
+        "D": "Coping is a joining method, not an attachment method"
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is the minimum headroom required for interior stairs?",
+      "options": {
+        "A": "1800 mm (71 in.)",
+        "B": "1950 mm (77 in.)",
+        "C": "2030 mm (80 in.)",
+        "D": "2100 mm (83 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This headroom is below code minimum",
+        "B": "Minimum headroom for interior stairs is 1950 mm (77 in.) measured vertically from stair nosing to overhead obstruction",
+        "C": "While providing better clearance, this exceeds minimum",
+        "D": "This headroom is more than required"
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "What is the purpose of crown molding?",
+      "options": {
+        "A": "Structural ceiling support",
+        "B": "To create decorative transition between wall and ceiling",
+        "C": "To hide electrical wiring",
+        "D": "To improve acoustics"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Crown molding provides no structural support",
+        "B": "Crown molding creates an attractive transition between walls and ceiling, concealing the joint and adding visual interest",
+        "C": "While it may conceal some wiring, this isn't its primary purpose",
+        "D": "Crown molding has minimal acoustic effect"
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What angle is typically used for mitering outside corners in trim work?",
+      "options": {
+        "A": "30 degrees",
+        "B": "45 degrees",
+        "C": "60 degrees",
+        "D": "90 degrees"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This angle is too acute for standard corners",
+        "B": "Outside corners are typically mitered at 45 degrees on each piece to create a 90-degree corner",
+        "C": "This angle is too obtuse for right-angle corners",
+        "D": "This is the corner angle itself, not the miter cut"
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is the minimum tread depth for interior stairs?",
+      "options": {
+        "A": "210 mm (8-1/4 in.)",
+        "B": "235 mm (9-1/4 in.)",
+        "C": "250 mm (10 in.)",
+        "D": "280 mm (11 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This tread depth is below code minimum",
+        "B": "Still below minimum for interior stairs",
+        "C": "Minimum tread depth for interior stairs is 250 mm (10 in.) measured horizontally from riser to riser",
+        "D": "While providing better footing, this exceeds minimum requirements"
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "How should trim be finished at corners where walls are slightly out of square?",
+      "options": {
+        "A": "Force trim square regardless",
+        "B": "Adjust miter angles to match actual wall angles",
+        "C": "Leave gaps and caulk",
+        "D": "Use only square corners"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Forcing square trim creates gaps and looks unprofessional",
+        "B": "Miter angles should be adjusted to match actual wall angles (e.g., 44/46 degrees instead of 45/45) for tight-fitting corners",
+        "C": "While caulk helps, properly cut angles are essential",
+        "D": "Real-world walls are rarely perfectly square"
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is the purpose of a scarf joint in trim work?",
+      "options": {
+        "A": "To join pieces at outside corners",
+        "B": "To join two pieces end-to-end on a long run",
+        "C": "To join trim at inside corners",
+        "D": "To attach trim to walls"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Outside corners use miter joints, not scarf joints",
+        "B": "A scarf joint joins two pieces end-to-end using overlapping angled cuts (typically 45 degrees), hiding the seam better than a butt joint",
+        "C": "Inside corners use coped or mitered joints",
+        "D": "This describes fastening, not joining trim pieces"
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is the maximum riser height for interior residential stairs?",
+      "options": {
+        "A": "180 mm (7 in.)",
+        "B": "190 mm (7-1/2 in.)",
+        "C": "200 mm (7-3/4 in.)",
+        "D": "210 mm (8-1/4 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This is below maximum and creates more steps than necessary",
+        "B": "Still below the maximum allowed",
+        "C": "Maximum riser height for residential interior stairs is typically 200 mm (7-3/4 in.) to ensure comfortable, safe climbing",
+        "D": "This height exceeds code maximum"
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "What is the recommended height for wainscoting?",
+      "options": {
+        "A": "460 mm (18 in.)",
+        "B": "600 mm (24 in.)",
+        "C": "900-1200 mm (36-48 in.)",
+        "D": "1800 mm (72 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This height is too low for typical wainscoting",
+        "B": "Still below standard wainscoting height",
+        "C": "Wainscoting typically ranges from 900-1200 mm (36-48 in.) high, with one-third of wall height being a common guideline",
+        "D": "This height is too tall and approaches full-height paneling"
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What tool is typically used to create a coped joint?",
+      "options": {
+        "A": "Circular saw",
+        "B": "Coping saw or jigsaw",
+        "C": "Table saw",
+        "D": "Chisel only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Circular saws cannot make the detailed cuts required for coping",
+        "B": "A coping saw (or jigsaw for power cutting) can make the detailed curved cuts needed to follow the trim profile",
+        "C": "Table saws cannot make coped cuts",
+        "D": "While chisels can refine coped joints, they alone cannot create them"
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is a stringer in stair construction?",
+      "options": {
+        "A": "The decorative trim on stair sides",
+        "B": "The supporting member that carries treads and risers",
+        "C": "The handrail support",
+        "D": "The tread nosing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Decorative trim is called skirt board or stringer cover",
+        "B": "Stringers are the structural members (typically three per stair run) that are cut or routed to support the treads and risers",
+        "C": "Handrail supports are called balusters or newel posts",
+        "D": "Nosing is the tread projection, not a structural member"
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "How should baseboard cope at inside corners?",
+      "options": {
+        "A": "Both pieces mitered at 45 degrees",
+        "B": "Both pieces butt cut",
+        "C": "One piece square-cut to wall, other piece coped to fit",
+        "D": "Overlap pieces randomly"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Mitered inside corners gap open with wood movement",
+        "B": "Butt cuts don't provide a professional appearance",
+        "C": "One baseboard runs square to the wall, while the adjacent piece is coped to fit its profile, creating a tight joint that resists gapping",
+        "D": "Random overlap is unprofessional and weak"
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is the purpose of back-cutting a miter?",
+      "options": {
+        "A": "To weaken the joint",
+        "B": "To ensure tight fit at the visible edge even if angles are slightly off",
+        "C": "To create a decorative effect",
+        "D": "To save material"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Back-cutting improves joints, doesn't weaken them",
+        "B": "Back-cutting removes material from behind the miter, ensuring the visible front edges meet tightly even if the angle is slightly imperfect",
+        "C": "Back-cutting is not visible and has no decorative purpose",
+        "D": "Back-cutting removes material but isn't about saving it"
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is the minimum width for interior residential stairs?",
+      "options": {
+        "A": "760 mm (30 in.)",
+        "B": "860 mm (34 in.)",
+        "C": "900 mm (36 in.)",
+        "D": "1000 mm (40 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This width is below code minimum",
+        "B": "Minimum interior stair width is 860 mm (34 in.) clear width between walls or handrails to allow safe passage",
+        "C": "While providing better access, this exceeds minimum requirements",
+        "D": "This width is wider than minimum required"
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "What is the purpose of a shoe molding (base shoe)?",
+      "options": {
+        "A": "To protect footwear",
+        "B": "To cover gap between baseboard and flooring",
+        "C": "To provide structural support",
+        "D": "To mark wall height"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Shoe molding is named for its shape, not function with footwear",
+        "B": "Shoe molding covers the gap between baseboard and flooring, accommodating floor irregularities while providing a finished appearance",
+        "C": "Shoe molding provides no structural support",
+        "D": "Marking height is not the function of shoe molding"
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is a return in finish carpentry?",
+      "options": {
+        "A": "Taking trim back to the supplier",
+        "B": "A small piece that turns trim into a wall or terminates it",
+        "C": "The profit margin on trim work",
+        "D": "Removing and reinstalling trim"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This describes a material return, not a carpentry term",
+        "B": "A return is a small mitered piece that turns trim back into a wall or creates a finished end, rather than leaving raw end grain exposed",
+        "C": "Financial terms are not relevant to fabrication",
+        "D": "This describes rework, not a return"
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is the purpose of a nosing on stair treads?",
+      "options": {
+        "A": "Decorative only",
+        "B": "To increase effective tread depth and prevent toe stubbing",
+        "C": "To support the riser",
+        "D": "To attach handrails"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While enhancing appearance, nosing has a functional purpose",
+        "B": "The nosing (typically 19-38 mm projection) increases effective tread depth for safer footing and creates a visual edge to prevent toe stubbing",
+        "C": "Risers are supported by stringers, not nosing",
+        "D": "Handrails attach to balusters and newel posts, not nosing"
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "How should window trim (casing) be installed?",
+      "options": {
+        "A": "Flush with window frame",
+        "B": "With a reveal (typically 3-6 mm) from window jamb edge",
+        "C": "Overlapping the window frame by 25 mm",
+        "D": "Spaced 13 mm from window frame"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flush installation is difficult and doesn't create a clean shadow line",
+        "B": "Window casing should be set back 3-6 mm from the jamb edge, creating a reveal that provides a clean visual line and accommodates minor imperfections",
+        "C": "Overlapping prevents proper window operation",
+        "D": "This gap is too large and looks unprofessional"
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is the purpose of priming the back of wood trim before installation?",
+      "options": {
+        "A": "To make it heavier",
+        "B": "To seal wood and reduce moisture absorption that causes warping",
+        "C": "To change the color",
+        "D": "To make installation easier"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Weight change is not a purpose of back-priming",
+        "B": "Back-priming seals the wood, reducing moisture absorption from walls and preventing warping, cupping, and paint failure",
+        "C": "Back-priming isn't visible and doesn't affect appearance",
+        "D": "Back-priming doesn't affect installation difficulty"
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is the maximum projection allowed for a stair tread nosing?",
+      "options": {
+        "A": "13 mm (1/2 in.)",
+        "B": "25 mm (1 in.)",
+        "C": "38 mm (1-1/2 in.)",
+        "D": "50 mm (2 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This projection is minimal and below typical standards",
+        "B": "While common, this isn't the maximum allowed",
+        "C": "Maximum nosing projection is typically 38 mm (1-1/2 in.) to prevent tripping while providing adequate tread depth",
+        "D": "This projection is excessive and creates a tripping hazard"
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "What is the purpose of picture rail molding?",
+      "options": {
+        "A": "To support shelf weight",
+        "B": "To provide a decorative element and hanging point for artwork without wall damage",
+        "C": "To separate paint colors",
+        "D": "To hide electrical wiring"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Picture rails are not designed for shelf support",
+        "B": "Picture rail allows hanging of artwork from hooks without putting holes in walls, while adding decorative architectural interest",
+        "C": "While it may define color zones, this isn't its primary purpose",
+        "D": "Wiring concealment is not the function of picture rail"
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is the purpose of using a biscuit joiner in trim fabrication?",
+      "options": {
+        "A": "To cut trim to length",
+        "B": "To create strong, aligned joints using oval wooden biscuits",
+        "C": "To sand trim smooth",
+        "D": "To apply finish to trim"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Length cutting uses saws, not biscuit joiners",
+        "B": "A biscuit joiner cuts matching slots in mating pieces; compressed wood biscuits inserted with glue create strong, self-aligning joints",
+        "C": "Sanding requires sanders, not biscuit joiners",
+        "D": "Finish application is separate from joinery"
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is the minimum handrail height for interior stairs?",
+      "options": {
+        "A": "800 mm (31-1/2 in.)",
+        "B": "865 mm (34 in.)",
+        "C": "900 mm (36 in.)",
+        "D": "965 mm (38 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This height is below code minimum",
+        "B": "Minimum interior stair handrail height is 865 mm (34 in.) measured vertically from the nosing to the top of the handrail",
+        "C": "While acceptable, this exceeds the minimum",
+        "D": "This height is higher than minimum required"
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "How should crown molding be nailed?",
+      "options": {
+        "A": "Into ceiling joists only",
+        "B": "Into wall studs only",
+        "C": "Into both ceiling joists and wall top plate",
+        "D": "Adhesive only, no nails"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Nailing to ceiling only doesn't secure the bottom edge",
+        "B": "Nailing to walls only doesn't secure the top edge",
+        "C": "Crown molding should be nailed into ceiling joists at the top and into wall top plate at the bottom for secure attachment",
+        "D": "Adhesive alone is insufficient for crown molding support"
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is a plinth block?",
+      "options": {
+        "A": "A type of foundation block",
+        "B": "A decorative block at the base of door casing where it meets baseboard",
+        "C": "A ceiling medallion",
+        "D": "A stair newel post base"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Foundation blocks are not called plinth blocks in trim work",
+        "B": "A plinth block is a decorative, slightly thicker block installed at the bottom of door casing, eliminating the need to miter baseboard to casing",
+        "C": "Ceiling medallions are separate decorative elements",
+        "D": "While newels may have plinths, this isn't the primary definition"
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is a closed stringer?",
+      "options": {
+        "A": "A stringer that is enclosed in drywall",
+        "B": "A stringer with a continuous straight edge where treads are housed into the side",
+        "C": "A stringer that has been sealed with finish",
+        "D": "A temporary support removed after construction"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Drywall enclosure doesn't define a closed stringer",
+        "B": "A closed stringer maintains a straight edge with treads and risers housed (dadoed) into its side, creating a clean finished appearance",
+        "C": "Finish sealing doesn't define stringer type",
+        "D": "Permanent stringers are not temporary supports"
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "What is the purpose of corner guards?",
+      "options": {
+        "A": "Decorative only",
+        "B": "To protect vulnerable outside corners from damage",
+        "C": "To support walls",
+        "D": "To hide wiring"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While enhancing appearance, corner guards have a protective function",
+        "B": "Corner guards protect outside corners in high-traffic areas from impacts that would damage drywall and paint",
+        "C": "Corner guards provide no structural support",
+        "D": "Wiring runs inside walls, not behind corner guards"
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is the purpose of a reveal in trim work?",
+      "options": {
+        "A": "To expose the substrate",
+        "B": "To create a small offset between surfaces that defines edges and accommodates imperfections",
+        "C": "To remove old trim",
+        "D": "To adjust trim length"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Reveals don't expose substrate; they create shadow lines",
+        "B": "A reveal (typically 3-6 mm) creates a visual shadow line that defines elements and provides tolerance for minor irregularities in surfaces",
+        "C": "This describes removal, not a design element",
+        "D": "Length adjustment is separate from reveal creation"
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is the purpose of stair skirt board?",
+      "options": {
+        "A": "To support treads",
+        "B": "To provide finished trim along stairway walls, covering stringer edges",
+        "C": "To serve as handrail",
+        "D": "To prevent slipping"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stringers support treads, not skirt boards",
+        "B": "Skirt board is trim that runs along the wall beside stairs, providing a finished appearance and covering the stringer edge and wall joint",
+        "C": "Handrails are separate safety features",
+        "D": "Tread surface treatments prevent slipping, not skirt boards"
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "How should rosettes be used in door and window trim?",
+      "options": {
+        "A": "As structural supports",
+        "B": "As decorative corner blocks eliminating the need for miter joints",
+        "C": "Only on exterior doors",
+        "D": "As door stops"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Rosettes provide no structural support",
+        "B": "Rosettes are decorative corner blocks installed at trim intersections (especially door head corners), allowing square-cut trim pieces instead of miters",
+        "C": "Rosettes are commonly used on interior trim",
+        "D": "Door stops are separate components"
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is the purpose of relief cuts when coping trim?",
+      "options": {
+        "A": "To weaken the trim",
+        "B": "To allow the coping saw to navigate tight curves without binding",
+        "C": "To create decorative patterns",
+        "D": "To attach trim pieces"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Relief cuts improve cutting, they don't intentionally weaken trim",
+        "B": "Relief cuts are straight cuts into the profile that remove waste material, allowing the coping saw blade to navigate curves without binding or breaking",
+        "C": "Relief cuts are functional, not decorative",
+        "D": "Relief cuts are part of the cutting process, not attachment"
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is a winder in stair construction?",
+      "options": {
+        "A": "A tool for twisting balusters",
+        "B": "A wedge-shaped tread used to change stair direction",
+        "C": "A handrail component",
+        "D": "A type of finish coating"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This describes a hypothetical tool, not a stair component",
+        "B": "A winder is a wedge-shaped tread (wider on one end than the other) used to turn stairs, typically replacing a landing to save space",
+        "C": "Handrail components have different names",
+        "D": "Finishes are not called winders"
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "What is the standard method for joining baseboard at outside corners?",
+      "options": {
+        "A": "Butt joint",
+        "B": "45-degree miter joint",
+        "C": "Lap joint",
+        "D": "Coped joint"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Butt joints at outside corners look unprofessional",
+        "B": "Outside corners use 45-degree miters on each piece, creating a clean 90-degree corner when joined",
+        "C": "Lap joints are not used for baseboard corners",
+        "D": "Coped joints are for inside corners, not outside"
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.01 Fabricates finish components",
+      "question": "What is the purpose of blocking behind built-up trim?",
+      "options": {
+        "A": "To add weight",
+        "B": "To provide solid nailing surface and support for multiple trim layers",
+        "C": "To change trim color",
+        "D": "To create gaps"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Weight is not the purpose of blocking",
+        "B": "Blocking behind complex, built-up trim assemblies provides solid backing for secure fastening and prevents flexing of the assembly",
+        "C": "Blocking is hidden and doesn't affect appearance",
+        "D": "Blocking fills space, it doesn't create gaps"
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.03 Constructs stairs",
+      "question": "What is the maximum handrail height for interior stairs?",
+      "options": {
+        "A": "900 mm (36 in.)",
+        "B": "965 mm (38 in.)",
+        "C": "1000 mm (40 in.)",
+        "D": "1070 mm (42 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This height is below maximum but above minimum",
+        "B": "Maximum handrail height is typically 965 mm (38 in.) measured vertically from nosing, keeping rails within comfortable reach",
+        "C": "This height exceeds typical code maximum",
+        "D": "This height is too high and uncomfortable for most users"
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "F",
+      "task": "F-20",
+      "taskTitle": "Constructs and installs finish components and stairs",
+      "subtask": "F-20.02 Installs finish components and accessories",
+      "question": "How should nail holes be treated in painted trim?",
+      "options": {
+        "A": "Left unfilled",
+        "B": "Filled with wood filler or spackling after installation",
+        "C": "Filled before installation",
+        "D": "Covered with tape"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visible nail holes look unprofessional",
+        "B": "Nail holes should be filled after installation using wood filler or spackling compound, then sanded smooth before painting",
+        "C": "Pre-filling is impractical as installation creates new nail holes",
+        "D": "Tape is not an appropriate finish treatment"
+      }
+    }
+  ]
+}

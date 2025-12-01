@@ -1,0 +1,2275 @@
+{
+  "block": "D",
+  "title": "Drivetrain Systems",
+  "totalQuestions": 108,
+  "questions": [
+    {
+      "questionNumber": 349,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "When is a dry or defective pilot bearing (ball type) noticeable?",
+      "options": {
+        "A": "When the clutch is engaged and the transmission is in gear.",
+        "B": "When the clutch is disengaged and the transmission is in gear.",
+        "C": "When the transmission is in neutral.",
+        "D": "When the transmission is in low gear only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Engaged clutch locks input shaft, pilot bearing doesn't rotate.",
+        "B": "Disengaged clutch allows input shaft to spin while transmission stops, loading pilot bearing.",
+        "C": "Neutral allows free rotation without load.",
+        "D": "Gear selection doesn't specifically affect pilot bearing diagnosis."
+      }
+    },
+    {
+      "questionNumber": 350,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "What causes clutch slippage?",
+      "options": {
+        "A": "Excessive clutch pedal free play.",
+        "B": "Worn friction disc, weak pressure plate springs, or oil contamination.",
+        "C": "Too much free play in linkage.",
+        "D": "Proper adjustment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excessive free play prevents full engagement but doesn't cause slippage under load.",
+        "B": "These conditions prevent adequate clamping force for power transmission.",
+        "C": "Excessive free play affects engagement, not slippage during operation.",
+        "D": "Proper adjustment prevents problems, doesn't cause them."
+      }
+    },
+    {
+      "questionNumber": 351,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "What indicates a worn clutch release bearing?",
+      "options": {
+        "A": "Silent operation.",
+        "B": "Noise when clutch pedal is depressed.",
+        "C": "Perfect clutch engagement.",
+        "D": "Reduced engine noise."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn bearings make noise, not silence.",
+        "B": "Release bearing noise occurs when pedal is depressed and bearing contacts pressure plate.",
+        "C": "Bearing wear doesn't improve engagement.",
+        "D": "Release bearing noise is separate from engine noise."
+      }
+    },
+    {
+      "questionNumber": 352,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "What causes hard clutch pedal operation?",
+      "options": {
+        "A": "Proper lubrication.",
+        "B": "Binding linkage, damaged cable, or failed assist mechanism.",
+        "C": "New clutch installation.",
+        "D": "Correct adjustment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper lubrication makes pedal operation easier.",
+        "B": "Binding or resistance increases pedal effort required.",
+        "C": "New clutches should operate normally with proper adjustment.",
+        "D": "Correct adjustment ensures proper pedal feel."
+      }
+    },
+    {
+      "questionNumber": 353,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "What is the purpose of clutch pedal free play?",
+      "options": {
+        "A": "To cause clutch slippage.",
+        "B": "To ensure release bearing isn't constantly contacting pressure plate.",
+        "C": "To make pedal operation harder.",
+        "D": "Free play serves no purpose."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Free play prevents slippage by allowing full engagement.",
+        "B": "Free play prevents bearing wear and allows complete clutch engagement.",
+        "C": "Free play affects engagement point, not pedal effort.",
+        "D": "Free play is essential for proper clutch operation."
+      }
+    },
+    {
+      "questionNumber": 354,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "What causes clutch chatter during engagement?",
+      "options": {
+        "A": "Smooth friction surfaces.",
+        "B": "Glazed friction disc, oil contamination, or worn components.",
+        "C": "Proper lubrication.",
+        "D": "New clutch components."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Smooth surfaces promote smooth engagement.",
+        "B": "These conditions cause uneven friction resulting in vibration.",
+        "C": "Proper lubrication prevents binding but doesn't cause chatter.",
+        "D": "New components should engage smoothly."
+      }
+    },
+    {
+      "questionNumber": 355,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "How is clutch adjustment verified?",
+      "options": {
+        "A": "By guessing.",
+        "B": "By measuring free play at pedal and verifying release travel.",
+        "C": "Adjustment cannot be checked.",
+        "D": "By pedal color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise measurement is required.",
+        "B": "Measuring free play and travel ensures proper adjustment.",
+        "C": "Adjustment is measurable at multiple points.",
+        "D": "Color doesn't indicate adjustment."
+      }
+    },
+    {
+      "questionNumber": 356,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "What indicates a failing clutch pressure plate?",
+      "options": {
+        "A": "Perfect clutch operation.",
+        "B": "Slippage under load, hard spots, or warped surface.",
+        "C": "Smooth engagement.",
+        "D": "Quiet operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect operation indicates good condition.",
+        "B": "Pressure plate damage prevents proper clamping and causes performance issues.",
+        "C": "Smooth engagement indicates proper condition.",
+        "D": "Quiet operation suggests good condition."
+      }
+    },
+    {
+      "questionNumber": 357,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "What causes incomplete clutch disengagement (clutch drag)?",
+      "options": {
+        "A": "Excessive free play.",
+        "B": "Insufficient free play, warped disc, or hydraulic system issues.",
+        "C": "Perfect adjustment.",
+        "D": "New friction disc."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excessive free play doesn't prevent disengagement.",
+        "B": "These conditions prevent release bearing from fully separating clutch components.",
+        "C": "Perfect adjustment ensures complete disengagement.",
+        "D": "New discs should disengage properly when adjusted correctly."
+      }
+    },
+    {
+      "questionNumber": 358,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "How is clutch hydraulic system operation verified?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Check fluid level, bleed air, inspect for leaks, verify pedal feel.",
+        "C": "Hydraulic systems don't need checking.",
+        "D": "By engine performance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Functional testing is required beyond visual inspection.",
+        "B": "Comprehensive checks ensure proper hydraulic clutch operation.",
+        "C": "Hydraulic systems require regular inspection.",
+        "D": "Engine performance doesn't indicate clutch hydraulic condition."
+      }
+    },
+    {
+      "questionNumber": 359,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.01 Diagnoses clutch systems",
+      "question": "What diagnostic test confirms clutch slippage?",
+      "options": {
+        "A": "Apply parking brake, engage high gear, release clutch - engine should stall if clutch holds.",
+        "B": "Rev engine in neutral.",
+        "C": "Check oil level.",
+        "D": "Slippage cannot be tested."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "This test loads the clutch; slipping clutch allows engine to continue running.",
+        "B": "Neutral testing doesn't load clutch.",
+        "C": "Oil level doesn't directly test clutch holding ability.",
+        "D": "Specific tests diagnose clutch slippage."
+      }
+    },
+    {
+      "questionNumber": 360,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "What indicates a failing torque converter?",
+      "options": {
+        "A": "Perfect operation.",
+        "B": "Overheating, shudder, slippage, or metal contamination in fluid.",
+        "C": "Smooth power delivery.",
+        "D": "Cold operating temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect operation indicates good condition.",
+        "B": "These symptoms indicate internal damage or wear.",
+        "C": "Smooth delivery indicates proper function.",
+        "D": "Normal temperature suggests good condition."
+      }
+    },
+    {
+      "questionNumber": 361,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "What is stall speed testing used for?",
+      "options": {
+        "A": "To check radio operation.",
+        "B": "To evaluate torque converter and engine performance.",
+        "C": "To test brake effectiveness.",
+        "D": "Stall testing serves no purpose."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stall testing is unrelated to radio systems.",
+        "B": "Stall speed indicates converter efficiency and engine power output.",
+        "C": "Brake testing uses different procedures.",
+        "D": "Stall testing is a valuable diagnostic procedure."
+      }
+    },
+    {
+      "questionNumber": 362,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "What causes high torque converter operating temperature?",
+      "options": {
+        "A": "Proper fluid level.",
+        "B": "Prolonged slippage, low fluid level, or inadequate cooling.",
+        "C": "Cold weather operation.",
+        "D": "Clean transmission fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper level supports normal operation.",
+        "B": "These conditions generate excessive heat through friction and inefficiency.",
+        "C": "Cold weather typically reduces operating temperature.",
+        "D": "Clean fluid doesn't cause overheating."
+      }
+    },
+    {
+      "questionNumber": 363,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "What indicates lockup clutch failure in a torque converter?",
+      "options": {
+        "A": "Improved fuel economy.",
+        "B": "Increased slippage at highway speeds, overheating, or shudder.",
+        "C": "Perfect operation.",
+        "D": "Reduced engine temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lockup failure reduces fuel economy.",
+        "B": "Failed lockup clutch causes continuous slippage and heat generation.",
+        "C": "Lockup failure degrades performance.",
+        "D": "Engine temperature isn't directly affected by lockup clutch."
+      }
+    },
+    {
+      "questionNumber": 364,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "How is transmission fluid condition evaluated?",
+      "options": {
+        "A": "By age only.",
+        "B": "By checking color, smell, and contamination presence.",
+        "C": "Fluid condition cannot be checked.",
+        "D": "By vehicle mileage only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Age alone doesn't indicate current condition.",
+        "B": "Physical inspection reveals fluid degradation and contamination.",
+        "C": "Fluid condition is easily evaluated.",
+        "D": "Mileage is a guide but actual condition must be checked."
+      }
+    },
+    {
+      "questionNumber": 365,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "What causes torque converter shudder?",
+      "options": {
+        "A": "New transmission fluid.",
+        "B": "Worn lockup clutch, contaminated fluid, or valve body issues.",
+        "C": "Proper operation.",
+        "D": "Cold weather."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New fluid should improve operation.",
+        "B": "These conditions cause uneven lockup clutch engagement.",
+        "C": "Shudder indicates a problem.",
+        "D": "While cold affects operation, it's not the primary shudder cause."
+      }
+    },
+    {
+      "questionNumber": 366,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "What is the function of a transmission retarder?",
+      "options": {
+        "A": "To increase vehicle speed.",
+        "B": "To provide engine braking and reduce service brake wear.",
+        "C": "To improve fuel economy only.",
+        "D": "Retarders serve no purpose."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Retarders slow vehicles, not accelerate them.",
+        "B": "Retarders create resistance to slow vehicle without using service brakes.",
+        "C": "While they may affect economy, braking is the primary function.",
+        "D": "Retarders are valuable safety and brake-saving devices."
+      }
+    },
+    {
+      "questionNumber": 367,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "How is hydraulic retarder operation verified?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Activate retarder and verify braking effect, check for leaks, monitor temperature.",
+        "C": "Retarders cannot be tested.",
+        "D": "By engine noise."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Functional testing is required.",
+        "B": "Operational testing confirms retarder provides braking force.",
+        "C": "Retarder function is testable during operation.",
+        "D": "Engine noise doesn't indicate retarder function."
+      }
+    },
+    {
+      "questionNumber": 368,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "What indicates contaminated transmission fluid?",
+      "options": {
+        "A": "Clear, red appearance.",
+        "B": "Dark color, burnt smell, or presence of metal particles.",
+        "C": "Fresh smell.",
+        "D": "Proper viscosity."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Clear red indicates good condition.",
+        "B": "These signs indicate fluid degradation or component wear.",
+        "C": "Fresh smell indicates good condition.",
+        "D": "Proper viscosity alone doesn't indicate contamination."
+      }
+    },
+    {
+      "questionNumber": 369,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "What causes low stall speed readings?",
+      "options": {
+        "A": "Excessive engine power.",
+        "B": "Engine performance problems or torque converter issues.",
+        "C": "Perfect converter operation.",
+        "D": "High transmission fluid level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "High power would increase stall speed.",
+        "B": "Low power output or converter slippage reduces stall speed.",
+        "C": "Perfect operation produces normal stall speed.",
+        "D": "Fluid level doesn't significantly affect stall speed."
+      }
+    },
+    {
+      "questionNumber": 370,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.02 Diagnoses torque converters, fluid couplers and retarders",
+      "question": "How is torque converter lockup function diagnosed?",
+      "options": {
+        "A": "By guessing.",
+        "B": "Monitor RPM drop when lockup engages or use scan tool to verify operation.",
+        "C": "Lockup cannot be diagnosed.",
+        "D": "By fluid color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Specific diagnostic procedures are required.",
+        "B": "RPM change or scan data confirms lockup engagement.",
+        "C": "Lockup operation is diagnosable.",
+        "D": "Fluid color doesn't indicate lockup function."
+      }
+    },
+    {
+      "questionNumber": 371,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "What causes driveline vibration at specific speeds?",
+      "options": {
+        "A": "Perfect balance.",
+        "B": "Worn U-joints, imbalanced driveshaft, or bent shaft.",
+        "C": "New components.",
+        "D": "Proper alignment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect balance eliminates vibration.",
+        "B": "These conditions create imbalance causing speed-related vibration.",
+        "C": "New components should reduce vibration.",
+        "D": "Proper alignment prevents vibration."
+      }
+    },
+    {
+      "questionNumber": 372,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "How are worn universal joints identified?",
+      "options": {
+        "A": "By paint color.",
+        "B": "By checking for looseness, roughness, or noise during rotation.",
+        "C": "U-joints cannot be checked.",
+        "D": "By vehicle age only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color doesn't indicate wear.",
+        "B": "Physical inspection reveals bearing wear and play in U-joints.",
+        "C": "U-joint condition is easily checked.",
+        "D": "Age doesn't indicate current condition."
+      }
+    },
+    {
+      "questionNumber": 373,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "What indicates a bent driveshaft?",
+      "options": {
+        "A": "Straight appearance.",
+        "B": "Vibration, visible runout when rotated, or uneven wear patterns.",
+        "C": "Smooth operation.",
+        "D": "Quiet operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bent shafts show visible deviation.",
+        "B": "Bending causes measurable runout and operational symptoms.",
+        "C": "Bent shafts cause rough operation.",
+        "D": "Bent shafts create noise and vibration."
+      }
+    },
+    {
+      "questionNumber": 374,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "What causes clunking during acceleration or deceleration?",
+      "options": {
+        "A": "New U-joints.",
+        "B": "Worn U-joints, loose slip yoke, or differential backlash.",
+        "C": "Proper lubrication.",
+        "D": "Tight components."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New U-joints operate quietly.",
+        "B": "Excessive clearance in these components creates impact noise during torque changes.",
+        "C": "Lubrication reduces noise but doesn't cause clunking.",
+        "D": "Tight components prevent clunking."
+      }
+    },
+    {
+      "questionNumber": 375,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "How is driveshaft balance verified?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Using electronic balancer or checking for vibration at various speeds.",
+        "C": "Balance cannot be checked.",
+        "D": "By shaft color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Balance requires dynamic testing or equipment.",
+        "B": "Balancer or road testing identifies imbalance issues.",
+        "C": "Balance is measurable.",
+        "D": "Color doesn't indicate balance."
+      }
+    },
+    {
+      "questionNumber": 376,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "What indicates worn center bearing support?",
+      "options": {
+        "A": "Silent operation.",
+        "B": "Vibration, noise, or visible wear in bearing or mount.",
+        "C": "Perfect alignment.",
+        "D": "New appearance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn bearings make noise.",
+        "B": "Bearing wear causes vibration and allows shaft misalignment.",
+        "C": "Worn supports allow misalignment.",
+        "D": "Appearance doesn't indicate bearing condition."
+      }
+    },
+    {
+      "questionNumber": 377,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "What causes driveline angle problems?",
+      "options": {
+        "A": "Proper installation.",
+        "B": "Incorrect ride height, worn suspension, or improper shaft installation.",
+        "C": "New tires.",
+        "D": "Clean components."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper installation maintains correct angles.",
+        "B": "These conditions change working angles causing vibration and wear.",
+        "C": "Tire size changes can affect angles but aren't the primary cause.",
+        "D": "Cleanliness doesn't affect angles."
+      }
+    },
+    {
+      "questionNumber": 378,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "How are slip yoke splines checked?",
+      "options": {
+        "A": "Visual inspection only from distance.",
+        "B": "Inspect for wear, looseness, and proper lubrication.",
+        "C": "Splines don't need checking.",
+        "D": "By transmission operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hands-on inspection is required.",
+        "B": "Worn or dry splines cause noise and allow excessive movement.",
+        "C": "Spline condition affects driveline operation.",
+        "D": "Transmission operation doesn't directly indicate spline condition."
+      }
+    },
+    {
+      "questionNumber": 379,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "What diagnostic procedure identifies driveline phase issues?",
+      "options": {
+        "A": "Check that yokes on multi-piece shafts are in phase (aligned).",
+        "B": "Random inspection.",
+        "C": "Phase cannot be checked.",
+        "D": "By fluid level."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Out-of-phase yokes cause severe vibration; they must be aligned.",
+        "B": "Specific alignment checking is required.",
+        "C": "Phase alignment is verifiable.",
+        "D": "Fluid level doesn't relate to driveline phase."
+      }
+    },
+    {
+      "questionNumber": 380,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "What causes premature U-joint failure?",
+      "options": {
+        "A": "Proper lubrication.",
+        "B": "Excessive angles, lack of lubrication, or contamination.",
+        "C": "Correct installation.",
+        "D": "Regular maintenance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper lubrication extends U-joint life.",
+        "B": "These conditions accelerate bearing wear and cause failure.",
+        "C": "Correct installation promotes longevity.",
+        "D": "Maintenance prevents premature failure."
+      }
+    },
+    {
+      "questionNumber": 381,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.03 Diagnoses driveline systems",
+      "question": "How is constant velocity (CV) joint condition assessed?",
+      "options": {
+        "A": "By age only.",
+        "B": "Check for clicking noise during turns, inspect boots, and check for play.",
+        "C": "CV joints don't wear.",
+        "D": "By vehicle color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Age doesn't indicate current condition.",
+        "B": "These checks identify wear and contamination in CV joints.",
+        "C": "CV joints wear and require inspection.",
+        "D": "Color doesn't indicate joint condition."
+      }
+    },
+    {
+      "questionNumber": 382,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "Road-testing of a rebuilt powershift transmission indicates that the lock-up shift points occur too early. What is the problem?",
+      "options": {
+        "A": "Lock-up valve oil pressure is too low.",
+        "B": "Lock-up valve linkage is out of adjustment.",
+        "C": "Lock-up valve spring pressure is too low.",
+        "D": "Lock-up valve spring pressure is too high."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Low pressure would delay, not advance, shift points.",
+        "B": "Linkage affects engagement point but not shift timing directly.",
+        "C": "Weak spring allows valve to shift at lower pressure, causing early shifts.",
+        "D": "High spring pressure would delay shift points."
+      }
+    },
+    {
+      "questionNumber": 383,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "What will be the result of overfilling a power shift transmission?",
+      "options": {
+        "A": "Low stall speed.",
+        "B": "No forced downshift.",
+        "C": "Low shift points at full throttle.",
+        "D": "Overheating."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Overfilling doesn't reduce stall speed.",
+        "B": "Overfilling doesn't prevent downshifts.",
+        "C": "Overfilling doesn't lower shift points.",
+        "D": "Excess fluid causes aeration and heat buildup from churning."
+      }
+    },
+    {
+      "questionNumber": 384,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "What indicates worn transmission synchronizers?",
+      "options": {
+        "A": "Smooth, easy shifting.",
+        "B": "Grinding noise during gear changes or difficult shifting.",
+        "C": "Perfect operation.",
+        "D": "Quiet operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Smooth shifting indicates good synchronizer condition.",
+        "B": "Worn synchronizers cannot match shaft speeds, causing grinding.",
+        "C": "Perfect operation indicates proper synchronizer function.",
+        "D": "Quiet operation suggests good condition."
+      }
+    },
+    {
+      "questionNumber": 385,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "What causes transmission to jump out of gear?",
+      "options": {
+        "A": "New transmission.",
+        "B": "Worn shift forks, detents, or synchronizers.",
+        "C": "Proper adjustment.",
+        "D": "Clean fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New transmissions stay in gear properly.",
+        "B": "Worn components cannot maintain engagement under load.",
+        "C": "Proper adjustment prevents gear disengagement.",
+        "D": "Fluid cleanliness doesn't prevent jumping out of gear."
+      }
+    },
+    {
+      "questionNumber": 386,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "How is transmission fluid leak location identified?",
+      "options": {
+        "A": "By guessing.",
+        "B": "Clean area, add dye if needed, operate and inspect with UV light or visual inspection.",
+        "C": "Leaks cannot be located.",
+        "D": "By transmission age."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Systematic approach is required.",
+        "B": "Cleaning and dye make leak source visible.",
+        "C": "Leaks are locatable with proper procedures.",
+        "D": "Age doesn't indicate leak location."
+      }
+    },
+    {
+      "questionNumber": 387,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "What indicates low transmission fluid level?",
+      "options": {
+        "A": "Perfect operation.",
+        "B": "Slipping, delayed engagement, or overheating.",
+        "C": "Smooth shifting.",
+        "D": "Cold operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Low fluid causes operational problems.",
+        "B": "Insufficient fluid prevents proper hydraulic pressure and cooling.",
+        "C": "Low fluid degrades shift quality.",
+        "D": "Low fluid typically causes overheating, not cold operation."
+      }
+    },
+    {
+      "questionNumber": 388,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "What causes harsh automatic transmission shifts?",
+      "options": {
+        "A": "Proper valve body operation.",
+        "B": "Worn clutches, incorrect fluid, or valve body issues.",
+        "C": "New transmission fluid.",
+        "D": "Correct line pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper valve operation produces smooth shifts.",
+        "B": "These conditions cause abrupt engagement and harsh shifts.",
+        "C": "New fluid should improve shift quality.",
+        "D": "Correct pressure supports smooth shifting."
+      }
+    },
+    {
+      "questionNumber": 389,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "How is transfer case operation verified?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Test all range selections, check for noise, verify engagement indicators.",
+        "C": "Transfer cases don't need testing.",
+        "D": "By engine performance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Functional testing is required.",
+        "B": "Complete testing ensures all transfer case functions work properly.",
+        "C": "Transfer case function must be verified.",
+        "D": "Engine performance doesn't indicate transfer case operation."
+      }
+    },
+    {
+      "questionNumber": 390,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "What indicates transmission clutch pack failure?",
+      "options": {
+        "A": "Perfect operation in all gears.",
+        "B": "Slipping in specific gears, delayed engagement, or no power transfer.",
+        "C": "Smooth operation.",
+        "D": "Low noise levels."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect operation indicates good clutch condition.",
+        "B": "Worn clutches cannot hold torque in affected gear ranges.",
+        "C": "Smooth operation suggests proper clutch function.",
+        "D": "Quiet operation indicates good condition."
+      }
+    },
+    {
+      "questionNumber": 391,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "What diagnostic information does transmission line pressure provide?",
+      "options": {
+        "A": "Nothing useful.",
+        "B": "Indicates pump condition, valve body function, and clutch/band application.",
+        "C": "Only transmission age.",
+        "D": "Only fluid color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Line pressure is a key diagnostic parameter.",
+        "B": "Pressure readings diagnose hydraulic system health and operation.",
+        "C": "Pressure indicates current condition, not age.",
+        "D": "Pressure readings are separate from fluid appearance."
+      }
+    },
+    {
+      "questionNumber": 392,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.04 Diagnoses transmission and transfer case systems",
+      "question": "What causes transmission to overheat?",
+      "options": {
+        "A": "Proper cooling system operation.",
+        "B": "Heavy loads, low fluid, slipping clutches, or restricted cooler.",
+        "C": "Cold weather operation.",
+        "D": "New transmission."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper cooling prevents overheating.",
+        "B": "These conditions generate excess heat or prevent adequate cooling.",
+        "C": "Cold weather typically reduces operating temperature.",
+        "D": "New transmissions should maintain normal temperature."
+      }
+    },
+    {
+      "questionNumber": 393,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "What causes differential gear noise during turns?",
+      "options": {
+        "A": "Proper lubrication.",
+        "B": "Worn spider gears or side gears.",
+        "C": "New differential.",
+        "D": "Correct fluid level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper lubrication reduces noise.",
+        "B": "Spider gear wear creates noise when wheels turn at different speeds.",
+        "C": "New differentials operate quietly.",
+        "D": "Correct level supports quiet operation."
+      }
+    },
+    {
+      "questionNumber": 394,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "How is excessive ring and pinion backlash diagnosed?",
+      "options": {
+        "A": "By guessing.",
+        "B": "Using a dial indicator to measure gear movement.",
+        "C": "Backlash cannot be measured.",
+        "D": "By axle age."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise measurement is required.",
+        "B": "Dial indicator accurately measures gear clearance.",
+        "C": "Backlash is measurable with proper tools.",
+        "D": "Age doesn't indicate current backlash."
+      }
+    },
+    {
+      "questionNumber": 395,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "What indicates worn axle bearings?",
+      "options": {
+        "A": "Silent operation.",
+        "B": "Growling noise that changes with speed, wheel play, or heat.",
+        "C": "Perfect wheel alignment.",
+        "D": "Cold hub temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn bearings make noise.",
+        "B": "Bearing wear creates characteristic noise and symptoms.",
+        "C": "Alignment doesn't indicate bearing condition.",
+        "D": "Worn bearings often run hot."
+      }
+    },
+    {
+      "questionNumber": 396,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "What causes differential fluid leaks?",
+      "options": {
+        "A": "New seals.",
+        "B": "Worn seals, damaged housing, or overfilling.",
+        "C": "Proper maintenance.",
+        "D": "Cold weather."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New seals prevent leaks.",
+        "B": "These conditions allow fluid to escape from the housing.",
+        "C": "Maintenance prevents leaks.",
+        "D": "Cold weather doesn't cause leaks."
+      }
+    },
+    {
+      "questionNumber": 397,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "How is ring and pinion gear wear pattern evaluated?",
+      "options": {
+        "A": "Cannot be evaluated.",
+        "B": "Apply marking compound and observe contact pattern on gear teeth.",
+        "C": "By guess only.",
+        "D": "By differential age."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wear patterns are easily evaluated.",
+        "B": "Contact pattern shows gear mesh alignment and condition.",
+        "C": "Systematic evaluation is required.",
+        "D": "Age doesn't show current wear pattern."
+      }
+    },
+    {
+      "questionNumber": 398,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "What indicates a limited slip differential malfunction?",
+      "options": {
+        "A": "Even power distribution to both wheels.",
+        "B": "One wheel spinning freely with no power to the other.",
+        "C": "Proper operation during turns.",
+        "D": "Quiet operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Even distribution indicates proper function.",
+        "B": "Failed limited slip acts like open differential, allowing one-wheel spin.",
+        "C": "Proper turn operation indicates good condition.",
+        "D": "Quiet operation suggests proper function."
+      }
+    },
+    {
+      "questionNumber": 399,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "What causes clunking from the differential during direction changes?",
+      "options": {
+        "A": "New components.",
+        "B": "Excessive backlash or worn gears.",
+        "C": "Proper adjustment.",
+        "D": "Fresh lubricant."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New components operate quietly.",
+        "B": "Excessive clearance creates impact noise during torque reversal.",
+        "C": "Proper adjustment prevents clunking.",
+        "D": "Fresh lubricant doesn't cause clunking."
+      }
+    },
+    {
+      "questionNumber": 400,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "How is differential fluid condition checked?",
+      "options": {
+        "A": "By age only.",
+        "B": "Drain sample and check for metal particles, water, or discoloration.",
+        "C": "Fluid condition cannot be checked.",
+        "D": "By vehicle mileage only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Age doesn't indicate current condition.",
+        "B": "Fluid analysis reveals contamination and component wear.",
+        "C": "Fluid is easily inspected.",
+        "D": "Mileage is a guide but actual condition must be checked."
+      }
+    },
+    {
+      "questionNumber": 401,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "What indicates incorrect ring and pinion gear setup?",
+      "options": {
+        "A": "Perfect mesh and quiet operation.",
+        "B": "Noise, incorrect contact pattern, or rapid wear.",
+        "C": "Smooth power delivery.",
+        "D": "Cold running temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect mesh indicates correct setup.",
+        "B": "Improper setup causes poor gear contact and premature failure.",
+        "C": "Smooth delivery indicates proper setup.",
+        "D": "Temperature doesn't primarily indicate setup quality."
+      }
+    },
+    {
+      "questionNumber": 402,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "What causes axle shaft breakage?",
+      "options": {
+        "A": "Proper lubrication.",
+        "B": "Overloading, shock loads, or fatigue from stress concentration.",
+        "C": "Normal operation.",
+        "D": "Regular maintenance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lubrication prevents bearing wear but doesn't strengthen shafts.",
+        "B": "Excessive loading or stress risers cause shaft failure.",
+        "C": "Normal operation doesn't break properly sized shafts.",
+        "D": "Maintenance prevents some issues but can't prevent overload."
+      }
+    },
+    {
+      "questionNumber": 403,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.05 Diagnoses axle and differential systems",
+      "question": "How is locking differential operation verified?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Engage lock and verify both wheels receive power, check indicator light.",
+        "C": "Locking function cannot be tested.",
+        "D": "By differential color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Functional testing is required.",
+        "B": "Operational test confirms lock engages and distributes power equally.",
+        "C": "Locking function is testable.",
+        "D": "Color doesn't indicate lock function."
+      }
+    },
+    {
+      "questionNumber": 404,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "What indicates planetary final drive wear?",
+      "options": {
+        "A": "Silent operation.",
+        "B": "Noise, vibration, or metal in lubricant.",
+        "C": "Smooth power delivery.",
+        "D": "Cold operating temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn components make noise.",
+        "B": "Gear wear creates noise and releases metal particles into oil.",
+        "C": "Smooth delivery indicates good condition.",
+        "D": "Cold temperature doesn't indicate wear."
+      }
+    },
+    {
+      "questionNumber": 405,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "How is final drive oil level checked on tracked equipment?",
+      "options": {
+        "A": "Final drives don't have oil.",
+        "B": "Check level at fill plug with machine on level ground.",
+        "C": "By track tension only.",
+        "D": "Oil level cannot be checked."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Final drives require lubrication.",
+        "B": "Oil should be at plug level when properly filled on level surface.",
+        "C": "Track tension is separate from oil level.",
+        "D": "Oil level is easily checked."
+      }
+    },
+    {
+      "questionNumber": 406,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "What causes final drive overheating?",
+      "options": {
+        "A": "Proper lubrication.",
+        "B": "Low oil level, worn gears, or excessive loading.",
+        "C": "Cold weather operation.",
+        "D": "New seals."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper lubrication prevents overheating.",
+        "B": "These conditions increase friction and heat generation.",
+        "C": "Cold weather typically reduces operating temperature.",
+        "D": "New seals don't cause overheating."
+      }
+    },
+    {
+      "questionNumber": 407,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "What indicates worn final drive bearings?",
+      "options": {
+        "A": "Silent operation.",
+        "B": "Growling noise, excessive play, or heat.",
+        "C": "Smooth rotation.",
+        "D": "Cold housing temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn bearings make noise.",
+        "B": "Bearing wear creates characteristic symptoms requiring replacement.",
+        "C": "Smooth rotation indicates good bearing condition.",
+        "D": "Worn bearings often run hot."
+      }
+    },
+    {
+      "questionNumber": 408,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "How is final drive seal leakage diagnosed?",
+      "options": {
+        "A": "Seals never leak.",
+        "B": "Visual inspection for oil seepage around seals and on brake components.",
+        "C": "By machine age only.",
+        "D": "Seal leakage cannot be detected."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Seals wear and leak over time.",
+        "B": "Oil traces indicate seal failure requiring replacement.",
+        "C": "Age doesn't indicate current seal condition.",
+        "D": "Seal leaks are visible."
+      }
+    },
+    {
+      "questionNumber": 409,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "What causes excessive final drive gear noise?",
+      "options": {
+        "A": "New gears.",
+        "B": "Worn teeth, improper mesh, or inadequate lubrication.",
+        "C": "Proper adjustment.",
+        "D": "Clean oil."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New gears should operate quietly after break-in.",
+        "B": "These conditions create poor tooth contact and noise.",
+        "C": "Proper adjustment reduces noise.",
+        "D": "Clean oil supports quiet operation."
+      }
+    },
+    {
+      "questionNumber": 410,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "How is planetary gear backlash measured?",
+      "options": {
+        "A": "Cannot be measured.",
+        "B": "Using dial indicator while rotating components.",
+        "C": "By guess.",
+        "D": "By housing color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Backlash is measurable.",
+        "B": "Dial indicator accurately measures gear clearance.",
+        "C": "Precise measurement is required.",
+        "D": "Color doesn't indicate backlash."
+      }
+    },
+    {
+      "questionNumber": 411,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "What indicates contaminated final drive oil?",
+      "options": {
+        "A": "Clear appearance.",
+        "B": "Dark color, metal particles, or milky appearance from water.",
+        "C": "Fresh smell.",
+        "D": "Proper viscosity."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Clear oil indicates good condition.",
+        "B": "These signs indicate wear or contamination requiring service.",
+        "C": "Fresh smell indicates good condition.",
+        "D": "Viscosity alone doesn't indicate contamination."
+      }
+    },
+    {
+      "questionNumber": 412,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "What causes final drive to lose power?",
+      "options": {
+        "A": "Proper gear mesh.",
+        "B": "Broken gear teeth, worn gears, or bearing failure.",
+        "C": "New components.",
+        "D": "Correct oil level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper mesh transmits full power.",
+        "B": "Damaged components cannot transmit torque effectively.",
+        "C": "New components provide full power transfer.",
+        "D": "Correct level supports normal operation."
+      }
+    },
+    {
+      "questionNumber": 413,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "How is final drive brake contamination identified?",
+      "options": {
+        "A": "Brakes never get contaminated.",
+        "B": "Oil on brake components indicates seal leakage into brake housing.",
+        "C": "By brake age only.",
+        "D": "Contamination cannot be detected."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Seal failure allows oil contamination.",
+        "B": "Oil presence indicates seal failure requiring immediate attention.",
+        "C": "Age doesn't indicate contamination.",
+        "D": "Contamination is visible during inspection."
+      }
+    },
+    {
+      "questionNumber": 414,
+      "block": "D",
+      "task": "D-9",
+      "taskTitle": "Diagnoses drivetrain systems",
+      "subtask": "D-9.06 Diagnoses final drive systems",
+      "question": "What diagnostic procedure identifies final drive component wear?",
+      "options": {
+        "A": "Visual inspection only from distance.",
+        "B": "Measure backlash, check oil for metal, inspect gears and bearings.",
+        "C": "Wear cannot be diagnosed.",
+        "D": "By paint color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Comprehensive inspection is required.",
+        "B": "Multiple checks identify wear and determine service needs.",
+        "C": "Wear is diagnosable through systematic inspection.",
+        "D": "Paint doesn't indicate internal wear."
+      }
+    },
+    {
+      "questionNumber": 415,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.01 Repairs clutch systems",
+      "question": "What is the correct procedure for clutch disc installation?",
+      "options": {
+        "A": "Install without alignment tool.",
+        "B": "Use clutch alignment tool, ensure correct orientation, and torque pressure plate bolts.",
+        "C": "Install disc backwards.",
+        "D": "No procedure needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Alignment tool ensures transmission installation is possible.",
+        "B": "Proper alignment and orientation ensure successful installation.",
+        "C": "Backward installation prevents engagement.",
+        "D": "Specific procedures ensure proper function."
+      }
+    },
+    {
+      "questionNumber": 416,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.01 Repairs clutch systems",
+      "question": "How should clutch pressure plate bolts be tightened?",
+      "options": {
+        "A": "All at once to maximum torque.",
+        "B": "In a star pattern, gradually to specification to prevent warping.",
+        "C": "Random tightening sequence.",
+        "D": "Hand-tight only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sudden tightening warps pressure plate.",
+        "B": "Gradual, even tightening prevents distortion.",
+        "C": "Random sequence causes uneven clamping.",
+        "D": "Proper torque is required for adequate clamping force."
+      }
+    },
+    {
+      "questionNumber": 417,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.01 Repairs clutch systems",
+      "question": "What must be checked before installing a replacement clutch?",
+      "options": {
+        "A": "Nothing needs checking.",
+        "B": "Flywheel surface condition, pilot bearing, and release bearing.",
+        "C": "Just install new clutch.",
+        "D": "Only check clutch disc."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Related components affect clutch life.",
+        "B": "Worn related components cause premature new clutch failure.",
+        "C": "Supporting components must be verified.",
+        "D": "All clutch system components should be inspected."
+      }
+    },
+    {
+      "questionNumber": 418,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.01 Repairs clutch systems",
+      "question": "How should clutch hydraulic systems be bled?",
+      "options": {
+        "A": "Bleeding isn't necessary.",
+        "B": "Starting from master cylinder, bleed until fluid flows without air bubbles.",
+        "C": "Add fluid without bleeding.",
+        "D": "By random procedure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Air must be removed for proper operation.",
+        "B": "Systematic bleeding removes air ensuring firm pedal feel.",
+        "C": "Adding fluid doesn't remove trapped air.",
+        "D": "Specific bleeding procedure is required."
+      }
+    },
+    {
+      "questionNumber": 419,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.01 Repairs clutch systems",
+      "question": "What preparation prevents clutch disc contamination?",
+      "options": {
+        "A": "Install with oily hands.",
+        "B": "Clean flywheel and pressure plate surfaces, handle disc by edges only.",
+        "C": "Contamination doesn't matter.",
+        "D": "Use dirty rags."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil causes immediate clutch slippage.",
+        "B": "Clean installation prevents contamination and ensures proper friction.",
+        "C": "Contamination causes clutch failure.",
+        "D": "Dirty rags transfer contamination."
+      }
+    },
+    {
+      "questionNumber": 420,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.01 Repairs clutch systems",
+      "question": "How should clutch linkage be adjusted?",
+      "options": {
+        "A": "Random adjustment.",
+        "B": "Set free play per manufacturer specifications and verify full disengagement.",
+        "C": "No free play.",
+        "D": "Maximum free play."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise adjustment is required.",
+        "B": "Proper free play ensures complete engagement and release.",
+        "C": "Zero free play causes bearing wear and incomplete engagement.",
+        "D": "Excessive free play prevents full disengagement."
+      }
+    },
+    {
+      "questionNumber": 421,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.01 Repairs clutch systems",
+      "question": "What must be verified after clutch replacement?",
+      "options": {
+        "A": "Nothing needs verification.",
+        "B": "Proper pedal feel, engagement point, complete disengagement, and no slippage.",
+        "C": "Just start engine.",
+        "D": "Verification isn't necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Functional verification ensures proper installation.",
+        "B": "Comprehensive testing confirms successful clutch replacement.",
+        "C": "Starting doesn't verify clutch function.",
+        "D": "Verification is essential quality control."
+      }
+    },
+    {
+      "questionNumber": 422,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.02 Repairs torque converters, fluid couplers and retarders",
+      "question": "What procedure applies when replacing a torque converter?",
+      "options": {
+        "A": "Install dry without fluid.",
+        "B": "Pre-fill with transmission fluid, verify proper seating on pump, rotate to engage splines.",
+        "C": "Force onto transmission.",
+        "D": "No procedure needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dry installation risks pump damage at startup.",
+        "B": "Pre-filling and proper engagement prevent damage during installation.",
+        "C": "Forcing damages components and indicates improper engagement.",
+        "D": "Specific procedures prevent damage."
+      }
+    },
+    {
+      "questionNumber": 423,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.02 Repairs torque converters, fluid couplers and retarders",
+      "question": "How should transmission fluid be changed after converter replacement?",
+      "options": {
+        "A": "Reuse old fluid.",
+        "B": "Replace all fluid, flush cooler lines, and check for contamination.",
+        "C": "Just top off fluid.",
+        "D": "Fluid change isn't necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Old contaminated fluid damages new converter.",
+        "B": "Complete fluid replacement removes contamination from converter failure.",
+        "C": "Topping off leaves contamination in system.",
+        "D": "Fluid must be changed with converter replacement."
+      }
+    },
+    {
+      "questionNumber": 424,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.02 Repairs torque converters, fluid couplers and retarders",
+      "question": "What must be checked when servicing transmission coolers?",
+      "options": {
+        "A": "Coolers don't need service.",
+        "B": "Clean externally, check for leaks between fluid and coolant, verify flow.",
+        "C": "Leave contaminated.",
+        "D": "Visual inspection only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Coolers require regular service.",
+        "B": "Proper cooler service prevents overheating and cross-contamination.",
+        "C": "Contaminated coolers reduce cooling efficiency.",
+        "D": "Functional testing is required beyond visual inspection."
+      }
+    },
+    {
+      "questionNumber": 425,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.02 Repairs torque converters, fluid couplers and retarders",
+      "question": "How should retarder systems be serviced?",
+      "options": {
+        "A": "Retarders don't need service.",
+        "B": "Check fluid level, inspect for leaks, verify control operation, test braking effect.",
+        "C": "Service only after failure.",
+        "D": "Visual inspection only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Retarders require regular maintenance.",
+        "B": "Comprehensive service ensures retarder reliability and effectiveness.",
+        "C": "Preventive service prevents failures.",
+        "D": "Functional testing is necessary."
+      }
+    },
+    {
+      "questionNumber": 426,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.02 Repairs torque converters, fluid couplers and retarders",
+      "question": "What preparation prevents transmission contamination during converter replacement?",
+      "options": {
+        "A": "Leave transmission open to air.",
+        "B": "Cap all openings, use clean fluid, work in clean area.",
+        "C": "Use dirty tools.",
+        "D": "No preparation needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Open transmission allows contamination entry.",
+        "B": "Cleanliness prevents premature component failure.",
+        "C": "Dirty tools introduce contaminants.",
+        "D": "Contamination prevention is critical."
+      }
+    },
+    {
+      "questionNumber": 427,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.02 Repairs torque converters, fluid couplers and retarders",
+      "question": "How should converter-to-flexplate bolts be installed?",
+      "options": {
+        "A": "Hand-tight only.",
+        "B": "Torque to specification in star pattern using thread locker if specified.",
+        "C": "Random installation.",
+        "D": "Maximum torque regardless of specification."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper torque is required to prevent loosening.",
+        "B": "Correct torque and pattern prevent vibration and loosening.",
+        "C": "Systematic installation is required.",
+        "D": "Over-torquing damages threads and components."
+      }
+    },
+    {
+      "questionNumber": 428,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.02 Repairs torque converters, fluid couplers and retarders",
+      "question": "What must be verified after torque converter installation?",
+      "options": {
+        "A": "Nothing needs checking.",
+        "B": "Proper converter depth, flexplate runout, fluid level, and no leaks.",
+        "C": "Just start engine.",
+        "D": "Only check fluid color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification prevents damage and ensures proper operation.",
+        "B": "These checks ensure safe and proper converter function.",
+        "C": "Starting without verification risks damage.",
+        "D": "Comprehensive checks are required."
+      }
+    },
+    {
+      "questionNumber": 429,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.03 Repairs driveline systems",
+      "question": "How should universal joints be replaced?",
+      "options": {
+        "A": "Hammer in place.",
+        "B": "Use press or removal tool, install with proper orientation and grease.",
+        "C": "Install without lubrication.",
+        "D": "Force into yoke."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hammering damages caps and bearings.",
+        "B": "Proper tools and procedures ensure correct installation.",
+        "C": "Lubrication is essential for U-joint life.",
+        "D": "Forcing causes damage."
+      }
+    },
+    {
+      "questionNumber": 430,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.03 Repairs driveline systems",
+      "question": "What must be checked when installing driveshafts?",
+      "options": {
+        "A": "Nothing needs checking.",
+        "B": "Proper phasing, U-joint angles, slip yoke engagement, and balance marks aligned.",
+        "C": "Just install randomly.",
+        "D": "Only check length."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper installation prevents vibration and failure.",
+        "B": "These factors ensure smooth operation and component longevity.",
+        "C": "Systematic installation is required.",
+        "D": "Multiple factors must be verified."
+      }
+    },
+    {
+      "questionNumber": 431,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.03 Repairs driveline systems",
+      "question": "How should driveshaft balance weights be handled?",
+      "options": {
+        "A": "Remove all weights.",
+        "B": "Mark position before removal and reinstall in same location.",
+        "C": "Install weights randomly.",
+        "D": "Weights aren't important."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Removing weights causes imbalance.",
+        "B": "Original balance must be maintained for vibration-free operation.",
+        "C": "Random installation creates imbalance.",
+        "D": "Weights are critical for balance."
+      }
+    },
+    {
+      "questionNumber": 432,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.03 Repairs driveline systems",
+      "question": "What procedure applies when replacing center support bearings?",
+      "options": {
+        "A": "Install without alignment.",
+        "B": "Press bearing onto shaft, install support, and verify alignment.",
+        "C": "Hammer bearing into place.",
+        "D": "No procedure needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper alignment prevents vibration and premature wear.",
+        "B": "Proper installation and alignment ensure bearing longevity.",
+        "C": "Hammering damages bearings.",
+        "D": "Specific procedures prevent damage."
+      }
+    },
+    {
+      "questionNumber": 433,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.03 Repairs driveline systems",
+      "question": "How should slip yoke splines be serviced?",
+      "options": {
+        "A": "Leave dry and corroded.",
+        "B": "Clean, inspect for wear, and lubricate with appropriate grease.",
+        "C": "Use engine oil only.",
+        "D": "Splines don't need service."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dry splines wear rapidly and make noise.",
+        "B": "Clean, lubricated splines prevent wear and binding.",
+        "C": "Engine oil doesn't provide adequate protection.",
+        "D": "Splines require regular lubrication."
+      }
+    },
+    {
+      "questionNumber": 434,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.03 Repairs driveline systems",
+      "question": "What must be torqued properly during driveline assembly?",
+      "options": {
+        "A": "No torque specifications needed.",
+        "B": "U-joint straps, yoke nuts, and center bearing mounting bolts to specification.",
+        "C": "Hand-tight only.",
+        "D": "As tight as possible."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper torque prevents loosening and failure.",
+        "B": "Correct torque ensures secure assembly without damage.",
+        "C": "Hand-tight is insufficient for rotating components.",
+        "D": "Over-torquing damages threads and components."
+      }
+    },
+    {
+      "questionNumber": 435,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.03 Repairs driveline systems",
+      "question": "How should CV joint boots be replaced?",
+      "options": {
+        "A": "Leave torn boots.",
+        "B": "Clean joint, install new boot with proper grease, and secure clamps.",
+        "C": "Install without grease.",
+        "D": "Reuse old clamps."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Torn boots allow contamination and grease loss.",
+        "B": "Proper boot replacement protects joint from contamination.",
+        "C": "Grease is essential for joint lubrication.",
+        "D": "New clamps ensure proper sealing."
+      }
+    },
+    {
+      "questionNumber": 436,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.04 Repairs transmission and transfer case systems",
+      "question": "What preparation is necessary before transmission disassembly?",
+      "options": {
+        "A": "No preparation needed.",
+        "B": "Clean exterior, drain fluid, mark component positions, organize workspace.",
+        "C": "Disassemble while dirty.",
+        "D": "Random disassembly."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Preparation prevents contamination and ensures correct reassembly.",
+        "B": "Systematic preparation protects components and aids reassembly.",
+        "C": "Dirty exterior contaminates internals during disassembly.",
+        "D": "Organized approach prevents mistakes."
+      }
+    },
+    {
+      "questionNumber": 437,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.04 Repairs transmission and transfer case systems",
+      "question": "How should transmission bearings be installed?",
+      "options": {
+        "A": "Hammer directly onto shaft.",
+        "B": "Use press or bearing driver, ensure proper clearances, and lubricate.",
+        "C": "Install without lubrication.",
+        "D": "Force into housing."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hammering damages bearing races.",
+        "B": "Proper tools and procedures ensure correct bearing installation.",
+        "C": "Lubrication protects bearings during initial operation.",
+        "D": "Forcing causes damage."
+      }
+    },
+    {
+      "questionNumber": 438,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.04 Repairs transmission and transfer case systems",
+      "question": "What must be set correctly during transmission assembly?",
+      "options": {
+        "A": "Nothing needs setting.",
+        "B": "End play, bearing preload, gear mesh, and shift linkage.",
+        "C": "Just bolt together.",
+        "D": "Random assembly."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper clearances ensure reliable operation.",
+        "B": "These adjustments are critical for transmission longevity and performance.",
+        "C": "Specific adjustments are required.",
+        "D": "Systematic assembly with proper measurements is essential."
+      }
+    },
+    {
+      "questionNumber": 439,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.04 Repairs transmission and transfer case systems",
+      "question": "How should transmission case bolts be torqued?",
+      "options": {
+        "A": "Hand-tight only.",
+        "B": "In sequence per specifications to prevent case warping.",
+        "C": "All at maximum torque.",
+        "D": "Random tightening."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper torque is required for sealing and strength.",
+        "B": "Sequential torquing prevents distortion and ensures even clamping.",
+        "C": "Excessive torque warps cases and damages threads.",
+        "D": "Specific sequence prevents warpage."
+      }
+    },
+    {
+      "questionNumber": 440,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.04 Repairs transmission and transfer case systems",
+      "question": "What procedure prevents contamination during transmission rebuild?",
+      "options": {
+        "A": "Work in dusty area.",
+        "B": "Clean all parts thoroughly, use lint-free cloths, work in clean environment.",
+        "C": "Leave parts dirty.",
+        "D": "Use contaminated fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dust contaminates precision components.",
+        "B": "Cleanliness is critical for transmission longevity.",
+        "C": "Dirty parts cause rapid wear.",
+        "D": "Contaminated fluid damages components."
+      }
+    },
+    {
+      "questionNumber": 441,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.04 Repairs transmission and transfer case systems",
+      "question": "How should clutch packs be assembled?",
+      "options": {
+        "A": "Random plate installation.",
+        "B": "Alternate friction and steel plates per specifications, check clearance.",
+        "C": "All friction plates together.",
+        "D": "No specific procedure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Specific plate order and count are required.",
+        "B": "Proper assembly ensures correct clutch capacity and operation.",
+        "C": "Plates must be alternated for proper function.",
+        "D": "Clutch pack assembly is critical and has specific procedures."
+      }
+    },
+    {
+      "questionNumber": 442,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.04 Repairs transmission and transfer case systems",
+      "question": "What must be verified after transmission installation?",
+      "options": {
+        "A": "Nothing needs verification.",
+        "B": "All gear selections, shift quality, no leaks, proper fluid level.",
+        "C": "Just start engine.",
+        "D": "Only check first gear."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Comprehensive testing ensures proper installation.",
+        "B": "Complete functional testing verifies successful rebuild and installation.",
+        "C": "Starting doesn't verify all transmission functions.",
+        "D": "All gears must be tested."
+      }
+    },
+    {
+      "questionNumber": 443,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.05 Repairs axle and differential systems",
+      "question": "How should ring and pinion gears be installed?",
+      "options": {
+        "A": "Random installation.",
+        "B": "Set proper backlash, preload, and verify contact pattern with marking compound.",
+        "C": "Just bolt together.",
+        "D": "No adjustments needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise setup is required for proper gear mesh.",
+        "B": "Proper setup ensures quiet operation and gear longevity.",
+        "C": "Specific adjustments are critical.",
+        "D": "Multiple adjustments are necessary."
+      }
+    },
+    {
+      "questionNumber": 444,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.05 Repairs axle and differential systems",
+      "question": "What is the correct bearing preload adjustment procedure?",
+      "options": {
+        "A": "No preload needed.",
+        "B": "Set per manufacturer specifications using shims or adjusting nuts.",
+        "C": "Maximum tightness.",
+        "D": "Hand-tight only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper preload is essential for bearing life.",
+        "B": "Correct preload prevents bearing damage and noise.",
+        "C": "Excessive preload causes premature bearing failure.",
+        "D": "Hand-tight doesn't provide proper preload."
+      }
+    },
+    {
+      "questionNumber": 445,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.05 Repairs axle and differential systems",
+      "question": "How should differential side gears and spider gears be inspected?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Check for wear, scoring, proper backlash, and thrust washer condition.",
+        "C": "Inspection isn't necessary.",
+        "D": "By differential age only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Functional measurements are required.",
+        "B": "Thorough inspection identifies wear requiring replacement.",
+        "C": "Gear condition directly affects differential operation.",
+        "D": "Age doesn't indicate current condition."
+      }
+    },
+    {
+      "questionNumber": 446,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.05 Repairs axle and differential systems",
+      "question": "What sealant application prevents differential leaks?",
+      "options": {
+        "A": "Excessive sealant everywhere.",
+        "B": "Thin, even bead on mating surfaces per specifications, avoiding bolt holes.",
+        "C": "No sealant needed.",
+        "D": "Random application."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excess sealant can block passages and cause leaks.",
+        "B": "Proper application ensures sealing without contamination.",
+        "C": "Most differentials require sealant.",
+        "D": "Proper application technique is required."
+      }
+    },
+    {
+      "questionNumber": 447,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.05 Repairs axle and differential systems",
+      "question": "How should axle shafts be installed?",
+      "options": {
+        "A": "Hammer into differential.",
+        "B": "Align splines, slide into position, install retaining hardware per specifications.",
+        "C": "Force into place.",
+        "D": "Random installation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hammering damages splines and seals.",
+        "B": "Careful installation prevents damage to seals and splines.",
+        "C": "Forcing indicates misalignment.",
+        "D": "Specific procedure prevents damage."
+      }
+    },
+    {
+      "questionNumber": 448,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.05 Repairs axle and differential systems",
+      "question": "What must be done after differential assembly?",
+      "options": {
+        "A": "Nothing required.",
+        "B": "Fill with proper fluid, check for leaks, verify gear pattern, road test.",
+        "C": "Just add any oil.",
+        "D": "Only visual inspection."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification ensures proper assembly.",
+        "B": "Comprehensive checks confirm successful rebuild.",
+        "C": "Correct fluid type is critical.",
+        "D": "Functional testing is required."
+      }
+    },
+    {
+      "questionNumber": 449,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.05 Repairs axle and differential systems",
+      "question": "How should limited slip differential clutches be serviced?",
+      "options": {
+        "A": "Reuse worn clutches.",
+        "B": "Replace clutches and plates as sets, use proper friction modifier in fluid.",
+        "C": "Install without lubrication.",
+        "D": "No service procedure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn clutches don't provide proper limited slip function.",
+        "B": "Complete clutch replacement and proper fluid ensure correct operation.",
+        "C": "Proper lubrication is essential.",
+        "D": "Specific procedures ensure proper limited slip operation."
+      }
+    },
+    {
+      "questionNumber": 450,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.06 Repairs final drive systems",
+      "question": "How should planetary gear assemblies be serviced?",
+      "options": {
+        "A": "Reuse worn components.",
+        "B": "Inspect all gears and bearings, measure clearances, replace worn parts.",
+        "C": "Visual inspection only.",
+        "D": "No service needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn components cause rapid failure.",
+        "B": "Thorough inspection and measurement ensure reliable operation.",
+        "C": "Measurements are required for proper assessment.",
+        "D": "Planetary drives require regular service."
+      }
+    },
+    {
+      "questionNumber": 451,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.06 Repairs final drive systems",
+      "question": "What procedure prevents final drive seal leakage?",
+      "options": {
+        "A": "Install seals dry.",
+        "B": "Lubricate seal lips, use proper installation tool, verify shaft condition.",
+        "C": "Hammer seals into place.",
+        "D": "Install backwards."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dry installation damages seal lips.",
+        "B": "Proper installation technique ensures sealing and seal longevity.",
+        "C": "Hammering damages seals.",
+        "D": "Backward installation causes immediate leakage."
+      }
+    },
+    {
+      "questionNumber": 452,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.06 Repairs final drive systems",
+      "question": "How should final drive bearings be set?",
+      "options": {
+        "A": "No adjustment needed.",
+        "B": "Set proper preload and end play per manufacturer specifications.",
+        "C": "Maximum tightness.",
+        "D": "Hand-tight only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper adjustment is critical.",
+        "B": "Correct settings ensure bearing life and quiet operation.",
+        "C": "Excessive preload causes premature failure.",
+        "D": "Hand-tight doesn't provide proper preload."
+      }
+    },
+    {
+      "questionNumber": 453,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.06 Repairs final drive systems",
+      "question": "What must be verified during final drive assembly?",
+      "options": {
+        "A": "Nothing needs verification.",
+        "B": "Gear mesh, backlash, bearing preload, and seal installation.",
+        "C": "Just bolt together.",
+        "D": "Only check oil level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Critical measurements ensure proper operation.",
+        "B": "These checks prevent premature failure and ensure proper function.",
+        "C": "Specific measurements are required.",
+        "D": "Multiple factors must be verified."
+      }
+    },
+    {
+      "questionNumber": 454,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.06 Repairs final drive systems",
+      "question": "How should final drive housings be prepared for assembly?",
+      "options": {
+        "A": "Leave dirty and damaged.",
+        "B": "Clean thoroughly, inspect for cracks, prepare mating surfaces.",
+        "C": "Use as-is.",
+        "D": "No preparation needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Contamination causes rapid component wear.",
+        "B": "Clean, sound housings are essential for seal integrity and component protection.",
+        "C": "Proper preparation prevents leaks and contamination.",
+        "D": "Thorough preparation is required."
+      }
+    },
+    {
+      "questionNumber": 455,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.06 Repairs final drive systems",
+      "question": "What break-in procedure applies to rebuilt final drives?",
+      "options": {
+        "A": "Full load immediately.",
+        "B": "Light duty operation initially, monitor temperature, check for leaks.",
+        "C": "No break-in needed.",
+        "D": "Maximum load testing."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Immediate full load risks damaging new components.",
+        "B": "Gradual break-in allows components to mate properly.",
+        "C": "Break-in ensures optimal component life.",
+        "D": "Maximum load damages newly assembled components."
+      }
+    },
+    {
+      "questionNumber": 456,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Repairs drivetrain systems",
+      "subtask": "D-10.06 Repairs final drive systems",
+      "question": "How should final drive oil be serviced after rebuild?",
+      "options": {
+        "A": "Never change oil.",
+        "B": "Fill to proper level, check after initial operation, change after break-in period.",
+        "C": "Use any available oil.",
+        "D": "Overfill to maximum."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Initial oil change removes break-in debris.",
+        "B": "Proper oil service removes wear particles from break-in.",
+        "C": "Correct oil type is critical for component protection.",
+        "D": "Overfilling causes aeration and seal damage."
+      }
+    }
+  ]
+}

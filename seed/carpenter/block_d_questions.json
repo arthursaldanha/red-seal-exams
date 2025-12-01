@@ -1,0 +1,3368 @@
+{
+  "block": "D",
+  "blockTitle": "Performs Framing",
+  "blockDescription": "Constructs floor, wall, ceiling and roof framing systems using lumber and engineered components.",
+  "totalQuestions": 120,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "What is the maximum allowable spacing for I-joist hangers when supporting a residential floor load?",
+      "options": {
+        "A": "300 mm o.c.",
+        "B": "400 mm o.c.",
+        "C": "600 mm o.c.",
+        "D": "As per manufacturer's specifications"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "This spacing is too restrictive and not based on engineering requirements for I-joists",
+        "B": "This is a common joist spacing but doesn't address hanger requirements specifically",
+        "C": "While common for dimensional lumber, I-joist installations require specific engineering",
+        "D": "I-joist hangers must be installed according to manufacturer's specifications as they are engineered products with specific load requirements"
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "When installing engineered I-joists, what is the primary reason for web stiffeners?",
+      "options": {
+        "A": "To prevent web buckling under point loads",
+        "B": "To increase the joist's span capacity",
+        "C": "To provide nailing surface for subfloor",
+        "D": "To reduce floor vibration"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Web stiffeners are installed to prevent web buckling when point loads or concentrated loads are applied to the I-joist",
+        "B": "Stiffeners don't increase span capacity; they protect against localized failure",
+        "C": "The top flange provides the nailing surface, not web stiffeners",
+        "D": "While stiffeners add rigidity, their primary purpose is preventing web buckling, not vibration control"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "What is the minimum bearing length required for engineered I-joists on wood supports?",
+      "options": {
+        "A": "38 mm (1-1/2 in.)",
+        "B": "45 mm (1-3/4 in.)",
+        "C": "89 mm (3-1/2 in.)",
+        "D": "140 mm (5-1/2 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This bearing length is insufficient for proper load transfer on I-joists",
+        "B": "The minimum bearing length for I-joists on wood supports is 45 mm (1-3/4 in.) to ensure adequate load distribution",
+        "C": "This is the width of a 2x4, but not the required bearing length for I-joists",
+        "D": "This exceeds the minimum requirement and represents a full 2x6 width"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "Which type of cut is NOT permitted in engineered I-joist webs without manufacturer approval?",
+      "options": {
+        "A": "Round holes in the center third of span",
+        "B": "Any holes within 150 mm of supports",
+        "C": "Rectangular openings of any size",
+        "D": "Both B and C"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Round holes in the center third are typically allowed within size limits per manufacturer specs",
+        "B": "Holes near supports are prohibited as they're in the highest shear zone",
+        "C": "Rectangular openings are not permitted due to stress concentrations at corners",
+        "D": "Both holes near supports and rectangular openings are prohibited without specific engineering approval"
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "What is the standard maximum spacing for 2x10 floor joists supporting a residential live load in typical construction?",
+      "options": {
+        "A": "300 mm o.c.",
+        "B": "400 mm o.c.",
+        "C": "600 mm o.c.",
+        "D": "Depends on span and species"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "While conservative, this isn't a standard maximum without considering span tables",
+        "B": "This spacing is common but not universal for all spans and species",
+        "C": "This may be acceptable for some spans but isn't universally maximum",
+        "D": "Joist spacing must be determined using span tables that account for member size, span distance, wood species, and grade"
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "When installing solid wood blocking between floor joists, what is the primary purpose?",
+      "options": {
+        "A": "To prevent joist rotation and provide lateral support",
+        "B": "To increase the span capacity of joists",
+        "C": "To provide backing for drywall ceiling",
+        "D": "To reduce material costs"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Solid blocking prevents joists from rotating and provides lateral bracing, improving overall floor system stability",
+        "B": "Blocking provides stability but doesn't increase the actual span capacity of individual joists",
+        "C": "While blocking can provide backing, this is a secondary benefit, not the primary structural purpose",
+        "D": "Blocking adds material cost; its purpose is structural, not economical"
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "What is the maximum notch depth allowed at the end of a floor joist (within the end quarter of span)?",
+      "options": {
+        "A": "One-quarter of joist depth",
+        "B": "One-third of joist depth",
+        "C": "One-half of joist depth",
+        "D": "Notching is not permitted"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Notches at the end quarter of the span cannot exceed one-quarter of the joist depth to maintain structural integrity",
+        "B": "This would remove too much material and compromise the joist strength",
+        "C": "This is far too deep and would severely weaken the joist",
+        "D": "Notching is permitted within specific limits at joist ends"
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "Where should floor joists lap over a beam when using this connection method?",
+      "options": {
+        "A": "Minimum 50 mm (2 in.)",
+        "B": "Minimum 89 mm (3-1/2 in.)",
+        "C": "Minimum 100 mm (4 in.)",
+        "D": "Minimum 150 mm (6 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This lap is insufficient for proper load transfer and stability",
+        "B": "While this represents a standard lumber width, the code requires more overlap",
+        "C": "Joists must lap a minimum of 100 mm (4 in.) over beams to ensure adequate bearing and connection",
+        "D": "This exceeds the minimum requirement, though additional lap can be beneficial"
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "When installing rim board with engineered I-joists, what fastening pattern is typically required?",
+      "options": {
+        "A": "Two nails at top and bottom of each joist",
+        "B": "Three nails per joist connection",
+        "C": "As per manufacturer specifications",
+        "D": "75 mm o.c. along entire rim board"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While this may be adequate for dimensional lumber, engineered systems require specific fastening",
+        "B": "The number of nails depends on the specific product and application",
+        "C": "Rim board fastening to I-joists must follow manufacturer specifications as these are engineered connections with specific load paths",
+        "D": "This spacing pattern doesn't address the joist-to-rim board connection properly"
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "What is the purpose of squash blocks in an engineered floor system?",
+      "options": {
+        "A": "To provide lateral bracing for joists",
+        "B": "To transfer vertical loads through I-joist webs",
+        "C": "To prevent crushing of bottom flanges under point loads",
+        "D": "To fill space between joists for fire blocking"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lateral bracing is provided by other means; squash blocks serve a different purpose",
+        "B": "Squash blocks transfer vertical loads (from walls or beams above) through the I-joist web to bearing points below, preventing web crushing",
+        "C": "They protect the web, not specifically the bottom flange",
+        "D": "While they may provide some blocking, their primary purpose is structural load transfer"
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "What is the maximum allowable hole diameter that can be bored through a 2x10 floor joist?",
+      "options": {
+        "A": "38 mm (1-1/2 in.)",
+        "B": "60 mm (2-3/8 in.)",
+        "C": "76 mm (3 in.)",
+        "D": "89 mm (3-1/2 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This is conservative but not the maximum allowed diameter",
+        "B": "This doesn't represent the standard maximum for a 2x10 joist",
+        "C": "The maximum hole diameter is typically one-third of the joist depth. For a 2x10 (235 mm), this equals approximately 76 mm (3 in.)",
+        "D": "This would exceed one-third of the joist depth and weaken it excessively"
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "When constructing a cantilevered floor system, what is the typical maximum cantilever distance as a ratio of the back span?",
+      "options": {
+        "A": "1:2 (half the back span)",
+        "B": "1:3 (one-third the back span)",
+        "C": "1:4 (one-quarter the back span)",
+        "D": "1:6 (one-sixth the back span)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This ratio is too aggressive and would create excessive stress on the floor system",
+        "B": "While more conservative than 1:2, this still exceeds typical code allowances",
+        "C": "Cantilevered floor joists are typically limited to one-quarter of the back span distance to prevent excessive deflection and rotation",
+        "D": "This is overly conservative and unnecessarily limits design flexibility"
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "What type of adhesive is commonly required when installing engineered floor trusses to top plates?",
+      "options": {
+        "A": "Yellow wood glue (aliphatic resin)",
+        "B": "Construction adhesive rated for structural use",
+        "C": "Contact cement",
+        "D": "Epoxy resin"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Standard wood glue is not rated for structural connections in this application",
+        "B": "Construction adhesive rated for structural use helps create a stiff connection and reduces squeaks in the floor system",
+        "C": "Contact cement is not appropriate for structural load-bearing connections",
+        "D": "While strong, epoxy is not the standard adhesive specified for floor truss installation"
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "When installing I-joists parallel to an opening (such as a stairwell), what reinforcement is typically required?",
+      "options": {
+        "A": "Double joists on both sides of opening",
+        "B": "Single trimmer joists with hangers",
+        "C": "Web stiffeners at all hanger locations",
+        "D": "Both A and C"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Doubling joists provides strength but doesn't address web crushing",
+        "B": "Single trimmers are typically insufficient for large openings with I-joists",
+        "C": "Web stiffeners are necessary but doubling is also typically required",
+        "D": "Openings in I-joist floors typically require both doubled trimmer joists and web stiffeners at hanger locations to properly transfer loads"
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "What is the minimum bearing length required for dimensional lumber floor joists on a wood sill plate?",
+      "options": {
+        "A": "38 mm (1-1/2 in.)",
+        "B": "45 mm (1-3/4 in.)",
+        "C": "75 mm (3 in.)",
+        "D": "89 mm (3-1/2 in.)"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "The minimum bearing length for dimensional lumber joists on wood is 38 mm (1-1/2 in.), sufficient for proper load distribution",
+        "B": "This is the requirement for I-joists, not dimensional lumber",
+        "C": "This exceeds the minimum requirement for wood-to-wood bearing",
+        "D": "This represents a full 2x4 width and exceeds minimum bearing requirements"
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "What is the primary purpose of cross-bracing or strapping between floor joists?",
+      "options": {
+        "A": "To increase joist span capacity",
+        "B": "To provide a nailing base for subflooring",
+        "C": "To distribute loads and prevent joist rotation",
+        "D": "To create a chase for mechanical systems"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Bracing provides stability but doesn't increase individual joist span ratings",
+        "B": "Subflooring nails into the joist tops, not the bracing",
+        "C": "Cross-bracing distributes loads between joists and prevents individual joists from rotating, improving overall floor system performance",
+        "D": "While bracing creates some space, this is incidental, not its primary structural purpose"
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "What is the recommended approach when installing subfloor over I-joists in humid conditions?",
+      "options": {
+        "A": "Install immediately to protect joists from moisture",
+        "B": "Wait for joists to acclimate to site conditions",
+        "C": "Apply a moisture barrier between joists and subfloor",
+        "D": "Leave gaps between subfloor panels"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Rushing installation can trap moisture and cause problems",
+        "B": "While acclimation is good practice, it doesn't address subfloor expansion",
+        "C": "Moisture barriers aren't typically used between joists and subfloor",
+        "D": "Leaving appropriate gaps between subfloor panels allows for expansion in humid conditions, preventing buckling and squeaks"
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "When installing a header for a floor opening, what determines the size of the header required?",
+      "options": {
+        "A": "The width of the opening only",
+        "B": "The species and grade of lumber only",
+        "C": "The span and load being carried",
+        "D": "Local building official preference"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Opening width is one factor, but load is equally important",
+        "B": "Material properties matter but don't alone determine header size",
+        "C": "Header size is determined by both the span (opening width) and the magnitude of loads (from joists, walls, etc.) being transferred through it",
+        "D": "Header sizing must follow engineering principles and span tables, not arbitrary preference"
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "How far from the end of an I-joist is the highest shear zone typically located?",
+      "options": {
+        "A": "At the exact end bearing point",
+        "B": "Within the first 600 mm (2 ft.) from bearing",
+        "C": "At mid-span",
+        "D": "In the middle third of the span"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While shear is high at bearings, the critical zone extends beyond just the bearing point",
+        "B": "The highest shear forces occur near the supports, typically within the first 600 mm from each end, which is why holes and notches are restricted in this area",
+        "C": "Mid-span is the location of maximum bending moment, not shear",
+        "D": "The middle third has the lowest shear values"
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "What is the minimum distance from a joist support that holes can be bored through the joist?",
+      "options": {
+        "A": "50 mm (2 in.)",
+        "B": "75 mm (3 in.)",
+        "C": "The depth of the joist (d)",
+        "D": "Twice the depth of the joist (2d)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This distance is too close to supports and would be in the high shear zone",
+        "B": "Still too close to adequately clear the high shear zone",
+        "C": "Holes must be located at least one joist depth (d) away from supports to avoid the critical shear zone",
+        "D": "This is overly conservative and would unnecessarily restrict hole placement"
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "What is the proper orientation for installing wood I-joists with a slope or crown?",
+      "options": {
+        "A": "Crown down to counteract deflection",
+        "B": "Crown up to improve floor flatness",
+        "C": "Either direction is acceptable",
+        "D": "I-joists don't have crowns"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Installing crown down would worsen deflection and create floor problems",
+        "B": "Any crown or camber should be installed facing upward to compensate for dead and live load deflection",
+        "C": "Crown direction is critical and affects floor performance",
+        "D": "While minimal, I-joists can have slight variations that should be oriented upward"
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "When framing a floor system over a crawl space, what is the typical minimum clearance required between the bottom of joists and the ground?",
+      "options": {
+        "A": "150 mm (6 in.)",
+        "B": "300 mm (12 in.)",
+        "C": "450 mm (18 in.)",
+        "D": "600 mm (24 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This clearance is insufficient and doesn't allow adequate access or ventilation",
+        "B": "Still too shallow for proper crawl space function and maintenance access",
+        "C": "A minimum clearance of 450 mm (18 in.) is typically required between joists and ground in crawl spaces to allow for access and proper ventilation",
+        "D": "While providing better access, this exceeds minimum code requirements"
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.01 Installs engineered floor systems",
+      "question": "What type of hanger is specifically designed for use with I-joists?",
+      "options": {
+        "A": "Standard joist hangers rated for dimensional lumber",
+        "B": "Face-mount hangers with web stiffeners",
+        "C": "Top-flange hangers only",
+        "D": "Any hanger with adequate load rating"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Standard hangers don't properly support the thin I-joist web",
+        "B": "I-joists require face-mount hangers specifically designed with support for the web and provisions for web stiffeners to prevent crushing",
+        "C": "Top-flange hangers alone don't provide adequate web support",
+        "D": "Load rating is important, but the hanger must also be designed for I-joist geometry"
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "D",
+      "task": "D-10",
+      "taskTitle": "Constructs floor systems",
+      "subtask": "D-10.02 Constructs dimensional lumber floor framing",
+      "question": "What is the recommended method for supporting a partition wall running parallel to floor joists?",
+      "options": {
+        "A": "Install directly on subfloor between joists",
+        "B": "Add blocking between joists under wall location",
+        "C": "Double the joists under the wall",
+        "D": "Use steel channels perpendicular to joists"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This provides no structural support and would cause floor failure",
+        "B": "Blocking helps but may be insufficient for bearing walls",
+        "C": "Doubling joists under partition walls running parallel to framing provides adequate bearing and load transfer to the foundation",
+        "D": "Steel channels are not a standard method for residential floor framing"
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "What is the minimum recommended spacing between deck boards for drainage and expansion?",
+      "options": {
+        "A": "1.5 mm (1/16 in.)",
+        "B": "3 mm (1/8 in.)",
+        "C": "6 mm (1/4 in.)",
+        "D": "10 mm (3/8 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This gap is too small and won't adequately allow for expansion or drainage",
+        "B": "Still insufficient for proper drainage and wood movement",
+        "C": "A 6 mm (1/4 in.) gap between deck boards allows for adequate drainage, air circulation, and wood expansion/contraction",
+        "D": "This gap is excessive and could create tripping hazards or catch debris"
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "What is the maximum allowable cantilever for deck joists beyond the beam?",
+      "options": {
+        "A": "One-quarter of the joist span",
+        "B": "One-third of the joist span",
+        "C": "300 mm (12 in.) regardless of span",
+        "D": "600 mm (24 in.) regardless of span"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Deck joists can typically cantilever up to one-quarter of their actual span to prevent excessive deflection and maintain structural integrity",
+        "B": "This ratio is too aggressive for deck cantilevers and could cause dangerous deflection",
+        "C": "A fixed dimension doesn't account for varying joist sizes and spans",
+        "D": "This would be excessive for most deck framing and create safety issues"
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "What is the proper method for attaching a ledger board to a house for deck construction?",
+      "options": {
+        "A": "Nails through siding into rim joist",
+        "B": "Lag screws through siding into rim joist",
+        "C": "Through-bolts after removing siding and flashing",
+        "D": "Construction adhesive and screws through siding"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Nails provide insufficient strength and don't properly address the lateral load path",
+        "B": "While better than nails, lag screws through siding trap moisture and don't meet current standards",
+        "C": "Ledgers must be attached with through-bolts (or structural screws) after removing siding and installing proper flashing to prevent water infiltration",
+        "D": "Adhesive is not an acceptable structural fastening method for ledger connections"
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.02 Installs deck components",
+      "question": "What is the maximum allowable spacing for deck railing posts in residential construction?",
+      "options": {
+        "A": "1.2 m (4 ft.) o.c.",
+        "B": "1.5 m (5 ft.) o.c.",
+        "C": "1.8 m (6 ft.) o.c.",
+        "D": "2.4 m (8 ft.) o.c."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While conservative and acceptable, this is not the maximum allowable spacing",
+        "B": "This spacing is common but not the code maximum",
+        "C": "Deck railing posts are typically limited to 1.8 m (6 ft.) maximum spacing to ensure adequate strength against lateral loads",
+        "D": "This spacing is too wide and would not provide adequate railing strength"
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.02 Installs deck components",
+      "question": "What is the minimum height required for deck guardrails in residential construction?",
+      "options": {
+        "A": "860 mm (34 in.)",
+        "B": "900 mm (36 in.)",
+        "C": "1070 mm (42 in.)",
+        "D": "1200 mm (48 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is below the minimum code requirement for exterior deck guards",
+        "B": "Residential deck guardrails must be a minimum of 900 mm (36 in.) high measured vertically from the deck surface",
+        "C": "This is the height often required for commercial applications or balconies",
+        "D": "This exceeds minimum requirements and is unnecessarily high for most residential decks"
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "When using concrete footings for deck posts, how far must the post bottom extend above the concrete?",
+      "options": {
+        "A": "Flush with concrete surface",
+        "B": "15 mm (5/8 in.) minimum",
+        "C": "150 mm (6 in.) minimum",
+        "D": "Must use post base hardware to elevate post"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Direct contact with concrete accelerates wood decay",
+        "B": "This minimal elevation still allows moisture contact",
+        "C": "While elevation helps, hardware provides better moisture protection",
+        "D": "Post base hardware (standoffs or brackets) must be used to elevate wood posts above concrete, preventing direct contact and moisture wicking"
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.02 Installs deck components",
+      "question": "What is the maximum allowable opening between deck railing balusters?",
+      "options": {
+        "A": "75 mm (3 in.)",
+        "B": "100 mm (4 in.)",
+        "C": "125 mm (5 in.)",
+        "D": "150 mm (6 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is more restrictive than required, though acceptable",
+        "B": "The maximum opening between balusters is 100 mm (4 in.) to prevent small children from passing through or getting their heads stuck",
+        "C": "This opening is too large and fails to meet the sphere test requirement",
+        "D": "This gap is dangerously large and violates safety codes"
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "What type of lumber is most resistant to decay and insects for ground-contact deck posts?",
+      "options": {
+        "A": "Kiln-dried SPF (Spruce-Pine-Fir)",
+        "B": "Pressure-treated lumber rated for ground contact",
+        "C": "Cedar or redwood heartwood",
+        "D": "Any lumber sealed with exterior stain"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "SPF has no natural decay resistance and will fail quickly in ground contact",
+        "B": "Pressure-treated lumber specifically rated for ground contact provides chemical protection against decay and insect damage in below-grade applications",
+        "C": "While naturally resistant, cedar and redwood are not rated for ground contact without additional treatment",
+        "D": "Surface sealants don't provide adequate protection for ground-contact applications"
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "What is the minimum size footing required for a deck supporting typical residential loads?",
+      "options": {
+        "A": "150 mm x 150 mm (6 in. x 6 in.)",
+        "B": "200 mm x 200 mm (8 in. x 8 in.)",
+        "C": "As determined by soil bearing capacity and tributary area",
+        "D": "300 mm x 300 mm (12 in. x 12 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This may be too small depending on loads and soil conditions",
+        "B": "A common size but not universally minimum without considering other factors",
+        "C": "Footing size must be calculated based on the soil's bearing capacity and the load from the tributary area supported by each footing",
+        "D": "While adequate in most cases, this may be oversized for light loads on good soil"
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.02 Installs deck components",
+      "question": "When installing deck stairs, what is the maximum allowable riser height variation between steps?",
+      "options": {
+        "A": "3 mm (1/8 in.)",
+        "B": "6 mm (1/4 in.)",
+        "C": "10 mm (3/8 in.)",
+        "D": "13 mm (1/2 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While excellent uniformity, this tolerance is more stringent than code requires",
+        "B": "Riser height variation between steps must not exceed 6 mm (1/4 in.) to prevent tripping hazards",
+        "C": "This variation is too large and creates a dangerous inconsistency",
+        "D": "This much variation significantly increases fall risk"
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "How should deck joists be attached to the ledger board?",
+      "options": {
+        "A": "Toenailed with 3-inch nails",
+        "B": "Face-nailed through the ledger into joist ends",
+        "C": "Secured with approved joist hangers",
+        "D": "Lag screwed through joist into ledger"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Toenailing provides insufficient withdrawal resistance for deck loads",
+        "B": "Face-nailing doesn't provide adequate connection strength or proper load path",
+        "C": "Joists must be connected to ledgers using approved joist hangers that provide proper uplift and lateral resistance",
+        "D": "This connection method doesn't adequately prevent rotation or uplift"
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.02 Installs deck components",
+      "question": "What is the minimum width required for deck stair treads?",
+      "options": {
+        "A": "210 mm (8-1/4 in.)",
+        "B": "235 mm (9-1/4 in.)",
+        "C": "280 mm (11 in.)",
+        "D": "305 mm (12 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This width is acceptable for interior stairs but insufficient for exterior deck stairs",
+        "B": "Still below the minimum for safe exterior stair treads",
+        "C": "Deck stair treads must be a minimum of 280 mm (11 in.) wide to provide adequate foot support and safety",
+        "D": "While providing extra comfort, this exceeds the minimum requirement"
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "What is the proper flashing technique for a deck ledger connection?",
+      "options": {
+        "A": "Install membrane over top of ledger only",
+        "B": "Install Z-flashing above ledger and membrane behind",
+        "C": "Apply caulking bead along top edge",
+        "D": "No flashing needed if ledger is treated lumber"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Top protection alone doesn't prevent water from wicking behind the ledger",
+        "B": "Proper flashing includes Z-flashing above the ledger directing water away and self-adhesive membrane behind the ledger to prevent moisture infiltration",
+        "C": "Caulking alone will fail over time and doesn't provide adequate protection",
+        "D": "Treated lumber resists decay but flashing prevents water problems in the house structure"
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "What is the minimum depth required for deck footings below finished grade?",
+      "options": {
+        "A": "Below local frost depth",
+        "B": "300 mm (12 in.)",
+        "C": "600 mm (24 in.)",
+        "D": "900 mm (36 in.)"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Footings must extend below the local frost depth to prevent heaving from freeze-thaw cycles, which varies by geographic region",
+        "B": "This depth is insufficient in most cold climates where frost penetrates deeper",
+        "C": "While adequate in some mild climates, many regions require deeper footings",
+        "D": "This may be adequate in many areas but some cold regions require even deeper footings"
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.02 Installs deck components",
+      "question": "When fastening deck boards with screws, what is the minimum distance from the board edge to avoid splitting?",
+      "options": {
+        "A": "6 mm (1/4 in.)",
+        "B": "10 mm (3/8 in.)",
+        "C": "19 mm (3/4 in.)",
+        "D": "38 mm (1-1/2 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This is too close to the edge and will likely cause splitting",
+        "B": "Still too close for reliable fastening without edge damage",
+        "C": "Screws should be placed at least 19 mm (3/4 in.) from board edges to prevent splitting while maintaining adequate connection",
+        "D": "While very safe, this distance is unnecessarily far from the edge"
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.02 Installs deck components",
+      "question": "What is the purpose of a drip edge or chamfer on deck board ends?",
+      "options": {
+        "A": "Aesthetic appearance only",
+        "B": "To prevent water from wicking into end grain",
+        "C": "To provide ventilation under the deck",
+        "D": "To make boards easier to install"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While improving appearance, the primary purpose is functional",
+        "B": "A drip edge or chamfer directs water away from the deck board end grain, reducing moisture absorption and extending board life",
+        "C": "Ventilation is important but not the function of board edge treatment",
+        "D": "Edge treatment doesn't significantly affect installation ease"
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "What is the recommended slope for deck surfaces to ensure proper drainage?",
+      "options": {
+        "A": "Level (0% slope)",
+        "B": "1% (1:100) minimum slope",
+        "C": "2% (1:50) minimum slope",
+        "D": "5% (1:20) minimum slope"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "A perfectly level deck will pool water and accelerate decay",
+        "B": "A minimum 1% slope (approximately 3 mm per 300 mm) allows water to drain off the deck surface effectively",
+        "C": "While providing good drainage, this slope is steeper than minimum required",
+        "D": "This slope is excessive and would be noticeable and uncomfortable"
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.02 Installs deck components",
+      "question": "What is the minimum handrail height required for deck stairs?",
+      "options": {
+        "A": "800 mm (31-1/2 in.)",
+        "B": "865 mm (34 in.)",
+        "C": "900 mm (36 in.)",
+        "D": "920 mm (36-1/4 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is below the minimum code requirement for stair handrails",
+        "B": "Stair handrails must be between 865-965 mm (34-38 in.) measured vertically from the nosing",
+        "C": "While within the acceptable range, this is not the minimum",
+        "D": "This falls within the acceptable range but is not specifically the minimum"
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.01 Constructs decks",
+      "question": "When installing deck blocking between joists, what is its primary structural purpose?",
+      "options": {
+        "A": "To provide additional nailing for deck boards",
+        "B": "To prevent lateral movement and distribute loads",
+        "C": "To create a fire barrier",
+        "D": "To support mechanical systems"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While blocking can provide nailing, its primary purpose is structural stability",
+        "B": "Blocking prevents joists from rotating laterally and helps distribute concentrated loads across multiple joists",
+        "C": "Fire barriers are not typically required in exterior deck construction",
+        "D": "Decks don't usually support mechanical systems"
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Constructs deck systems",
+      "subtask": "D-11.02 Installs deck components",
+      "question": "What fastener type is recommended for installing composite decking?",
+      "options": {
+        "A": "Standard galvanized nails",
+        "B": "Stainless steel or coated screws per manufacturer",
+        "C": "Aluminum nails",
+        "D": "Any exterior-rated fastener"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Standard galvanized fasteners may corrode when used with composite materials",
+        "B": "Composite decking requires stainless steel or specifically coated fasteners as recommended by the manufacturer to prevent corrosion and staining",
+        "C": "Aluminum nails lack sufficient strength for deck board installation",
+        "D": "Not all exterior fasteners are compatible with composite materials"
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the standard spacing for wall studs in residential construction?",
+      "options": {
+        "A": "300 mm (12 in.) o.c.",
+        "B": "400 mm (16 in.) o.c.",
+        "C": "600 mm (24 in.) o.c.",
+        "D": "Either B or C depending on load and height"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "This spacing is unnecessarily close and not standard practice",
+        "B": "Common spacing but not the only acceptable option",
+        "C": "Acceptable for many applications but must consider wall height and loads",
+        "D": "Standard stud spacing is either 400 mm or 600 mm o.c., with selection based on wall height, loads, and finish materials"
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the maximum height for a 2x4 stud wall at 400 mm o.c. spacing in load-bearing applications?",
+      "options": {
+        "A": "2.4 m (8 ft.)",
+        "B": "2.7 m (9 ft.)",
+        "C": "3.0 m (10 ft.)",
+        "D": "3.6 m (12 ft.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This is conservative but not the maximum allowable height",
+        "B": "Still below the typical maximum for 2x4 bearing walls",
+        "C": "Load-bearing 2x4 walls at 400 mm o.c. are typically limited to 3.0 m (10 ft.) in height to prevent buckling",
+        "D": "This height requires 2x6 studs for load-bearing applications"
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How many studs are required at each side of a door or window opening?",
+      "options": {
+        "A": "One full stud",
+        "B": "One full stud and one jack stud",
+        "C": "Two full studs",
+        "D": "One king stud, one jack stud, and one cripple stud"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "A single stud doesn't provide adequate support for the header load",
+        "B": "Each side of an opening requires one full-height king stud and one jack (trimmer) stud that supports the header",
+        "C": "Two full studs would extend above the header unnecessarily",
+        "D": "Cripple studs are short vertical members above or below openings, not at the sides"
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is the primary advantage of using engineered wall panels over stick framing?",
+      "options": {
+        "A": "Lower material costs",
+        "B": "Faster installation and improved quality control",
+        "C": "Better thermal performance",
+        "D": "Easier to modify on site"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Engineered panels often cost more in materials but save labor",
+        "B": "Pre-fabricated wall panels significantly reduce on-site construction time and provide better quality control through factory construction",
+        "C": "Thermal performance depends on insulation, not whether walls are panelized",
+        "D": "Engineered panels are actually more difficult to modify than stick framing"
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the purpose of a top plate in wall framing?",
+      "options": {
+        "A": "To cap the wall studs and provide a nailing surface for ceiling joists",
+        "B": "To distribute loads from above and tie walls together",
+        "C": "To provide lateral bracing for the wall",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "This is one important function but not the only one",
+        "B": "Load distribution is critical but there are other functions too",
+        "C": "The top plate does provide some lateral bracing",
+        "D": "The top plate serves all these functions: distributing loads, tying walls together, providing nailing for joists, and contributing to lateral stability"
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How should top plates be lapped at corners and intersections?",
+      "options": {
+        "A": "They should meet at a 45-degree miter",
+        "B": "They should overlap by at least one stud space",
+        "C": "They should be butt-joined with metal plates",
+        "D": "They don't need to overlap"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Mitered joints don't provide adequate structural connection",
+        "B": "Top plates must overlap at intersections by at least one stud space (minimum 400 mm) to tie walls together structurally",
+        "C": "Metal plates alone aren't the standard method for top plate connections",
+        "D": "Overlap is essential for structural continuity"
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the maximum allowable notch depth in a bearing stud?",
+      "options": {
+        "A": "No notching allowed",
+        "B": "One-quarter of stud depth",
+        "C": "One-third of stud depth",
+        "D": "One-half of stud depth"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Limited notching is permitted under specific conditions",
+        "B": "Bearing studs can be notched up to one-quarter of their depth, typically on the outer edge away from the load",
+        "C": "This would remove too much material and compromise load capacity",
+        "D": "This is far too deep and would create structural failure"
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "When installing structural insulated panels (SIPs), what is critical for proper installation?",
+      "options": {
+        "A": "Panels must be installed in any convenient order",
+        "B": "Following manufacturer's sequence and connection details",
+        "C": "Using standard framing nails for all connections",
+        "D": "Panels can be cut to any size on site"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Installation sequence is important for structural integrity and proper sealing",
+        "B": "SIP installation requires strict adherence to manufacturer's specifications for sequence, fastening, and sealing to maintain structural and thermal performance",
+        "C": "SIPs require specific fasteners as specified by the manufacturer",
+        "D": "While some field cutting is possible, panels should be used as designed when possible"
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the minimum number of studs required at an outside corner?",
+      "options": {
+        "A": "Two studs",
+        "B": "Three studs",
+        "C": "Four studs",
+        "D": "Two studs with blocking"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Two studs don't provide adequate nailing surface on the interior corner",
+        "B": "Outside corners typically require three studs (or two studs with backing) to provide nailing surfaces on both interior wall surfaces",
+        "C": "Four studs would be excessive and wasteful",
+        "D": "This is an acceptable alternative method but not the minimum stud count"
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the purpose of cripple studs in wall framing?",
+      "options": {
+        "A": "To support headers above openings",
+        "B": "To fill short vertical spaces above and below openings",
+        "C": "To provide extra support at corners",
+        "D": "To replace damaged full-length studs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Jack studs support headers, not cripple studs",
+        "B": "Cripple studs are short vertical members that maintain regular stud spacing above headers and below sills at window and door openings",
+        "C": "Corner studs serve this purpose, not cripple studs",
+        "D": "Cripple studs are intentionally short, not damaged full studs"
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What determines the size of header required above a wall opening?",
+      "options": {
+        "A": "The width of the opening only",
+        "B": "The type of finish material to be applied",
+        "C": "The span and supported load from above",
+        "D": "Local building official preference"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Opening width is one factor but load is equally critical",
+        "B": "Finish materials don't determine structural header requirements",
+        "C": "Header size must be calculated based on both the span (opening width) and the magnitude of loads (roof, floor, walls) being carried",
+        "D": "Header sizing follows engineering principles and span tables, not arbitrary decisions"
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is a key consideration when handling and storing engineered wall panels on site?",
+      "options": {
+        "A": "They can be stored directly on the ground",
+        "B": "They must be kept dry and properly supported",
+        "C": "Weather exposure improves panel strength",
+        "D": "No special storage requirements exist"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ground contact can cause damage and moisture absorption",
+        "B": "Engineered panels must be stored on level blocking to prevent warping, covered to stay dry, and protected from damage",
+        "C": "Weather exposure damages panels and degrades performance",
+        "D": "Proper storage is critical to prevent damage and maintain performance"
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When drilling holes through studs for plumbing or electrical, what is the maximum hole diameter allowed?",
+      "options": {
+        "A": "One-quarter of stud width",
+        "B": "One-third of stud width",
+        "C": "40 mm (1-9/16 in.) for a 38 mm x 89 mm stud",
+        "D": "60 mm (2-3/8 in.) for a 38 mm x 89 mm stud"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This ratio is more restrictive than necessary",
+        "B": "This isn't the standard for stud boring",
+        "C": "Holes through studs are limited to 40 mm diameter for 2x4 studs to maintain structural integrity",
+        "D": "This hole is too large and would significantly weaken the stud"
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the minimum distance from the edge of a stud that a hole can be drilled?",
+      "options": {
+        "A": "10 mm (3/8 in.)",
+        "B": "16 mm (5/8 in.)",
+        "C": "20 mm (3/4 in.)",
+        "D": "38 mm (1-1/2 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is too close to the edge and risks splitting",
+        "B": "Holes must be at least 16 mm (5/8 in.) from the stud edge; closer holes require steel plates for protection",
+        "C": "While safe, this exceeds the minimum requirement",
+        "D": "This is unnecessarily far from the edge"
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How should wall plates be fastened to floor joists or blocking below?",
+      "options": {
+        "A": "Toenailed at each stud location",
+        "B": "Face-nailed through plate into joists",
+        "C": "Construction adhesive only",
+        "D": "No fastening required if walls are braced"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Toenailing doesn't provide adequate withdrawal resistance",
+        "B": "Bottom plates should be face-nailed through the plate into the floor framing or slab below at regular intervals",
+        "C": "Adhesive alone is insufficient for structural connection",
+        "D": "Positive fastening is required regardless of bracing"
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What type of crane or lifting equipment consideration is important for engineered wall panels?",
+      "options": {
+        "A": "Any available equipment is suitable",
+        "B": "Capacity must account for panel weight and rigging",
+        "C": "Equipment is not needed; panels can be hand-lifted",
+        "D": "Only boom trucks are acceptable"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Equipment must be specifically rated for the loads involved",
+        "B": "Lifting equipment must have adequate capacity for the panel weight plus rigging, and operators must be trained in panel handling",
+        "C": "Most engineered panels are too large and heavy for manual lifting",
+        "D": "Various types of equipment can be used if properly rated"
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the purpose of let-in bracing in wall construction?",
+      "options": {
+        "A": "To provide nailing for exterior finish",
+        "B": "To resist lateral loads and prevent racking",
+        "C": "To support the weight of roof loads",
+        "D": "To create a cavity for insulation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Exterior sheathing provides nailing, not diagonal bracing",
+        "B": "Let-in bracing (typically 1x4 diagonal members notched into studs) provides resistance to lateral forces and prevents wall racking",
+        "C": "Vertical studs carry roof loads, not diagonal bracing",
+        "D": "Bracing doesn't create cavity space; its purpose is structural"
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When is a double top plate NOT required in wall framing?",
+      "options": {
+        "A": "Never; it's always required",
+        "B": "In non-bearing partition walls",
+        "C": "When ceiling joists are aligned with studs below",
+        "D": "When using engineered lumber"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "There are specific conditions where a single plate is acceptable",
+        "B": "Even non-bearing walls typically use double top plates for consistency",
+        "C": "A single top plate may be used when ceiling joists or roof framing members are aligned directly over studs, eliminating load distribution concerns",
+        "D": "Engineered lumber doesn't eliminate the need for double plates"
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is the critical factor in aligning engineered wall panels during installation?",
+      "options": {
+        "A": "Ensuring panels are plumb and properly connected",
+        "B": "Installing panels as quickly as possible",
+        "C": "Using minimum fasteners to allow adjustment",
+        "D": "Aligning panels to studs below, not layout marks"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Panels must be plumb, level, and properly connected according to specifications to ensure structural integrity and proper load transfer",
+        "B": "Speed should never compromise accuracy and quality",
+        "C": "Proper fastening per specifications is essential from the start",
+        "D": "Panels must be positioned according to the building layout and measurements"
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the standard method for framing a wall opening for a window?",
+      "options": {
+        "A": "Single studs on each side with a header",
+        "B": "King studs, jack studs, header, and sill",
+        "C": "Header only spanning between regular studs",
+        "D": "Continuous studs with header notched in"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Single studs don't provide adequate load path for the header",
+        "B": "Window openings require king studs (full height), jack studs (supporting header), a header spanning the opening, and a sill at the bottom",
+        "C": "Headers need dedicated support, not just regular stud spacing",
+        "D": "Notching studs for headers would compromise their strength"
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How many nails are typically required to fasten a stud to the bottom plate?",
+      "options": {
+        "A": "One nail",
+        "B": "Two nails",
+        "C": "Three nails",
+        "D": "Four nails"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "One nail is insufficient to prevent rotation",
+        "B": "Each stud is typically end-nailed to the bottom plate with two nails to provide adequate connection",
+        "C": "Three nails is excessive for standard stud-to-plate connections",
+        "D": "Four nails is unnecessary and may cause splitting"
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "When connecting engineered wall panels at corners, what is essential?",
+      "options": {
+        "A": "Using construction adhesive only",
+        "B": "Following specific connector and fastener requirements",
+        "C": "Leaving gaps for expansion",
+        "D": "Caulking the joint before fastening"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Adhesive alone doesn't provide adequate structural connection",
+        "B": "Panel-to-panel connections require specific hardware and fastening patterns as engineered to transfer loads properly",
+        "C": "Structural connections should be tight, not gapped",
+        "D": "Caulking is secondary to proper mechanical fastening"
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the purpose of fire blocking in wall cavities?",
+      "options": {
+        "A": "To provide additional structural support",
+        "B": "To slow the spread of fire vertically through walls",
+        "C": "To create nailing for fixtures",
+        "D": "To improve insulation efficiency"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While blocking adds some stiffness, fire safety is the primary purpose",
+        "B": "Fire blocking prevents fire and smoke from spreading rapidly through vertical wall cavities by creating barriers at specific intervals",
+        "C": "Blocking may be used for backing but fire blocking has a specific safety purpose",
+        "D": "Fire blocking's primary function is safety, not thermal performance"
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "At what height is fire blocking typically required in walls?",
+      "options": {
+        "A": "Every 1.2 m (4 ft.)",
+        "B": "Every 2.4 m (8 ft.)",
+        "C": "Every 3.0 m (10 ft.)",
+        "D": "Only at floor levels"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This interval is too frequent and not required by code",
+        "B": "Standard wall height but not the fire blocking requirement",
+        "C": "Fire blocking is typically required at maximum 3.0 m (10 ft.) vertical intervals in concealed wall spaces",
+        "D": "Fire blocking at floors only would leave large unprotected vertical spaces"
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What weather protection is needed for engineered wall panels during construction?",
+      "options": {
+        "A": "No protection needed; panels are waterproof",
+        "B": "Cover or seal panel joints and openings promptly",
+        "C": "Panels must be painted immediately after installation",
+        "D": "Protection is only needed for interior panels"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While resistant, panels still need protection from prolonged moisture exposure",
+        "B": "Panel joints, openings, and exposed edges should be sealed or protected promptly to prevent moisture infiltration and damage",
+        "C": "Painting isn't the primary weather protection method during construction",
+        "D": "Exterior panels especially need protection from weather"
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the minimum overlap required when splicing a bottom plate?",
+      "options": {
+        "A": "No splice allowed in bottom plates",
+        "B": "Plates must meet on a stud",
+        "C": "Minimum 600 mm (24 in.) overlap",
+        "D": "Any overlap is acceptable if nailed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bottom plate splices are allowed under specific conditions",
+        "B": "Bottom plate splices must occur on a stud, with both plates nailed to the stud, or be separated by at least two stud spaces",
+        "C": "This describes a lapped splice, not the standard requirement",
+        "D": "Splices must follow specific location and fastening requirements"
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When walls are taller than standard stud lengths, how should studs be spliced?",
+      "options": {
+        "A": "Butt joints with metal plates",
+        "B": "Scarf joints at 45 degrees",
+        "C": "Overlap splices with nailing",
+        "D": "Studs should not be spliced; use longer lumber"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Metal plates alone don't provide the required splice strength for bearing studs",
+        "B": "Scarf joints are not standard practice for stud splicing",
+        "C": "Stud splices typically use overlapping members with proper nailing to transfer loads through the splice",
+        "D": "While preferred, longer lumber isn't always available or economical"
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What inspection point is critical before installing the next level of wall panels?",
+      "options": {
+        "A": "Verifying lower panels are plumb and properly fastened",
+        "B": "Waiting for building inspector approval",
+        "C": "Completing all electrical rough-in",
+        "D": "Installing all windows and doors first"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Before stacking panels, ensuring the lower level is plumb, level, and properly fastened prevents cumulative errors and ensures structural integrity",
+        "B": "While inspections are important, quality control checks must happen before proceeding",
+        "C": "Rough-in typically occurs after framing, not before installing upper panels",
+        "D": "Openings can be addressed after framing is complete"
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the proper method for installing a single stud between two plates?",
+      "options": {
+        "A": "Face-nail through both plates into stud",
+        "B": "Toenail at both top and bottom",
+        "C": "End-nail at bottom, toenail at top",
+        "D": "Use metal brackets at both ends"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Face-nailing through plates into studs is difficult when plates are in position",
+        "B": "Toenailing at bottom doesn't provide as strong a connection as end-nailing",
+        "C": "Standard practice is to end-nail through the bottom plate into the stud, then toenail at the top after the wall is tilted up",
+        "D": "Metal brackets are not the standard fastening method for typical studs"
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How far should a window sill typically extend beyond the jack studs?",
+      "options": {
+        "A": "Sills should be flush with jack studs",
+        "B": "Extend to the king studs on each side",
+        "C": "Extend to the next regular stud on each side",
+        "D": "Sills can be any convenient length"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sills should extend beyond jacks to provide bearing surface",
+        "B": "Window sills typically extend to bear on the king studs on each side, distributing the window load properly",
+        "C": "This would make the sill unnecessarily long",
+        "D": "Sill length must be determined by structural requirements"
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is a primary difference between engineered panels and traditional stick framing regarding modifications?",
+      "options": {
+        "A": "Panels are easier to modify on site",
+        "B": "Panels require engineering approval for significant changes",
+        "C": "Panels can be cut freely without concern",
+        "D": "There is no difference in modification requirements"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Panels are actually more difficult to modify than stick framing",
+        "B": "Engineered panels are designed as complete systems; significant field modifications require engineering review to ensure structural integrity isn't compromised",
+        "C": "Cutting engineered panels can compromise their designed strength",
+        "D": "Engineered systems have more stringent modification requirements"
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the maximum allowable bow or deviation from straight in a bearing stud?",
+      "options": {
+        "A": "No deviation allowed",
+        "B": "3 mm per meter (1/8 in. per ft.)",
+        "C": "6 mm per meter (1/4 in. per ft.)",
+        "D": "Any deviation is acceptable if installed with crown up"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Some deviation is unavoidable in natural lumber",
+        "B": "Studs should not deviate from straight more than approximately 3 mm per meter of length to maintain wall integrity",
+        "C": "This much bow would create problems with wall finish and structural performance",
+        "D": "Excessive bow cannot be accepted regardless of orientation"
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "Where should wall plates NOT be spliced?",
+      "options": {
+        "A": "In the middle of a wall panel",
+        "B": "At door or window openings",
+        "C": "Over solid bearing below",
+        "D": "At partition wall intersections"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Mid-panel splices are acceptable when properly supported by studs",
+        "B": "Splices should not occur at openings where the plate doesn't have continuous stud support and stress concentrations exist",
+        "C": "Splicing over bearing is actually preferred for load transfer",
+        "D": "Intersections are acceptable splice locations with proper overlap"
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is typically required at the base of engineered wall panels for connection to the floor system?",
+      "options": {
+        "A": "Adhesive only",
+        "B": "Anchor bolts or specific hold-down connectors",
+        "C": "Toenails at 600 mm o.c.",
+        "D": "No special connection is required"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Adhesive alone cannot provide adequate structural connection",
+        "B": "Engineered panels typically require specific anchorage details such as anchor bolts, hold-downs, or other engineered connectors per design specifications",
+        "C": "Toenails are insufficient for the uplift and shear forces on panels",
+        "D": "Positive connection to the floor system is essential for load transfer"
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the typical overhang of a top plate beyond the wall sheathing?",
+      "options": {
+        "A": "Plates should be flush with sheathing",
+        "B": "10-15 mm (3/8-5/8 in.)",
+        "C": "Top plates don't extend beyond sheathing",
+        "D": "25-40 mm (1-1/2 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Plates are typically behind, not flush with, sheathing",
+        "B": "Plates don't normally overhang the wall exterior",
+        "C": "Top plates are typically set back from the exterior wall surface; the sheathing extends over the plate edge to the framing surface",
+        "D": "Plates extending significantly beyond sheathing would create problems"
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When laying out studs for wall construction, where should the first measurement be taken from?",
+      "options": {
+        "A": "From the nearest corner or starting point",
+        "B": "From the center of the wall",
+        "C": "From the first door opening",
+        "D": "From any convenient reference point"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Layout starts from a reference point such as a corner or building line, measuring on-center spacing from there to maintain consistent stud locations",
+        "B": "Starting from center would create problems coordinating with other walls",
+        "C": "Openings are located after establishing the regular stud spacing",
+        "D": "A consistent reference system is essential for proper framing coordination"
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What utility coordination is necessary before installing engineered wall panels?",
+      "options": {
+        "A": "No coordination needed; panels can accommodate any utilities",
+        "B": "Verify panel openings match rough-in locations",
+        "C": "All utilities can be added after panel installation",
+        "D": "Utilities are not allowed in engineered wall panels"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Panels have specific locations for utilities that must be coordinated",
+        "B": "Panel designs typically include specific locations for mechanical, electrical, and plumbing penetrations that must be coordinated with trades before installation",
+        "C": "Adding penetrations after installation may compromise structural integrity",
+        "D": "Utilities are accommodated but require proper planning"
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How should studs be oriented when installing them in a wall?",
+      "options": {
+        "A": "Crown up",
+        "B": "Crown down",
+        "C": "All crowns in the same direction",
+        "D": "Crown direction doesn't matter"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While up is a common choice, consistency is more important",
+        "B": "Down is less common but acceptable if consistent",
+        "C": "All studs in a wall should have their crown oriented the same direction (typically up or toward the exterior) to maintain a consistent plane for finishes",
+        "D": "Crown orientation significantly affects wall straightness and finish quality"
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the purpose of a structural shear wall?",
+      "options": {
+        "A": "To support only vertical loads",
+        "B": "To resist lateral forces from wind and earthquakes",
+        "C": "To provide sound insulation",
+        "D": "To create a fire-rated assembly"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "All walls support vertical loads; shear walls have a specific lateral force function",
+        "B": "Shear walls are specifically designed and built to resist lateral forces (wind, seismic) and transfer them to the foundation",
+        "C": "Sound insulation is secondary to the structural purpose",
+        "D": "Fire rating is a separate consideration from shear wall function"
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is a common advantage of open-web steel joists in engineered wall systems?",
+      "options": {
+        "A": "Lower cost than all alternatives",
+        "B": "Easier to install utilities through web openings",
+        "C": "Better fire resistance without protection",
+        "D": "No engineering required for modifications"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Steel joists may cost more initially but offer other benefits",
+        "B": "Open-web steel joists provide convenient pathways for mechanical, electrical, and plumbing systems without compromising structural integrity",
+        "C": "Steel requires fire protection to meet building code requirements",
+        "D": "Steel systems still require engineering approval for modifications"
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What fastener schedule is typically used for attaching wall sheathing to studs?",
+      "options": {
+        "A": "50 mm (2 in.) nails at 300 mm (12 in.) o.c.",
+        "B": "50 mm (2 in.) nails at 150 mm (6 in.) edges, 300 mm (12 in.) field",
+        "C": "75 mm (3 in.) nails at 400 mm (16 in.) o.c.",
+        "D": "Any nailing pattern that penetrates studs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This pattern doesn't account for increased edge fastening requirements",
+        "B": "Sheathing typically requires closer nail spacing (150 mm) at panel edges and wider spacing (300 mm) in the field for proper attachment and load transfer",
+        "C": "This spacing is too wide and nails are longer than necessary",
+        "D": "Specific fastening patterns are required for structural performance"
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When building a wall with a 2x6 bottom plate and 2x4 studs, what consideration is important?",
+      "options": {
+        "A": "This combination is not permitted",
+        "B": "The wider plate provides improved bearing surface",
+        "C": "Studs must be centered on the 2x6 plate",
+        "D": "This is only allowed for interior walls"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This combination is sometimes used for specific applications",
+        "B": "A wider bottom plate can provide better bearing distribution and accommodate larger foundation bolts or special conditions while using 2x4 studs above",
+        "C": "Studs are typically aligned to one face, not centered",
+        "D": "This detail can be used for exterior or interior applications"
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What quality control check is essential during engineered panel installation?",
+      "options": {
+        "A": "Checking that all panels are the same size",
+        "B": "Verifying panel identification matches plans and location",
+        "C": "Ensuring panels are installed in sequential order only",
+        "D": "Confirming panels are installed crown down"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Panels are often different sizes by design",
+        "B": "Each panel should be identified and verified against shop drawings to ensure correct panel placement, orientation, and connection details",
+        "C": "Installation sequence is important but panel identification is critical",
+        "D": "Panel orientation is important but varies by design, and identification is the key check"
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How should gap or misalignment between wall plates be corrected?",
+      "options": {
+        "A": "Ignore gaps less than 25 mm",
+        "B": "Fill gaps with shims or blocking and secure properly",
+        "C": "Use caulking to fill the gap",
+        "D": "Apply construction adhesive only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Even small gaps should be addressed for proper load transfer",
+        "B": "Gaps between plates should be filled with solid shims or blocking and properly fastened to maintain continuous load path and prevent movement",
+        "C": "Caulking has no structural value for filling plate gaps",
+        "D": "Adhesive alone doesn't provide the needed structural continuity"
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the recommended approach when installing studs near corners to ensure adequate backing for finishes?",
+      "options": {
+        "A": "Use standard corner framing only",
+        "B": "Install additional studs or blocking to provide nailing surface",
+        "C": "Rely on adhesive for corner finishes",
+        "D": "Corner backing is not necessary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Standard corners may not always provide adequate backing",
+        "B": "California corners or additional blocking should be installed to provide nailing surfaces for interior finishes at all corners and intersections",
+        "C": "Adhesive alone is insufficient for attaching wall finishes",
+        "D": "Proper backing at corners is essential for finish material support"
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What documentation should be maintained during engineered panel installation?",
+      "options": {
+        "A": "No documentation is necessary",
+        "B": "Only record panel count installed",
+        "C": "Maintain records of panel placement and any modifications",
+        "D": "Documentation is only needed for interior panels"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Documentation is essential for quality assurance and warranty",
+        "B": "Count alone doesn't provide adequate installation records",
+        "C": "Records should include panel locations, installation dates, field modifications, inspection results, and any deviations from plans",
+        "D": "All engineered systems require documentation regardless of location"
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the maximum spacing for intermediate blocking in long walls?",
+      "options": {
+        "A": "Blocking is only needed at wall ends",
+        "B": "Every 1.2 m (4 ft.)",
+        "C": "Every 2.4 m (8 ft.) or mid-height",
+        "D": "Every 3.0 m (10 ft.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Long walls require intermediate blocking for stability",
+        "B": "This spacing is too frequent for typical construction",
+        "C": "Horizontal blocking at mid-height (approximately 2.4 m intervals vertically) provides lateral stability and maintains stud alignment in tall walls",
+        "D": "This spacing exceeds fire blocking and stability requirements"
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When installing anchor bolts in concrete for wall attachment, what is typical spacing?",
+      "options": {
+        "A": "600 mm (24 in.) o.c. maximum",
+        "B": "1200 mm (48 in.) o.c. maximum",
+        "C": "1800 mm (72 in.) o.c. maximum",
+        "D": "2400 mm (96 in.) o.c. maximum"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This spacing is closer than typically required",
+        "B": "Common spacing but not the maximum allowed",
+        "C": "Anchor bolts are typically spaced at maximum 1800 mm (6 ft.) o.c., with additional bolts required at wall ends and openings",
+        "D": "This spacing is too wide to adequately secure the wall"
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is critical about the bearing surface preparation before setting engineered panels?",
+      "options": {
+        "A": "Surface can be rough; panels will bridge irregularities",
+        "B": "Surface must be level, clean, and properly prepared",
+        "C": "Only exterior panels require prepared surfaces",
+        "D": "Bearing surface preparation is not important"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Irregular surfaces create instability and stress concentrations",
+        "B": "Bearing surfaces must be level, clean of debris, and properly shimmed where needed to ensure uniform load distribution and panel stability",
+        "C": "All panels require proper bearing regardless of location",
+        "D": "Proper bearing surface preparation is critical for panel performance"
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the purpose of blocking between studs at tub/shower enclosures?",
+      "options": {
+        "A": "To provide backing for grab bars and fixtures",
+        "B": "To improve insulation performance",
+        "C": "To meet fire code requirements",
+        "D": "To support the wall studs only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Blocking provides solid backing for secure mounting of grab bars, shower heads, faucets, and other fixtures that require strong attachment points",
+        "B": "Blocking doesn't significantly affect insulation performance",
+        "C": "Fire blocking serves a different purpose than fixture backing",
+        "D": "While it adds stiffness, the primary purpose is fixture support"
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How far from a corner must an anchor bolt be located?",
+      "options": {
+        "A": "Any distance is acceptable",
+        "B": "Minimum 150 mm (6 in.) from corner",
+        "C": "Minimum 300 mm (12 in.) from corner",
+        "D": "Maximum 150 mm (6 in.) from corner"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Minimum distance requirements exist to prevent concrete cracking",
+        "B": "This distance is insufficient to prevent edge failure",
+        "C": "Anchor bolts should be located at least 300 mm from corners to prevent concrete edge failure and ensure adequate embedment",
+        "D": "This describes maximum, not minimum, and the value would place bolts too close"
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is the typical warranty consideration for engineered wall systems?",
+      "options": {
+        "A": "No warranty is provided for engineered systems",
+        "B": "Warranty covers materials only, not installation",
+        "C": "Following installation specifications is required for warranty",
+        "D": "Warranty is automatic regardless of installation quality"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Manufacturers typically provide warranties for engineered systems",
+        "B": "Warranties often cover both materials and performance",
+        "C": "Manufacturer warranties typically require that installation follows their specifications; improper installation can void coverage",
+        "D": "Warranties have specific requirements that must be met"
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the recommended method for straightening a bowed stud during installation?",
+      "options": {
+        "A": "Install with the bow and apply finish directly",
+        "B": "Kerf the stud to reduce bow",
+        "C": "Use blocking or bracing to pull stud straight",
+        "D": "Replace any stud with noticeable bow"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Installing bowed studs creates problems for finishes",
+        "B": "Kerfing weakens the stud structurally",
+        "C": "Moderate bows can be corrected by installing temporary bracing or blocking to pull studs into alignment before applying sheathing",
+        "D": "While severely bowed studs should be replaced, minor bows can be corrected"
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When constructing a curved wall, what framing technique is commonly used?",
+      "options": {
+        "A": "Notch studs to create curve",
+        "B": "Use shorter studs installed on radius with curved plates",
+        "C": "Bend standard studs and force into position",
+        "D": "Curved walls cannot be framed with dimensional lumber"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Notching studs compromises their strength",
+        "B": "Curved walls use shorter studs placed on the curve radius with top and bottom plates that are kerfed or built up to create the desired radius",
+        "C": "Forcing studs creates internal stresses and is not acceptable practice",
+        "D": "Curved walls can be framed with proper techniques"
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What specialized equipment might be needed for large engineered panel installation?",
+      "options": {
+        "A": "Only hand tools are needed",
+        "B": "Crane or telehandler for lifting and positioning",
+        "C": "Equipment is never needed; panels are light enough to carry",
+        "D": "Only ladders and scaffolding are required"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Large panels require mechanical lifting assistance",
+        "B": "Large engineered panels often require cranes, telehandlers, or other mechanical equipment for safe lifting, positioning, and installation",
+        "C": "Many engineered panels are too large and heavy for manual handling",
+        "D": "Access equipment is necessary but not sufficient for moving large panels"
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the purpose of double studs at major openings?",
+      "options": {
+        "A": "To provide extra nailing surface",
+        "B": "To carry increased loads around the opening",
+        "C": "To make the wall look more substantial",
+        "D": "To simplify header installation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While they provide nailing, the primary purpose is structural",
+        "B": "Double studs (king and jack) at openings provide the necessary load-carrying capacity to support headers and transfer loads around the opening to the foundation",
+        "C": "Appearance is not the structural purpose of doubling",
+        "D": "While they help with header support, the main purpose is load transfer"
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When should wall bracing be installed during the framing process?",
+      "options": {
+        "A": "After all walls are standing but before sheathing",
+        "B": "Only after sheathing is complete",
+        "C": "Temporary bracing as walls are raised, then permanent bracing",
+        "D": "Bracing is not necessary during framing"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Temporary bracing is needed immediately as walls go up",
+        "B": "Waiting until after sheathing is too late for initial stability",
+        "C": "Temporary diagonal braces should be installed immediately as walls are raised to prevent collapse, followed by permanent bracing systems per code",
+        "D": "Bracing is essential for safety during and after framing"
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is a consideration when panels arrive on site damaged?",
+      "options": {
+        "A": "Install damaged panels anyway; they'll be covered",
+        "B": "Repair damage with standard carpentry techniques",
+        "C": "Document damage and consult engineer before installation",
+        "D": "Minor damage is always acceptable"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Damaged panels may not perform as designed",
+        "B": "Standard repairs may not meet engineered requirements",
+        "C": "Damaged engineered panels should be documented, evaluated by the engineer, and repaired or replaced per their direction to maintain design performance",
+        "D": "Even minor damage may compromise engineered performance"
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the minimum penetration required for nails fastening wall components?",
+      "options": {
+        "A": "19 mm (3/4 in.) into receiving member",
+        "B": "32 mm (1-1/4 in.) into receiving member",
+        "C": "38 mm (1-1/2 in.) into receiving member",
+        "D": "Through-nailing only, no minimum penetration"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This penetration is insufficient for adequate connection",
+        "B": "Still below the minimum required for proper holding power",
+        "C": "Nails must penetrate at least 38 mm (1-1/2 in.) into the receiving member to provide adequate withdrawal and lateral resistance",
+        "D": "Through-nailing isn't always possible, and minimum penetration standards exist"
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How should partition walls be connected to exterior walls?",
+      "options": {
+        "A": "Simply butt partition to exterior wall",
+        "B": "Use blocking or studs in exterior wall to provide backing",
+        "C": "No special connection is needed",
+        "D": "Use metal straps only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Butting provides no nailing or structural connection",
+        "B": "Interior partitions should be connected using blocking, ladder blocking, or additional studs in the exterior wall to provide nailing surface and structural tie",
+        "C": "Proper connection is essential for stability and finish attachment",
+        "D": "Metal straps alone don't provide adequate nailing for finishes"
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is important about the sequence of fastener installation in engineered panels?",
+      "options": {
+        "A": "Install all fasteners randomly for speed",
+        "B": "Follow specific patterns to prevent warping or damage",
+        "C": "Sequence doesn't matter for panel systems",
+        "D": "Only exterior fasteners need sequencing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Random installation can cause panel distortion",
+        "B": "Fasteners should be installed in specified sequences (often from center outward) to prevent panel warping and ensure proper fit and load distribution",
+        "C": "Sequence is critical for maintaining panel integrity",
+        "D": "All connections require proper sequencing"
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the recommended practice for top plate splices in bearing walls?",
+      "options": {
+        "A": "Splices can occur anywhere",
+        "B": "Splices in upper and lower plates should be separated by at least one stud space",
+        "C": "Both plates must splice at the same location",
+        "D": "Splices should only occur at corners"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Splice location is important for load distribution",
+        "B": "Upper and lower top plate splices should be offset by at least one stud space (minimum 400 mm) to maintain continuous load path",
+        "C": "Aligned splices would create a weak point in the wall",
+        "D": "Splices at corners would concentrate discontinuity"
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When framing a header using dimensional lumber, what is the typical construction method?",
+      "options": {
+        "A": "Single board laid flat",
+        "B": "Two or more boards on edge with spacer",
+        "C": "Boards laid flat and stacked",
+        "D": "Single board on edge only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flat orientation provides inadequate strength",
+        "B": "Headers typically consist of two or more boards installed on edge (vertical orientation) with spacer material between to match wall thickness, providing maximum strength",
+        "C": "Flat stacking is inefficient and provides less strength than on-edge installation",
+        "D": "Single boards are typically insufficient for header loads"
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What safety consideration is unique to engineered panel installation?",
+      "options": {
+        "A": "No special safety considerations exist",
+        "B": "Panels are lighter than stick framing, reducing risk",
+        "C": "Large panels can act as sails in wind; weather considerations critical",
+        "D": "Safety requirements are identical to stick framing"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Large panels present specific safety challenges",
+        "B": "Panels are often heavier and larger, not lighter",
+        "C": "Large wall panels catch wind easily and can become unstable or dangerous during lifting and before being secured; wind conditions must be monitored carefully",
+        "D": "Panel installation has additional safety considerations beyond stick framing"
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the maximum height differential allowed between adjoining wall sections before installation?",
+      "options": {
+        "A": "No limit exists",
+        "B": "6 mm (1/4 in.)",
+        "C": "13 mm (1/2 in.)",
+        "D": "19 mm (3/4 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Height variations must be controlled for proper floor/ceiling connections",
+        "B": "Wall height variations should not exceed approximately 6 mm to ensure proper bearing and alignment for floor or roof systems above",
+        "C": "This variation would create problems with upper-level framing",
+        "D": "This much variation is unacceptable for quality construction"
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How should pressure-treated bottom plates be handled at door openings?",
+      "options": {
+        "A": "Install continuous plate across opening",
+        "B": "Omit plate at door opening and add later",
+        "C": "Install pressure-treated plate only at doorway",
+        "D": "Regular lumber can be substituted at openings"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Continuous plate would block the doorway and create a tripping hazard",
+        "B": "Bottom plates at door openings are typically omitted during wall assembly and cut out after the wall is raised, or not installed in that section",
+        "C": "Treated lumber should be used throughout when required, not just at openings",
+        "D": "If treated plates are required, substitution compromises moisture resistance"
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is the advantage of factory-built windows and doors in engineered panels?",
+      "options": {
+        "A": "No advantages; site installation is preferred",
+        "B": "Better quality control and weather-tight installation",
+        "C": "Lower material costs only",
+        "D": "Easier to modify opening sizes on site"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Factory installation offers significant advantages",
+        "B": "Windows and doors installed in panels at the factory benefit from controlled conditions, better quality control, proper flashing installation, and testing for water-tightness",
+        "C": "Quality and labor savings are the main benefits, not just material cost",
+        "D": "Factory-installed units are actually more difficult to modify"
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the purpose of hold-down anchors in shear wall construction?",
+      "options": {
+        "A": "To prevent walls from sliding horizontally",
+        "B": "To resist uplift forces at shear wall ends",
+        "C": "To attach bottom plate to foundation only",
+        "D": "To connect top plates together"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lateral sliding is resisted by anchor bolts and plates",
+        "B": "Hold-down anchors resist the uplift (tension) forces that develop at the ends of shear walls when lateral loads try to overturn the wall",
+        "C": "Standard anchor bolts handle this function; hold-downs address specific uplift",
+        "D": "Top plate connections don't require hold-down anchors"
+      }
+    },
+    {
+      "questionNumber": 113,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When should engineered lumber products be used instead of dimensional lumber for headers?",
+      "options": {
+        "A": "Only when specified by architect or engineer",
+        "B": "When spans exceed dimensional lumber capacity or when specified",
+        "C": "Never; dimensional lumber is always adequate",
+        "D": "Only for commercial construction"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While specifications are important, there are practical reasons too",
+        "B": "Engineered headers (LVL, PSL, LSL) should be used when spans exceed what dimensional lumber can handle or when specified for consistency and reliability",
+        "C": "Long spans or heavy loads often require engineered products",
+        "D": "Engineered lumber is used in both residential and commercial work"
+      }
+    },
+    {
+      "questionNumber": 114,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is critical when connecting multi-story engineered panels vertically?",
+      "options": {
+        "A": "Panels can be stacked without special connections",
+        "B": "Following specific inter-story connector requirements",
+        "C": "Using construction adhesive only",
+        "D": "Overlap is not necessary between stories"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Vertical connections require specific engineered details",
+        "B": "Multi-story panel connections require specific hardware and fastening details as designed to transfer vertical and lateral loads between levels",
+        "C": "Adhesive alone cannot provide the required structural connection",
+        "D": "Proper connection and load transfer between stories is essential"
+      }
+    },
+    {
+      "questionNumber": 115,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the maximum projection allowed for anchor bolts extending above the bottom plate?",
+      "options": {
+        "A": "Flush with top of plate",
+        "B": "6 mm (1/4 in.) maximum",
+        "C": "13 mm (1/2 in.) maximum",
+        "D": "Any projection is acceptable"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Some projection is needed for nut installation",
+        "B": "This may be insufficient for proper nut and washer installation",
+        "C": "Anchor bolts should project approximately 13 mm (1/2 in.) above the plate to allow for washer and nut installation without excessive protrusion",
+        "D": "Excessive projection creates obstacles for floor installation"
+      }
+    },
+    {
+      "questionNumber": 116,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "When is it acceptable to sister damaged studs rather than replace them?",
+      "options": {
+        "A": "Always acceptable if properly done",
+        "B": "Only for non-bearing walls with minor damage",
+        "C": "Never acceptable; always replace damaged studs",
+        "D": "Only with engineering approval for bearing walls"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Bearing walls with significant damage require engineering evaluation",
+        "B": "Even non-bearing walls may require replacement depending on damage extent",
+        "C": "Properly engineered repairs can be acceptable in some cases",
+        "D": "Sistering studs in bearing walls with significant damage should only be done with engineering approval to ensure adequate load capacity is maintained"
+      }
+    },
+    {
+      "questionNumber": 117,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What is the typical tolerance for panel positioning during installation?",
+      "options": {
+        "A": "±6 mm (±1/4 in.) from plan location",
+        "B": "±13 mm (±1/2 in.) from plan location",
+        "C": "±25 mm (±1 in.) from plan location",
+        "D": "No tolerance specified"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Panel positioning typically must be within approximately ±6 mm of the design location to ensure proper fit, connection, and load transfer",
+        "B": "This tolerance is too loose for precision panel systems",
+        "C": "This much variation could cause connection and fit problems",
+        "D": "Specific tolerances are essential for engineered systems"
+      }
+    },
+    {
+      "questionNumber": 118,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "How should electrical boxes be secured in wall framing?",
+      "options": {
+        "A": "Nail directly to drywall from inside",
+        "B": "Fasten to studs or blocking per manufacturer instructions",
+        "C": "Use construction adhesive only",
+        "D": "No fastening required; friction fit is adequate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Boxes must be secured to framing, not finish materials",
+        "B": "Electrical boxes must be fastened to framing members using nails, screws, or approved mounting brackets per manufacturer specifications and electrical code",
+        "C": "Adhesive alone doesn't provide adequate support",
+        "D": "Positive fastening is required for safety and code compliance"
+      }
+    },
+    {
+      "questionNumber": 119,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.02 Constructs dimensional lumber wall framing",
+      "question": "What is the recommended approach for walls that will receive tile or other heavy finish materials?",
+      "options": {
+        "A": "Standard framing is always adequate",
+        "B": "Reduce stud spacing to 400 mm o.c. or provide backing",
+        "C": "Use only 2x6 studs",
+        "D": "Heavy finishes don't affect framing requirements"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Heavy finishes may require enhanced backing",
+        "B": "Walls receiving tile or heavy finishes should have studs at 400 mm o.c. or additional blocking to provide adequate support and prevent deflection",
+        "C": "Stud size alone doesn't address backing for heavy finishes",
+        "D": "Heavy finishes require consideration in framing design"
+      }
+    },
+    {
+      "questionNumber": 120,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Constructs wall systems",
+      "subtask": "D-12.01 Installs engineered wall systems",
+      "question": "What final inspection should occur before accepting engineered panel installation?",
+      "options": {
+        "A": "No inspection needed; trust the installers",
+        "B": "Visual inspection only",
+        "C": "Verify plumb, connections, and conformance to plans",
+        "D": "Only check exterior appearance"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Quality control verification is essential for engineered systems",
+        "B": "Visual inspection is important but not sufficient alone",
+        "C": "Final inspection should verify that panels are plumb, level, properly connected per specifications, and installed according to approved plans",
+        "D": "Structural connections and alignment are more critical than appearance"
+      }
+    },
+    {
+      "questionNumber": 121,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is the minimum bearing length required for wood roof trusses on wood supports?",
+      "options": {
+        "A": "38 mm (1-1/2 in.)",
+        "B": "45 mm (1-3/4 in.)",
+        "C": "75 mm (3 in.)",
+        "D": "89 mm (3-1/2 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This bearing length is insufficient for proper truss support",
+        "B": "This is the minimum for I-joists but inadequate for trusses",
+        "C": "Roof trusses require a minimum bearing length of 75 mm (3 in.) on wood supports to ensure proper load distribution",
+        "D": "While this provides excellent bearing, it exceeds the minimum requirement"
+      }
+    },
+    {
+      "questionNumber": 122,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "When calculating rafter length using the unit rise and run method, what is the first step?",
+      "options": {
+        "A": "Calculate the total rise",
+        "B": "Determine the pitch of the roof",
+        "C": "Determine the total run",
+        "D": "Calculate the line length directly"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Total rise is calculated after determining the run",
+        "B": "Pitch is important but not the first calculation step",
+        "C": "The first step is to determine the total run (usually half the building span), then use the unit rise to calculate total rise and line length",
+        "D": "Line length cannot be calculated without knowing the run first"
+      }
+    },
+    {
+      "questionNumber": 123,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is the typical spacing for roof truss installation in residential construction?",
+      "options": {
+        "A": "300 mm (12 in.) o.c.",
+        "B": "400 mm (16 in.) o.c.",
+        "C": "600 mm (24 in.) o.c.",
+        "D": "Either B or C depending on design"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "This spacing is unnecessarily close and not economical",
+        "B": "Common spacing but not the only standard option",
+        "C": "Also a standard spacing for residential trusses",
+        "D": "Trusses are typically spaced at either 400 mm or 600 mm o.c., with the choice based on design loads and roof covering requirements"
+      }
+    },
+    {
+      "questionNumber": 124,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is a bird's mouth cut on a rafter?",
+      "options": {
+        "A": "The cut at the ridge of the roof",
+        "B": "A notch at the rafter tail for the fascia",
+        "C": "A seat cut where the rafter sits on the wall plate",
+        "D": "The plumb cut at the rafter peak"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "The ridge cut is a plumb cut, not a bird's mouth",
+        "B": "The tail cut is separate from the bird's mouth",
+        "C": "The bird's mouth is a notch combining a horizontal seat cut and vertical plumb cut that allows the rafter to sit securely on the wall top plate",
+        "D": "The peak cut is called a plumb or ridge cut, not a bird's mouth"
+      }
+    },
+    {
+      "questionNumber": 125,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "When should permanent bracing be installed on roof trusses?",
+      "options": {
+        "A": "After all trusses are set and sheathing is complete",
+        "B": "Progressively as trusses are installed",
+        "C": "Only if specified by the engineer",
+        "D": "Bracing is not required for trusses"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Waiting until all trusses are set is dangerous and violates safety protocols",
+        "B": "Temporary and permanent bracing must be installed progressively as trusses are set to prevent collapse during construction",
+        "C": "Permanent bracing is always required per truss design and building codes",
+        "D": "All trusses require proper bracing for stability and safety"
+      }
+    },
+    {
+      "questionNumber": 126,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is the maximum depth of a bird's mouth seat cut?",
+      "options": {
+        "A": "One-quarter of the rafter depth",
+        "B": "One-third of the rafter depth",
+        "C": "One-half of the rafter depth",
+        "D": "No limit as long as bearing is adequate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is more conservative than required",
+        "B": "The seat cut of a bird's mouth should not exceed one-third of the rafter depth to maintain adequate strength at the bearing point",
+        "C": "This would remove too much material and weaken the rafter",
+        "D": "There are specific limits to prevent structural failure"
+      }
+    },
+    {
+      "questionNumber": 127,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What type of bracing is required perpendicular to truss top chords?",
+      "options": {
+        "A": "Continuous lateral bracing at specified intervals",
+        "B": "No bracing is needed perpendicular to chords",
+        "C": "Only at truss ends",
+        "D": "Diagonal bracing only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Top chord lateral bracing must be installed continuously perpendicular to trusses at intervals specified in the truss design (typically every 1.2-2.4 m)",
+        "B": "Lateral bracing is essential to prevent buckling and ensure stability",
+        "C": "End bracing alone is insufficient; continuous bracing is required",
+        "D": "While diagonal bracing is important, lateral bracing is also required"
+      }
+    },
+    {
+      "questionNumber": 128,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "How is the unit rise of a roof expressed?",
+      "options": {
+        "A": "Rise in mm per 100 mm of run",
+        "B": "Rise in mm per 300 mm of run",
+        "C": "Rise in mm per 1000 mm (1 m) of run",
+        "D": "Total rise divided by total run"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This ratio is too small for practical use",
+        "B": "300 mm is not the standard unit measurement",
+        "C": "Unit rise is the vertical rise in millimeters for every 1000 mm (1 meter) of horizontal run, or in inches per foot of run",
+        "D": "This describes slope ratio, not unit rise"
+      }
+    },
+    {
+      "questionNumber": 129,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is the purpose of a truss erection plan?",
+      "options": {
+        "A": "To show only the truss spacing",
+        "B": "To detail installation sequence, bracing, and special requirements",
+        "C": "To calculate material quantities only",
+        "D": "To determine roof pitch"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Spacing is included but the plan contains much more information",
+        "B": "A truss erection plan provides critical information including installation sequence, bracing requirements, bearing locations, and special handling instructions",
+        "C": "Material quantities are separate from the erection plan",
+        "D": "Pitch is shown on truss drawings, not determined by the erection plan"
+      }
+    },
+    {
+      "questionNumber": 130,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is a common rafter?",
+      "options": {
+        "A": "A rafter that runs from plate to ridge at 90° to the ridge",
+        "B": "A rafter that runs at 45° to the ridge",
+        "C": "A short rafter between hip and ridge",
+        "D": "A rafter that frames into a valley"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "A common rafter runs perpendicular (90°) from the wall plate to the ridge board, representing the most basic rafter type",
+        "B": "This describes a hip or valley rafter angle",
+        "C": "This describes a hip jack rafter",
+        "D": "This describes a valley jack rafter"
+      }
+    },
+    {
+      "questionNumber": 131,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "How should trusses be stored on site before installation?",
+      "options": {
+        "A": "Laid flat on the ground",
+        "B": "Standing vertically",
+        "C": "On blocking, level, and protected from weather",
+        "D": "Leaning against walls or structures"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Ground contact can cause damage and moisture problems",
+        "B": "Vertical storage can cause distortion",
+        "C": "Trusses should be stored on level blocking to prevent warping, covered to protect from weather, and supported at multiple points",
+        "D": "Leaning trusses can cause permanent deformation"
+      }
+    },
+    {
+      "questionNumber": 132,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is the purpose of a collar tie in conventional roof framing?",
+      "options": {
+        "A": "To support the ridge board",
+        "B": "To resist outward thrust on exterior walls from rafters",
+        "C": "To provide nailing for ceiling finish",
+        "D": "To support roof sheathing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "The ridge board is supported by the rafters themselves",
+        "B": "Collar ties connect opposing rafters in the upper third of the roof to resist the outward thrust that rafters exert on walls",
+        "C": "Ceiling joists serve this purpose, not collar ties",
+        "D": "Sheathing is supported directly by rafters"
+      }
+    },
+    {
+      "questionNumber": 133,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is a girder truss?",
+      "options": {
+        "A": "A standard truss with extra bracing",
+        "B": "A heavily reinforced truss designed to carry other trusses",
+        "C": "A truss used only at building ends",
+        "D": "The first truss installed in a series"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Extra bracing alone doesn't define a girder truss",
+        "B": "A girder truss is specially designed and reinforced to carry the load of other trusses that frame into it, often at walls or building intersections",
+        "C": "End trusses have different requirements than girder trusses",
+        "D": "Installation sequence doesn't define truss type"
+      }
+    },
+    {
+      "questionNumber": 134,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "When cutting a rafter, which cut is made first?",
+      "options": {
+        "A": "The bird's mouth cut",
+        "B": "The tail cut",
+        "C": "The ridge cut (plumb cut)",
+        "D": "All cuts are made simultaneously"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "The bird's mouth is typically cut after the ridge cut",
+        "B": "The tail cut is usually the last cut made",
+        "C": "The ridge cut (plumb cut at the top) is typically made first as it establishes the rafter's length reference point",
+        "D": "Cuts must be made in a specific sequence for accuracy"
+      }
+    },
+    {
+      "questionNumber": 135,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What should be done if a truss arrives on site damaged?",
+      "options": {
+        "A": "Install it anyway; it will be covered",
+        "B": "Make field repairs with similar lumber",
+        "C": "Do not install; reject and request replacement",
+        "D": "Reinforce with plywood gussets"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Damaged trusses cannot safely carry designed loads",
+        "B": "Field repairs compromise the engineered design and void warranties",
+        "C": "Damaged trusses must be rejected and returned; only the truss manufacturer can authorize repairs using approved methods and materials",
+        "D": "Field modifications are not acceptable without manufacturer approval"
+      }
+    },
+    {
+      "questionNumber": 136,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is the minimum size for a ridge board used with 2x6 rafters?",
+      "options": {
+        "A": "38 mm x 89 mm (2x4)",
+        "B": "38 mm x 140 mm (2x6)",
+        "C": "38 mm x 184 mm (2x8)",
+        "D": "38 mm x 235 mm (2x10)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "A 2x4 ridge is too small for 2x6 rafters",
+        "B": "The ridge should be deeper than the rafters",
+        "C": "The ridge board should be at least one nominal size larger than the rafter depth, so 2x8 is minimum for 2x6 rafters",
+        "D": "While acceptable, this exceeds the minimum requirement"
+      }
+    },
+    {
+      "questionNumber": 137,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is the maximum allowable bow in a truss before installation?",
+      "options": {
+        "A": "No bow is acceptable",
+        "B": "6 mm per 3 m (1/4 in. per 10 ft.)",
+        "C": "13 mm per 3 m (1/2 in. per 10 ft.)",
+        "D": "As specified by manufacturer"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Some minimal bow is inevitable in wood products",
+        "B": "This is conservative but not the official standard",
+        "C": "This may be excessive depending on the truss design",
+        "D": "Truss tolerances including bow limits are specified by the manufacturer and must be checked against those specifications before installation"
+      }
+    },
+    {
+      "questionNumber": 138,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "How should ceiling joists be positioned relative to rafters?",
+      "options": {
+        "A": "Perpendicular to rafters",
+        "B": "Parallel to rafters",
+        "C": "Aligned with rafters on the same side of wall plate",
+        "D": "On opposite sides of rafters"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Perpendicular orientation doesn't provide proper load transfer",
+        "B": "Parallel placement doesn't resist rafter thrust effectively",
+        "C": "Ceiling joists should run parallel to rafters and be nailed to rafters on the same side to resist outward thrust at the plate",
+        "D": "Opposite placement doesn't create effective connection to resist thrust"
+      }
+    },
+    {
+      "questionNumber": 139,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is a hip truss system?",
+      "options": {
+        "A": "Standard trusses with hip rafters added",
+        "B": "A system using step-down trusses to create a hip roof",
+        "C": "Trusses installed at 45° angles",
+        "D": "Modified valley trusses"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This describes a hybrid approach, not a true hip truss system",
+        "B": "A hip truss system uses progressively shorter trusses (step-down trusses) to create the hip roof profile without traditional hip rafters",
+        "C": "Truss orientation doesn't define a hip system",
+        "D": "Valley and hip systems are different configurations"
+      }
+    },
+    {
+      "questionNumber": 140,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is the purpose of the rafter tail (overhang)?",
+      "options": {
+        "A": "To provide attachment for gutters and protect walls from weather",
+        "B": "To increase roof strength",
+        "C": "To support the ridge board",
+        "D": "To provide attic ventilation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Rafter tails create an overhang that provides weather protection for walls, attachment for soffit and fascia, and mounting for gutters",
+        "B": "Overhangs don't increase roof structural strength",
+        "C": "The ridge is supported by the rafter body, not the tail",
+        "D": "Ventilation is provided by soffit vents, not the overhang itself"
+      }
+    },
+    {
+      "questionNumber": 141,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "How should hurricane ties be installed on roof trusses?",
+      "options": {
+        "A": "On every third truss only",
+        "B": "On each truss connecting it to the wall plate",
+        "C": "Only on end trusses",
+        "D": "Hurricane ties are not needed for trusses"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Intermittent installation doesn't provide adequate uplift resistance",
+        "B": "Hurricane ties (or similar approved connectors) should be installed on every truss to resist uplift forces from wind",
+        "C": "End trusses alone don't protect the entire roof system",
+        "D": "Uplift connectors are required in most jurisdictions"
+      }
+    },
+    {
+      "questionNumber": 142,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is a valley rafter?",
+      "options": {
+        "A": "A common rafter in a valley area",
+        "B": "A rafter running from plate to ridge in an inside corner",
+        "C": "A short rafter between valley and ridge",
+        "D": "A rafter supporting ceiling joists"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Common rafters run perpendicular to the ridge, not in valleys",
+        "B": "A valley rafter runs diagonally from the plate to the ridge in an inside corner where two roof planes meet",
+        "C": "This describes a valley jack rafter, not a valley rafter",
+        "D": "This describes the function of some common rafters, not valley rafters"
+      }
+    },
+    {
+      "questionNumber": 143,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is critical about truss heel height?",
+      "options": {
+        "A": "It determines roof pitch only",
+        "B": "It affects attic ventilation and insulation space",
+        "C": "It has no functional importance",
+        "D": "It only affects appearance"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Heel height is independent of roof pitch",
+        "B": "Heel height (the vertical distance at the bearing point) must accommodate required insulation depth and ventilation clearance at the eaves",
+        "C": "Heel height is critical for energy code compliance",
+        "D": "While affecting appearance, its primary importance is functional"
+      }
+    },
+    {
+      "questionNumber": 144,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "When layout is done for rafter spacing, where should the first measurement start?",
+      "options": {
+        "A": "From the building center",
+        "B": "From the ridge board",
+        "C": "From the corner or reference point",
+        "D": "From any convenient location"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Starting from center would complicate wall coordination",
+        "B": "The ridge is located based on rafter layout, not vice versa",
+        "C": "Rafter layout starts from a building corner or reference point, measuring on-center spacing to maintain consistency with wall and floor framing",
+        "D": "Systematic layout from a reference point is essential for coordination"
+      }
+    },
+    {
+      "questionNumber": 145,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is web bracing in a truss system?",
+      "options": {
+        "A": "Horizontal bracing between truss top chords",
+        "B": "Continuous bracing attached to truss web members",
+        "C": "Bracing at truss bearing points only",
+        "D": "Diagonal bracing on top chords"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This describes top chord lateral bracing, not web bracing",
+        "B": "Web bracing consists of continuous members attached perpendicular to web members to prevent buckling and provide lateral stability",
+        "C": "Bearing bracing is separate from web bracing requirements",
+        "D": "This describes diagonal bracing, not web-specific bracing"
+      }
+    },
+    {
+      "questionNumber": 146,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is the recommended method for cutting multiple rafters to ensure uniformity?",
+      "options": {
+        "A": "Cut each rafter individually from measurements",
+        "B": "Use a pattern rafter to mark subsequent rafters",
+        "C": "Estimate cuts based on experience",
+        "D": "Cut all rafters different lengths for adjustment"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Individual measuring introduces cumulative errors",
+        "B": "After cutting and verifying a pattern rafter, use it as a template to mark all remaining rafters ensuring uniformity and accuracy",
+        "C": "Estimation leads to inconsistent results",
+        "D": "Uniform cuts are essential for proper roof alignment"
+      }
+    },
+    {
+      "questionNumber": 147,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "When can truss web members be cut or modified?",
+      "options": {
+        "A": "Anytime for utility penetrations",
+        "B": "Only with manufacturer's written approval",
+        "C": "If reinforced with plywood gussets",
+        "D": "Web members can never be cut"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unauthorized cutting compromises structural integrity",
+        "B": "Any modification to truss members requires written approval from the truss manufacturer or a qualified engineer, as trusses are engineered systems",
+        "C": "Field reinforcement doesn't adequately replace engineered design",
+        "D": "While rare, modifications may be approved in specific circumstances"
+      }
+    },
+    {
+      "questionNumber": 148,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is the purpose of purlins in roof framing?",
+      "options": {
+        "A": "To support the ridge board",
+        "B": "To provide intermediate support for rafters and reduce span",
+        "C": "To attach roofing material",
+        "D": "To create attic access"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ridge boards are supported by rafters, not purlins",
+        "B": "Purlins run perpendicular to rafters, providing intermediate support that reduces effective rafter span and allows use of smaller rafter sizes",
+        "C": "Sheathing is attached directly to rafters, not purlins",
+        "D": "Access provisions are separate from purlin function"
+      }
+    },
+    {
+      "questionNumber": 149,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is the correct procedure for lifting trusses to the roof?",
+      "options": {
+        "A": "Lift trusses one at a time as needed",
+        "B": "Lift all trusses at once for efficiency",
+        "C": "Lift in bundles, distribute across structure, then install",
+        "D": "Slide trusses up a ladder or ramp"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Single lifting is inefficient and increases crane time",
+        "B": "All trusses at once creates dangerous concentrated loads",
+        "C": "Lift trusses in manageable bundles, distribute them across the structure to balance loads, then install progressively with proper bracing",
+        "D": "Manual sliding risks damage and is unsafe for large trusses"
+      }
+    },
+    {
+      "questionNumber": 150,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "How should rafters be fastened at the ridge board?",
+      "options": {
+        "A": "Toenailed from each side into ridge",
+        "B": "Face-nailed through ridge into rafter ends",
+        "C": "Metal connectors only",
+        "D": "Adhesive and nails"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Rafters are typically toenailed into the ridge board from both sides, creating a secure connection that maintains alignment",
+        "B": "Face-nailing through the ridge is difficult and not standard practice",
+        "C": "While metal connectors can be used, toenailing is the standard method",
+        "D": "Adhesive is not typically used for ridge connections"
+      }
+    },
+    {
+      "questionNumber": 151,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is the purpose of diagonal bracing on roof trusses?",
+      "options": {
+        "A": "To support roofing material",
+        "B": "To provide overall lateral stability to the truss system",
+        "C": "To create attic access",
+        "D": "To support ceiling finishes"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sheathing supports roofing, not diagonal bracing",
+        "B": "Diagonal bracing ties trusses together and provides lateral stability to the entire roof system, preventing progressive collapse",
+        "C": "Access provisions are independent of bracing",
+        "D": "Ceiling finishes attach to bottom chords, not bracing"
+      }
+    },
+    {
+      "questionNumber": 152,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is a hip rafter?",
+      "options": {
+        "A": "A common rafter on a hip roof",
+        "B": "A diagonal rafter from plate to ridge on an outside corner",
+        "C": "A short rafter between hip and ridge",
+        "D": "A rafter supporting hip jack rafters only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Common rafters run perpendicular to ridge, not diagonally",
+        "B": "A hip rafter runs diagonally from the wall plate to the ridge on an outside corner, forming the hip of the roof",
+        "C": "This describes a hip jack rafter, not a hip rafter",
+        "D": "While hip rafters do support jacks, this doesn't define what a hip rafter is"
+      }
+    },
+    {
+      "questionNumber": 153,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "At what intervals should temporary bracing be installed during truss erection?",
+      "options": {
+        "A": "Every 10 trusses",
+        "B": "Every 5 trusses or as required by conditions",
+        "C": "Only at building ends",
+        "D": "After all trusses are placed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ten trusses without bracing creates dangerous instability",
+        "B": "Temporary bracing should be installed every 4-5 trusses or more frequently depending on wind conditions and truss size",
+        "C": "End bracing alone is insufficient during erection",
+        "D": "Bracing must be progressive to prevent collapse during installation"
+      }
+    },
+    {
+      "questionNumber": 154,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is the minimum slope typically required for roof rafters to ensure proper drainage?",
+      "options": {
+        "A": "1:12 (4.8°)",
+        "B": "2:12 (9.5°)",
+        "C": "3:12 (14°)",
+        "D": "4:12 (18.4°)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This slope is too shallow for most roofing materials",
+        "B": "While acceptable for some materials, this isn't the general minimum",
+        "C": "A 3:12 slope (3 units rise per 12 units run) is generally considered the minimum for conventional roofing materials to ensure proper drainage",
+        "D": "While providing excellent drainage, this exceeds the minimum requirement"
+      }
+    },
+    {
+      "questionNumber": 155,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What should be verified before beginning truss installation?",
+      "options": {
+        "A": "Only that trusses have arrived",
+        "B": "Wall alignment, height, and bearing surface preparation",
+        "C": "Weather forecast only",
+        "D": "Availability of sheathing material"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Simply having trusses on site doesn't ensure readiness for installation",
+        "B": "Walls must be plumb, at correct height, properly braced, and bearing surfaces must be level before truss installation begins",
+        "C": "While important, weather is just one of many pre-installation checks",
+        "D": "Sheathing comes after truss installation and bracing"
+      }
+    },
+    {
+      "questionNumber": 156,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "How should rafter crowns be oriented during installation?",
+      "options": {
+        "A": "Crown down",
+        "B": "Crown up",
+        "C": "Mixed orientation is acceptable",
+        "D": "Crown direction doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Crown down would worsen deflection under load",
+        "B": "Rafters should be installed with any crown facing upward so that dead and live loads tend to straighten rather than increase the bow",
+        "C": "Consistent orientation is essential for roof plane uniformity",
+        "D": "Crown orientation significantly affects roof performance and appearance"
+      }
+    },
+    {
+      "questionNumber": 157,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What is a piggyback truss system?",
+      "options": {
+        "A": "Trusses installed on top of each other for height",
+        "B": "A two-piece truss system with separate top and bottom sections",
+        "C": "Trusses that carry other trusses",
+        "D": "Doubled trusses for extra strength"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This describes stacked trusses, not a piggyback system",
+        "B": "Piggyback trusses consist of two separate truss sections stacked vertically, used when shipping height restrictions prevent delivery of full-height trusses",
+        "C": "This describes girder trusses, not piggyback systems",
+        "D": "Doubling provides strength but doesn't define piggyback configuration"
+      }
+    },
+    {
+      "questionNumber": 158,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is the purpose of a strongback in ceiling framing?",
+      "options": {
+        "A": "To support the ridge board",
+        "B": "To reduce ceiling joist deflection and maintain alignment",
+        "C": "To attach ceiling finishes",
+        "D": "To provide attic access"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ridge boards are supported by rafters, not ceiling strongbacks",
+        "B": "Strongbacks are braces installed perpendicular to ceiling joists to reduce deflection, maintain alignment, and prevent sagging",
+        "C": "Finishes attach directly to joists, not strongbacks",
+        "D": "Access provisions are independent of strongback function"
+      }
+    },
+    {
+      "questionNumber": 159,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.01 Installs engineered trusses",
+      "question": "What type of fasteners should be used for permanent truss bracing?",
+      "options": {
+        "A": "Any available nails",
+        "B": "Nails or screws as specified in bracing plan",
+        "C": "Staples for quick installation",
+        "D": "Wire ties only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fastener type and size must meet engineering requirements",
+        "B": "Permanent bracing must use fasteners specified in the truss bracing plan, typically 8d or 10d nails or equivalent screws",
+        "C": "Staples don't provide adequate strength for structural bracing",
+        "D": "Wire ties are insufficient for permanent structural bracing"
+      }
+    },
+    {
+      "questionNumber": 160,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Constructs roof and ceiling systems",
+      "subtask": "D-13.02 Constructs roof & ceiling framing",
+      "question": "What is the maximum allowable overhang for a rafter beyond the wall?",
+      "options": {
+        "A": "300 mm (12 in.) in all cases",
+        "B": "One-quarter of the rafter span",
+        "C": "600 mm (24 in.) maximum typically",
+        "D": "As determined by span tables and loads"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Fixed dimensions don't account for varying rafter sizes and loads",
+        "B": "This ratio doesn't apply to rafter overhangs",
+        "C": "While common, this isn't a universal maximum",
+        "D": "Overhang limits depend on rafter size, spacing, snow/wind loads, and are determined by engineering calculations or span tables"
+      }
+    }
+  ]
+}

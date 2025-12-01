@@ -1,0 +1,3283 @@
+{
+  "block": "C",
+  "title": "Hydraulic, Hydrostatic and Pneumatic Systems",
+  "totalQuestions": 156,
+  "questions": [
+    {
+      "questionNumber": 193,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is the most likely cause of slow hydraulic cylinder movement under full load?",
+      "options": {
+        "A": "Air trapped in the hydraulic lines.",
+        "B": "Worn pump or low system pressure.",
+        "C": "Excessive oil viscosity.",
+        "D": "Damaged return line filter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Air causes erratic, not slow, movement.",
+        "B": "Worn pumps reduce flow/pressure, slowing movement under load.",
+        "C": "High viscosity affects cold starts, not operating speed under load.",
+        "D": "Return filter clogs affect return flow, not power stroke speed."
+      }
+    },
+    {
+      "questionNumber": 194,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes hydraulic oil to appear milky?",
+      "options": {
+        "A": "Aeration.",
+        "B": "Overheating.",
+        "C": "Fuel contamination.",
+        "D": "Water contamination."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Aeration causes foamy oil, not milky appearance.",
+        "B": "Overheating darkens oil but doesn't make it milky.",
+        "C": "Fuel dilutes oil but doesn't create milky appearance.",
+        "D": "Water emulsified in oil creates a milky appearance."
+      }
+    },
+    {
+      "questionNumber": 195,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is the first check that should be made if a hydraulic system is malfunctioning?",
+      "options": {
+        "A": "Cycle time.",
+        "B": "Pump flow.",
+        "C": "Fluid level.",
+        "D": "System pressure."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Cycle time testing comes after basic checks.",
+        "B": "Flow testing requires equipment; check simple items first.",
+        "C": "Low fluid level is the most common and easily checked problem.",
+        "D": "Pressure testing comes after verifying adequate fluid level."
+      }
+    },
+    {
+      "questionNumber": 196,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is the purpose of an accumulator in a hydraulic system?",
+      "options": {
+        "A": "To store excess fluid.",
+        "B": "To pick up moisture in the system.",
+        "C": "To filter dirt from the system.",
+        "D": "To store fluid under pressure."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Accumulators store pressurized fluid, not just excess volume.",
+        "B": "Water separators remove moisture, not accumulators.",
+        "C": "Filters remove dirt, not accumulators.",
+        "D": "Accumulators store hydraulic energy for sudden demand or pressure maintenance."
+      }
+    },
+    {
+      "questionNumber": 197,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "Aside from flow rate and system pressure test, what other basic test is done on a hydraulic system?",
+      "options": {
+        "A": "Reservoir pressure.",
+        "B": "Oil viscosity.",
+        "C": "Oil temperature.",
+        "D": "Oil filter differential pressure."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Reservoirs are typically at atmospheric pressure.",
+        "B": "Viscosity testing is done in labs, not routine field testing.",
+        "C": "Temperature affects viscosity and indicates system health.",
+        "D": "Filter differential pressure is monitored but not a basic trio test."
+      }
+    },
+    {
+      "questionNumber": 198,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes cavitation in a hydraulic pump?",
+      "options": {
+        "A": "Excessive system pressure.",
+        "B": "Restricted pump inlet or low fluid level.",
+        "C": "High oil temperature.",
+        "D": "Overloaded actuators."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "High pressure at outlet doesn't cause cavitation.",
+        "B": "Insufficient inlet flow causes vapor bubbles to form and collapse, damaging the pump.",
+        "C": "While temperature affects viscosity, restriction is the primary cavitation cause.",
+        "D": "Overloaded actuators don't directly cause pump cavitation."
+      }
+    },
+    {
+      "questionNumber": 199,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What indicates a worn hydraulic pump?",
+      "options": {
+        "A": "Increased flow output.",
+        "B": "Reduced flow output and increased noise.",
+        "C": "Lower oil temperature.",
+        "D": "Improved system response."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wear reduces, not increases, pump output.",
+        "B": "Internal wear causes slippage reducing flow and creates noise.",
+        "C": "Worn pumps often run hotter due to inefficiency.",
+        "D": "Wear degrades performance, not improves it."
+      }
+    },
+    {
+      "questionNumber": 200,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "How is hydraulic pump flow rate measured?",
+      "options": {
+        "A": "Using a flow meter installed in the pump outlet line.",
+        "B": "By timing cylinder extension.",
+        "C": "Using a pressure gauge only.",
+        "D": "Visual inspection of oil movement."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flow meters provide accurate measurement of pump output volume.",
+        "B": "Cylinder timing indicates system performance but not exact pump flow.",
+        "C": "Pressure gauges measure force, not flow rate.",
+        "D": "Visual inspection cannot accurately measure flow rate."
+      }
+    },
+    {
+      "questionNumber": 201,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes a hydraulic cylinder to drift down when holding a load?",
+      "options": {
+        "A": "Excessive pump flow.",
+        "B": "Internal cylinder seal leakage or control valve leakage.",
+        "C": "High oil temperature.",
+        "D": "Clean hydraulic filter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pump flow doesn't cause drift when valve is closed.",
+        "B": "Internal leakage allows fluid to bypass, causing drift under load.",
+        "C": "Temperature affects viscosity but isn't the primary drift cause.",
+        "D": "Clean filters don't cause cylinder drift."
+      }
+    },
+    {
+      "questionNumber": 202,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is the function of a hydraulic relief valve?",
+      "options": {
+        "A": "To increase system pressure.",
+        "B": "To limit maximum system pressure and prevent damage.",
+        "C": "To filter hydraulic fluid.",
+        "D": "To cool the hydraulic oil."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Relief valves limit, not increase, pressure.",
+        "B": "Relief valves open at preset pressure, protecting components from over-pressure.",
+        "C": "Filters clean fluid, not relief valves.",
+        "D": "Coolers reduce temperature, not relief valves."
+      }
+    },
+    {
+      "questionNumber": 203,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes excessive heat in a hydraulic system?",
+      "options": {
+        "A": "Proper system operation.",
+        "B": "Internal leakage, overloading, or inadequate cooling.",
+        "C": "Low ambient temperature.",
+        "D": "New hydraulic fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper operation maintains normal temperatures.",
+        "B": "Inefficiency from leakage or overload converts energy to heat.",
+        "C": "Low ambient temperatures help cooling, not cause heating.",
+        "D": "New fluid doesn't generate excessive heat."
+      }
+    },
+    {
+      "questionNumber": 204,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "How is air removed from a hydraulic system?",
+      "options": {
+        "A": "By running the system at maximum pressure continuously.",
+        "B": "By cycling actuators slowly with bleeder valves open.",
+        "C": "Air removal isn't necessary.",
+        "D": "By adding more fluid only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "High pressure doesn't effectively purge air.",
+        "B": "Slow cycling with open bleeders allows air to escape to reservoir.",
+        "C": "Air causes spongy operation and must be removed.",
+        "D": "Adding fluid alone doesn't purge trapped air."
+      }
+    },
+    {
+      "questionNumber": 205,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What indicates a contaminated hydraulic filter?",
+      "options": {
+        "A": "Clean oil appearance.",
+        "B": "High differential pressure across the filter or bypass indicator activated.",
+        "C": "Normal system operation.",
+        "D": "Low oil temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil appearance doesn't indicate filter condition.",
+        "B": "Clogged filters create pressure drop and trigger bypass indicators.",
+        "C": "Contaminated filters can reduce performance.",
+        "D": "Temperature doesn't directly indicate filter condition."
+      }
+    },
+    {
+      "questionNumber": 206,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes erratic hydraulic cylinder operation?",
+      "options": {
+        "A": "Air in the system or contaminated fluid.",
+        "B": "Proper fluid level.",
+        "C": "New hydraulic hoses.",
+        "D": "Clean reservoir."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Air makes system compressible causing jerky movement; contamination affects valve operation.",
+        "B": "Proper fluid level supports smooth operation.",
+        "C": "New hoses improve system condition.",
+        "D": "Clean reservoirs don't cause erratic operation."
+      }
+    },
+    {
+      "questionNumber": 207,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is the purpose of a hydraulic system pressure gauge?",
+      "options": {
+        "A": "To measure fluid temperature.",
+        "B": "To indicate system operating pressure for diagnostics and monitoring.",
+        "C": "To measure flow rate.",
+        "D": "To filter the oil."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Thermometers measure temperature, not pressure gauges.",
+        "B": "Pressure gauges display system pressure for troubleshooting and verification.",
+        "C": "Flow meters measure flow rate, not pressure gauges.",
+        "D": "Filters clean oil, not gauges."
+      }
+    },
+    {
+      "questionNumber": 208,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What component controls the direction of hydraulic fluid flow?",
+      "options": {
+        "A": "Relief valve.",
+        "B": "Directional control valve.",
+        "C": "Filter.",
+        "D": "Reservoir."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Relief valves control pressure, not direction.",
+        "B": "Directional control valves route fluid to extend or retract actuators.",
+        "C": "Filters clean fluid, not direct flow.",
+        "D": "Reservoirs store fluid, not control direction."
+      }
+    },
+    {
+      "questionNumber": 209,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes a hydraulic hose to fail prematurely?",
+      "options": {
+        "A": "Proper installation and routing.",
+        "B": "Abrasion, heat exposure, or excessive pressure spikes.",
+        "C": "Using correct hose specifications.",
+        "D": "Regular inspection."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper installation extends hose life.",
+        "B": "These conditions damage hose structure causing failure.",
+        "C": "Correct specifications ensure proper service life.",
+        "D": "Inspection identifies problems, doesn't cause failure."
+      }
+    },
+    {
+      "questionNumber": 210,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "How is hydraulic system pressure tested?",
+      "options": {
+        "A": "By guessing based on sound.",
+        "B": "By installing a pressure gauge in the system and operating under load.",
+        "C": "Visual inspection only.",
+        "D": "Pressure testing isn't possible."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sound doesn't provide accurate pressure measurement.",
+        "B": "Pressure gauges at test ports provide accurate readings during operation.",
+        "C": "Pressure cannot be determined visually.",
+        "D": "Pressure testing is standard hydraulic diagnostic procedure."
+      }
+    },
+    {
+      "questionNumber": 211,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is indicated by foaming hydraulic oil in the reservoir?",
+      "options": {
+        "A": "Perfect system condition.",
+        "B": "Air entrainment in the system.",
+        "C": "Proper oil level.",
+        "D": "Clean filtration."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Foaming indicates a problem.",
+        "B": "Air mixing with oil creates foam, indicating leaks or low fluid level.",
+        "C": "Low fluid level often causes foaming.",
+        "D": "Filtration doesn't prevent air entrainment foaming."
+      }
+    },
+    {
+      "questionNumber": 212,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes a hydraulic motor to run slowly?",
+      "options": {
+        "A": "Excessive flow to the motor.",
+        "B": "Low system pressure or internal motor leakage.",
+        "C": "Clean hydraulic fluid.",
+        "D": "Proper motor installation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excessive flow would increase speed, not reduce it.",
+        "B": "Insufficient pressure or internal bypass reduces motor speed.",
+        "C": "Clean fluid supports normal operation.",
+        "D": "Proper installation ensures design performance."
+      }
+    },
+    {
+      "questionNumber": 213,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is the function of a flow control valve?",
+      "options": {
+        "A": "To regulate the speed of hydraulic actuators.",
+        "B": "To increase system pressure.",
+        "C": "To filter hydraulic oil.",
+        "D": "To store hydraulic fluid."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flow control valves restrict flow to control actuator speed.",
+        "B": "Relief valves control maximum pressure, not flow valves.",
+        "C": "Filters clean fluid, not flow valves.",
+        "D": "Reservoirs store fluid, not flow valves."
+      }
+    },
+    {
+      "questionNumber": 214,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What component prevents a hydraulic cylinder from extending when the pump is off?",
+      "options": {
+        "A": "Relief valve.",
+        "B": "Counterbalance valve or check valve.",
+        "C": "Flow control valve.",
+        "D": "Reservoir cap."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Relief valves limit pressure during operation.",
+        "B": "Counterbalance or check valves hold loads when system is depressurized.",
+        "C": "Flow valves control speed, not prevent movement.",
+        "D": "Reservoir caps maintain atmospheric pressure, not prevent cylinder movement."
+      }
+    },
+    {
+      "questionNumber": 215,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What indicates excessive pump wear during pressure testing?",
+      "options": {
+        "A": "Ability to reach full rated pressure easily.",
+        "B": "Inability to build or maintain full system pressure.",
+        "C": "Quiet pump operation.",
+        "D": "Cool pump housing temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Reaching full pressure indicates good pump condition.",
+        "B": "Internal wear allows fluid to bypass, preventing pressure buildup.",
+        "C": "Quiet operation suggests good condition.",
+        "D": "Cool temperature indicates normal operation."
+      }
+    },
+    {
+      "questionNumber": 216,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "How should hydraulic system contamination be diagnosed?",
+      "options": {
+        "A": "Visual oil inspection and fluid sampling for analysis.",
+        "B": "Guess based on machine age.",
+        "C": "Contamination cannot be diagnosed.",
+        "D": "Wait for complete system failure."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Visual checks and lab analysis identify contamination type and severity.",
+        "B": "Age doesn't indicate current contamination level.",
+        "C": "Several methods diagnose contamination.",
+        "D": "Early detection prevents expensive failures."
+      }
+    },
+    {
+      "questionNumber": 217,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes hydraulic system pressure to fluctuate?",
+      "options": {
+        "A": "Stable power source and good components.",
+        "B": "Worn pump, sticking relief valve, or air in system.",
+        "C": "Proper fluid level.",
+        "D": "New hydraulic hoses."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Good components maintain stable pressure.",
+        "B": "These conditions prevent consistent pressure maintenance.",
+        "C": "Proper level supports stable operation.",
+        "D": "New hoses improve system stability."
+      }
+    },
+    {
+      "questionNumber": 218,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is the purpose of a hydraulic oil cooler?",
+      "options": {
+        "A": "To heat the hydraulic oil.",
+        "B": "To maintain oil temperature within operating range.",
+        "C": "To filter contaminants.",
+        "D": "To increase system pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Coolers reduce temperature, not increase it.",
+        "B": "Coolers prevent overheating that degrades oil and components.",
+        "C": "Filters remove contaminants, not coolers.",
+        "D": "Coolers don't affect system pressure."
+      }
+    },
+    {
+      "questionNumber": 219,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What component maintains constant pressure on a hydraulic clutch or brake?",
+      "options": {
+        "A": "Flow control valve.",
+        "B": "Pressure reducing valve or accumulator.",
+        "C": "Directional control valve.",
+        "D": "Suction strainer."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flow valves control speed, not maintain specific pressure.",
+        "B": "Reducing valves or accumulators maintain required constant pressure.",
+        "C": "Directional valves route fluid, not maintain specific pressure.",
+        "D": "Strainers filter inlet fluid, not control pressure."
+      }
+    },
+    {
+      "questionNumber": 220,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What indicates a restricted hydraulic filter?",
+      "options": {
+        "A": "Low differential pressure reading.",
+        "B": "High differential pressure across filter or bypass indicator showing.",
+        "C": "Improved system performance.",
+        "D": "Cooler oil temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Low differential indicates clean filter.",
+        "B": "Restricted flow through clogged filter creates high pressure drop.",
+        "C": "Restriction reduces system performance.",
+        "D": "Temperature isn't a primary filter restriction indicator."
+      }
+    },
+    {
+      "questionNumber": 221,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What safety precaution must be taken before disconnecting hydraulic lines?",
+      "options": {
+        "A": "Increase system pressure to maximum.",
+        "B": "Relieve system pressure and secure equipment.",
+        "C": "No precautions necessary.",
+        "D": "Start the engine."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Maximum pressure makes disconnection extremely dangerous.",
+        "B": "Relieving pressure prevents oil spray and injection injuries.",
+        "C": "Pressurized hydraulic systems are very dangerous.",
+        "D": "Engine should be off before servicing hydraulics."
+      }
+    },
+    {
+      "questionNumber": 222,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes a hydraulic cylinder to move without control valve activation?",
+      "options": {
+        "A": "Proper system operation.",
+        "B": "Control valve stuck in open position or external force overcoming counterbalance valve.",
+        "C": "Clean hydraulic fluid.",
+        "D": "New cylinder seals."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Uncontrolled movement indicates a problem.",
+        "B": "Stuck valves or insufficient counterbalance allow unintended movement.",
+        "C": "Fluid cleanliness doesn't cause unintended movement.",
+        "D": "New seals improve control, not cause uncommanded movement."
+      }
+    },
+    {
+      "questionNumber": 223,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What diagnostic test identifies internal cylinder seal leakage?",
+      "options": {
+        "A": "External visual inspection only.",
+        "B": "Pressure hold test or measuring drift rate under load.",
+        "C": "Checking fluid level.",
+        "D": "No test available."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Internal leakage isn't visible externally.",
+        "B": "Holding pressure and monitoring drift reveals internal seal condition.",
+        "C": "Fluid level doesn't indicate internal seal condition.",
+        "D": "Specific tests diagnose internal leakage."
+      }
+    },
+    {
+      "questionNumber": 224,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is the function of a hydraulic reservoir?",
+      "options": {
+        "A": "To increase system pressure.",
+        "B": "To store fluid, allow air separation, and dissipate heat.",
+        "C": "To control actuator speed.",
+        "D": "To filter all contaminants."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pumps generate pressure, not reservoirs.",
+        "B": "Reservoirs serve multiple functions supporting system operation.",
+        "C": "Flow valves control speed, not reservoirs.",
+        "D": "Filters remove contaminants; reservoirs allow settling but aren't primary filtration."
+      }
+    },
+    {
+      "questionNumber": 225,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes noise from a hydraulic pump at startup?",
+      "options": {
+        "A": "Proper lubrication.",
+        "B": "Air in the system or cavitation from restricted inlet.",
+        "C": "New pump installation.",
+        "D": "Correct fluid level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper lubrication reduces noise.",
+        "B": "Air or cavitation creates characteristic pump whine or rattling.",
+        "C": "New pumps should run quietly if properly installed.",
+        "D": "Correct level prevents cavitation noise."
+      }
+    },
+    {
+      "questionNumber": 226,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "How is a malfunctioning directional control valve diagnosed?",
+      "options": {
+        "A": "Replace all valves without testing.",
+        "B": "Test valve function and check for internal leakage or sticking.",
+        "C": "Visual inspection from across the room.",
+        "D": "Valves cannot be diagnosed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Diagnosis before replacement saves time and money.",
+        "B": "Functional testing and leakage checks identify valve problems.",
+        "C": "Close inspection and testing are required.",
+        "D": "Systematic testing diagnoses valve issues."
+      }
+    },
+    {
+      "questionNumber": 227,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What indicates a failing hydraulic accumulator?",
+      "options": {
+        "A": "Proper pressure maintenance.",
+        "B": "Loss of pre-charge pressure or slow response to demand.",
+        "C": "Smooth system operation.",
+        "D": "Correct fluid temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper maintenance indicates good condition.",
+        "B": "Accumulators losing pre-charge cannot store energy effectively.",
+        "C": "Smooth operation suggests proper accumulator function.",
+        "D": "Temperature doesn't directly indicate accumulator condition."
+      }
+    },
+    {
+      "questionNumber": 228,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is tested when performing hydraulic system diagnostics?",
+      "options": {
+        "A": "Only oil color.",
+        "B": "Pressure, flow, temperature, and contamination level.",
+        "C": "Just the age of components.",
+        "D": "Nothing can be tested."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color alone doesn't provide complete diagnostic information.",
+        "B": "Comprehensive testing covers all key system parameters.",
+        "C": "Age doesn't indicate current operating condition.",
+        "D": "Multiple diagnostic tests are available."
+      }
+    },
+    {
+      "questionNumber": 229,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes external hydraulic cylinder leakage?",
+      "options": {
+        "A": "New seals installation.",
+        "B": "Damaged rod seals, worn rod, or scored cylinder bore.",
+        "C": "Proper maintenance.",
+        "D": "Clean hydraulic fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New seals should prevent leakage.",
+        "B": "Damaged seals or surface damage allow fluid to escape.",
+        "C": "Proper maintenance prevents leakage.",
+        "D": "Fluid cleanliness alone doesn't cause external leaks."
+      }
+    },
+    {
+      "questionNumber": 230,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What diagnostic information does hydraulic oil temperature provide?",
+      "options": {
+        "A": "Oil color only.",
+        "B": "System efficiency, cooling effectiveness, and component wear indications.",
+        "C": "Nothing useful.",
+        "D": "Only the weather outside."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Temperature provides more information than just color.",
+        "B": "Abnormal temperatures indicate inefficiency, cooling problems, or excessive friction.",
+        "C": "Temperature is a key diagnostic parameter.",
+        "D": "System temperature relates to internal conditions, not just ambient."
+      }
+    },
+    {
+      "questionNumber": 231,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What component protects the hydraulic system from pressure spikes?",
+      "options": {
+        "A": "Flow control valve.",
+        "B": "Shock suppression valve or accumulator.",
+        "C": "Reservoir cap.",
+        "D": "Suction strainer."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flow valves control speed, not pressure spikes.",
+        "B": "Shock valves and accumulators absorb sudden pressure increases.",
+        "C": "Reservoir caps maintain atmospheric pressure.",
+        "D": "Strainers filter inlet, not suppress spikes."
+      }
+    },
+    {
+      "questionNumber": 232,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "How is hydraulic pump efficiency calculated?",
+      "options": {
+        "A": "By measuring color of oil.",
+        "B": "By comparing actual output flow to theoretical flow at given pressure.",
+        "C": "Efficiency cannot be measured.",
+        "D": "By age of pump only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil color doesn't indicate pump efficiency.",
+        "B": "Efficiency is actual output divided by theoretical output as a percentage.",
+        "C": "Efficiency testing is standard procedure.",
+        "D": "Age doesn't directly indicate current efficiency."
+      }
+    },
+    {
+      "questionNumber": 233,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What indicates contamination in hydraulic oil analysis?",
+      "options": {
+        "A": "Clear, clean appearance.",
+        "B": "Presence of metal particles, water, or excessive particle count.",
+        "C": "Proper viscosity.",
+        "D": "Correct oil level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Appearance can be deceiving; lab analysis is needed.",
+        "B": "Lab analysis quantifies contamination types and levels.",
+        "C": "Viscosity indicates oil grade, not contamination.",
+        "D": "Level doesn't indicate contamination."
+      }
+    },
+    {
+      "questionNumber": 234,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes a hydraulic system to operate sluggishly in cold weather?",
+      "options": {
+        "A": "Hot weather conditions.",
+        "B": "Increased oil viscosity at low temperatures.",
+        "C": "Too much system pressure.",
+        "D": "Clean filters."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hot weather reduces viscosity, opposite of the question.",
+        "B": "Cold oil thickens, increasing resistance to flow and slowing operation.",
+        "C": "Pressure doesn't cause sluggish cold operation.",
+        "D": "Clean filters improve flow, not reduce it."
+      }
+    },
+    {
+      "questionNumber": 235,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is the purpose of a pressure compensated hydraulic pump?",
+      "options": {
+        "A": "To maintain constant flow regardless of pressure.",
+        "B": "To automatically adjust output to maintain set pressure.",
+        "C": "To filter hydraulic fluid.",
+        "D": "To cool the system."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pressure compensation varies flow based on pressure demand.",
+        "B": "Compensated pumps reduce output as pressure reaches setpoint, saving energy.",
+        "C": "Filters clean fluid, not pumps.",
+        "D": "Coolers manage temperature, not pumps."
+      }
+    },
+    {
+      "questionNumber": 236,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "How are hydraulic cylinder cushions diagnosed?",
+      "options": {
+        "A": "Visual inspection of paint.",
+        "B": "Observing deceleration at end of stroke and checking for hard impacts.",
+        "C": "Cushions cannot be diagnosed.",
+        "D": "By fluid level only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint doesn't indicate cushion function.",
+        "B": "Cushions should slow movement at stroke end; hard impacts indicate failure.",
+        "C": "Functional testing diagnoses cushions.",
+        "D": "Fluid level doesn't indicate cushion condition."
+      }
+    },
+    {
+      "questionNumber": 237,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes rapid hydraulic fluid degradation?",
+      "options": {
+        "A": "Proper operating temperature.",
+        "B": "Excessive heat, contamination, or oxidation.",
+        "C": "Regular fluid changes.",
+        "D": "Clean system components."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper temperature extends fluid life.",
+        "B": "Heat, dirt, and oxidation break down fluid properties.",
+        "C": "Regular changes prevent degradation.",
+        "D": "Clean components extend fluid life."
+      }
+    },
+    {
+      "questionNumber": 238,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What indicates a need for hydraulic system flushing?",
+      "options": {
+        "A": "Brand new system installation.",
+        "B": "Severe contamination, after component failure, or before refilling.",
+        "C": "Daily as routine maintenance.",
+        "D": "Never necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New systems are pre-cleaned during manufacture.",
+        "B": "Flushing removes debris that would damage new components.",
+        "C": "Flushing is for specific conditions, not routine daily service.",
+        "D": "Flushing is necessary after contamination events."
+      }
+    },
+    {
+      "questionNumber": 239,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What component prevents hydraulic cylinders from free-falling under load?",
+      "options": {
+        "A": "Relief valve.",
+        "B": "Counterbalance valve or load-check valve.",
+        "C": "Flow control only.",
+        "D": "Reservoir."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Relief valves limit maximum pressure during operation.",
+        "B": "Counterbalance valves hold loads and control lowering speed.",
+        "C": "Flow control alone cannot hold loads safely.",
+        "D": "Reservoirs store fluid, not control loads."
+      }
+    },
+    {
+      "questionNumber": 240,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What diagnostic method identifies worn hydraulic pump components?",
+      "options": {
+        "A": "Color inspection only.",
+        "B": "Flow and pressure testing under load conditions.",
+        "C": "Smell test.",
+        "D": "No diagnostic method exists."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color doesn't indicate pump wear.",
+        "B": "Worn pumps cannot maintain flow and pressure under load.",
+        "C": "Smell doesn't diagnose mechanical wear.",
+        "D": "Specific tests identify pump wear."
+      }
+    },
+    {
+      "questionNumber": 241,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What causes hydraulic control valves to stick?",
+      "options": {
+        "A": "Proper lubrication.",
+        "B": "Contamination, varnish buildup, or corrosion.",
+        "C": "Clean hydraulic fluid.",
+        "D": "Regular maintenance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper lubrication prevents sticking.",
+        "B": "Particles, deposits, and corrosion prevent smooth valve movement.",
+        "C": "Clean fluid prevents sticking.",
+        "D": "Maintenance prevents valve problems."
+      }
+    },
+    {
+      "questionNumber": 242,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "How is hydraulic cylinder side load identified?",
+      "options": {
+        "A": "By examining cylinder mounting for wear, misalignment, or bent rod.",
+        "B": "Side loads cannot be identified.",
+        "C": "By fluid level only.",
+        "D": "By oil color."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Side loading causes uneven wear, damaged mounts, and bent rods.",
+        "B": "Physical inspection reveals side load damage.",
+        "C": "Fluid level doesn't indicate side loading.",
+        "D": "Oil color doesn't show side load damage."
+      }
+    },
+    {
+      "questionNumber": 243,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What indicates a relief valve is set too low?",
+      "options": {
+        "A": "System operates normally under all loads.",
+        "B": "System pressure limits prevent full force under heavy loads.",
+        "C": "Excessive system pressure.",
+        "D": "Cold oil temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Low setting causes premature pressure limiting.",
+        "B": "Relief opens prematurely, preventing full force application.",
+        "C": "Low setting prevents excessive pressure.",
+        "D": "Temperature isn't affected by relief valve setting."
+      }
+    },
+    {
+      "questionNumber": 244,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.01 Diagnoses hydraulic systems",
+      "question": "What is the purpose of case drain lines on hydraulic motors and pumps?",
+      "options": {
+        "A": "To supply high-pressure fluid.",
+        "B": "To return internal leakage to reservoir at low pressure.",
+        "C": "To filter inlet fluid.",
+        "D": "To measure system pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Case drains handle low-pressure return, not supply.",
+        "B": "Case drains prevent pressure buildup from internal leakage.",
+        "C": "Filters clean fluid, not case drains.",
+        "D": "Gauges measure pressure, not drain lines."
+      }
+    },
+    {
+      "questionNumber": 245,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What is the main difference between hydraulic and hydrostatic systems?",
+      "options": {
+        "A": "No difference exists.",
+        "B": "Hydrostatic systems use closed-loop circuits for continuous power transmission.",
+        "C": "Hydraulic systems cannot transmit power.",
+        "D": "Hydrostatic systems use air instead of fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Significant operational differences exist.",
+        "B": "Hydrostatic drives use variable pumps and motors in closed circuits for infinitely variable speed control.",
+        "C": "Both systems transmit power through fluid.",
+        "D": "Hydrostatic systems use hydraulic fluid, not air."
+      }
+    },
+    {
+      "questionNumber": 246,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What controls speed and direction in a hydrostatic drive system?",
+      "options": {
+        "A": "Engine throttle only.",
+        "B": "Variable displacement pump swashplate angle or motor displacement.",
+        "C": "Manual transmission.",
+        "D": "Battery voltage."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Engine speed affects power, but pump displacement controls drive speed.",
+        "B": "Changing pump angle or motor displacement varies output speed and direction.",
+        "C": "Hydrostatic drives replace mechanical transmissions.",
+        "D": "Voltage doesn't control hydrostatic drive speed."
+      }
+    },
+    {
+      "questionNumber": 247,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What indicates charge pump failure in a hydrostatic transmission?",
+      "options": {
+        "A": "Improved system performance.",
+        "B": "Loss of drive, cavitation noise, or overheating.",
+        "C": "Excessive drive force.",
+        "D": "Lower oil temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Charge pump failure degrades performance.",
+        "B": "Charge pumps maintain loop pressure; failure causes cavitation and loss of power.",
+        "C": "Failure reduces, not increases, drive force.",
+        "D": "Failure typically increases temperature due to inefficiency."
+      }
+    },
+    {
+      "questionNumber": 248,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "How is hydrostatic transmission loop pressure tested?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Install pressure gauges on loop high and low sides during operation.",
+        "C": "Loop pressure cannot be tested.",
+        "D": "By checking oil color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pressure requires gauge measurement.",
+        "B": "Monitoring high and low side pressures diagnoses system condition.",
+        "C": "Loop pressure testing is standard diagnostic procedure.",
+        "D": "Color doesn't indicate pressure."
+      }
+    },
+    {
+      "questionNumber": 249,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What causes a hydrostatic drive to lose power on hills?",
+      "options": {
+        "A": "Perfect system operation.",
+        "B": "Worn pump or motor, low charge pressure, or relief valve problems.",
+        "C": "Too much traction.",
+        "D": "Clean hydraulic fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Power loss indicates problems.",
+        "B": "These conditions prevent the system from developing full torque.",
+        "C": "Traction doesn't cause power loss.",
+        "D": "Clean fluid supports performance, doesn't cause loss."
+      }
+    },
+    {
+      "questionNumber": 250,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What is the function of the charge relief valve?",
+      "options": {
+        "A": "To increase drive speed.",
+        "B": "To maintain proper charge circuit pressure.",
+        "C": "To filter the fluid.",
+        "D": "To cool the system."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pump displacement controls speed, not charge relief.",
+        "B": "Charge relief maintains pressure feeding the closed loop.",
+        "C": "Filters clean fluid, not relief valves.",
+        "D": "Coolers manage temperature, not relief valves."
+      }
+    },
+    {
+      "questionNumber": 251,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "How is hydrostatic motor case drain pressure diagnosed?",
+      "options": {
+        "A": "By guessing.",
+        "B": "By installing a pressure gauge on the case drain port.",
+        "C": "Case drain pressure cannot be measured.",
+        "D": "By oil color only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Accurate measurement requires gauges.",
+        "B": "Excessive case pressure indicates internal motor leakage.",
+        "C": "Case drain pressure is a standard diagnostic measurement.",
+        "D": "Color doesn't indicate pressure."
+      }
+    },
+    {
+      "questionNumber": 252,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What indicates a hydrostatic pump needs rebuilding?",
+      "options": {
+        "A": "New installation.",
+        "B": "Loss of displacement control, excessive noise, or metal in case drain.",
+        "C": "Perfect quiet operation.",
+        "D": "Low operating hours."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New pumps don't need rebuilding.",
+        "B": "These symptoms indicate internal wear or damage.",
+        "C": "Quiet operation suggests good condition.",
+        "D": "Low hours typically indicate good condition."
+      }
+    },
+    {
+      "questionNumber": 253,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What causes jerky hydrostatic drive operation?",
+      "options": {
+        "A": "Smooth control linkage.",
+        "B": "Air in system, sticky controls, or uneven pump displacement.",
+        "C": "Proper charge pressure.",
+        "D": "New fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Smooth controls support even operation.",
+        "B": "These conditions prevent smooth speed transitions.",
+        "C": "Proper pressure supports smooth operation.",
+        "D": "New fluid doesn't cause jerky operation."
+      }
+    },
+    {
+      "questionNumber": 254,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "How are hydrostatic pump control linkages checked?",
+      "options": {
+        "A": "Visual inspection only from distance.",
+        "B": "Check for proper movement range, no binding, and correct neutral setting.",
+        "C": "Linkages don't need checking.",
+        "D": "By oil level only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hands-on inspection and adjustment are required.",
+        "B": "Linkage must move freely through full range with accurate neutral.",
+        "C": "Linkage condition directly affects drive performance.",
+        "D": "Oil level doesn't indicate linkage condition."
+      }
+    },
+    {
+      "questionNumber": 255,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What is the purpose of high-pressure relief valves in hydrostatic transmissions?",
+      "options": {
+        "A": "To control drive speed.",
+        "B": "To protect loop from excessive pressure during shock loads.",
+        "C": "To filter fluid.",
+        "D": "To add fluid to system."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Displacement controls speed, not relief valves.",
+        "B": "Loop reliefs prevent damage from pressure spikes.",
+        "C": "Filters clean fluid, not relief valves.",
+        "D": "Charge pump adds fluid, not relief valves."
+      }
+    },
+    {
+      "questionNumber": 256,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What diagnostic information does loop temperature provide?",
+      "options": {
+        "A": "Nothing useful.",
+        "B": "System efficiency, component wear, and cooling adequacy.",
+        "C": "Only ambient weather.",
+        "D": "Paint color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Temperature is a key diagnostic indicator.",
+        "B": "Excessive temperature indicates inefficiency or inadequate cooling.",
+        "C": "System temperature reflects internal conditions.",
+        "D": "Temperature doesn't relate to paint color."
+      }
+    },
+    {
+      "questionNumber": 257,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "How is hydrostatic motor efficiency tested?",
+      "options": {
+        "A": "By appearance only.",
+        "B": "By measuring output torque/speed versus input pressure/flow.",
+        "C": "Efficiency cannot be tested.",
+        "D": "By age alone."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Appearance doesn't indicate efficiency.",
+        "B": "Comparing output to input determines efficiency percentage.",
+        "C": "Efficiency testing is standard procedure.",
+        "D": "Age doesn't indicate current efficiency."
+      }
+    },
+    {
+      "questionNumber": 258,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What causes hydrostatic transmission to creep at neutral?",
+      "options": {
+        "A": "Perfect neutral adjustment.",
+        "B": "Pump not returning to zero displacement or control linkage misadjustment.",
+        "C": "Proper system operation.",
+        "D": "Clean filters."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect neutral prevents creep.",
+        "B": "Residual displacement or linkage error causes unwanted movement.",
+        "C": "Creep indicates adjustment needed.",
+        "D": "Filter condition doesn't cause neutral creep."
+      }
+    },
+    {
+      "questionNumber": 259,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What component makes up charge pressure in a hydrostatic system?",
+      "options": {
+        "A": "Main drive motor.",
+        "B": "Dedicated charge pump or section of main pump.",
+        "C": "Battery.",
+        "D": "Cooling fan."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Motors consume flow, they don't create charge pressure.",
+        "B": "Charge pumps maintain loop pressure and replace leakage.",
+        "C": "Batteries provide electrical power, not hydraulic pressure.",
+        "D": "Fans cool, they don't create pressure."
+      }
+    },
+    {
+      "questionNumber": 260,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "How is excessive internal leakage in hydrostatic components identified?",
+      "options": {
+        "A": "By color only.",
+        "B": "By high case drain flow, loss of performance, or overheating.",
+        "C": "Leakage cannot be identified.",
+        "D": "By machine age."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color doesn't indicate internal leakage rate.",
+        "B": "Internal leakage shows as increased case drain flow and heat.",
+        "C": "Several diagnostic methods identify internal leakage.",
+        "D": "Age doesn't directly indicate current leakage."
+      }
+    },
+    {
+      "questionNumber": 261,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What safety consideration applies when diagnosing hydrostatic systems?",
+      "options": {
+        "A": "No safety concerns exist.",
+        "B": "High pressures require careful depressurization and PPE.",
+        "C": "Systems are always safe.",
+        "D": "Safety equipment isn't necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hydrostatic systems operate at very high pressures.",
+        "B": "High pressure can cause severe injuries requiring proper precautions.",
+        "C": "Pressurized systems are inherently hazardous.",
+        "D": "PPE is essential when working on hydraulic systems."
+      }
+    },
+    {
+      "questionNumber": 262,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What indicates shuttle valve problems in a hydrostatic transmission?",
+      "options": {
+        "A": "Perfect directional control.",
+        "B": "Incorrect charge pressure to one side of loop or poor performance in one direction.",
+        "C": "Smooth operation both directions.",
+        "D": "Cold operating temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect control suggests good shuttle function.",
+        "B": "Shuttle valves direct charge pressure; malfunction affects one direction.",
+        "C": "Smooth operation indicates proper shuttle function.",
+        "D": "Temperature doesn't directly indicate shuttle condition."
+      }
+    },
+    {
+      "questionNumber": 263,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "How are hydrostatic system filters evaluated?",
+      "options": {
+        "A": "By color only.",
+        "B": "By checking differential pressure and bypass indicators.",
+        "C": "Filters don't need evaluation.",
+        "D": "By system age."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Filter condition requires pressure differential measurement.",
+        "B": "Pressure drop and indicators show when filters need service.",
+        "C": "Filter condition directly affects system health.",
+        "D": "Age doesn't indicate current filter condition."
+      }
+    },
+    {
+      "questionNumber": 264,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What causes variable speed hunting in hydrostatic drives?",
+      "options": {
+        "A": "Stable control input.",
+        "B": "Worn control components, sticking linkage, or electronic control problems.",
+        "C": "Perfect system calibration.",
+        "D": "New installation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stable input prevents hunting.",
+        "B": "Control system wear or binding causes oscillating speed.",
+        "C": "Good calibration prevents hunting.",
+        "D": "New systems should operate smoothly."
+      }
+    },
+    {
+      "questionNumber": 265,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.02 Diagnoses hydrostatic systems",
+      "question": "What diagnostic test verifies hydrostatic pump displacement control?",
+      "options": {
+        "A": "Paint inspection.",
+        "B": "Measuring output flow at various control positions.",
+        "C": "No test exists.",
+        "D": "Checking oil color only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint doesn't indicate displacement function.",
+        "B": "Flow measurement confirms pump responds properly to control input.",
+        "C": "Displacement testing is standard procedure.",
+        "D": "Color doesn't show displacement control function."
+      }
+    },
+    {
+      "questionNumber": 266,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What is the primary difference between hydraulic and pneumatic systems?",
+      "options": {
+        "A": "No difference exists.",
+        "B": "Pneumatic systems use compressed air instead of hydraulic fluid.",
+        "C": "Pneumatic systems are always larger.",
+        "D": "Hydraulic systems use air."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fundamental operational differences exist.",
+        "B": "Pneumatics use compressed air; hydraulics use liquid.",
+        "C": "Size depends on application, not system type.",
+        "D": "Hydraulic systems use incompressible fluid."
+      }
+    },
+    {
+      "questionNumber": 267,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What indicates water contamination in compressed air systems?",
+      "options": {
+        "A": "Dry air discharge.",
+        "B": "Water discharge from drains, sluggish actuators, or rust in system.",
+        "C": "Perfect system operation.",
+        "D": "High air temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dry air indicates good moisture removal.",
+        "B": "Water causes corrosion and poor actuator performance.",
+        "C": "Water contamination degrades performance.",
+        "D": "While temperature affects moisture, visible water indicates contamination."
+      }
+    },
+    {
+      "questionNumber": 268,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "How is air compressor output pressure controlled?",
+      "options": {
+        "A": "By engine speed only.",
+        "B": "By pressure switch or regulator cycling compressor or unloading.",
+        "C": "Pressure cannot be controlled.",
+        "D": "By tank size."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While speed affects output, pressure controls maintain setpoint.",
+        "B": "Pressure switches or unloaders maintain system pressure within range.",
+        "C": "Multiple methods control air pressure.",
+        "D": "Tank stores air but doesn't control pressure."
+      }
+    },
+    {
+      "questionNumber": 269,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What causes slow pneumatic cylinder operation?",
+      "options": {
+        "A": "Excessive air pressure.",
+        "B": "Low pressure, restricted flow, or air leaks.",
+        "C": "New installation.",
+        "D": "Clean air filter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "High pressure increases speed, not reduces it.",
+        "B": "Insufficient pressure or flow reduces actuator speed.",
+        "C": "New systems should operate at design speed.",
+        "D": "Clean filters improve, not reduce, performance."
+      }
+    },
+    {
+      "questionNumber": 270,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What is the purpose of an air line lubricator?",
+      "options": {
+        "A": "To remove oil from air.",
+        "B": "To add oil mist for pneumatic tool and cylinder lubrication.",
+        "C": "To increase air pressure.",
+        "D": "To filter air."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Coalescers remove oil; lubricators add it.",
+        "B": "Lubricators inject oil mist to prevent pneumatic component wear.",
+        "C": "Regulators control pressure, not lubricators.",
+        "D": "Filters clean air, not lubricators."
+      }
+    },
+    {
+      "questionNumber": 271,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "How are pneumatic system leaks detected?",
+      "options": {
+        "A": "Visual inspection from distance.",
+        "B": "Soap solution, ultrasonic detector, or listening for air hiss.",
+        "C": "Leaks cannot be detected.",
+        "D": "By paint color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Most leaks aren't visible without detection aids.",
+        "B": "These methods locate air leaks effectively.",
+        "C": "Several methods detect air leaks.",
+        "D": "Paint doesn't indicate leaks."
+      }
+    },
+    {
+      "questionNumber": 272,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What indicates a failing air compressor?",
+      "options": {
+        "A": "Quick pressure buildup.",
+        "B": "Inability to build or maintain pressure, excessive noise, or overheating.",
+        "C": "Quiet operation.",
+        "D": "Low operating temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Quick buildup indicates good condition.",
+        "B": "These symptoms indicate worn valves, rings, or other internal damage.",
+        "C": "Quiet operation suggests good condition.",
+        "D": "Cool operation indicates normal function."
+      }
+    },
+    {
+      "questionNumber": 273,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What is the function of an air dryer in a pneumatic system?",
+      "options": {
+        "A": "To add moisture to air.",
+        "B": "To remove moisture from compressed air to prevent corrosion and freezing.",
+        "C": "To increase air pressure.",
+        "D": "To lubricate components."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dryers remove, not add, moisture.",
+        "B": "Dry air prevents water damage and freeze-ups in cold weather.",
+        "C": "Dryers don't affect pressure.",
+        "D": "Lubricators add oil, not dryers."
+      }
+    },
+    {
+      "questionNumber": 274,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "How is air consumption of a pneumatic system measured?",
+      "options": {
+        "A": "By guessing.",
+        "B": "By timing pressure drop in a known volume or using a flow meter.",
+        "C": "Consumption cannot be measured.",
+        "D": "By system age."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Accurate measurement requires testing.",
+        "B": "These methods quantify air usage for system sizing.",
+        "C": "Air consumption is measurable.",
+        "D": "Age doesn't indicate current consumption."
+      }
+    },
+    {
+      "questionNumber": 275,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What causes an air compressor to run continuously?",
+      "options": {
+        "A": "Perfect system condition.",
+        "B": "System leaks, faulty pressure switch, or excessive demand.",
+        "C": "Too much stored air.",
+        "D": "Cold weather."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Continuous running indicates a problem.",
+        "B": "These conditions prevent pressure from reaching cutoff point.",
+        "C": "Excess storage helps prevent continuous running.",
+        "D": "While cold affects efficiency, it's not the primary cause of continuous operation."
+      }
+    },
+    {
+      "questionNumber": 276,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What component regulates air pressure to pneumatic tools?",
+      "options": {
+        "A": "Compressor.",
+        "B": "Pressure regulator.",
+        "C": "Air tank.",
+        "D": "Drain valve."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Compressors generate pressure; regulators control delivery pressure.",
+        "B": "Regulators reduce supply pressure to tool requirements.",
+        "C": "Tanks store air but don't regulate pressure.",
+        "D": "Drain valves remove condensate, not regulate pressure."
+      }
+    },
+    {
+      "questionNumber": 277,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "How often should air receiver tanks be drained?",
+      "options": {
+        "A": "Never.",
+        "B": "Daily or as needed based on moisture accumulation.",
+        "C": "Once per year.",
+        "D": "Only when tank is full of water."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Moisture accumulates and must be drained.",
+        "B": "Regular draining prevents water from entering system.",
+        "C": "Annual draining is insufficient in most applications.",
+        "D": "Tanks should be drained before significant water accumulation."
+      }
+    },
+    {
+      "questionNumber": 278,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What indicates a faulty air pressure regulator?",
+      "options": {
+        "A": "Stable output pressure.",
+        "B": "Inability to maintain set pressure or pressure creep.",
+        "C": "Proper system operation.",
+        "D": "Clean air filter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stable pressure indicates good regulator function.",
+        "B": "Worn regulators cannot maintain consistent downstream pressure.",
+        "C": "Proper operation indicates good regulator condition.",
+        "D": "Filter condition doesn't indicate regulator health."
+      }
+    },
+    {
+      "questionNumber": 279,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What causes pneumatic brake system slow release?",
+      "options": {
+        "A": "Excessive air pressure.",
+        "B": "Restricted exhaust ports, sticky valves, or weak springs.",
+        "C": "New brake installation.",
+        "D": "Clean air lines."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "High pressure would speed, not slow, release.",
+        "B": "These conditions prevent rapid air exhaust needed for quick release.",
+        "C": "New brakes should release properly.",
+        "D": "Clean lines support proper operation."
+      }
+    },
+    {
+      "questionNumber": 280,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "How are pneumatic solenoid valves diagnosed?",
+      "options": {
+        "A": "By paint color.",
+        "B": "By testing electrical coil and checking for air flow when energized.",
+        "C": "Solenoids cannot be diagnosed.",
+        "D": "By age only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color doesn't indicate electrical or pneumatic function.",
+        "B": "Electrical and flow testing verify complete solenoid function.",
+        "C": "Solenoids are testable.",
+        "D": "Age doesn't indicate current operating condition."
+      }
+    },
+    {
+      "questionNumber": 281,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What safety device is required on air compressor tanks?",
+      "options": {
+        "A": "No safety devices needed.",
+        "B": "Pressure relief valve.",
+        "C": "Paint.",
+        "D": "Drain plug only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Safety devices prevent catastrophic failures.",
+        "B": "Relief valves prevent dangerous over-pressure conditions.",
+        "C": "Paint is cosmetic, not a safety device.",
+        "D": "Drain plugs are for maintenance, not safety."
+      }
+    },
+    {
+      "questionNumber": 282,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What indicates contaminated air filters in pneumatic systems?",
+      "options": {
+        "A": "Improved air flow.",
+        "B": "Reduced air flow, pressure drop, or visible contamination.",
+        "C": "Brand new appearance.",
+        "D": "Higher downstream pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Contamination reduces flow.",
+        "B": "Dirty filters restrict flow and create pressure drop.",
+        "C": "New appearance indicates clean condition.",
+        "D": "Contaminated filters reduce downstream pressure."
+      }
+    },
+    {
+      "questionNumber": 283,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "How is proper pneumatic cylinder cushioning verified?",
+      "options": {
+        "A": "By sound only.",
+        "B": "By observing smooth deceleration at stroke ends without hard impacts.",
+        "C": "Cushioning cannot be verified.",
+        "D": "By age of cylinder."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sound helps but visual observation of movement is needed.",
+        "B": "Proper cushions slow movement preventing end-of-stroke impacts.",
+        "C": "Cushion function is observable during operation.",
+        "D": "Age doesn't indicate current cushion function."
+      }
+    },
+    {
+      "questionNumber": 284,
+      "block": "C",
+      "task": "C-7",
+      "taskTitle": "Diagnoses hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-7.03 Diagnoses pneumatic systems",
+      "question": "What causes air brake system pressure to drop below minimum?",
+      "options": {
+        "A": "Perfect system condition.",
+        "B": "Air leaks, compressor failure, or excessive air usage.",
+        "C": "Too much pressure.",
+        "D": "Clean air dryer."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Low pressure indicates problems.",
+        "B": "These conditions prevent adequate pressure maintenance.",
+        "C": "The question asks about low pressure.",
+        "D": "Clean dryers support proper operation."
+      }
+    },
+    {
+      "questionNumber": 285,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What is the correct procedure for replacing a hydraulic pump?",
+      "options": {
+        "A": "Just swap pumps without cleaning.",
+        "B": "Drain system, clean mounting area, install with new seals, prime before starting.",
+        "C": "Leave old fluid in system.",
+        "D": "No procedure needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Contamination from old pump can damage new pump.",
+        "B": "Proper installation with clean environment ensures new pump longevity.",
+        "C": "Contaminated fluid should be changed with pump replacement.",
+        "D": "Specific procedures protect new components."
+      }
+    },
+    {
+      "questionNumber": 286,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic hoses be replaced?",
+      "options": {
+        "A": "Install with sharp bends and twists.",
+        "B": "Route properly, use correct fittings, torque to specifications, and secure with clamps.",
+        "C": "Leave loose without support.",
+        "D": "Use any available hose regardless of rating."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sharp bends restrict flow and damage hoses.",
+        "B": "Proper installation maximizes hose life and prevents failures.",
+        "C": "Unsecured hoses abrade and fail prematurely.",
+        "D": "Hoses must meet pressure and size specifications."
+      }
+    },
+    {
+      "questionNumber": 287,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What must be done before disassembling hydraulic cylinders?",
+      "options": {
+        "A": "Increase system pressure.",
+        "B": "Relieve all pressure and secure load.",
+        "C": "Start the engine.",
+        "D": "Nothing special required."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pressure makes disassembly dangerous.",
+        "B": "Pressure relief and load security prevent injuries during disassembly.",
+        "C": "Engine should be off during hydraulic service.",
+        "D": "Safety procedures are critical."
+      }
+    },
+    {
+      "questionNumber": 288,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic cylinder seals be installed?",
+      "options": {
+        "A": "Dry installation without lubrication.",
+        "B": "Lubricate with hydraulic fluid and use seal installation tools.",
+        "C": "Hammer seals into place.",
+        "D": "Install inside-out."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dry installation damages seals.",
+        "B": "Lubrication and proper tools prevent seal damage during installation.",
+        "C": "Hammering damages seals and installation surfaces.",
+        "D": "Wrong orientation causes immediate leakage."
+      }
+    },
+    {
+      "questionNumber": 289,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What preparation is necessary before installing replacement hydraulic components?",
+      "options": {
+        "A": "No preparation needed.",
+        "B": "Clean all connections, flush lines, and check fluid compatibility.",
+        "C": "Install in dirty system.",
+        "D": "Use contaminated fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Contamination damages new components.",
+        "B": "Clean installation environment prevents premature component failure.",
+        "C": "Dirty systems cause rapid new component wear.",
+        "D": "Contaminated fluid destroys components."
+      }
+    },
+    {
+      "questionNumber": 290,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic system filters be replaced?",
+      "options": {
+        "A": "Leave old filter in place.",
+        "B": "Install new filter, check for bypass, and dispose of old filter properly.",
+        "C": "Reuse old filters.",
+        "D": "Remove filter and don't replace."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Old filters don't clean effectively.",
+        "B": "New filters protect system and proper disposal prevents environmental contamination.",
+        "C": "Used filters are contaminated and ineffective.",
+        "D": "Operating without filters causes rapid component wear."
+      }
+    },
+    {
+      "questionNumber": 291,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What must be verified after hydraulic pump replacement?",
+      "options": {
+        "A": "Nothing needs verification.",
+        "B": "Proper rotation direction, adequate priming, no leaks, and correct pressure.",
+        "C": "Just start and run.",
+        "D": "Rotation doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification prevents damage and ensures proper operation.",
+        "B": "These checks ensure pump operates correctly and safely.",
+        "C": "Running without verification can destroy the new pump.",
+        "D": "Wrong rotation damages pumps immediately."
+      }
+    },
+    {
+      "questionNumber": 292,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic relief valves be adjusted?",
+      "options": {
+        "A": "Random adjustment without gauges.",
+        "B": "Using pressure gauge and manufacturer specifications for setting.",
+        "C": "Adjustment isn't possible.",
+        "D": "Tighten to maximum."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise adjustment requires pressure measurement.",
+        "B": "Accurate gauge and specs ensure proper system protection.",
+        "C": "Relief valves are adjustable.",
+        "D": "Excessive pressure damages system components."
+      }
+    },
+    {
+      "questionNumber": 293,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What procedure prevents contamination during hydraulic component replacement?",
+      "options": {
+        "A": "Work in dusty area.",
+        "B": "Cap all openings immediately, use clean tools, and work in clean environment.",
+        "C": "Leave ports open.",
+        "D": "Use dirty rags."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dust contaminates systems.",
+        "B": "Capping and cleanliness prevent contamination entry.",
+        "C": "Open ports allow contamination.",
+        "D": "Dirty rags introduce contaminants."
+      }
+    },
+    {
+      "questionNumber": 294,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic cylinder rods be inspected before seal replacement?",
+      "options": {
+        "A": "Visual inspection only from distance.",
+        "B": "Check for scoring, pitting, chrome damage, and straightness.",
+        "C": "Inspection isn't necessary.",
+        "D": "Just look at color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Close inspection reveals damage visual inspection from afar misses.",
+        "B": "Damaged rods destroy new seals requiring repair or replacement.",
+        "C": "Rod condition directly affects seal life.",
+        "D": "Color doesn't indicate surface condition."
+      }
+    },
+    {
+      "questionNumber": 295,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What is the correct torque procedure for hydraulic fittings?",
+      "options": {
+        "A": "Tighten until fitting breaks.",
+        "B": "Follow manufacturer torque specifications or wrench flat method.",
+        "C": "Hand-tight only.",
+        "D": "As tight as possible."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Breaking fittings causes leaks and requires replacement.",
+        "B": "Proper torque ensures sealing without damage.",
+        "C": "Hand-tight usually doesn't provide adequate seal.",
+        "D": "Over-tightening damages threads and fittings."
+      }
+    },
+    {
+      "questionNumber": 296,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic reservoirs be cleaned during service?",
+      "options": {
+        "A": "Never clean reservoirs.",
+        "B": "Drain completely, remove debris and sludge, flush with clean fluid.",
+        "C": "Just add new fluid on top of old.",
+        "D": "Use gasoline to clean."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Reservoirs accumulate contamination requiring cleaning.",
+        "B": "Thorough cleaning removes contaminants before new fluid addition.",
+        "C": "Mixing old contaminated fluid with new spreads contamination.",
+        "D": "Gasoline leaves residue and is dangerous."
+      }
+    },
+    {
+      "questionNumber": 297,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What should be done with hydraulic fluid after major component failure?",
+      "options": {
+        "A": "Reuse contaminated fluid.",
+        "B": "Replace all fluid and flush system thoroughly.",
+        "C": "Just top off fluid.",
+        "D": "Mix old and new fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Contaminated fluid damages replacement components.",
+        "B": "Flushing removes debris from failure preventing damage to new parts.",
+        "C": "Topping off leaves contamination in system.",
+        "D": "Mixing spreads contamination."
+      }
+    },
+    {
+      "questionNumber": 298,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic accumulators be serviced?",
+      "options": {
+        "A": "Service while pressurized.",
+        "B": "Fully discharge hydraulic and gas pressure, follow manufacturer procedures.",
+        "C": "Never discharge pressure.",
+        "D": "Hit with hammer to release pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pressurized accumulators are extremely dangerous.",
+        "B": "Complete depressurization prevents serious injuries during service.",
+        "C": "Trapped pressure makes service impossible and dangerous.",
+        "D": "Hammering pressurized vessels can cause explosions."
+      }
+    },
+    {
+      "questionNumber": 299,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What preparation is necessary for hydraulic directional valve replacement?",
+      "options": {
+        "A": "Just unbolt and swap.",
+        "B": "Tag all hoses, relieve pressure, clean ports, and verify new valve specs.",
+        "C": "No preparation needed.",
+        "D": "Mix up hose connections."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Improper connections cause system malfunction.",
+        "B": "Systematic approach ensures correct installation and operation.",
+        "C": "Preparation prevents installation errors.",
+        "D": "Incorrect connections damage equipment."
+      }
+    },
+    {
+      "questionNumber": 300,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic quick couplers be maintained?",
+      "options": {
+        "A": "Never clean couplers.",
+        "B": "Keep clean, check seals, and verify locking mechanism function.",
+        "C": "Leave contaminated.",
+        "D": "Force connection when dirty."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dirty couplers introduce contamination when connected.",
+        "B": "Clean, functional couplers prevent contamination and accidental disconnection.",
+        "C": "Contamination damages system when couplers connect.",
+        "D": "Forcing introduces contamination and damages coupler."
+      }
+    },
+    {
+      "questionNumber": 301,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What must be checked when installing rebuilt hydraulic cylinders?",
+      "options": {
+        "A": "Nothing needs checking.",
+        "B": "Proper alignment, secure mounting, correct stroke length, and no leaks.",
+        "C": "Just bolt in place.",
+        "D": "Alignment doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification ensures proper operation and longevity.",
+        "B": "These checks prevent binding, leaks, and premature wear.",
+        "C": "Improper installation causes rapid failure.",
+        "D": "Misalignment causes side loading and seal damage."
+      }
+    },
+    {
+      "questionNumber": 302,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic system piping be installed?",
+      "options": {
+        "A": "With excessive bends and restrictions.",
+        "B": "With proper support, minimum bends, and correct fittings.",
+        "C": "Unsupported and loose.",
+        "D": "Using damaged pipe."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bends restrict flow and create pressure losses.",
+        "B": "Proper installation ensures efficient flow and prevents vibration damage.",
+        "C": "Unsupported pipe vibrates and fails from fatigue.",
+        "D": "Damaged pipe leaks or fails under pressure."
+      }
+    },
+    {
+      "questionNumber": 303,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What procedure prevents air entry when refilling hydraulic systems?",
+      "options": {
+        "A": "Fill quickly without bleeding.",
+        "B": "Fill slowly, cycle actuators with bleeders open, and maintain proper level.",
+        "C": "Never bleed systems.",
+        "D": "Fill while running at high speed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Rapid filling traps air.",
+        "B": "Slow filling and bleeding purges trapped air effectively.",
+        "C": "Trapped air causes spongy operation.",
+        "D": "High-speed operation while low on fluid damages pump."
+      }
+    },
+    {
+      "questionNumber": 304,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic coolers be serviced?",
+      "options": {
+        "A": "Never clean coolers.",
+        "B": "Clean fins, check for leaks between oil and coolant circuits, verify flow.",
+        "C": "Leave dirty.",
+        "D": "Block airflow."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dirty coolers lose efficiency.",
+        "B": "Clean coolers and leak-free circuits maintain proper temperature.",
+        "C": "Contaminated coolers overheat system.",
+        "D": "Blocked airflow prevents cooling."
+      }
+    },
+    {
+      "questionNumber": 305,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What is the correct procedure for hydraulic hose assembly?",
+      "options": {
+        "A": "Cut hose any length and force fittings on.",
+        "B": "Cut to length, clean ends, install fittings per specs, and pressure test.",
+        "C": "Reuse damaged hose.",
+        "D": "Skip pressure testing."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Improper assembly causes dangerous failures.",
+        "B": "Proper assembly and testing ensure safe, leak-free operation.",
+        "C": "Damaged hose fails under pressure.",
+        "D": "Pressure testing verifies assembly integrity."
+      }
+    },
+    {
+      "questionNumber": 306,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic motor mounting surfaces be prepared?",
+      "options": {
+        "A": "Leave dirty and damaged.",
+        "B": "Clean thoroughly, check for damage, ensure proper alignment.",
+        "C": "Install on rough surface.",
+        "D": "Alignment doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Contaminated surfaces allow contamination entry.",
+        "B": "Clean, aligned mounting prevents leaks and ensures proper operation.",
+        "C": "Rough surfaces prevent proper sealing.",
+        "D": "Misalignment causes side loading and premature failure."
+      }
+    },
+    {
+      "questionNumber": 307,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What must be done after replacing hydraulic control valves?",
+      "options": {
+        "A": "Nothing required.",
+        "B": "Verify correct operation of all functions, check for leaks, adjust as needed.",
+        "C": "Just start and go.",
+        "D": "Function testing isn't necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification ensures correct installation.",
+        "B": "Functional testing confirms proper valve operation and system performance.",
+        "C": "Unverified work risks equipment damage.",
+        "D": "Testing is essential quality control."
+      }
+    },
+    {
+      "questionNumber": 308,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should hydraulic flow control valves be adjusted?",
+      "options": {
+        "A": "Random adjustment.",
+        "B": "Adjust while observing actuator speed to achieve desired cycle time.",
+        "C": "Adjustment isn't possible.",
+        "D": "Maximum restriction always."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise adjustment requires observation.",
+        "B": "Adjusting while watching ensures desired speed is achieved.",
+        "C": "Flow valves are adjustable.",
+        "D": "Excessive restriction wastes energy and generates heat."
+      }
+    },
+    {
+      "questionNumber": 309,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "What safety procedure applies when working on hydraulic systems?",
+      "options": {
+        "A": "No safety procedures needed.",
+        "B": "Relieve pressure, secure loads, wear PPE, and follow lockout/tagout.",
+        "C": "Work on pressurized systems.",
+        "D": "Safety isn't important."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hydraulic systems have serious hazards.",
+        "B": "Comprehensive safety procedures prevent injuries and deaths.",
+        "C": "Pressurized systems cause injection injuries and spray hazards.",
+        "D": "Safety is paramount when working with high-pressure systems."
+      }
+    },
+    {
+      "questionNumber": 310,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.01 Repairs hydraulic systems",
+      "question": "How should counterbalance valves be adjusted?",
+      "options": {
+        "A": "Random setting.",
+        "B": "Set to slightly above load pressure to prevent drift while allowing controlled lowering.",
+        "C": "Set to zero pressure.",
+        "D": "Maximum pressure always."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise setting prevents drift and runaway.",
+        "B": "Proper setting holds load safely while permitting controlled descent.",
+        "C": "Zero pressure allows free-fall.",
+        "D": "Excessive pressure prevents lowering."
+      }
+    },
+    {
+      "questionNumber": 311,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "What preparation is necessary before disassembling hydrostatic transmission components?",
+      "options": {
+        "A": "No preparation needed.",
+        "B": "Relieve pressure, drain oil, mark component orientation, and clean work area.",
+        "C": "Disassemble while pressurized.",
+        "D": "Leave oil in system."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Preparation prevents contamination and ensures correct reassembly.",
+        "B": "Systematic preparation protects components and technician.",
+        "C": "Pressurized components are extremely dangerous to disassemble.",
+        "D": "Draining prevents mess and contamination."
+      }
+    },
+    {
+      "questionNumber": 312,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "How should hydrostatic pump swashplate assemblies be serviced?",
+      "options": {
+        "A": "Force assembly without measurements.",
+        "B": "Follow manufacturer procedures, measure clearances, replace worn components.",
+        "C": "Reuse all worn parts.",
+        "D": "No procedure required."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Forcing damages precision components.",
+        "B": "Precise procedures and measurements ensure proper operation.",
+        "C": "Worn parts cause immediate failure.",
+        "D": "Swashplate service requires specific procedures."
+      }
+    },
+    {
+      "questionNumber": 313,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "What must be verified when installing rebuilt hydrostatic motors?",
+      "options": {
+        "A": "Nothing needs checking.",
+        "B": "Proper mounting alignment, shaft rotation, case drain connection, and coupling alignment.",
+        "C": "Just bolt in place.",
+        "D": "Alignment doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification prevents premature failure.",
+        "B": "These checks ensure motor operates properly without damage.",
+        "C": "Improper installation causes rapid failure.",
+        "D": "Misalignment destroys motors and couplings."
+      }
+    },
+    {
+      "questionNumber": 314,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "How should hydrostatic transmission control linkage be adjusted?",
+      "options": {
+        "A": "Random adjustment.",
+        "B": "Set neutral position accurately, verify full range travel, and check for binding.",
+        "C": "Adjustment isn't necessary.",
+        "D": "Maximum deflection always."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise adjustment prevents creep and ensures full performance.",
+        "B": "Proper linkage adjustment ensures accurate control and safety.",
+        "C": "Linkage requires precise adjustment.",
+        "D": "Excessive deflection damages components."
+      }
+    },
+    {
+      "questionNumber": 315,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "What procedure ensures proper charge pump operation after installation?",
+      "options": {
+        "A": "No verification needed.",
+        "B": "Check charge pressure, verify flow to main circuit, and inspect for leaks.",
+        "C": "Just start system.",
+        "D": "Pressure doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Charge pump function is critical to system operation.",
+        "B": "Verification ensures adequate loop pressure and prevents cavitation.",
+        "C": "Operating without verification risks main component damage.",
+        "D": "Charge pressure is essential for hydrostatic transmission function."
+      }
+    },
+    {
+      "questionNumber": 316,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "How should hydrostatic system loop flushing be performed?",
+      "options": {
+        "A": "Never flush systems.",
+        "B": "Circulate clean fluid through loop at low pressure until contamination is removed.",
+        "C": "Use contaminated fluid.",
+        "D": "High pressure flushing only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flushing removes contamination after repairs.",
+        "B": "Proper flushing protects rebuilt components from contamination.",
+        "C": "Contaminated fluid defeats flushing purpose.",
+        "D": "High pressure can damage components during flushing."
+      }
+    },
+    {
+      "questionNumber": 317,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "What must be done when replacing hydrostatic transmission seals?",
+      "options": {
+        "A": "Install dry without lubrication.",
+        "B": "Lubricate with system fluid, use proper installation tools, verify orientation.",
+        "C": "Force seals into place.",
+        "D": "Random installation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dry installation damages seals.",
+        "B": "Proper installation prevents damage and ensures sealing.",
+        "C": "Forcing damages seal lips.",
+        "D": "Correct orientation is critical."
+      }
+    },
+    {
+      "questionNumber": 318,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "How should hydrostatic loop relief valves be set?",
+      "options": {
+        "A": "Random setting.",
+        "B": "Set per manufacturer specifications using accurate pressure gauge.",
+        "C": "Maximum pressure always.",
+        "D": "Zero pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise setting protects components.",
+        "B": "Proper setting prevents damage while allowing full performance.",
+        "C": "Excessive pressure damages components.",
+        "D": "Zero pressure prevents operation."
+      }
+    },
+    {
+      "questionNumber": 319,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "What procedure prevents contamination during hydrostatic component rebuild?",
+      "options": {
+        "A": "Work in dirty area.",
+        "B": "Use clean room or area, clean all parts thoroughly, handle with clean hands/gloves.",
+        "C": "Contamination doesn't matter.",
+        "D": "Use dirty tools."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Contamination causes rapid component failure.",
+        "B": "Cleanliness is critical for precision hydrostatic components.",
+        "C": "Contamination destroys rebuilt units.",
+        "D": "Clean tools are essential."
+      }
+    },
+    {
+      "questionNumber": 320,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "How should hydrostatic transmission neutral be adjusted?",
+      "options": {
+        "A": "Guess at position.",
+        "B": "Adjust linkage until no creep occurs at control neutral with engine running.",
+        "C": "Neutral doesn't need adjustment.",
+        "D": "Maximum displacement."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise adjustment prevents unwanted movement.",
+        "B": "Proper neutral prevents creep and ensures safety.",
+        "C": "Neutral requires precise adjustment.",
+        "D": "Neutral should be zero displacement."
+      }
+    },
+    {
+      "questionNumber": 321,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "What must be checked when replacing hydrostatic pump control pistons?",
+      "options": {
+        "A": "Nothing needs checking.",
+        "B": "Bore size, piston wear, seal condition, and spring condition.",
+        "C": "Just install new pistons.",
+        "D": "Measurements aren't necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification ensures proper control function.",
+        "B": "Worn bores or damaged components prevent proper control.",
+        "C": "New pistons in worn bores don't seal properly.",
+        "D": "Measurements verify serviceability."
+      }
+    },
+    {
+      "questionNumber": 322,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "How should case drain lines be serviced?",
+      "options": {
+        "A": "Block case drains.",
+        "B": "Check for restrictions, verify proper routing to reservoir, clean fittings.",
+        "C": "Case drains aren't important.",
+        "D": "Route to high pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Blocked drains cause component failure.",
+        "B": "Open drains are essential for motor and pump longevity.",
+        "C": "Case drain function is critical.",
+        "D": "Case drains must return to low-pressure reservoir."
+      }
+    },
+    {
+      "questionNumber": 323,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "What break-in procedure applies to rebuilt hydrostatic transmissions?",
+      "options": {
+        "A": "Full load immediately.",
+        "B": "Run at light load with frequent oil checks, gradually increasing load.",
+        "C": "No break-in needed.",
+        "D": "Maximum stress testing."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Full load risks damaging mating surfaces.",
+        "B": "Gradual break-in allows components to mate properly.",
+        "C": "Break-in ensures optimal component life.",
+        "D": "Stress testing damages new components."
+      }
+    },
+    {
+      "questionNumber": 324,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.02 Repairs hydrostatic systems",
+      "question": "How should shuttle valve assemblies be replaced?",
+      "options": {
+        "A": "Install upside down.",
+        "B": "Install with correct orientation, verify movement, check for leaks.",
+        "C": "Orientation doesn't matter.",
+        "D": "Force into place."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wrong orientation prevents function.",
+        "B": "Proper installation ensures correct charge pressure distribution.",
+        "C": "Orientation is critical for valve function.",
+        "D": "Forcing damages valve components."
+      }
+    },
+    {
+      "questionNumber": 325,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should air compressor valves be serviced?",
+      "options": {
+        "A": "Reuse damaged valves.",
+        "B": "Clean valve seats, replace worn valves and springs, check sealing surfaces.",
+        "C": "Never service valves.",
+        "D": "Force damaged valves closed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Damaged valves leak reducing efficiency.",
+        "B": "Proper valve service restores compression efficiency.",
+        "C": "Valves require periodic service.",
+        "D": "Damaged valves must be replaced."
+      }
+    },
+    {
+      "questionNumber": 326,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What procedure applies when replacing pneumatic cylinders?",
+      "options": {
+        "A": "Install without pressure relief.",
+        "B": "Relieve air pressure, install with proper mounting and alignment, test operation.",
+        "C": "Force misaligned installation.",
+        "D": "No procedure needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pressure must be relieved for safety.",
+        "B": "Safe installation with proper alignment ensures reliable operation.",
+        "C": "Misalignment causes binding and premature wear.",
+        "D": "Specific procedures ensure safe installation."
+      }
+    },
+    {
+      "questionNumber": 327,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should air brake system components be replaced?",
+      "options": {
+        "A": "Install without testing.",
+        "B": "Bleed system, install components, test for leaks, verify operation before service.",
+        "C": "Skip leak testing.",
+        "D": "No testing required."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Testing ensures brake system safety.",
+        "B": "Comprehensive testing prevents brake failures and ensures safety.",
+        "C": "Leaks cause brake failure.",
+        "D": "Brake systems require thorough testing."
+      }
+    },
+    {
+      "questionNumber": 328,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What must be done when replacing air pressure regulators?",
+      "options": {
+        "A": "Random installation.",
+        "B": "Install correctly, adjust to required pressure, verify consistent output.",
+        "C": "No adjustment needed.",
+        "D": "Maximum pressure always."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper installation and adjustment are required.",
+        "B": "Correct pressure protects downstream components.",
+        "C": "Regulators require adjustment.",
+        "D": "Excessive pressure damages tools and components."
+      }
+    },
+    {
+      "questionNumber": 329,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should air lines be installed?",
+      "options": {
+        "A": "With kinks and sharp bends.",
+        "B": "Route properly, secure with clips, use correct fittings, avoid heat sources.",
+        "C": "Leave unsupported.",
+        "D": "Near exhaust manifolds."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Kinks restrict airflow.",
+        "B": "Proper installation ensures reliable air delivery and line longevity.",
+        "C": "Unsupported lines vibrate and fail.",
+        "D": "Heat damages air lines."
+      }
+    },
+    {
+      "questionNumber": 330,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What procedure applies when servicing air dryers?",
+      "options": {
+        "A": "Never service air dryers.",
+        "B": "Replace desiccant, clean filters, check valves, verify operation.",
+        "C": "Reuse saturated desiccant.",
+        "D": "No service needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dryers require regular service.",
+        "B": "Proper service maintains moisture removal effectiveness.",
+        "C": "Saturated desiccant doesn't remove moisture.",
+        "D": "Dryer maintenance prevents system moisture problems."
+      }
+    },
+    {
+      "questionNumber": 331,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should pneumatic solenoid valves be replaced?",
+      "options": {
+        "A": "Install without electrical connections.",
+        "B": "Wire correctly per diagram, mount securely, verify operation electrically and pneumatically.",
+        "C": "Random wiring.",
+        "D": "No testing needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Solenoids require electrical power.",
+        "B": "Proper installation ensures valve operates as designed.",
+        "C": "Incorrect wiring damages solenoids or causes malfunction.",
+        "D": "Functional testing verifies installation."
+      }
+    },
+    {
+      "questionNumber": 332,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What must be verified when installing air compressor unloader valves?",
+      "options": {
+        "A": "Nothing needs verification.",
+        "B": "Proper operation at pressure switch cutoff, no air leaks, correct adjustment.",
+        "C": "Just install and ignore.",
+        "D": "Unloader function doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unloader function affects compressor efficiency and longevity.",
+        "B": "Proper unloader operation prevents compressor overload during startup.",
+        "C": "Verification ensures efficiency and prevents damage.",
+        "D": "Unloader valves are critical for compressor operation."
+      }
+    },
+    {
+      "questionNumber": 333,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should air receiver tanks be serviced?",
+      "options": {
+        "A": "Never drain or inspect.",
+        "B": "Drain regularly, inspect for corrosion, test safety valve, verify mounting.",
+        "C": "Ignore maintenance.",
+        "D": "Remove safety valves."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tanks accumulate moisture requiring draining and inspection.",
+        "B": "Proper tank maintenance prevents corrosion and ensures safety.",
+        "C": "Neglected tanks can fail catastrophically.",
+        "D": "Safety valves are required by law."
+      }
+    },
+    {
+      "questionNumber": 334,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What procedure applies when replacing air filters and separators?",
+      "options": {
+        "A": "Reuse old filters.",
+        "B": "Install new elements, check bowl for damage, drain condensate, verify operation.",
+        "C": "Leave dirty filters installed.",
+        "D": "Remove filters entirely."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Old filters don't clean effectively.",
+        "B": "Proper filter service ensures clean, dry air delivery.",
+        "C": "Dirty filters restrict flow and reduce efficiency.",
+        "D": "Removing filters allows contamination entry."
+      }
+    },
+    {
+      "questionNumber": 335,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should pneumatic quick disconnects be maintained?",
+      "options": {
+        "A": "Never clean or inspect.",
+        "B": "Keep clean, verify seal integrity, check automatic shutoff function.",
+        "C": "Use damaged connectors.",
+        "D": "Force dirty connections."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dirty disconnects leak and introduce contamination.",
+        "B": "Proper quick disconnect maintenance prevents leaks and contamination.",
+        "C": "Damaged connectors leak compressed air.",
+        "D": "Forcing introduces contamination and damages seals."
+      }
+    },
+    {
+      "questionNumber": 336,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What must be checked when replacing air compressor belts?",
+      "options": {
+        "A": "Just install any belt.",
+        "B": "Use correct belt type, adjust tension per specs, check pulley alignment and condition.",
+        "C": "Maximum tension always.",
+        "D": "Alignment doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wrong belts fail quickly.",
+        "B": "Proper belt selection and installation ensure reliable power transmission.",
+        "C": "Excessive tension damages bearings.",
+        "D": "Misalignment causes rapid belt wear."
+      }
+    },
+    {
+      "questionNumber": 337,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should air brake chamber diaphragms be replaced?",
+      "options": {
+        "A": "Reuse torn diaphragms.",
+        "B": "Relieve pressure, disassemble carefully, install new diaphragm, reassemble and test.",
+        "C": "Service while pressurized.",
+        "D": "No testing after installation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Torn diaphragms cause brake failure.",
+        "B": "Safe disassembly and testing ensure brake system reliability.",
+        "C": "Pressurized chambers are dangerous to disassemble.",
+        "D": "Testing verifies proper installation and function."
+      }
+    },
+    {
+      "questionNumber": 338,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What procedure prevents air leaks in pneumatic fittings?",
+      "options": {
+        "A": "Hand-tight only.",
+        "B": "Use thread sealant or tape rated for pneumatics, torque properly, test for leaks.",
+        "C": "No sealant needed.",
+        "D": "Overtighten until threads strip."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hand-tight typically doesn't seal adequately.",
+        "B": "Proper sealant and torque prevent leaks while avoiding damage.",
+        "C": "Most pneumatic fittings require sealant.",
+        "D": "Stripped threads cause worse leaks."
+      }
+    },
+    {
+      "questionNumber": 339,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should air compressor safety valves be tested?",
+      "options": {
+        "A": "Never test safety valves.",
+        "B": "Manually operate valve periodically to verify it opens and reseats properly.",
+        "C": "Disable safety valves.",
+        "D": "Testing isn't necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Safety valve testing is required by regulations.",
+        "B": "Regular testing ensures safety valve protects against over-pressure.",
+        "C": "Disabling creates dangerous over-pressure condition.",
+        "D": "Safety valve function must be verified regularly."
+      }
+    },
+    {
+      "questionNumber": 340,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What must be done after pneumatic system repairs?",
+      "options": {
+        "A": "Nothing required.",
+        "B": "Pressure test system, check all functions, verify no leaks, document work.",
+        "C": "Skip testing.",
+        "D": "Documentation isn't necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification ensures repairs were successful.",
+        "B": "Comprehensive testing and documentation ensure quality and safety.",
+        "C": "Testing identifies installation problems before return to service.",
+        "D": "Documentation supports warranty and maintenance tracking."
+      }
+    },
+    {
+      "questionNumber": 341,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should air lubricators be serviced?",
+      "options": {
+        "A": "Leave empty.",
+        "B": "Fill with correct pneumatic oil, adjust droplet rate, verify oil misting.",
+        "C": "Use any oil available.",
+        "D": "Lubricators don't need oil."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Empty lubricators don't lubricate tools.",
+        "B": "Proper oil type and rate protect pneumatic components.",
+        "C": "Wrong oil damages pneumatic tools.",
+        "D": "Lubricators require proper oil to function."
+      }
+    },
+    {
+      "questionNumber": 342,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What procedure applies when installing air pressure switches?",
+      "options": {
+        "A": "Random installation.",
+        "B": "Mount securely, wire correctly, adjust cut-in/cut-out pressures, test operation.",
+        "C": "No adjustment needed.",
+        "D": "Wiring doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise installation and adjustment are required.",
+        "B": "Proper switch installation ensures correct compressor cycling.",
+        "C": "Pressure settings must be adjusted.",
+        "D": "Incorrect wiring prevents switch operation."
+      }
+    },
+    {
+      "questionNumber": 343,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should pneumatic actuator speeds be adjusted?",
+      "options": {
+        "A": "Speed cannot be controlled.",
+        "B": "Using flow control valves or needle valves in supply or exhaust lines.",
+        "C": "Full speed always.",
+        "D": "By pressure only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flow restriction controls pneumatic speed.",
+        "B": "Flow controls allow speed adjustment for smooth operation.",
+        "C": "Controlled speed prevents impacts and improves precision.",
+        "D": "While pressure affects force, flow controls speed."
+      }
+    },
+    {
+      "questionNumber": 344,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What maintenance applies to air compressor intake filters?",
+      "options": {
+        "A": "Never change filters.",
+        "B": "Clean or replace per manufacturer intervals, inspect for damage, ensure proper fit.",
+        "C": "Remove and don't replace.",
+        "D": "Filters are permanent."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dirty filters reduce efficiency and cause wear.",
+        "B": "Clean filters protect compressor from contamination.",
+        "C": "Removing filters allows dirt to damage compressor.",
+        "D": "Filters require periodic replacement."
+      }
+    },
+    {
+      "questionNumber": 345,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should air brake slack adjusters be serviced?",
+      "options": {
+        "A": "Never adjust.",
+        "B": "Check and adjust to maintain proper rod travel, lubricate, verify operation.",
+        "C": "Maximum slack always.",
+        "D": "Adjustment isn't possible."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Slack adjusters require periodic adjustment.",
+        "B": "Proper adjustment ensures adequate braking force and prevents damage.",
+        "C": "Excessive slack reduces braking effectiveness.",
+        "D": "Manual slack adjusters are adjustable."
+      }
+    },
+    {
+      "questionNumber": 346,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What procedure applies when replacing air system check valves?",
+      "options": {
+        "A": "Install backwards.",
+        "B": "Install with correct flow direction, test for proper sealing and operation.",
+        "C": "Direction doesn't matter.",
+        "D": "No testing needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Backward installation prevents system operation.",
+        "B": "Correct orientation and testing ensure valve functions properly.",
+        "C": "Check valves are directional.",
+        "D": "Testing verifies check valve seals and opens correctly."
+      }
+    },
+    {
+      "questionNumber": 347,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "How should pneumatic cylinder cushions be adjusted?",
+      "options": {
+        "A": "Cushions cannot be adjusted.",
+        "B": "Adjust needle valves to slow deceleration at stroke end without hard impact.",
+        "C": "Full restriction always.",
+        "D": "Remove cushioning."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Most cushions have adjustable needle valves.",
+        "B": "Proper cushion adjustment extends cylinder life and reduces noise.",
+        "C": "Excessive restriction can prevent full stroke completion.",
+        "D": "Removing cushioning causes damaging impacts."
+      }
+    },
+    {
+      "questionNumber": 348,
+      "block": "C",
+      "task": "C-8",
+      "taskTitle": "Repairs hydraulic, hydrostatic and pneumatic systems",
+      "subtask": "C-8.03 Repairs pneumatic systems",
+      "question": "What safety consideration applies when servicing air systems?",
+      "options": {
+        "A": "No safety concerns exist.",
+        "B": "Relieve all pressure before service, use proper PPE, follow lockout/tagout procedures.",
+        "C": "Work on pressurized systems.",
+        "D": "Safety isn't important."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Compressed air systems have serious hazards.",
+        "B": "Proper safety procedures prevent injuries from stored energy.",
+        "C": "Pressurized air can cause severe injuries.",
+        "D": "Safety is essential when working with compressed air."
+      }
+    }
+  ]
+}

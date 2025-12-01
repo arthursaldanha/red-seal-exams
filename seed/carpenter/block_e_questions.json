@@ -1,0 +1,2360 @@
+{
+  "block": "E",
+  "blockTitle": "Performs Exterior Finishing",
+  "blockDescription": "Installs exterior doors, windows, roofing and wall cladding to complete the building envelope.",
+  "totalQuestions": 112,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "What is the primary purpose of shimming an exterior door frame?",
+      "options": {
+        "A": "To fill gaps for aesthetic purposes",
+        "B": "To provide proper alignment and prevent frame distortion",
+        "C": "To increase insulation value",
+        "D": "To attach finish trim more easily"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While shims may fill gaps, their primary purpose is structural alignment, not aesthetics",
+        "B": "Shimming ensures the frame is plumb, level, and square while preventing distortion when fastened, which is critical for proper door operation",
+        "C": "Insulation is placed around the frame; shims serve a different structural purpose",
+        "D": "Trim attachment is secondary to the structural alignment function of shims"
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "What is the maximum gap between an exterior door frame and rough opening that can be filled with spray foam insulation?",
+      "options": {
+        "A": "6 mm (1/4 in.)",
+        "B": "13 mm (1/2 in.)",
+        "C": "25 mm (1 in.)",
+        "D": "38 mm (1-1/2 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This gap is too small; larger gaps are commonly encountered and acceptable",
+        "B": "While manageable, gaps can be larger and still properly filled",
+        "C": "Gaps up to 25 mm can typically be filled with low-expansion spray foam; larger gaps may require backing material or additional framing",
+        "D": "This gap is excessive and would require backing material, not just foam"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.02 Installs exterior doors",
+      "question": "What is the minimum threshold height above the finished exterior surface for an exterior door?",
+      "options": {
+        "A": "No minimum required",
+        "B": "6 mm (1/4 in.)",
+        "C": "13 mm (1/2 in.)",
+        "D": "19 mm (3/4 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "A minimum height is required to prevent water infiltration",
+        "B": "This height is insufficient to prevent water entry during rain",
+        "C": "The threshold should be at least 13 mm (1/2 in.) above the exterior finished surface to prevent water infiltration",
+        "D": "While providing better protection, this exceeds the minimum requirement"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "Where should shims be placed when installing an exterior door frame?",
+      "options": {
+        "A": "Only at the top corners",
+        "B": "At hinge locations and lock strike, plus mid-height",
+        "C": "Randomly spaced every 600 mm",
+        "D": "Only at the bottom corners"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Top corner shimming alone is insufficient for proper door operation",
+        "B": "Shims must be placed at all hinge points, lock strike location, and at mid-height to prevent frame distortion and ensure proper door operation",
+        "C": "Random spacing doesn't address critical stress points at hardware locations",
+        "D": "Bottom-only shimming would leave the frame unsupported at critical points"
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "What is the purpose of a sill pan under an exterior window?",
+      "options": {
+        "A": "To provide structural support for the window",
+        "B": "To collect and drain water that penetrates behind the window",
+        "C": "To improve insulation at the sill",
+        "D": "To level the window installation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Structural support comes from proper framing, not the sill pan",
+        "B": "A sill pan creates a waterproof membrane that collects any water infiltration and directs it back to the exterior, preventing water damage",
+        "C": "While it may contribute to sealing, its primary purpose is water management",
+        "D": "Leveling is achieved through shimming, not the sill pan"
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.02 Installs exterior doors",
+      "question": "How should the gap between an exterior door and frame be adjusted for proper operation?",
+      "options": {
+        "A": "1.5 mm (1/16 in.) uniform clearance",
+        "B": "3 mm (1/8 in.) on sides and top, 6 mm (1/4 in.) at bottom",
+        "C": "6 mm (1/4 in.) uniform clearance",
+        "D": "No clearance; door should fit tightly"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This clearance is too tight and will cause binding, especially with seasonal wood movement",
+        "B": "Standard clearance is approximately 3 mm on sides and top for operation, with 6 mm at bottom to clear threshold and allow for air circulation",
+        "C": "This clearance is excessive and would allow drafts and moisture entry",
+        "D": "No clearance would prevent the door from opening and closing properly"
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "What is the correct sequence for installing window flashing?",
+      "options": {
+        "A": "Sill, sides, then head",
+        "B": "Head, sides, then sill",
+        "C": "Sides, head, then sill",
+        "D": "All at once in any order"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flashing should be installed from bottom to top (sill, sides, then head) so upper layers overlap lower layers, directing water outward",
+        "B": "This sequence would trap water behind the flashing",
+        "C": "Installing sides before sill doesn't provide proper water drainage",
+        "D": "Proper sequencing is critical for effective water management"
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.04 Installs exterior hardware",
+      "question": "What is the standard height for installing a door lockset from the finished floor?",
+      "options": {
+        "A": "860 mm (34 in.)",
+        "B": "965 mm (38 in.)",
+        "C": "1070 mm (42 in.)",
+        "D": "1200 mm (48 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This height is too low and would be uncomfortable for most users",
+        "B": "Standard lockset height is 965 mm (38 in.) from the finished floor to the center of the lockset, providing comfortable operation for most people",
+        "C": "This height is too high for comfortable access",
+        "D": "This height is excessively high and impractical"
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "What type of fastener is recommended for securing exterior door frames to wood framing?",
+      "options": {
+        "A": "Galvanized nails only",
+        "B": "3-inch screws through shims into framing",
+        "C": "Construction adhesive only",
+        "D": "Staples at 150 mm o.c."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Nails provide less holding power and adjustment capability than screws",
+        "B": "Screws (typically 75-80 mm long) driven through shims provide superior holding power, allow for adjustment, and won't back out over time",
+        "C": "Adhesive alone doesn't provide adequate structural attachment",
+        "D": "Staples are insufficient for the structural loads on door frames"
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "What is the minimum slope required for a window sill to ensure proper drainage?",
+      "options": {
+        "A": "Level (0° slope)",
+        "B": "1° minimum slope",
+        "C": "5° minimum slope",
+        "D": "15° minimum slope"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "A level sill will pool water and cause deterioration",
+        "B": "This slope is insufficient for reliable water drainage",
+        "C": "Window sills should have a minimum 5° slope (approximately 9% or 1:11 ratio) to ensure water drains away from the window",
+        "D": "While providing excellent drainage, this slope is steeper than required"
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.02 Installs exterior doors",
+      "question": "When installing a pre-hung exterior door, what should be checked first?",
+      "options": {
+        "A": "That the door opens smoothly",
+        "B": "That the rough opening is square, plumb, and correct size",
+        "C": "That all hardware is included",
+        "D": "That the finish matches adjacent doors"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Door operation is checked after installation, not before",
+        "B": "The rough opening must be verified as square, plumb, level, and properly sized before beginning installation to ensure proper fit and operation",
+        "C": "Hardware verification is important but secondary to opening preparation",
+        "D": "Finish matching is an aesthetic consideration after structural installation"
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.04 Installs exterior hardware",
+      "question": "What is the typical backset for an exterior door lockset?",
+      "options": {
+        "A": "44 mm (1-3/4 in.)",
+        "B": "60 mm (2-3/8 in.) or 70 mm (2-3/4 in.)",
+        "C": "100 mm (4 in.)",
+        "D": "125 mm (5 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This backset is too shallow for standard door thickness",
+        "B": "Standard lockset backsets are either 60 mm (2-3/8 in.) or 70 mm (2-3/4 in.), measured from door edge to center of lockset",
+        "C": "This backset is excessive and not standard for residential doors",
+        "D": "This distance would place the lockset impractically far from the door edge"
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "What material is commonly used for exterior door sill/threshold in residential construction?",
+      "options": {
+        "A": "Untreated lumber",
+        "B": "Aluminum or composite with weather seal",
+        "C": "Plywood",
+        "D": "Particleboard"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Untreated lumber would deteriorate rapidly from weather exposure",
+        "B": "Aluminum, vinyl, or composite thresholds with integral weather seals provide durability and weather resistance for exterior applications",
+        "C": "Plywood lacks the durability and weather resistance needed for thresholds",
+        "D": "Particleboard would fail quickly when exposed to moisture"
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "What is the purpose of setting blocks under a window during installation?",
+      "options": {
+        "A": "To prevent glass breakage during shipping",
+        "B": "To support the window weight and maintain proper position",
+        "C": "To improve insulation",
+        "D": "To create space for electrical wiring"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Shipping protection is removed before installation",
+        "B": "Setting blocks (typically placed at quarter points) support the window's weight and prevent sag, maintaining proper alignment and operation",
+        "C": "Insulation is placed around the window perimeter, not under setting blocks",
+        "D": "Electrical rough-in is separate from window support requirements"
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.02 Installs exterior doors",
+      "question": "What is the recommended swing direction for an exterior door?",
+      "options": {
+        "A": "Always swing inward",
+        "B": "Always swing outward",
+        "C": "Swing inward for security and weather protection",
+        "D": "Direction doesn't matter"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While inward swing is common, the reason is important",
+        "B": "Outward swing exposes hinges and reduces security",
+        "C": "Inward swing provides better security (hinges protected), easier to seal against weather, and allows storm doors to open outward",
+        "D": "Swing direction significantly affects security and weather performance"
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.04 Installs exterior hardware",
+      "question": "What grade of lockset is typically required for exterior residential doors?",
+      "options": {
+        "A": "Grade 1 (commercial heavy-duty)",
+        "B": "Grade 2 (residential heavy-duty)",
+        "C": "Grade 3 (residential light-duty)",
+        "D": "Any grade is acceptable"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Grade 1 exceeds residential requirements and is more expensive",
+        "B": "Grade 2 locksets provide adequate security and durability for residential exterior doors, meeting ANSI/BHMA standards",
+        "C": "Grade 3 is suitable for interior doors but insufficient for exterior security",
+        "D": "Grade selection is critical for security and performance"
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "How far should head flashing extend beyond the sides of a window opening?",
+      "options": {
+        "A": "Flush with window opening",
+        "B": "25 mm (1 in.) beyond each side",
+        "C": "50-75 mm (2-3 in.) beyond each side",
+        "D": "150 mm (6 in.) beyond each side"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Flashing must extend beyond the opening to direct water away",
+        "B": "This extension is insufficient to ensure water doesn't track back",
+        "C": "Head flashing should extend 50-75 mm beyond each side to ensure water is directed away from the window and wall assembly",
+        "D": "This extension is excessive and unnecessary"
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "What is the purpose of a drip cap above an exterior door?",
+      "options": {
+        "A": "Purely decorative",
+        "B": "To direct water away from the door and frame",
+        "C": "To support the door frame",
+        "D": "To provide mounting for lighting"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While improving appearance, the drip cap has an important functional purpose",
+        "B": "A drip cap (or head flashing) directs water away from the top of the door and prevents water infiltration into the wall assembly",
+        "C": "The framing provides structural support, not the drip cap",
+        "D": "Lighting mounts are separate from drip cap installation"
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.02 Installs exterior doors",
+      "question": "What is the standard thickness for an exterior residential door?",
+      "options": {
+        "A": "35 mm (1-3/8 in.)",
+        "B": "45 mm (1-3/4 in.)",
+        "C": "50 mm (2 in.)",
+        "D": "60 mm (2-3/8 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is the standard thickness for interior doors, not exterior",
+        "B": "Standard exterior residential doors are 45 mm (1-3/4 in.) thick to provide better insulation, security, and durability",
+        "C": "This thickness is used for some commercial applications but not standard residential",
+        "D": "This thickness exceeds standard exterior door requirements"
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.04 Installs exterior hardware",
+      "question": "What is the minimum number of hinges required for a standard exterior door?",
+      "options": {
+        "A": "Two hinges",
+        "B": "Three hinges",
+        "C": "Four hinges",
+        "D": "Five hinges"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Two hinges are insufficient for the weight and security needs of exterior doors",
+        "B": "Exterior doors require a minimum of three hinges to properly support the door weight and maintain alignment over time",
+        "C": "Four hinges may be used for extra-heavy doors but exceed the minimum",
+        "D": "Five hinges are rarely necessary and exceed standard requirements"
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "What type of sealant is typically used between a window frame and exterior finish?",
+      "options": {
+        "A": "Latex caulk",
+        "B": "Silicone or polyurethane sealant",
+        "C": "Construction adhesive",
+        "D": "Wood putty"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Latex caulk lacks the durability and flexibility for exterior exposure",
+        "B": "Silicone or polyurethane sealants provide excellent weather resistance, flexibility for movement, and long-term durability for exterior applications",
+        "C": "Construction adhesive is not designed for sealing joints",
+        "D": "Wood putty is for filling holes, not sealing moving joints"
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "When should shims be cut flush with the door frame?",
+      "options": {
+        "A": "Before fastening the frame",
+        "B": "After fastening but before insulating",
+        "C": "After insulation is installed",
+        "D": "Shims should never be cut flush"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cutting before fastening makes it difficult to adjust and verify alignment",
+        "B": "Shims should be scored and snapped flush after the frame is secured but before insulation, allowing verification of installation while preventing interference",
+        "C": "Leaving shims until after insulation can interfere with proper sealing",
+        "D": "Protruding shims must be trimmed to avoid interference with trim and finishes"
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.02 Installs exterior doors",
+      "question": "What is the purpose of weatherstripping on an exterior door?",
+      "options": {
+        "A": "To improve door appearance",
+        "B": "To reduce air infiltration and improve energy efficiency",
+        "C": "To make the door close quieter",
+        "D": "To protect the door finish"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Weatherstripping is primarily functional, not decorative",
+        "B": "Weatherstripping creates a seal between door and frame, preventing air infiltration, reducing energy loss, and blocking moisture entry",
+        "C": "While it may reduce noise, this is a secondary benefit",
+        "D": "Door finish is protected by paint or stain, not weatherstripping"
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "What is the purpose of weep holes in vinyl window frames?",
+      "options": {
+        "A": "To allow air circulation for ventilation",
+        "B": "To drain condensation and infiltrated water",
+        "C": "To equalize pressure",
+        "D": "To allow electrical wiring passage"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ventilation is separate from the drainage function of weep holes",
+        "B": "Weep holes allow condensation and any water that infiltrates the frame to drain to the exterior, preventing water accumulation and damage",
+        "C": "While they may affect pressure, drainage is the primary purpose",
+        "D": "Weep holes are far too small for electrical wiring"
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.04 Installs exterior hardware",
+      "question": "What is a deadbolt's minimum throw length for adequate security?",
+      "options": {
+        "A": "6 mm (1/4 in.)",
+        "B": "13 mm (1/2 in.)",
+        "C": "25 mm (1 in.)",
+        "D": "38 mm (1-1/2 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This throw is far too short to provide adequate security",
+        "B": "This throw length is insufficient to resist forced entry",
+        "C": "A minimum 25 mm (1 in.) throw ensures the deadbolt extends adequately into the strike plate and frame, providing effective security",
+        "D": "While providing extra security, this exceeds minimum requirements"
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "How should an exterior door frame be positioned relative to the exterior wall sheathing?",
+      "options": {
+        "A": "Flush with interior wall surface",
+        "B": "Flush with exterior sheathing",
+        "C": "Recessed behind sheathing to accommodate finish",
+        "D": "Extended beyond sheathing"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Interior position doesn't relate to exterior finish coordination",
+        "B": "The exterior edge of the frame should typically be flush with or slightly beyond the sheathing to allow proper flashing and siding installation",
+        "C": "Recessing behind sheathing creates water infiltration problems",
+        "D": "Excessive extension prevents proper flashing and finish installation"
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.02 Installs exterior doors",
+      "question": "What should be verified after installing an exterior door but before final trim?",
+      "options": {
+        "A": "Only that the door latches",
+        "B": "Door operates smoothly, reveals are even, and weatherstripping seals",
+        "C": "Only that hinges are tight",
+        "D": "Only that the lockset functions"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Latching alone doesn't verify proper installation",
+        "B": "Complete verification includes smooth operation through full swing, uniform reveals around door, proper weatherstrip compression, and secure hardware function",
+        "C": "Hinge tightness is important but doesn't verify overall installation",
+        "D": "Lockset function is one aspect but doesn't ensure proper door installation"
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "What is the recommended gap between a window frame and rough opening for insulation?",
+      "options": {
+        "A": "No gap; frame should fit tightly",
+        "B": "3-6 mm (1/8-1/4 in.)",
+        "C": "6-13 mm (1/4-1/2 in.)",
+        "D": "25 mm (1 in.) or more"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Some gap is necessary for insulation and adjustment",
+        "B": "This gap is too tight for proper insulation installation",
+        "C": "A 6-13 mm gap allows for proper window adjustment, shimming, and adequate space for insulation without excessive gaps",
+        "D": "Gaps this large are difficult to insulate properly and waste energy"
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.04 Installs exterior hardware",
+      "question": "Where should hinge screws be installed in an exterior door?",
+      "options": {
+        "A": "Into the door jamb only",
+        "B": "Through the jamb into the framing for at least one screw per hinge",
+        "C": "Into shims only",
+        "D": "Into the door edge only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Jamb-only installation doesn't provide adequate holding power",
+        "B": "At least one screw per hinge should be long enough to penetrate through the jamb and shims into solid framing, providing superior holding power",
+        "C": "Shims alone cannot provide adequate support",
+        "D": "Screws must secure the hinge to the jamb, not just into the door"
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "What type of wood is commonly used for exterior door jambs in residential construction?",
+      "options": {
+        "A": "Particleboard",
+        "B": "MDF (medium-density fiberboard)",
+        "C": "Pine, fir, or primed finger-jointed lumber",
+        "D": "Untreated plywood"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Particleboard lacks the strength and moisture resistance for exterior use",
+        "B": "MDF deteriorates when exposed to moisture",
+        "C": "Solid pine, fir, or factory-primed finger-jointed lumber provides adequate strength and, when properly finished, moisture resistance for exterior jambs",
+        "D": "Plywood is not suitable for jamb construction"
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.02 Installs exterior doors",
+      "question": "What is the purpose of a door sweep?",
+      "options": {
+        "A": "To clean the threshold",
+        "B": "To seal the gap at the door bottom and prevent drafts",
+        "C": "To protect the door finish",
+        "D": "To make the door easier to open"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Door sweeps are not cleaning devices",
+        "B": "A door sweep attaches to the door bottom and seals the gap above the threshold, preventing air infiltration, drafts, and pest entry",
+        "C": "Finish protection comes from paint or stain, not sweeps",
+        "D": "Sweeps create friction and don't make opening easier"
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "What should be done if a window is not level when set in the opening?",
+      "options": {
+        "A": "Install it anyway and adjust trim to hide",
+        "B": "Use shims to level the window before fastening",
+        "C": "Force it level by tightening fasteners",
+        "D": "Accept up to 25 mm out of level"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Installing an out-of-level window will cause operation problems",
+        "B": "Shims should be used at the sill to level the window before fastening, ensuring proper operation and preventing water pooling",
+        "C": "Forcing with fasteners will distort the frame and affect operation",
+        "D": "Even small deviations from level cause operation and drainage problems"
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.04 Installs exterior hardware",
+      "question": "What is the purpose of a strike plate on an exterior door?",
+      "options": {
+        "A": "To protect the jamb and receive the latch bolt",
+        "B": "To make the door look better",
+        "C": "To hold weatherstripping",
+        "D": "To prevent door swing"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "The strike plate reinforces the jamb, protects it from damage, and provides a strong, precisely located receptacle for the latch and deadbolt",
+        "B": "While it may improve appearance, protection is the primary purpose",
+        "C": "Weatherstripping mounts separately from the strike plate",
+        "D": "Door stops control swing, not strike plates"
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "How should the bottom of an exterior door jamb be treated to prevent moisture damage?",
+      "options": {
+        "A": "No treatment necessary",
+        "B": "Seal with paint or sealer before installation",
+        "C": "Soak in water to pre-condition",
+        "D": "Apply oil finish only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Untreated wood will absorb moisture and deteriorate",
+        "B": "The bottom of the jamb should be sealed with paint, primer, or water-repellent sealer before installation to prevent moisture wicking and rot",
+        "C": "Soaking would promote rot rather than prevent it",
+        "D": "Oil alone provides insufficient moisture protection"
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.02 Installs exterior doors",
+      "question": "What is the maximum allowable door warp for proper operation?",
+      "options": {
+        "A": "3 mm (1/8 in.)",
+        "B": "6 mm (1/4 in.)",
+        "C": "13 mm (1/2 in.)",
+        "D": "19 mm (3/4 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This tolerance is tighter than industry standards",
+        "B": "Door warp should not exceed 6 mm (1/4 in.) measured from corner to corner; excessive warp prevents proper sealing and operation",
+        "C": "This amount of warp would cause significant operation problems",
+        "D": "This warp is excessive and would make the door inoperable"
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "What is the purpose of a backer rod when sealing around windows?",
+      "options": {
+        "A": "To provide structural support",
+        "B": "To control sealant depth and improve adhesion",
+        "C": "To insulate the gap",
+        "D": "To prevent window movement"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Backer rod provides no structural support",
+        "B": "Backer rod controls sealant depth for proper width-to-depth ratio, prevents three-sided adhesion, and reduces sealant consumption",
+        "C": "Insulation fills larger gaps; backer rod is for sealant joints",
+        "D": "Window stability comes from proper installation, not backer rod"
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.04 Installs exterior hardware",
+      "question": "What screw length is typically used to secure exterior hinges?",
+      "options": {
+        "A": "25 mm (1 in.)",
+        "B": "38 mm (1-1/2 in.)",
+        "C": "50 mm (2 in.) or longer for at least one screw per hinge",
+        "D": "75 mm (3 in.) for all screws"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This length is too short to reach through jamb into framing",
+        "B": "Adequate for jamb attachment but not for structural screws",
+        "C": "Most screws are 38-50 mm, but at least one per hinge should be 50-75 mm to penetrate through the jamb and shims into solid framing",
+        "D": "While very secure, 75 mm for all screws is longer than necessary"
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.01 Installs exterior jambs/frames",
+      "question": "What is the purpose of a sill nosing on an exterior door?",
+      "options": {
+        "A": "To provide a decorative edge",
+        "B": "To create a drip edge that directs water away from the foundation",
+        "C": "To support the door weight",
+        "D": "To attach weatherstripping"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While it may be decorative, the primary purpose is functional",
+        "B": "The sill nosing extends beyond the foundation or wall surface, creating a drip edge that prevents water from running back under the sill",
+        "C": "Weight support comes from the framing, not the nosing",
+        "D": "Weatherstripping attaches to the threshold, not the nosing"
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.02 Installs exterior doors",
+      "question": "How should the hinge side of an exterior door frame be positioned?",
+      "options": {
+        "A": "Perfectly plumb (vertical)",
+        "B": "Leaning slightly inward at top",
+        "C": "Leaning slightly outward at top",
+        "D": "Position doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "The hinge jamb must be perfectly plumb to ensure the door swings freely and doesn't open or close on its own",
+        "B": "Inward lean would cause the door to swing closed by itself",
+        "C": "Outward lean would cause the door to swing open by itself",
+        "D": "Plumb is critical for proper door operation"
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "E",
+      "task": "E-14",
+      "taskTitle": "Installs exterior doors and windows",
+      "subtask": "E-14.03 Installs exterior windows",
+      "question": "What is the purpose of applying sealant between the window nailing fin and wall sheathing?",
+      "options": {
+        "A": "To provide structural support",
+        "B": "To create an air and water barrier",
+        "C": "To make installation easier",
+        "D": "To prevent window removal"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sealant provides no structural support",
+        "B": "Sealant between the fin and sheathing creates a continuous air and water barrier, preventing infiltration at this critical junction",
+        "C": "Sealant application requires extra effort, not less",
+        "D": "Window security comes from fasteners, not sealant"
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What is the primary purpose of roof underlayment?",
+      "options": {
+        "A": "To provide the finished roof surface",
+        "B": "To serve as a secondary water barrier under roofing",
+        "C": "To insulate the roof",
+        "D": "To prevent ice dam formation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Underlayment is covered by roofing material, not a finish surface",
+        "B": "Underlayment provides a critical secondary water barrier that protects against water infiltration if the primary roofing is compromised",
+        "C": "Insulation is installed below the roof deck, not as underlayment",
+        "D": "While it helps, ice dam prevention requires other measures like ventilation"
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "What is the minimum recommended slope for asphalt shingle installation?",
+      "options": {
+        "A": "1:12 (8.3%)",
+        "B": "2:12 (16.7%)",
+        "C": "3:12 (25%)",
+        "D": "4:12 (33.3%)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This slope is too shallow for standard asphalt shingles",
+        "B": "This slope requires special underlayment but is below normal minimums",
+        "C": "A 3:12 slope (3 inches rise per 12 inches run) is the minimum recommended for standard asphalt shingle application",
+        "D": "While providing better drainage, this exceeds the minimum requirement"
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "Where should ice and water shield membrane be installed?",
+      "options": {
+        "A": "Over the entire roof surface",
+        "B": "At eaves, valleys, and around penetrations",
+        "C": "Only at the ridge",
+        "D": "Ice shield is not necessary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Complete coverage is unnecessary and expensive",
+        "B": "Ice and water shield should be installed at vulnerable areas: eaves (typically 1-2 courses), valleys, around chimneys, vents, and other penetrations",
+        "C": "The ridge is not a critical ice dam area",
+        "D": "Ice shield is required in cold climates and recommended elsewhere"
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "What is the standard exposure for three-tab asphalt shingles?",
+      "options": {
+        "A": "100 mm (4 in.)",
+        "B": "125 mm (5 in.)",
+        "C": "150 mm (6 in.)",
+        "D": "200 mm (8 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This exposure is too small and wastes shingles",
+        "B": "Standard three-tab shingles have a 125 mm (5 in.) exposure, providing two layers of coverage for water protection",
+        "C": "This exposure is excessive and reduces water protection",
+        "D": "This exposure would leave insufficient overlap"
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What is the purpose of drip edge at roof eaves?",
+      "options": {
+        "A": "To provide color accent",
+        "B": "To direct water into gutters and protect fascia",
+        "C": "To support shingles",
+        "D": "To ventilate the roof"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Drip edge is functional, not decorative",
+        "B": "Drip edge directs water away from the fascia and into gutters, preventing water damage to roof edges and underlying structure",
+        "C": "Shingles are supported by the roof deck",
+        "D": "Ventilation is provided by specific vent systems"
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "How many nails are typically required per standard asphalt shingle?",
+      "options": {
+        "A": "Two nails",
+        "B": "Four nails",
+        "C": "Six nails",
+        "D": "Eight nails"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Two nails are insufficient to secure shingles against wind",
+        "B": "Standard three-tab shingles require four nails (or six in high-wind areas) placed according to manufacturer specifications",
+        "C": "Six nails are used in high-wind zones or for architectural shingles",
+        "D": "Eight nails would be excessive for standard shingles"
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "Where should roof valley flashing be installed relative to underlayment?",
+      "options": {
+        "A": "Under all underlayment",
+        "B": "Over all underlayment",
+        "C": "Between two layers of underlayment",
+        "D": "Valley flashing is not necessary"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Placing flashing under all underlayment doesn't provide proper protection",
+        "B": "Flashing over all underlayment can allow water to track behind it",
+        "C": "Valley flashing should be sandwiched between two layers of underlayment for optimal water protection - one layer below, one above the flashing",
+        "D": "Valley flashing is critical for water management in roof valleys"
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "What is the purpose of a starter course of shingles?",
+      "options": {
+        "A": "To cover the first course of shingles",
+        "B": "To provide backing and seal the eave edge",
+        "C": "To create a decorative border",
+        "D": "To ventilate the roof edge"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "The first course covers the starter, not vice versa",
+        "B": "The starter course provides a backing behind the first course cutouts and creates a seal at the eave to prevent wind-driven rain infiltration",
+        "C": "Starters are functional, not primarily decorative",
+        "D": "Ventilation comes from specific vent systems"
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What is the minimum overlap for horizontal underlayment courses?",
+      "options": {
+        "A": "25 mm (1 in.)",
+        "B": "50 mm (2 in.)",
+        "C": "75 mm (3 in.)",
+        "D": "150 mm (6 in.)"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "This overlap is far too small for water protection",
+        "B": "Still insufficient overlap for proper water shedding",
+        "C": "Marginal overlap that doesn't meet code requirements",
+        "D": "Horizontal underlayment laps should be minimum 150 mm (6 in.) to ensure water doesn't penetrate between courses"
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "How should shingles be offset between courses to prevent leaks?",
+      "options": {
+        "A": "Cutouts aligned vertically",
+        "B": "Offset by half a tab (approximately 150 mm)",
+        "C": "Random offset pattern",
+        "D": "No offset required"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Vertical alignment creates water channels and leak paths",
+        "B": "Shingles should be offset by half a tab between courses so cutouts don't align, preventing water infiltration paths",
+        "C": "Random patterns can accidentally align cutouts",
+        "D": "Offset is essential for water protection"
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What type of nails should be used for asphalt shingle installation?",
+      "options": {
+        "A": "Smooth shank common nails",
+        "B": "Galvanized roofing nails with large heads",
+        "C": "Finishing nails",
+        "D": "Staples"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Smooth shanks lack holding power and common nails have small heads",
+        "B": "Galvanized roofing nails with large heads (typically 10-12 mm diameter) and barbed or ring shanks provide weather resistance and superior holding power",
+        "C": "Finishing nails are too small and lack weather resistance",
+        "D": "Staples are not acceptable for shingle attachment"
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "What is the proper way to shingle a roof valley?",
+      "options": {
+        "A": "Closed cut valley or open valley with metal",
+        "B": "No special treatment needed",
+        "C": "Shingles perpendicular to valley",
+        "D": "Leave valley unprotected"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Valleys should be either closed cut (shingles woven or cut along valley), open with metal flashing showing, or California cut, all providing proper water channeling",
+        "B": "Valleys require special attention due to concentrated water flow",
+        "C": "Perpendicular orientation would create leak paths",
+        "D": "Unprotected valleys will leak and fail quickly"
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What is the purpose of roof ventilation?",
+      "options": {
+        "A": "To cool the living space",
+        "B": "To remove heat and moisture from the attic space",
+        "C": "To support the roof structure",
+        "D": "To provide emergency escape"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Roof ventilation affects attic temperature, not primarily living space",
+        "B": "Proper ventilation removes heat in summer and moisture year-round, preventing ice dams, extending shingle life, and preventing condensation damage",
+        "C": "Ventilation is not structural",
+        "D": "Emergency egress requires windows, not roof vents"
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "How should ridge cap shingles be installed?",
+      "options": {
+        "A": "Perpendicular to the ridge",
+        "B": "Parallel to the ridge with prevailing wind direction",
+        "C": "In alternating directions",
+        "D": "Ridge caps are not necessary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perpendicular installation would catch wind and fail",
+        "B": "Ridge caps should be installed parallel to the ridge, lapping in the direction of prevailing winds to prevent wind from getting under edges",
+        "C": "Alternating directions would allow water infiltration",
+        "D": "Ridge caps are essential for protecting the ridge opening"
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What is the recommended ratio of intake to exhaust ventilation?",
+      "options": {
+        "A": "All intake, no exhaust",
+        "B": "All exhaust, no intake",
+        "C": "Equal amounts of intake and exhaust (1:1)",
+        "D": "Twice as much exhaust as intake"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Intake alone provides no airflow path",
+        "B": "Exhaust alone creates negative pressure but no fresh air entry",
+        "C": "Balanced 1:1 ratio of intake (soffit vents) to exhaust (ridge/gable vents) creates proper airflow through the attic space",
+        "D": "Imbalanced ventilation reduces effectiveness"
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "How far should shingles extend beyond the drip edge at the eaves?",
+      "options": {
+        "A": "Flush with drip edge",
+        "B": "6-19 mm (1/4-3/4 in.) beyond drip edge",
+        "C": "50 mm (2 in.) beyond drip edge",
+        "D": "Shingles should not extend beyond drip edge"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flush installation doesn't allow for proper water drip",
+        "B": "Shingles should extend 6-19 mm beyond the drip edge to ensure water drips clear of the fascia and into gutters",
+        "C": "This overhang is excessive and may blow back in wind",
+        "D": "Some extension is necessary for proper water management"
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What is step flashing used for?",
+      "options": {
+        "A": "At roof valleys",
+        "B": "At the ridge",
+        "C": "Where roof meets a vertical wall or chimney",
+        "D": "At roof eaves"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Valleys use continuous valley flashing, not step flashing",
+        "B": "Ridge uses ridge cap shingles, not step flashing",
+        "C": "Step flashing consists of individual L-shaped pieces installed with each shingle course where the roof meets a vertical surface, directing water down and away",
+        "D": "Eaves use drip edge, not step flashing"
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "What should be done when installing shingles in cold weather?",
+      "options": {
+        "A": "Install normally; no special precautions needed",
+        "B": "Warm shingles and handle carefully to prevent cracking",
+        "C": "Use twice as many nails",
+        "D": "Installation is not possible in cold weather"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cold weather requires special handling to prevent damage",
+        "B": "Cold shingles are brittle; they should be stored in a warm area, handled carefully, and some manufacturers recommend hand-sealing tabs in cold weather",
+        "C": "Extra nails don't address brittleness issues",
+        "D": "Installation is possible with proper precautions"
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What is the purpose of a cricket or saddle?",
+      "options": {
+        "A": "To provide roof access",
+        "B": "To divert water around chimneys and prevent ice dams",
+        "C": "To support roof ventilation",
+        "D": "To attach shingles at ridge"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Roof access uses hatches or ladders, not crickets",
+        "B": "A cricket (or saddle) is a peaked structure built behind chimneys to divert water and debris around the obstruction, preventing water pooling and ice buildup",
+        "C": "Ventilation uses vents, not crickets",
+        "D": "Ridge attachment uses caps, not crickets"
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "Where should roofing nails be placed on asphalt shingles?",
+      "options": {
+        "A": "In the cutout areas",
+        "B": "Just above the adhesive strip in the nailing zone",
+        "C": "At the very top edge",
+        "D": "Randomly across the shingle"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Nailing in cutouts creates visible fasteners and doesn't secure properly",
+        "B": "Nails should be placed just above the adhesive strip in the designated nailing zone, typically 25-50 mm above the cutouts, ensuring coverage by the next course",
+        "C": "Top edge nailing doesn't provide adequate holding power",
+        "D": "Nail placement must follow manufacturer specifications"
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What is the minimum requirement for attic insulation clearance at roof vents?",
+      "options": {
+        "A": "No clearance required",
+        "B": "25 mm (1 in.) clearance",
+        "C": "50 mm (2 in.) clearance minimum",
+        "D": "150 mm (6 in.) clearance"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Insulation blocking vents defeats their purpose",
+        "B": "This clearance is insufficient for proper airflow",
+        "C": "A minimum 50 mm air space must be maintained between insulation and roof deck at eave vents to allow proper ventilation airflow",
+        "D": "This clearance is excessive and wastes insulation space"
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "What causes shingle blow-off?",
+      "options": {
+        "A": "Poor quality shingles only",
+        "B": "Improper nailing, insufficient nails, or exposure to high winds before sealing",
+        "C": "Normal aging process",
+        "D": "Excessive attic ventilation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While quality matters, installation technique is equally important",
+        "B": "Blow-off results from improper nail placement, insufficient nails, high winds before adhesive strips seal, or nails missing the roof deck",
+        "C": "Properly installed shingles should last many years",
+        "D": "Proper ventilation doesn't cause blow-off"
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "How should roof penetrations like plumbing vents be flashed?",
+      "options": {
+        "A": "With caulk only",
+        "B": "With rubber boot flashing integrated with shingles",
+        "C": "No flashing needed",
+        "D": "With tape"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Caulk alone will fail and allow water infiltration",
+        "B": "Plumbing vents require rubber boot flashing that fits over the pipe, with the base integrated into the shingle courses for proper water shedding",
+        "C": "All penetrations must be properly flashed",
+        "D": "Tape is insufficient for this application"
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "What is the minimum headlap for asphalt shingles?",
+      "options": {
+        "A": "25 mm (1 in.)",
+        "B": "50 mm (2 in.)",
+        "C": "75 mm (3 in.)",
+        "D": "100 mm (4 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This headlap is insufficient for water protection",
+        "B": "Minimum headlap (the distance from the top of the exposed shingle to the top of the shingle two courses below) should be at least 50 mm (2 in.)",
+        "C": "While providing extra protection, this exceeds minimum requirements",
+        "D": "This headlap would significantly reduce exposure and waste material"
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What is the purpose of a continuous ridge vent?",
+      "options": {
+        "A": "To provide emergency roof access",
+        "B": "To allow warm, moist air to exhaust from attic",
+        "C": "To attach ridge cap shingles",
+        "D": "To collect rainwater"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ridge vents are not for access purposes",
+        "B": "Ridge vents provide continuous exhaust along the roof peak, allowing warm, moist air to escape from the attic while preventing rain and snow entry",
+        "C": "Ridge caps cover the vent, not attach to it",
+        "D": "Ridge vents exhaust air, they don't collect water"
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "How should hip shingles be installed?",
+      "options": {
+        "A": "Perpendicular to the hip",
+        "B": "Parallel to the hip, overlapping toward the ridge",
+        "C": "Random orientation",
+        "D": "Hips don't need shingles"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perpendicular installation would catch wind and water",
+        "B": "Hip shingles should run parallel to the hip, lapping toward the ridge to shed water properly and resist wind",
+        "C": "Consistent orientation is essential for water protection",
+        "D": "Hips require cap shingles for proper weather sealing"
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What should be installed at the eaves in cold climates to prevent ice dams?",
+      "options": {
+        "A": "Extra shingles only",
+        "B": "Ice and water shield membrane",
+        "C": "Double underlayment",
+        "D": "Heating cables only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Extra shingles don't prevent ice dam water infiltration",
+        "B": "Ice and water shield (self-adhering membrane) should extend from the eave edge to at least 600 mm beyond the interior wall line to prevent ice dam damage",
+        "C": "Regular underlayment doesn't provide the waterproof seal needed",
+        "D": "Heating cables help prevent dams but don't protect against them"
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "What is the proper technique for cutting shingles?",
+      "options": {
+        "A": "Always use a saw",
+        "B": "Score with utility knife and bend to break",
+        "C": "Tear by hand",
+        "D": "Use scissors"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Saws can be used but aren't necessary for straight cuts",
+        "B": "Shingles are typically scored on the back with a utility knife, then bent to break cleanly along the score line - fast, clean, and safe",
+        "C": "Tearing creates irregular edges and is unprofessional",
+        "D": "Scissors are ineffective for cutting thick asphalt shingles"
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What is the net free ventilation area typically required for attic spaces?",
+      "options": {
+        "A": "1:150 (attic floor area)",
+        "B": "1:200",
+        "C": "1:300",
+        "D": "1:500"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This ratio provides excessive ventilation",
+        "B": "Still more than typically required",
+        "C": "The typical requirement is 1:300 ratio of net free ventilation area to attic floor area, which can be reduced to 1:600 with certain conditions",
+        "D": "This ratio provides insufficient ventilation"
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "What should be done before installing new shingles over an existing roof?",
+      "options": {
+        "A": "Always acceptable to install over old shingles",
+        "B": "Check for proper number of layers, damage, and local code requirements",
+        "C": "Never install over existing shingles",
+        "D": "Just clean the old roof"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Multiple layers aren't always acceptable",
+        "B": "Must verify only one existing layer (most codes), check for damage, ensure deck is sound, and comply with local codes before re-roofing over existing",
+        "C": "Re-roofing is sometimes acceptable but requires evaluation",
+        "D": "Cleaning alone doesn't address structural and code concerns"
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.01 Installs roofing components",
+      "question": "What type of underlayment is required for low-slope roofs (2:12 to 4:12)?",
+      "options": {
+        "A": "Standard felt paper",
+        "B": "Two layers of underlayment or ice and water shield",
+        "C": "No underlayment needed",
+        "D": "Single layer of synthetic underlayment"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Single layer is insufficient for low slopes",
+        "B": "Low-slope roofs require either two layers of underlayment or complete ice and water shield coverage due to increased risk of water infiltration",
+        "C": "Underlayment is critical, especially on low slopes",
+        "D": "Single layer, even synthetic, may be insufficient for low slopes"
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "E",
+      "task": "E-15",
+      "taskTitle": "Installs roofing",
+      "subtask": "E-15.02 Installs roof coverings",
+      "question": "How should architectural (laminated) shingles differ in installation from three-tab shingles?",
+      "options": {
+        "A": "No difference in installation",
+        "B": "Require more nails and may have different exposure",
+        "C": "Installed upside down",
+        "D": "Don't require starter course"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Architectural shingles have different installation requirements",
+        "B": "Architectural shingles typically require 6 nails (vs. 4), may have different exposure (often 5-5/8 in.), and need specific attention to alignment",
+        "C": "Orientation is the same as three-tab",
+        "D": "Starter course is still required"
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What is the primary purpose of building paper (housewrap)?",
+      "options": {
+        "A": "To provide finished wall surface",
+        "B": "To act as air and moisture barrier while allowing vapor to escape",
+        "C": "To insulate the wall",
+        "D": "To support siding"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Building paper is covered by siding, not a finish",
+        "B": "Housewrap creates a secondary barrier against air infiltration and bulk water while remaining vapor permeable, preventing moisture trapping in walls",
+        "C": "Insulation is installed inside the wall cavity",
+        "D": "Siding is supported by structural sheathing, not housewrap"
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is the minimum overlap for horizontal vinyl siding?",
+      "options": {
+        "A": "6 mm (1/4 in.)",
+        "B": "13 mm (1/2 in.)",
+        "C": "25 mm (1 in.)",
+        "D": "50 mm (2 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This overlap is too small for proper weather protection",
+        "B": "Still insufficient to ensure proper locking and weather seal",
+        "C": "Vinyl siding pieces should overlap by at least 25 mm (1 in.) to ensure proper locking and prevent wind-driven rain infiltration",
+        "D": "This overlap is excessive and would be visible"
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "How should building paper be overlapped?",
+      "options": {
+        "A": "Upper course over lower course (shingle fashion)",
+        "B": "Lower course over upper course",
+        "C": "Butt joints with no overlap",
+        "D": "Overlap direction doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Building paper must be installed shingle-style with upper courses overlapping lower courses to shed water downward and outward",
+        "B": "This would allow water to infiltrate behind the paper",
+        "C": "Butt joints would allow water penetration",
+        "D": "Proper overlap direction is critical for water management"
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is the standard exposure for traditional wood bevel siding?",
+      "options": {
+        "A": "50 mm (2 in.)",
+        "B": "100 mm (4 in.)",
+        "C": "Varies by siding width, typically 100-175 mm",
+        "D": "300 mm (12 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This exposure is too small for efficient installation",
+        "B": "Fixed exposure doesn't account for varying siding widths",
+        "C": "Exposure varies based on siding width, typically leaving 25-38 mm overlap, with common exposures ranging from 100-175 mm (4-7 in.)",
+        "D": "This exposure would be excessive for most bevel siding"
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "Where should vertical seams in building paper be located?",
+      "options": {
+        "A": "Over studs whenever possible",
+        "B": "Between studs in the cavity",
+        "C": "At corners only",
+        "D": "Vertical seams should be avoided"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Vertical seams should be located over studs where they can be properly secured and where the stud provides backing for overlap",
+        "B": "Seams between studs cannot be adequately fastened",
+        "C": "Seams throughout the wall are necessary due to paper width",
+        "D": "Vertical seams are inevitable and acceptable when properly detailed"
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "How should vinyl siding be fastened?",
+      "options": {
+        "A": "Nails driven tight against the siding",
+        "B": "Nails centered in slots, leaving 1 mm gap for expansion",
+        "C": "Screws driven tight",
+        "D": "Adhesive only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tight nailing prevents expansion and causes buckling",
+        "B": "Nails should be centered in slots with approximately 1 mm (1/32 in.) gap to allow for thermal expansion and contraction of vinyl",
+        "C": "Even with screws, tight fastening prevents movement",
+        "D": "Adhesive alone cannot accommodate vinyl movement"
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What is the purpose of J-channel in siding installation?",
+      "options": {
+        "A": "Structural support for siding",
+        "B": "To receive and trim siding ends at windows, doors, and corners",
+        "C": "To ventilate walls",
+        "D": "To insulate the wall"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "J-channel provides no structural support",
+        "B": "J-channel creates a neat receiver channel for siding ends at openings, corners, and transitions, providing a finished appearance and weather seal",
+        "C": "Ventilation requires specific vent products",
+        "D": "Insulation is separate from trim channels"
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is the minimum clearance between wood siding and grade?",
+      "options": {
+        "A": "No clearance required",
+        "B": "50 mm (2 in.)",
+        "C": "150 mm (6 in.)",
+        "D": "300 mm (12 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Clearance is essential to prevent moisture damage and rot",
+        "B": "This clearance is insufficient to prevent splash-back and moisture wicking",
+        "C": "Wood siding should be at least 150 mm (6 in.) above grade to prevent water splash, soil contact, and moisture damage",
+        "D": "While providing extra protection, this exceeds minimum requirements"
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What type of fastener should be used for building paper installation?",
+      "options": {
+        "A": "Staples or plastic cap nails",
+        "B": "Roofing nails",
+        "C": "Screws",
+        "D": "Adhesive only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Staples or plastic cap nails provide adequate holding while the large head or cap prevents tearing through the paper",
+        "B": "Standard roofing nails can tear the paper",
+        "C": "Screws are unnecessary for this application",
+        "D": "Fasteners are required; adhesive alone is insufficient"
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "How should fiber cement siding be cut?",
+      "options": {
+        "A": "Standard wood saw",
+        "B": "Score and snap like drywall",
+        "C": "Shears designed for fiber cement or saw with appropriate blade",
+        "D": "Never cut fiber cement"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Standard wood saws create excessive dust without proper blade",
+        "B": "Fiber cement is too dense and brittle for score and snap",
+        "C": "Fiber cement requires either specialized shears or saws with fiber cement blades, with appropriate dust control due to silica content",
+        "D": "Field cutting is necessary and acceptable with proper tools"
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What is the minimum overlap for horizontal building paper courses?",
+      "options": {
+        "A": "25 mm (1 in.)",
+        "B": "50 mm (2 in.)",
+        "C": "75-100 mm (3-4 in.)",
+        "D": "150 mm (6 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This overlap is too small for reliable water protection",
+        "B": "Still insufficient for proper water shedding",
+        "C": "Horizontal laps should be 75-100 mm (3-4 in.) to ensure water doesn't infiltrate between courses",
+        "D": "While providing extra protection, this exceeds typical requirements"
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is the purpose of a starter strip for vinyl siding?",
+      "options": {
+        "A": "Decorative trim",
+        "B": "To provide the proper angle and locking point for the first course",
+        "C": "To ventilate behind siding",
+        "D": "To insulate the wall bottom"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Starter strips are functional, hidden behind first course",
+        "B": "The starter strip provides the proper locking point and angle for the first course of siding, ensuring uniform installation and proper water shedding",
+        "C": "Ventilation requires different products",
+        "D": "Insulation is installed inside the wall"
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "How should building paper be installed around window openings?",
+      "options": {
+        "A": "Continuous over windows without cutting",
+        "B": "Cut and fold into opening, lapping in shingle fashion",
+        "C": "Leave gaps at openings",
+        "D": "Windows don't need paper integration"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paper must be integrated with window flashing",
+        "B": "Paper should be cut and folded into the opening, integrated with window flashing in proper sequence (sill, sides, head) to create continuous protection",
+        "C": "Gaps would allow water infiltration",
+        "D": "Window-to-wall interface is critical for water management"
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is the recommended face nail schedule for wood siding?",
+      "options": {
+        "A": "One nail every 600 mm",
+        "B": "Two nails per board at each stud crossing",
+        "C": "Nails every 50 mm along board",
+        "D": "No face nailing required"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Nailing only at some studs is insufficient",
+        "B": "Each siding board should be face-nailed with two nails at each stud location to prevent cupping while allowing for wood movement",
+        "C": "This nail spacing is excessive and would split the wood",
+        "D": "Face nailing is required for most wood siding applications"
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What is the purpose of corner flashing?",
+      "options": {
+        "A": "Decorative accent",
+        "B": "To protect vulnerable outside corners from water infiltration",
+        "C": "To support corner boards",
+        "D": "To provide color contrast"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Corner flashing is functional, often hidden behind trim",
+        "B": "Corner flashing protects outside corners where siding ends meet, preventing water infiltration into this vulnerable joint",
+        "C": "Corner boards are supported by structural framing",
+        "D": "Aesthetic considerations are secondary to water protection"
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "How should end joints in horizontal vinyl siding be handled?",
+      "options": {
+        "A": "Butt tightly together",
+        "B": "Overlap with 25 mm gap for expansion",
+        "C": "Leave small gap and use H-channel or lap joint",
+        "D": "Seal with caulk only"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Tight joints don't allow for thermal expansion",
+        "B": "Overlapping without proper detail would be visible and leak",
+        "C": "End joints should either use H-channel joining or proper lap with small expansion gap (typically 6-10 mm) away from fasteners",
+        "D": "Caulking interferes with necessary expansion movement"
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What is a rainscreen and when is it used?",
+      "options": {
+        "A": "A type of gutter system",
+        "B": "A gap behind siding that allows drainage and drying",
+        "C": "A waterproof coating",
+        "D": "A type of building paper"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Gutters are separate from wall rainscreen systems",
+        "B": "A rainscreen creates an air gap (typically 6-19 mm) behind siding using furring, allowing water drainage and wall assembly drying, improving durability",
+        "C": "Coatings are applied to surfaces, not air spaces",
+        "D": "Building paper is part of the wall assembly, not a rainscreen"
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What type of nails should be used for fiber cement siding?",
+      "options": {
+        "A": "Standard galvanized nails",
+        "B": "Stainless steel or hot-dipped galvanized nails",
+        "C": "Aluminum nails",
+        "D": "Uncoated steel nails"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Standard galvanized may not provide adequate corrosion resistance",
+        "B": "Fiber cement requires corrosion-resistant fasteners; stainless steel or hot-dipped galvanized nails prevent rust staining and ensure long-term holding",
+        "C": "Aluminum nails are too soft for fiber cement",
+        "D": "Uncoated nails will rust and stain the siding"
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "How should building paper be secured in high-wind areas?",
+      "options": {
+        "A": "Same as normal installation",
+        "B": "Use cap nails or staples at closer spacing (150-200 mm)",
+        "C": "Only at edges",
+        "D": "Tape only, no fasteners"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "High-wind areas require enhanced fastening",
+        "B": "In high-wind zones, building paper should be fastened at closer intervals (150-200 mm vs. standard 300-450 mm) to prevent billowing and tearing",
+        "C": "Edge-only fastening is insufficient in high winds",
+        "D": "Mechanical fasteners are essential; tape supplements but doesn't replace them"
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is the minimum thickness typically required for wood siding?",
+      "options": {
+        "A": "6 mm (1/4 in.)",
+        "B": "11 mm (7/16 in.)",
+        "C": "16 mm (5/8 in.)",
+        "D": "19 mm (3/4 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This thickness is too thin for structural and durability requirements",
+        "B": "Wood siding typically requires a minimum thickness of 11 mm (7/16 in.) at the butt end to provide adequate weather resistance and durability",
+        "C": "While thicker is acceptable, this exceeds minimum requirements",
+        "D": "This thickness is thicker than necessary for most applications"
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What is the purpose of taping building paper seams?",
+      "options": {
+        "A": "Required for all installations",
+        "B": "To enhance air sealing at critical locations",
+        "C": "To replace mechanical fasteners",
+        "D": "Purely decorative"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Taping isn't always required but is beneficial",
+        "B": "Taping seams and penetrations with compatible tape enhances air sealing and water resistance, particularly recommended around openings and in severe weather zones",
+        "C": "Tape supplements but doesn't replace mechanical fastening",
+        "D": "Tape serves an important functional purpose"
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "How should inside corners be treated with vinyl siding?",
+      "options": {
+        "A": "Butt pieces together",
+        "B": "Use inside corner post or J-channel",
+        "C": "Caulk only",
+        "D": "Leave open for ventilation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Butting pieces doesn't provide a finished, weathertight corner",
+        "B": "Inside corners require either a corner post that receives siding ends or back-to-back J-channel to create a neat, weathertight corner transition",
+        "C": "Caulk alone doesn't provide proper siding termination",
+        "D": "Corners must be weathertight, not open"
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What is the recommended maximum width for building paper installation before applying siding?",
+      "options": {
+        "A": "Install paper as siding progresses",
+        "B": "Complete all paper before any siding",
+        "C": "Stay within 8-10 m of siding application for UV protection",
+        "D": "Paper can be left exposed indefinitely"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Some advance installation is acceptable and practical",
+        "B": "Excessive advance installation risks UV degradation",
+        "C": "Building paper should not be left exposed to UV for extended periods; keep paper installation within reasonable distance of siding to prevent degradation",
+        "D": "Prolonged UV exposure degrades most building papers"
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What clearance should be maintained between fiber cement siding and roofing?",
+      "options": {
+        "A": "No clearance needed; butt tight",
+        "B": "3 mm (1/8 in.)",
+        "C": "6 mm (1/4 in.)",
+        "D": "25 mm (1 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Some clearance is necessary for proper water management",
+        "B": "This gap is minimal but may be insufficient",
+        "C": "A 6 mm (1/4 in.) gap is typically required between fiber cement siding and roof to prevent moisture wicking while maintaining weatherproofing",
+        "D": "This gap is excessive and difficult to seal properly"
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What flashing is required at the bottom of wall sections (kickout flashing)?",
+      "options": {
+        "A": "No special flashing needed",
+        "B": "Flashing that directs water from wall/roof junction away from wall",
+        "C": "Standard step flashing only",
+        "D": "Building paper is sufficient"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wall-to-roof transitions are vulnerable and require protection",
+        "B": "Kickout flashing at the bottom of wall/roof intersections directs water away from the wall and into gutters, preventing water infiltration behind siding",
+        "C": "Step flashing alone doesn't address the end condition",
+        "D": "Paper alone is insufficient at this critical junction"
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is the purpose of blind nailing wood siding?",
+      "options": {
+        "A": "Faster installation",
+        "B": "To hide nail heads and allow for wood movement",
+        "C": "To use fewer nails",
+        "D": "To prevent splitting only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Blind nailing actually requires more care than face nailing",
+        "B": "Blind nailing (nailing through the tongue or top edge covered by next course) hides fasteners and allows boards to expand/contract with moisture changes",
+        "C": "Similar numbers of nails are used regardless of method",
+        "D": "While it helps prevent splitting, concealment and movement are the primary benefits"
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "How should building paper handle roof-to-wall transitions?",
+      "options": {
+        "A": "Stop at roof line",
+        "B": "Extend onto roof deck minimum 150 mm, integrate with roof underlayment",
+        "C": "Leave gap at transition",
+        "D": "Overlap roof paper by 25 mm"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stopping at the roof creates a potential leak path",
+        "B": "Wall building paper should extend onto the roof deck (typically 150 mm minimum) and integrate with roof underlayment to create continuous protection",
+        "C": "Gaps would allow water infiltration",
+        "D": "Minimal overlap is insufficient at this critical junction"
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is a water table board?",
+      "options": {
+        "A": "A decorative top rail",
+        "B": "A horizontal trim board at foundation/wall transition that sheds water",
+        "C": "A board used around water features",
+        "D": "A temporary construction platform"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Water tables are at the bottom, not top, of walls",
+        "B": "A water table is a horizontal trim board installed at the foundation-to-wall transition that projects out to shed water away from the foundation",
+        "C": "The name relates to water management, not proximity to water features",
+        "D": "This describes scaffolding, not a water table"
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What is the purpose of Z-flashing?",
+      "options": {
+        "A": "Decorative accent",
+        "B": "To create a capillary break and direct water away from wall",
+        "C": "To support heavy siding",
+        "D": "To ventilate the wall"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Z-flashing is functional, often hidden behind siding",
+        "B": "Z-flashing's profile creates a capillary break at horizontal transitions (like between stories), preventing water from wicking back into the wall assembly",
+        "C": "Flashing provides no structural support",
+        "D": "Ventilation requires different products"
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "How should siding be installed around electrical outlets and fixtures?",
+      "options": {
+        "A": "Cut siding tight to box",
+        "B": "Leave large gaps and caulk",
+        "C": "Cut siding and use appropriate mounting blocks or trim rings",
+        "D": "Install fixture over siding"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Tight cutting is difficult and doesn't provide weatherproofing",
+        "B": "Large gaps look unprofessional and excessive caulk fails",
+        "C": "Siding should be cut to accommodate mounting blocks or trim rings that provide weathertight, professional transitions at electrical boxes and fixtures",
+        "D": "Fixtures need proper mounting, not just surface attachment"
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What is the recommended method for sealing building paper penetrations?",
+      "options": {
+        "A": "Leave unsealed for drainage",
+        "B": "Cut X pattern and fold back, seal with compatible tape or sealant",
+        "C": "Cut round hole, no sealing needed",
+        "D": "Caulk only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unsealed penetrations compromise the air and moisture barrier",
+        "B": "Penetrations should be cut in X pattern, paper folded around penetration, and sealed with compatible flashing tape or appropriate sealant",
+        "C": "Unsealed penetrations create leak paths",
+        "D": "Caulk alone may not adhere well or provide long-term seal"
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is the purpose of a drip cap above siding?",
+      "options": {
+        "A": "To collect water",
+        "B": "To direct water away from the joint below",
+        "C": "To support upper courses",
+        "D": "Purely decorative"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Drip caps shed water, they don't collect it",
+        "B": "Drip caps project beyond the siding plane to direct water away from horizontal joints below, preventing water infiltration",
+        "C": "Upper courses are supported by the wall structure",
+        "D": "While they may enhance appearance, their purpose is functional"
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What should be done at building paper tears or damage during construction?",
+      "options": {
+        "A": "Ignore small tears",
+        "B": "Patch with compatible material, overlapping minimum 150 mm shingle-fashion",
+        "C": "Cover with duct tape",
+        "D": "Replace entire section"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Even small tears compromise the barrier system",
+        "B": "Tears should be patched with compatible building paper or flashing tape, overlapping the damaged area by at least 150 mm in shingle fashion",
+        "C": "Duct tape is not appropriate for this application",
+        "D": "Complete section replacement is usually unnecessary if properly patched"
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What fastener penetration depth is required for siding nails into wood studs?",
+      "options": {
+        "A": "Just through sheathing",
+        "B": "19 mm (3/4 in.) into stud",
+        "C": "32 mm (1-1/4 in.) into stud minimum",
+        "D": "Through stud completely"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Sheathing alone doesn't provide adequate holding power",
+        "B": "This penetration is insufficient for long-term holding",
+        "C": "Nails should penetrate minimum 32 mm (1-1/4 in.) into solid wood framing to provide adequate holding power for siding",
+        "D": "Complete penetration is unnecessary and may cause splitting"
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What is the purpose of pan flashing?",
+      "options": {
+        "A": "To collect cooking splatter",
+        "B": "To provide a sloped barrier that collects and drains water at openings",
+        "C": "To ventilate walls",
+        "D": "To support wall structure"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pan flashing is a construction term, not related to cooking",
+        "B": "Pan flashing (like sill pans) creates a sloped waterproof barrier at the bottom of openings that collects any infiltrated water and directs it back outside",
+        "C": "Ventilation requires different products",
+        "D": "Flashing provides no structural support"
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "How should vertical siding boards be fastened?",
+      "options": {
+        "A": "Single nail at center of board",
+        "B": "Nails on both edges of each board",
+        "C": "One edge nailed, other edge free to move",
+        "D": "Adhesive only"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Center-only nailing allows both edges to cup",
+        "B": "Nailing both edges restricts wood movement and causes splitting",
+        "C": "Vertical boards should be nailed on one edge only, allowing the other edge to expand/contract freely with moisture changes, preventing splitting and cupping",
+        "D": "Adhesive cannot accommodate wood movement"
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "What type of housewrap is recommended in high-wind coastal areas?",
+      "options": {
+        "A": "Standard felt paper",
+        "B": "Heavy-duty or reinforced synthetic housewrap",
+        "C": "Plastic sheeting",
+        "D": "Any housewrap is adequate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Felt paper may not provide adequate tear resistance in high winds",
+        "B": "High-wind areas require heavy-duty or reinforced housewraps with superior tear resistance and fastener-holding capability to withstand wind loading",
+        "C": "Plastic sheeting is not vapor-permeable and not designed for this application",
+        "D": "Standard housewraps may be insufficient in severe exposure conditions"
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is the purpose of a frieze board?",
+      "options": {
+        "A": "To provide structural support at wall top",
+        "B": "To create a decorative and weathertight transition between siding and soffit",
+        "C": "To ventilate the attic",
+        "D": "To collect water"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Frieze boards are trim, not structural elements",
+        "B": "A frieze board is installed where the wall meets the soffit, providing a neat, weathertight transition that protects the top edge of siding",
+        "C": "Ventilation occurs at soffits, not through the frieze board",
+        "D": "Frieze boards shed water, they don't collect it"
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.01 Installs exterior wall components",
+      "question": "When is additional flashing required at deck ledger connections to walls?",
+      "options": {
+        "A": "Never required",
+        "B": "Always required to prevent water infiltration behind ledger",
+        "C": "Only on south-facing walls",
+        "D": "Only if ledger is pressure-treated"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Deck ledger connections are highly vulnerable to water damage",
+        "B": "Deck ledgers require proper flashing above and behind to prevent water from infiltrating between ledger and wall, a common cause of serious structural damage",
+        "C": "All orientations require proper flashing",
+        "D": "Treated lumber resists decay but doesn't eliminate need for proper flashing"
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "E",
+      "task": "E-16",
+      "taskTitle": "Installs exterior finishes",
+      "subtask": "E-16.02 Installs exterior wall coverings",
+      "question": "What is the recommended maximum length for vinyl siding panels to prevent buckling?",
+      "options": {
+        "A": "3 m (10 ft.)",
+        "B": "6 m (20 ft.)",
+        "C": "Panels should be cut to 3.6 m (12 ft.) maximum for expansion control",
+        "D": "Unlimited length if properly fastened"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This length is unnecessarily short and creates extra joints",
+        "B": "This length may allow excessive expansion movement",
+        "C": "Vinyl siding panels should generally be limited to approximately 3.6 m (12 ft.) lengths to control thermal expansion and prevent buckling or distortion",
+        "D": "Excessive length will buckle regardless of fastening method"
+      }
+    }
+  ]
+}

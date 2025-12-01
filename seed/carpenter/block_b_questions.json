@@ -1,0 +1,2360 @@
+{
+  "block": "B",
+  "blockTitle": "Performs Planning and Layout",
+  "blockDescription": "Interprets drawings and specs, plans work, and lays out structures, components and reference lines.",
+  "totalQuestions": 112,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.01 Interprets project drawings",
+      "question": "What is the purpose of a section drawing in construction documents?",
+      "options": {
+        "A": "To show the overall site layout",
+        "B": "To show a vertical cut through the building revealing interior construction details",
+        "C": "To provide a three-dimensional view",
+        "D": "To indicate material quantities"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Site layout is shown on site plans, not section drawings which focus on vertical construction details.",
+        "B": "Section drawings show a vertical slice through the building, revealing wall assemblies, floor/ceiling construction, foundation details, and vertical relationships between building elements.",
+        "C": "Three-dimensional views are shown in isometric or perspective drawings, not sections which are two-dimensional cuts.",
+        "D": "Material quantities are determined from drawings but sections primarily show construction methods and details, not quantities."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.01 Interprets project drawings",
+      "question": "A drawing shows a scale of 1/4\" = 1'-0\". What is the actual length of a wall that measures 3 inches on the drawing?",
+      "options": {
+        "A": "3 feet",
+        "B": "6 feet",
+        "C": "12 feet",
+        "D": "36 feet"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This would be correct if the scale were 1\" = 1'-0\", but the actual scale is 1/4\" = 1'-0\".",
+        "B": "This incorrectly applies a 2:1 conversion; the proper scale ratio must be calculated correctly.",
+        "C": "At 1/4\" = 1'-0\" scale, each 1/4\" represents 1 foot. Therefore 3\" ÷ 0.25\" = 12, so the wall is 12 feet long.",
+        "D": "This incorrectly multiplies the drawing measurement by 12 without considering the scale ratio."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.01 Interprets project drawings",
+      "question": "What does a dashed line typically represent on a floor plan?",
+      "options": {
+        "A": "Walls to be demolished",
+        "B": "Hidden or overhead features such as beams or upper cabinets",
+        "C": "Property lines",
+        "D": "Centerlines"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Demolition is typically shown with specific demolition symbols or notes, not standard dashed lines.",
+        "B": "Dashed lines on floor plans conventionally indicate features above the cut plane, such as overhead beams, upper kitchen cabinets, or door swings.",
+        "C": "Property lines are usually shown with a specific symbol (often dot-dash pattern) different from simple dashed lines.",
+        "D": "Centerlines use a specific dash-dot-dash pattern, different from the dashed lines showing hidden features."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.01 Interprets project drawings",
+      "question": "What information is found in the title block of a construction drawing?",
+      "options": {
+        "A": "Detailed material specifications only",
+        "B": "Project name, drawing number, date, scale, and designer information",
+        "C": "Cost estimates",
+        "D": "Construction schedule"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Material specifications are found in spec sheets or detail callouts, not in the title block.",
+        "B": "Title blocks contain essential drawing identification: project name, sheet number, revision dates, scale, architect/engineer information, and often approval stamps.",
+        "C": "Cost estimates are separate documents, not part of drawing title blocks.",
+        "D": "Construction schedules are separate planning documents, not included in drawing title blocks."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.01 Interprets project drawings",
+      "question": "What does the symbol 'Ø' represent on architectural drawings?",
+      "options": {
+        "A": "Degrees",
+        "B": "Diameter",
+        "C": "Radius",
+        "D": "Circumference"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Degrees are represented by the ° symbol, not Ø.",
+        "B": "The symbol Ø indicates diameter, used to specify the size of circular elements like columns, pipes, or holes.",
+        "C": "Radius is indicated by 'R' followed by the dimension, not the Ø symbol.",
+        "D": "Circumference is not commonly dimensioned on drawings; diameter or radius are standard specifications for circles."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.01 Interprets project drawings",
+      "question": "On an elevation drawing, what does 'F.F.' typically stand for?",
+      "options": {
+        "A": "Final Finish",
+        "B": "Front Face",
+        "C": "Finished Floor",
+        "D": "Fire Foundation"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While 'finish' is part of the term, F.F. specifically refers to floor elevation, not general finishes.",
+        "B": "Front face is not a standard abbreviation; F.F. relates to elevation datums, not building faces.",
+        "C": "F.F. means 'Finished Floor' and is used as an elevation datum to reference heights of windows, doors, and other building elements.",
+        "D": "Fire foundation is not a standard construction term; F.F. refers to finished floor elevation."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.01 Interprets project drawings",
+      "question": "What is the purpose of a detail callout bubble on a construction drawing?",
+      "options": {
+        "A": "To indicate the construction sequence",
+        "B": "To reference an enlarged detail drawing showing specific construction information",
+        "C": "To show material costs",
+        "D": "To mark areas requiring inspection"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Construction sequencing is shown in schedules or specifications, not in detail callout symbols.",
+        "B": "Detail callout bubbles reference enlarged drawings (often with the detail number on top and sheet number on bottom) that show construction specifics too small for plan scale.",
+        "C": "Material costs are not indicated on construction drawings; they're in separate estimating documents.",
+        "D": "Inspection requirements are noted in specifications or with specific inspection symbols, not detail callouts."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.01 Interprets project drawings",
+      "question": "When reading a roof plan, what does the arrow symbol typically indicate?",
+      "options": {
+        "A": "North direction",
+        "B": "Water flow direction or roof slope direction",
+        "C": "Wind load direction",
+        "D": "Construction access route"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "North direction is shown with a separate north arrow symbol, not the slope arrows on roof plans.",
+        "B": "Arrows on roof plans indicate the direction of roof slope (from high to low point) showing how water will flow off the roof.",
+        "C": "Wind loads are specified in engineering calculations and notes, not shown with arrows on roof plans.",
+        "D": "Access routes are not typically indicated with arrows on roof plans; these show drainage patterns."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.01 Interprets project drawings",
+      "question": "What does 'O.C.' mean in construction drawings?",
+      "options": {
+        "A": "Overall Coverage",
+        "B": "On Center",
+        "C": "Outside Corner",
+        "D": "Optional Component"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Overall coverage is not a standard construction abbreviation; O.C. relates to spacing measurements.",
+        "B": "O.C. means 'On Center' and indicates spacing measured from the center of one element to the center of the next (e.g., studs at 16\" O.C.).",
+        "C": "Outside corner would typically be abbreviated differently; O.C. is a spacing term.",
+        "D": "Optional components are noted differently in drawings; O.C. is a standard spacing designation."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.01 Interprets project drawings",
+      "question": "In a door schedule, what does '3070' typically represent?",
+      "options": {
+        "A": "Door cost code",
+        "B": "Door width 3'-0\" and height 7'-0\"",
+        "C": "Door weight in pounds",
+        "D": "Door manufacturer code"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cost codes are separate from dimensional designations; 3070 indicates physical size.",
+        "B": "Door designation 3070 means 3'-0\" wide by 7'-0\" high, a standard format where first digits are width and last digits are height in feet.",
+        "C": "Door weights are specified separately, not in the standard door size designation.",
+        "D": "Manufacturer codes are alphanumeric and different from size designations like 3070."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.02 Interprets specifications",
+      "question": "What is the primary purpose of Division 06 in the CSI MasterFormat specification?",
+      "options": {
+        "A": "Concrete work",
+        "B": "Wood, Plastics, and Composites",
+        "C": "Thermal and Moisture Protection",
+        "D": "Finishes"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Concrete work is covered in Division 03, not Division 06.",
+        "B": "Division 06 covers Wood, Plastics, and Composites, including rough carpentry, finish carpentry, architectural woodwork, and related materials.",
+        "C": "Thermal and Moisture Protection is Division 07, which includes roofing and waterproofing.",
+        "D": "Finishes are covered in Division 09, including drywall, flooring, and painting."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.02 Interprets specifications",
+      "question": "When specifications state 'or approved equal,' what does this mean?",
+      "options": {
+        "A": "Any product can be substituted",
+        "B": "Only the specified product can be used",
+        "C": "Alternative products of equivalent quality may be submitted for approval",
+        "D": "The contractor chooses any comparable product"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Not any product qualifies; alternatives must be equivalent and require approval before substitution.",
+        "B": "This describes a 'sole source' specification; 'or approved equal' explicitly allows alternatives.",
+        "C": "'Or approved equal' allows contractors to propose alternative products that meet or exceed specified performance, subject to architect/engineer approval.",
+        "D": "Contractor cannot unilaterally substitute; proposed alternatives require approval from design professionals."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.02 Interprets specifications",
+      "question": "What does 'NLT' mean when specified for lumber dimensions?",
+      "options": {
+        "A": "Not Less Than",
+        "B": "Natural Light Treatment",
+        "C": "Nominal Lumber Thickness",
+        "D": "New Lumber Type"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "NLT means 'Not Less Than' and specifies minimum acceptable dimensions, important since actual lumber sizes are smaller than nominal sizes.",
+        "B": "Natural light treatment is not a standard lumber specification term.",
+        "C": "While relating to lumber, NLT specifically means 'not less than,' not nominal thickness.",
+        "D": "NLT is a dimensional tolerance specification, not a lumber classification."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.02 Interprets specifications",
+      "question": "In specifications, what does the term 'mock-up' refer to?",
+      "options": {
+        "A": "A preliminary cost estimate",
+        "B": "A full-scale sample of construction assembly for quality approval before proceeding",
+        "C": "A scale model of the building",
+        "D": "A rejected construction method"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cost estimates are separate documents; mock-ups are physical construction samples.",
+        "B": "A mock-up is a full-size sample of an assembly (like a wall section) built to verify materials, methods, and appearance meet specifications before full production.",
+        "C": "Scale models are for visualization; mock-ups are full-scale samples of actual construction assemblies.",
+        "D": "Mock-ups are approval tools for quality, not indicators of rejection."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.02 Interprets specifications",
+      "question": "What grade of Douglas Fir lumber is typically specified for structural framing?",
+      "options": {
+        "A": "Select Structural or No. 1",
+        "B": "No. 3 or Stud Grade",
+        "C": "Clear or Select",
+        "D": "Economy or Utility"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Select Structural and No. 1 grades provide the strength and quality required for load-bearing structural framing applications.",
+        "B": "No. 3 and Stud grades are lower strength grades suitable for non-structural applications or light-duty framing only.",
+        "C": "Clear and Select are appearance grades for finish work, not structural grading categories.",
+        "D": "Economy and Utility are the lowest grades, unsuitable for structural applications."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.02 Interprets specifications",
+      "question": "When specifications call for 'kiln-dried' lumber, what maximum moisture content is typically required?",
+      "options": {
+        "A": "9%",
+        "B": "19%",
+        "C": "29%",
+        "D": "39%"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "9% is very dry (sometimes specified as 'MC9' for precision millwork) but exceeds typical kiln-dried requirements.",
+        "B": "Standard kiln-dried lumber is dried to 19% moisture content or less (often marked 'KD-19' or 'S-DRY'), suitable for most construction applications.",
+        "C": "29% moisture content would still be considered partially green; kiln-dried lumber must be drier.",
+        "D": "39% is far too wet and would be considered green lumber, not kiln-dried."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.02 Interprets specifications",
+      "question": "What does the specification term 'pre-primed' mean for trim materials?",
+      "options": {
+        "A": "Already fully painted and ready to install",
+        "B": "Factory-applied primer coat requiring finish paint on site",
+        "C": "Materials that cannot be painted",
+        "D": "Surface prepared but not coated"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pre-primed means primer only is applied; finish coats must still be applied after installation.",
+        "B": "Pre-primed materials have factory-applied primer, providing better coverage and allowing field application of finish paint after installation.",
+        "C": "Pre-primed specifically indicates materials prepared for painting with primer already applied.",
+        "D": "Pre-primed means primer is applied, not just surface preparation without coating."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.02 Interprets specifications",
+      "question": "In specifications, what does 'AFF' stand for?",
+      "options": {
+        "A": "After Final Finish",
+        "B": "Above Finished Floor",
+        "C": "Approved For Framing",
+        "D": "All Floors Finished"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is not a standard construction abbreviation; AFF relates to elevation measurements.",
+        "B": "AFF means 'Above Finished Floor' and is used to dimension heights of elements from the finished floor surface as a reference point.",
+        "C": "Approval notations use different abbreviations; AFF is an elevation reference.",
+        "D": "This is not a standard term; AFF is a specific dimensional reference for heights."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.02 Interprets specifications",
+      "question": "What does 'ACQ' refer to in treated lumber specifications?",
+      "options": {
+        "A": "A quality control standard",
+        "B": "Alkaline Copper Quaternary, a wood preservative treatment",
+        "C": "Approved Carpenter Quality",
+        "D": "Advanced Construction Quality"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "ACQ is a specific preservative chemical compound, not a quality standard.",
+        "B": "ACQ (Alkaline Copper Quaternary) is a wood preservative treatment used for pressure-treated lumber, providing rot and insect resistance without arsenic compounds.",
+        "C": "There is no standard called 'Approved Carpenter Quality'; ACQ is a preservative treatment.",
+        "D": "ACQ is a specific chemical preservative, not a construction quality designation."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.02 Interprets specifications",
+      "question": "When specifications require 'concealed fasteners,' what does this mean?",
+      "options": {
+        "A": "Fasteners must be painted to match",
+        "B": "Fasteners must not be visible on finished surfaces",
+        "C": "Fasteners must be located in hidden walls",
+        "D": "Use of specialized security fasteners"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Painting fasteners doesn't make them concealed; truly concealed fasteners are not visible at all.",
+        "B": "Concealed fasteners are installed so they're not visible on exposed surfaces, using methods like blind nailing, pocket screws, or proprietary hidden fastening systems.",
+        "C": "Concealed refers to visibility on finished surfaces, not location within hidden building components.",
+        "D": "Security fasteners are a different specification; concealed refers to aesthetic invisibility."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.03 Interprets safety documentation",
+      "question": "What information must be included on a Safety Data Sheet (SDS)?",
+      "options": {
+        "A": "Product cost only",
+        "B": "Hazard identification, handling precautions, emergency procedures, and disposal requirements",
+        "C": "Installation instructions only",
+        "D": "Warranty information"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "SDS focuses on safety information, not pricing; cost is irrelevant to worker protection.",
+        "B": "SDS must include hazard identification, safe handling procedures, PPE requirements, first aid measures, fire-fighting measures, and disposal considerations per regulatory requirements.",
+        "C": "While some handling information appears on SDS, the primary purpose is safety, not installation procedures.",
+        "D": "Warranties are commercial information separate from safety data sheets."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.03 Interprets safety documentation",
+      "question": "On a site-specific safety plan, what does a 'designated assembly point' refer to?",
+      "options": {
+        "A": "Where materials are staged",
+        "B": "Location where workers gather during emergency evacuation",
+        "C": "Tool storage area",
+        "D": "Lunch break location"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Material staging areas serve logistics, not emergency safety; assembly points are for evacuations.",
+        "B": "The designated assembly point is a safe location away from the building where all workers must gather during emergencies for accountability and further instructions.",
+        "C": "Tool storage is for equipment security, not emergency procedures.",
+        "D": "Break areas are for routine use; assembly points are specifically for emergency situations."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.03 Interprets safety documentation",
+      "question": "What does WHMIS stand for in Canadian safety documentation?",
+      "options": {
+        "A": "Workers Health Management Information System",
+        "B": "Workplace Hazardous Materials Information System",
+        "C": "Workshop Handling and Material Inspection Standards",
+        "D": "Warning for Harmful Materials In Storage"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While health is part of WHMIS, this is not the correct full name of the system.",
+        "B": "WHMIS (Workplace Hazardous Materials Information System) is Canada's hazard communication standard providing information about hazardous products through labels, SDS, and training.",
+        "C": "This is not a recognized safety system; WHMIS specifically addresses hazardous materials information.",
+        "D": "WHMIS is much broader than storage warnings; it's a comprehensive hazard communication system."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.03 Interprets safety documentation",
+      "question": "What does a red diamond-shaped WHMIS symbol with a flame indicate?",
+      "options": {
+        "A": "Corrosive material",
+        "B": "Flammable material",
+        "C": "Poisonous material",
+        "D": "Compressed gas"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Corrosive materials are shown with a symbol of material eating through a surface and hand, not a flame.",
+        "B": "The flame symbol in WHMIS indicates flammable or combustible materials that can easily ignite and burn.",
+        "C": "Poisonous materials use a skull and crossbones symbol, not a flame.",
+        "D": "Compressed gas cylinders are shown with a gas cylinder symbol, not a flame."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.03 Interprets safety documentation",
+      "question": "In a fall protection plan, what information must be documented?",
+      "options": {
+        "A": "Worker names only",
+        "B": "Identified fall hazards, protection methods, rescue procedures, and training records",
+        "C": "Equipment costs",
+        "D": "Weather conditions only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While worker identification may be included, comprehensive fall protection plans require much more safety information.",
+        "B": "Fall protection plans must identify specific hazards, describe protection systems to be used, outline rescue procedures, and document that workers are trained in fall protection use.",
+        "C": "Equipment costs are budgetary concerns, not part of safety plan documentation.",
+        "D": "Weather may affect work, but fall protection plans must address hazards, controls, and procedures, not just conditions."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.03 Interprets safety documentation",
+      "question": "What does 'LOTO' mean in safety procedures?",
+      "options": {
+        "A": "Load Over Ten Ounces",
+        "B": "Lockout/Tagout",
+        "C": "Lift Only Trained Operators",
+        "D": "Low Overhead Tolerance Only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is not a recognized safety term; LOTO relates to energy control procedures.",
+        "B": "LOTO (Lockout/Tagout) is the safety procedure for controlling hazardous energy by physically locking and tagging equipment to prevent unexpected startup during maintenance.",
+        "C": "Operator training requirements use different terminology; LOTO specifically addresses energy control.",
+        "D": "This is not a standard safety term; LOTO is an energy isolation procedure."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.03 Interprets safety documentation",
+      "question": "What is the purpose of a Job Safety Analysis (JSA)?",
+      "options": {
+        "A": "To calculate project costs",
+        "B": "To identify hazards in specific tasks and establish controls before work begins",
+        "C": "To schedule work activities",
+        "D": "To evaluate worker performance"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "JSAs focus on safety, not cost analysis which is handled in separate estimating processes.",
+        "B": "A JSA systematically examines job tasks to identify potential hazards and determine proper safeguards before work starts, preventing injuries.",
+        "C": "Scheduling is a separate planning function; JSAs specifically address safety hazards.",
+        "D": "Performance evaluation is a management function; JSAs analyze task hazards, not worker capabilities."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.03 Interprets safety documentation",
+      "question": "On a site safety plan, what does 'confined space' classification require?",
+      "options": {
+        "A": "Standard entry procedures",
+        "B": "Special entry permits, atmospheric testing, and rescue procedures",
+        "C": "No special requirements",
+        "D": "Supervisor presence only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Confined spaces require much more stringent procedures than standard entry due to serious hazards.",
+        "B": "Confined space entry requires permits, atmospheric testing for oxygen and contaminants, ventilation, rescue plans, and specialized training due to serious hazards.",
+        "C": "Confined spaces present significant risks requiring comprehensive safety protocols and controls.",
+        "D": "While supervision is important, confined space entry requires specific permits, testing, and procedures beyond supervision alone."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.03 Interprets safety documentation",
+      "question": "What must be posted at a construction site entrance according to most safety regulations?",
+      "options": {
+        "A": "Architect's contact information only",
+        "B": "Emergency contact numbers, site safety rules, and required permits",
+        "C": "Material delivery schedule",
+        "D": "Weather forecast"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While contact information may be posted, safety regulations require broader safety and emergency information.",
+        "B": "Site entrances must display emergency contacts, safety rules, permits, and other regulatory information to inform all site personnel of procedures and requirements.",
+        "C": "Delivery schedules are logistical information, not required safety postings.",
+        "D": "Weather information is useful but not a regulatory posting requirement for site entrances."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.03 Interprets safety documentation",
+      "question": "In safety documentation, what does PPE stand for?",
+      "options": {
+        "A": "Pre-Planning Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Primary Project Estimate",
+        "D": "Portable Power Equipment"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "PPE is not related to planning; it's a safety term for protective gear.",
+        "B": "PPE (Personal Protective Equipment) includes items like hard hats, safety glasses, gloves, and respirators worn to protect workers from hazards.",
+        "C": "Project estimates use different abbreviations; PPE is specifically about worker protection.",
+        "D": "Power equipment has different designations; PPE refers to protective gear worn by workers."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.04 Interprets workplace documentation",
+      "question": "What is the purpose of a daily construction log?",
+      "options": {
+        "A": "To track weather only",
+        "B": "To document daily activities, personnel, equipment, conditions, and issues",
+        "C": "To calculate payroll",
+        "D": "To order materials"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While weather is recorded, daily logs document much more than just meteorological conditions.",
+        "B": "Daily logs record work performed, workers on site, equipment used, weather conditions, visitors, delays, and problems, creating a chronological project record.",
+        "C": "Payroll uses time cards; daily logs document broader project activities and conditions.",
+        "D": "Material ordering uses requisitions and purchase orders; logs document what happened on site."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.04 Interprets workplace documentation",
+      "question": "What information is typically found on a delivery ticket/packing slip?",
+      "options": {
+        "A": "Items shipped, quantities, and receiver's signature",
+        "B": "Installation instructions only",
+        "C": "Payment terms only",
+        "D": "Warranty information"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Delivery tickets list materials delivered, quantities, date, and require receiver signature to confirm receipt, essential for tracking and verifying orders.",
+        "B": "Installation instructions come separately; packing slips focus on verifying delivered items.",
+        "C": "Payment terms appear on invoices; packing slips confirm physical receipt of goods.",
+        "D": "Warranty documents are separate from delivery verification documents."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.04 Interprets workplace documentation",
+      "question": "What is a submittal in construction documentation?",
+      "options": {
+        "A": "A payment request",
+        "B": "Product data, samples, or shop drawings submitted for approval before procurement/installation",
+        "C": "A time card",
+        "D": "An accident report"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Payment requests are separate financial documents; submittals are for technical approval.",
+        "B": "Submittals include shop drawings, product data sheets, material samples, and mock-ups submitted to designers for review and approval before purchasing or installing.",
+        "C": "Time cards are payroll documents; submittals are technical approval documents.",
+        "D": "Accident reports document incidents; submittals are for pre-installation material and method approval."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.04 Interprets workplace documentation",
+      "question": "What is the purpose of an RFI (Request for Information)?",
+      "options": {
+        "A": "To order materials",
+        "B": "To request clarification or additional information about drawings or specifications",
+        "C": "To submit payment requests",
+        "D": "To schedule inspections"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Material orders use purchase orders or requisitions; RFIs seek clarification on project requirements.",
+        "B": "RFIs are formal written requests for clarification when drawings or specifications are unclear, incomplete, or contradictory, ensuring work proceeds correctly.",
+        "C": "Payment requests use different forms; RFIs address technical questions about project requirements.",
+        "D": "Inspection scheduling uses different communication methods; RFIs resolve documentation ambiguities."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.04 Interprets workplace documentation",
+      "question": "What does a change order document?",
+      "options": {
+        "A": "Daily work progress",
+        "B": "Formal modification to the original contract scope, cost, or schedule",
+        "C": "Material delivery schedule",
+        "D": "Worker assignments"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Daily progress is tracked in logs; change orders modify contract terms.",
+        "B": "Change orders formally document and authorize modifications to the contract, including scope changes, cost adjustments, and schedule impacts, requiring signatures from authorized parties.",
+        "C": "Delivery schedules are logistics documents; change orders modify contract agreements.",
+        "D": "Work assignments are handled through other means; change orders alter contractual obligations."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.04 Interprets workplace documentation",
+      "question": "What is a punch list in construction documentation?",
+      "options": {
+        "A": "List of workers on site",
+        "B": "Itemized list of incomplete or deficient work requiring correction before final payment",
+        "C": "Tool inventory",
+        "D": "Material order list"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worker lists are attendance records; punch lists identify work requiring completion or correction.",
+        "B": "A punch list (or deficiency list) documents items that need completion or correction during final project walkthrough, must be resolved before final acceptance.",
+        "C": "Tool inventories track equipment; punch lists identify construction deficiencies.",
+        "D": "Material orders are procurement documents; punch lists detail work requiring attention."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.04 Interprets workplace documentation",
+      "question": "What information should be included in a non-conformance report?",
+      "options": {
+        "A": "Description of the deficiency, location, responsible party, and proposed correction",
+        "B": "Weather conditions only",
+        "C": "Material costs",
+        "D": "Worker schedules"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Non-conformance reports document work or materials that don't meet specifications, including what's wrong, where, who's responsible, and how it will be corrected.",
+        "B": "Weather may be contextual but isn't the focus; non-conformance reports address specification violations.",
+        "C": "Costs may be discussed later, but the report focuses on identifying and correcting the non-conforming work.",
+        "D": "Schedules are separate from quality documentation; non-conformance reports address specification compliance."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.04 Interprets workplace documentation",
+      "question": "What is the purpose of a material requisition form?",
+      "options": {
+        "A": "To return defective materials",
+        "B": "To formally request materials needed for upcoming work",
+        "C": "To document material waste",
+        "D": "To schedule deliveries"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Returns use different documentation; requisitions are for requesting new materials.",
+        "B": "Material requisitions formally request specific materials and quantities needed for upcoming work, initiating the procurement process.",
+        "C": "Waste tracking uses different forms; requisitions are for ordering needed materials.",
+        "D": "While requisitions may note delivery timing, their primary purpose is requesting specific materials."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.04 Interprets workplace documentation",
+      "question": "What does 'as-built' documentation show?",
+      "options": {
+        "A": "Original design intent",
+        "B": "Actual final construction conditions including field changes",
+        "C": "Preliminary sketches",
+        "D": "Cost estimates"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Original design is shown in contract documents; as-builts show what was actually constructed.",
+        "B": "As-built drawings (or record drawings) document actual installed conditions, including all changes made during construction, essential for future reference.",
+        "C": "Preliminary sketches are design development tools; as-builts document final constructed conditions.",
+        "D": "Cost estimates are financial documents; as-builts are technical documentation of actual construction."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Interprets documentation",
+      "subtask": "B-5.04 Interprets workplace documentation",
+      "question": "What is a transmittal in construction documentation?",
+      "options": {
+        "A": "A type of building permit",
+        "B": "A form that accompanies documents being sent, creating a record of what was transmitted",
+        "C": "A payment voucher",
+        "D": "A safety inspection report"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Permits are regulatory approvals; transmittals are document tracking forms.",
+        "B": "Transmittals are cover sheets listing documents being sent, recipient, date, and purpose, creating a paper trail for accountability and tracking.",
+        "C": "Payment vouchers are financial instruments; transmittals track document distribution.",
+        "D": "Inspection reports document conditions; transmittals track document exchanges between parties."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.01 Schedules work sequence",
+      "question": "What is critical path in construction scheduling?",
+      "options": {
+        "A": "The most expensive activities",
+        "B": "The sequence of activities that determines the minimum project duration",
+        "C": "The main entrance route",
+        "D": "The owner's preferred schedule"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Critical path is based on time dependencies, not costs; expensive activities may or may not be on critical path.",
+        "B": "The critical path is the longest sequence of dependent activities through the project; delays in critical path activities directly extend the project completion date.",
+        "C": "Critical path is a scheduling term, not a physical site access route.",
+        "D": "Preferences don't determine critical path; it's defined by task dependencies and durations."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.01 Schedules work sequence",
+      "question": "Why must foundation work be completed before framing begins?",
+      "options": {
+        "A": "It's traditional practice only",
+        "B": "Framing requires a stable, level base and foundation curing must complete",
+        "C": "To keep workers busy",
+        "D": "Insurance requirements"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This sequence is based on structural necessity, not just tradition.",
+        "B": "Foundation must be complete, cured, and inspected to provide the stable, level platform required to support framing; this is a physical dependency, not arbitrary sequencing.",
+        "C": "Worker utilization is a consideration, but the primary reason is structural necessity.",
+        "D": "While insurance may have requirements, the fundamental reason is structural dependency."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.01 Schedules work sequence",
+      "question": "When should rough-in mechanical and electrical work occur in typical construction sequence?",
+      "options": {
+        "A": "After drywall is installed",
+        "B": "Before the foundation is poured",
+        "C": "After framing but before insulation and drywall",
+        "D": "After painting is complete"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Installing mechanical/electrical after drywall requires cutting and patching, creating extra work and potential damage.",
+        "B": "Foundation must be complete before building systems are installed; this sequence is impractical.",
+        "C": "Rough-in occurs after framing provides the structure but before insulation and drywall cover the cavities, allowing efficient installation and inspection.",
+        "D": "Installing systems after finishes is extremely inefficient and damages completed work."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.01 Schedules work sequence",
+      "question": "What weather consideration affects the scheduling of exterior finishing work?",
+      "options": {
+        "A": "Wind direction only",
+        "B": "Temperature, precipitation, and humidity affecting material application and curing",
+        "C": "Barometric pressure",
+        "D": "Sunrise time"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Wind direction is a minor factor; temperature and moisture are critical for material performance.",
+        "B": "Temperature ranges, precipitation, and humidity directly affect material application, adhesion, and curing of paints, stains, sealants, and exterior finishes.",
+        "C": "Barometric pressure has minimal effect on most exterior finishing work.",
+        "D": "Daylight affects work hours but doesn't impact material application like temperature and moisture do."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.01 Schedules work sequence",
+      "question": "Why is site grading typically scheduled after major construction is complete?",
+      "options": {
+        "A": "It's the least important task",
+        "B": "Heavy equipment and construction activities would damage finished grading",
+        "C": "Workers prefer to do it last",
+        "D": "Weather is better at project end"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Grading is important for drainage and aesthetics; timing is based on preventing damage, not importance.",
+        "B": "Final grading is scheduled after heavy construction to prevent damage from equipment, material deliveries, and construction traffic that would disturb finished grades.",
+        "C": "Scheduling is based on logical sequencing to prevent rework, not worker preference.",
+        "D": "Weather patterns don't align with project phases; protection from construction damage drives this timing."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.01 Schedules work sequence",
+      "question": "What is 'float' or 'slack' in project scheduling?",
+      "options": {
+        "A": "Extra budget allocation",
+        "B": "Amount of time an activity can be delayed without delaying the project",
+        "C": "Water management strategy",
+        "D": "Backup workers available"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Float relates to schedule flexibility, not budget contingencies.",
+        "B": "Float (or slack) is the amount of time a non-critical activity can be delayed without affecting the project completion date, providing scheduling flexibility.",
+        "C": "Float is a scheduling term, not a construction technique for water.",
+        "D": "Labor backup is resource planning; float is about schedule timing flexibility."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.02 Performs site preparation",
+      "question": "What is the first step in site preparation for new construction?",
+      "options": {
+        "A": "Excavation",
+        "B": "Site survey and marking utilities",
+        "C": "Pouring foundation",
+        "D": "Delivering materials"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excavation cannot safely begin until utilities are located and marked to prevent damage.",
+        "B": "Site survey establishes accurate building location and elevation, and utility location prevents damage to underground services during subsequent excavation and construction.",
+        "C": "Foundation work cannot begin until site is prepared and excavation is complete.",
+        "D": "Material delivery should wait until site is prepared and staging areas are established."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.02 Performs site preparation",
+      "question": "Why are silt fences installed during site preparation?",
+      "options": {
+        "A": "To mark property boundaries",
+        "B": "To control erosion and prevent sediment from leaving the site",
+        "C": "To provide security",
+        "D": "To store equipment"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Property boundaries use different markers; silt fences are environmental controls.",
+        "B": "Silt fences are erosion control devices that filter sediment from runoff water, preventing soil from washing into storm drains, waterways, or neighboring properties.",
+        "C": "Security fencing is different and more robust; silt fences are environmental protection, not security.",
+        "D": "Silt fences are barriers for sediment control, not equipment storage."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.02 Performs site preparation",
+      "question": "What is the purpose of establishing site benchmarks?",
+      "options": {
+        "A": "To mark property corners",
+        "B": "To provide fixed elevation reference points for construction",
+        "C": "To indicate north direction",
+        "D": "To show material storage locations"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Property corners are established by surveyors separately; benchmarks provide elevation control.",
+        "B": "Benchmarks are permanent reference points with known elevations used throughout construction to ensure proper building heights, floor levels, and grades.",
+        "C": "North direction is shown on drawings; benchmarks are elevation references.",
+        "D": "Storage areas are designated separately; benchmarks are survey control points for elevation."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.02 Performs site preparation",
+      "question": "When should trees designated for preservation be protected during site preparation?",
+      "options": {
+        "A": "After construction is complete",
+        "B": "Before any site work begins",
+        "C": "Only if the owner requests it",
+        "D": "After excavation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Waiting until after construction risks damage from equipment, materials, and excavation.",
+        "B": "Tree protection fencing must be installed before any site work to prevent root damage, soil compaction, and physical damage to trunks and branches.",
+        "C": "Tree protection is typically required by permits and drawings, not optional based on requests.",
+        "D": "Protection must be in place before excavation to prevent damage to root zones."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.02 Performs site preparation",
+      "question": "What is the purpose of stripping and stockpiling topsoil during site preparation?",
+      "options": {
+        "A": "To sell the soil",
+        "B": "To preserve fertile soil for reuse in landscaping after construction",
+        "C": "To create barriers",
+        "D": "To level the site"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While topsoil has value, the primary purpose of stockpiling is reuse on site, not selling.",
+        "B": "Topsoil is stripped from construction areas and stockpiled separately to preserve its fertility and organic content for final landscaping, avoiding mixing with subsoil.",
+        "C": "Stockpiled topsoil is for future use, not for creating construction barriers.",
+        "D": "Leveling uses fill or cut; topsoil removal preserves valuable soil for landscaping."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.02 Performs site preparation",
+      "question": "Why are construction entrance/exit points established during site preparation?",
+      "options": {
+        "A": "For aesthetic purposes only",
+        "B": "To control mud tracking onto public roads and manage site access",
+        "C": "To increase security costs",
+        "D": "To mark property boundaries"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Designated access points serve practical and regulatory purposes, not aesthetics.",
+        "B": "Controlled access points with stabilized surfaces prevent mud tracking onto public roads, manage traffic flow, and allow monitoring of site access for safety and security.",
+        "C": "While security may be a benefit, the primary purposes are preventing mud tracking and controlling traffic.",
+        "D": "Property boundaries are marked separately; access points control site entry/exit."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.03 Performs quantity takeoff",
+      "question": "What is the primary purpose of a quantity takeoff?",
+      "options": {
+        "A": "To schedule work activities",
+        "B": "To determine the amounts of materials needed for construction from drawings",
+        "C": "To assign workers",
+        "D": "To obtain building permits"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Scheduling uses duration estimates; quantity takeoffs determine material quantities.",
+        "B": "Quantity takeoff is the process of measuring and calculating material quantities from construction drawings to determine what needs to be ordered for the project.",
+        "C": "Worker assignment is separate from material quantification.",
+        "D": "Permits require drawings and specifications; quantity takeoffs are for material ordering."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.03 Performs quantity takeoff",
+      "question": "When calculating concrete volume for a slab, what units are typically used?",
+      "options": {
+        "A": "Square feet/meters",
+        "B": "Cubic yards/cubic meters",
+        "C": "Linear feet/meters",
+        "D": "Pounds/kilograms"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Square units measure area (like floor coverage), not volume needed for concrete.",
+        "B": "Concrete is ordered by volume in cubic yards (imperial) or cubic meters (metric), calculated by multiplying slab length × width × thickness.",
+        "C": "Linear measurements are for one-dimensional items like trim; concrete requires volume calculation.",
+        "D": "Weight units are used for some materials but concrete quantities are specified by volume."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.03 Performs quantity takeoff",
+      "question": "What waste factor is typically added when ordering framing lumber?",
+      "options": {
+        "A": "1-2%",
+        "B": "5-10%",
+        "C": "15-20%",
+        "D": "25-30%"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "1-2% is too low and wouldn't account for cutting waste, defects, and damage.",
+        "B": "5-10% waste factor is standard for framing lumber to account for cuts, defects, damage, and measurement variations.",
+        "C": "15-20% is excessive for straight framing lumber and would waste materials and money.",
+        "D": "25-30% is far too high for standard framing; such high factors apply to complex or irregular work only."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.03 Performs quantity takeoff",
+      "question": "How are wall studs typically quantified in a takeoff?",
+      "options": {
+        "A": "By weight",
+        "B": "By linear feet of wall divided by spacing plus extras for corners and openings",
+        "C": "One per wall section",
+        "D": "By wall height only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Studs are counted as individual pieces, not ordered by weight.",
+        "B": "Calculate number of studs by dividing wall length by spacing (e.g., 16\" O.C.), then add extras for corners, partition intersections, and opening framing (kings, jacks, cripples).",
+        "C": "One stud per wall is grossly insufficient; multiple studs are spaced along each wall.",
+        "D": "Height determines stud length selection, but quantity depends on wall length and spacing."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.03 Performs quantity takeoff",
+      "question": "When calculating roofing material, why is roof area different from floor area?",
+      "options": {
+        "A": "They are always the same",
+        "B": "Roof area is larger due to slope, overhang, and pitch",
+        "C": "Floor area includes walls",
+        "D": "Roofing is measured differently"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Roof area exceeds floor area on sloped roofs due to pitch and overhangs.",
+        "B": "Roof surface area is greater than floor area because of slope (pitch creates more surface), overhangs beyond walls, and roof projection.",
+        "C": "Floor area is the enclosed space; walls are separate, and this doesn't explain roof area differences.",
+        "D": "While units may differ, the fundamental reason is geometric: slope creates more surface area."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.03 Performs quantity takeoff",
+      "question": "What is included in a door opening takeoff?",
+      "options": {
+        "A": "Door slab only",
+        "B": "Door, frame, hardware, trim, and any special framing requirements",
+        "C": "Hinges only",
+        "D": "Paint for the door"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "A complete door opening requires much more than just the door slab.",
+        "B": "Complete door opening takeoff includes door slab, frame/jamb, hinges, lockset, trim/casing, threshold, and any header or additional framing requirements.",
+        "C": "Hinges are one small component; complete door assembly includes many items.",
+        "D": "Painting is typically a separate trade; door takeoff focuses on carpentry components."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.04 Organizes material",
+      "question": "What is the most important consideration when stacking lumber on site?",
+      "options": {
+        "A": "Stacking as high as possible",
+        "B": "Keeping it level, dry, and properly supported with stickers for air circulation",
+        "C": "Mixing different sizes together",
+        "D": "Placing it in direct sunlight"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Height should be limited for safety; proper support and protection are more important than maximizing height.",
+        "B": "Lumber must be stacked level on proper supports, protected from moisture, with stickers (spacers) between layers for air circulation to prevent warping and decay.",
+        "C": "Different sizes should be separated for organization and to prevent damage; mixing creates inefficiency.",
+        "D": "Direct sunlight can cause uneven drying, warping, and weathering; shade or covering is preferable."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.04 Organizes material",
+      "question": "Why should sheet materials like plywood be stored vertically or on edge?",
+      "options": {
+        "A": "To save floor space",
+        "B": "To prevent sagging, warping, and edge damage",
+        "C": "For easier counting",
+        "D": "To improve appearance"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While vertical storage may save space, the primary reason is preventing material damage.",
+        "B": "Vertical or on-edge storage prevents sheets from sagging under their own weight, reduces warping, and protects edges from damage compared to flat stacking.",
+        "C": "Counting ease is a minor benefit; structural integrity and preventing damage are primary concerns.",
+        "D": "Appearance is not the issue; proper storage prevents physical damage to materials."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.04 Organizes material",
+      "question": "How should materials be organized for efficient access on a job site?",
+      "options": {
+        "A": "Random placement wherever space is available",
+        "B": "By order of use, with frequently needed items most accessible",
+        "C": "All materials in one large pile",
+        "D": "Farthest from work area to keep site clean"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Random placement creates inefficiency, safety hazards, and wasted time searching for materials.",
+        "B": "Materials should be staged in order of use with frequently needed items easily accessible, reducing handling time and improving workflow efficiency.",
+        "C": "Piling everything together makes retrieval difficult, risks damage, and creates safety hazards.",
+        "D": "Materials should be reasonably close to work areas to minimize transport time while not creating congestion."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.04 Organizes material",
+      "question": "What safety consideration is important when stacking materials?",
+      "options": {
+        "A": "Stack height should be unlimited",
+        "B": "Stacks must be stable, limited in height, and not block exits or create tip hazards",
+        "C": "Materials can overhang aisles",
+        "D": "No special considerations needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unlimited stacking creates serious tip-over and collapse hazards.",
+        "B": "Safe stacking requires stable bases, height limits based on material type, clear aisles and exits, and prevention of tip-over hazards to protect workers.",
+        "C": "Overhanging materials create head strike hazards and obstruct safe passage.",
+        "D": "Material storage has many safety requirements to prevent injuries from falling materials and access issues."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.04 Organizes material",
+      "question": "Why should different types of materials be separated in storage?",
+      "options": {
+        "A": "No reason - mixing is acceptable",
+        "B": "To prevent contamination, damage, and improve organization and retrieval",
+        "C": "Only for aesthetic reasons",
+        "D": "To increase storage costs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Mixing different materials causes organizational problems, damage, and contamination issues.",
+        "B": "Separating materials prevents chemical reactions, moisture transfer, physical damage, and makes finding and retrieving specific items much more efficient.",
+        "C": "Organization serves practical purposes beyond appearance: protection and efficiency.",
+        "D": "Proper organization reduces costs by preventing damage and improving efficiency, not increasing costs."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Organizes work",
+      "subtask": "B-6.04 Organizes material",
+      "question": "What is the purpose of using dunnage when storing materials?",
+      "options": {
+        "A": "To provide decorative appearance",
+        "B": "To elevate materials off ground for protection from moisture and allow air circulation",
+        "C": "To reduce material costs",
+        "D": "To mark property boundaries"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dunnage is functional, not decorative; it protects materials from damage.",
+        "B": "Dunnage (wood or other spacers) elevates materials above ground moisture, allows air circulation to prevent rot, and facilitates handling with equipment.",
+        "C": "Dunnage is an expense but prevents greater losses from moisture damage and deterioration.",
+        "D": "Dunnage is for material support and protection, not boundary marking."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.01 Performs site layout",
+      "question": "What is the purpose of batter boards in site layout?",
+      "options": {
+        "A": "To mix concrete",
+        "B": "To maintain reference points for building corners and elevations after excavation begins",
+        "C": "To measure material quantities",
+        "D": "To provide worker platforms"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Concrete mixing uses different equipment; batter boards are survey reference structures.",
+        "B": "Batter boards are temporary frames set beyond excavation areas with strings indicating building lines and elevations, allowing re-establishment of corners after excavation disturbs stakes.",
+        "C": "Material quantities are calculated separately; batter boards are layout reference tools.",
+        "D": "Batter boards are not load-bearing platforms; they're lightweight layout reference structures."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.01 Performs site layout",
+      "question": "How is a building's position typically established on the site?",
+      "options": {
+        "A": "By guessing",
+        "B": "From property lines and setbacks shown on survey and site plans",
+        "C": "Wherever the contractor prefers",
+        "D": "By the equipment operator"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Building position must be precise based on legal and design requirements, never estimated.",
+        "B": "Building location is established by measuring from surveyed property lines according to required setbacks, easements, and site plan dimensions.",
+        "C": "Building position is determined by site plans, zoning, and property boundaries, not contractor preference.",
+        "D": "Operators follow layout established by surveyors or qualified layout personnel, not independent decisions."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.01 Performs site layout",
+      "question": "What method is used to ensure building corners are square during layout?",
+      "options": {
+        "A": "Visual estimation",
+        "B": "3-4-5 triangle method or measuring equal diagonals",
+        "C": "Using a framing square only",
+        "D": "Asking the owner"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual estimation is far too inaccurate for establishing square corners in construction.",
+        "B": "Square corners are verified using the 3-4-5 (or multiples) Pythagorean triangle method, or by ensuring diagonal measurements are equal across rectangles.",
+        "C": "Framing squares are useful for small work but inadequate for verifying large building corners.",
+        "D": "Corner squareness is a technical verification, not a preference decision."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.01 Performs site layout",
+      "question": "When should final site layout verification occur?",
+      "options": {
+        "A": "After excavation is complete",
+        "B": "Before any excavation or construction begins",
+        "C": "After foundation is poured",
+        "D": "When the building is framed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification after excavation is too late; layout must be confirmed before disturbing the site.",
+        "B": "Layout must be verified before excavation to ensure building will be correctly positioned, properly squared, and at correct elevations before expensive work begins.",
+        "C": "Foundation location must be verified before pouring; waiting until after is far too late.",
+        "D": "Layout verification must occur at the beginning; verifying after framing cannot correct foundation errors."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.01 Performs site layout",
+      "question": "What is the purpose of establishing offset stakes during site layout?",
+      "options": {
+        "A": "To mark parking areas",
+        "B": "To provide reference points outside the work area that won't be disturbed",
+        "C": "To indicate north direction",
+        "D": "To show property boundaries"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Parking is marked separately; offset stakes are construction reference points.",
+        "B": "Offset stakes are set at known distances from building lines, outside excavation areas, allowing re-establishment of building corners if primary stakes are disturbed.",
+        "C": "Direction is shown on plans; offset stakes provide position references.",
+        "D": "Property boundaries are established by survey; offset stakes are construction control points."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.01 Performs site layout",
+      "question": "Why must excavation limits be clearly marked before digging?",
+      "options": {
+        "A": "For aesthetic purposes",
+        "B": "To prevent over-excavation, utility damage, and ensure proper foundation size",
+        "C": "To satisfy insurance requirements only",
+        "D": "To mark the property line"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excavation marking serves critical practical and safety purposes, not aesthetics.",
+        "B": "Clear excavation boundaries prevent unnecessary digging (wasting time and money), avoid utility strikes, and ensure foundation excavation is correct size and shape.",
+        "C": "While insurance may require it, the fundamental purposes are preventing damage and ensuring proper excavation.",
+        "D": "Property lines are separate; excavation limits define work areas within the property."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.02 Lays out concrete formwork",
+      "question": "What is the first step in laying out concrete formwork?",
+      "options": {
+        "A": "Ordering concrete",
+        "B": "Establishing accurate reference lines and elevations from site layout",
+        "C": "Building the forms",
+        "D": "Calling for inspection"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Concrete ordering happens after forms are ready; layout must come first.",
+        "B": "Formwork layout begins with establishing accurate position lines and elevation references from site benchmarks to ensure forms will be placed correctly.",
+        "C": "Forms cannot be built until layout determines their exact location and elevation.",
+        "D": "Inspection occurs after forms are built; layout is the initial step."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.02 Lays out concrete formwork",
+      "question": "How is the top of footing elevation typically established?",
+      "options": {
+        "A": "By guessing based on ground level",
+        "B": "Using a builder's level or laser level from known benchmark elevations",
+        "C": "By the concrete truck driver",
+        "D": "Based on the deepest excavation point"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Footing elevation must be precise based on design requirements, never estimated.",
+        "B": "Footing tops are set to design elevations using leveling instruments that reference established site benchmarks, ensuring proper building height and floor levels.",
+        "C": "Drivers deliver concrete; elevations are established by construction professionals using survey data.",
+        "D": "Excavation depth varies; footing top elevation is determined by design requirements and site elevations."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.02 Lays out concrete formwork",
+      "question": "What information from drawings is critical for formwork layout?",
+      "options": {
+        "A": "Material costs",
+        "B": "Dimensions, elevations, reinforcement locations, and embed positions",
+        "C": "Contractor's phone number",
+        "D": "Concrete mix design"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Costs are for estimating; formwork layout requires dimensional and technical data.",
+        "B": "Layout requires accurate dimensions, elevations, locations of reinforcing steel, anchor bolts, embedded items, and any blockouts or openings from structural drawings.",
+        "C": "Contact information is administrative; layout needs technical dimensional data.",
+        "D": "Mix design affects concrete ordering but not the physical layout of formwork geometry."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.02 Lays out concrete formwork",
+      "question": "Why must formwork be laid out to account for wall thickness?",
+      "options": {
+        "A": "To make forms easier to build",
+        "B": "To ensure interior and exterior surfaces are at correct locations per design",
+        "C": "To reduce concrete volume",
+        "D": "For aesthetic reasons only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Construction ease is secondary; accurate wall thickness ensures design compliance.",
+        "B": "Forms must position both faces of walls correctly - exterior face for building envelope and interior face for room dimensions - requiring precise thickness control.",
+        "C": "Concrete volume is determined by design; thickness is for positioning faces correctly, not reducing material.",
+        "D": "Wall thickness is a critical structural and dimensional requirement, not merely aesthetic."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.02 Lays out concrete formwork",
+      "question": "How are anchor bolt locations typically marked for foundation walls?",
+      "options": {
+        "A": "Randomly placed",
+        "B": "Marked on form tops at specified spacing per drawings before concrete pour",
+        "C": "After concrete is poured",
+        "D": "By the concrete supplier"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Anchor bolts must be precisely located per structural drawings to align with framing above.",
+        "B": "Bolt locations are marked on form tops at specified spacings and positions before pouring, allowing accurate placement while concrete is still fluid.",
+        "C": "Bolts must be placed during pour while concrete is workable; post-pour installation is difficult or impossible.",
+        "D": "Concrete suppliers deliver material; bolt placement is the contractor's responsibility following drawings."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.02 Lays out concrete formwork",
+      "question": "What is the purpose of chamfer strips in formwork layout?",
+      "options": {
+        "A": "To strengthen the forms",
+        "B": "To create beveled edges on concrete corners",
+        "C": "To mark the formwork for removal",
+        "D": "To attach reinforcing steel"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Chamfer strips don't strengthen forms; they shape concrete edges.",
+        "B": "Chamfer strips are placed at inside corners of forms to create beveled edges on concrete, preventing corner damage and improving appearance.",
+        "C": "Form removal follows a different process; chamfers are edge-forming devices.",
+        "D": "Reinforcing steel has its own support and spacing systems; chamfers shape concrete edges."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.03 Lays out floors",
+      "question": "What is the primary reference point for laying out floor framing?",
+      "options": {
+        "A": "Adjacent walls and foundation dimensions",
+        "B": "The nearest corner",
+        "C": "Center of the building",
+        "D": "Door locations"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Floor framing layout starts from foundation walls and sill plates, using building dimensions from drawings to position joists, beams, and other structural members accurately.",
+        "B": "While corners may be reference points, complete layout requires relationship to all walls and overall dimensions.",
+        "C": "Floor framing typically works from walls inward, not from center outward.",
+        "D": "Doors are openings in the overall floor plan; framing layout starts from building perimeter and structural requirements."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.03 Lays out floors",
+      "question": "When laying out floor joists, where should layout marks be placed?",
+      "options": {
+        "A": "Only on one end",
+        "B": "On both sill plates or beams at each end to ensure alignment",
+        "C": "Random positions",
+        "D": "Only where convenient"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Marking only one end doesn't ensure joists run parallel and align properly at both ends.",
+        "B": "Joist layout marks must be placed on both supporting members (sills, beams, or plates) at corresponding positions to ensure joists are straight, parallel, and properly spaced.",
+        "C": "Random positioning would create irregular spacing and structural problems.",
+        "D": "Convenience is secondary; accuracy requires systematic layout at both ends."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.03 Lays out floors",
+      "question": "Why is it important to layout floors to standard module dimensions (e.g., 4-foot)?",
+      "options": {
+        "A": "To make construction faster only",
+        "B": "To minimize waste and align with standard sheet material sizes",
+        "C": "To confuse workers",
+        "D": "No particular reason"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While modular layout can speed construction, the primary benefit is material efficiency.",
+        "B": "Layout to 4-foot modules aligns with standard 4×8 or 4×10 sheet sizes (plywood, OSB, drywall), minimizing cutting waste and simplifying installation.",
+        "C": "Modular layout simplifies work and reduces errors, not creates confusion.",
+        "D": "Modular dimensions have clear practical and economic benefits in material efficiency."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.03 Lays out floors",
+      "question": "What must be considered when laying out floor openings for stairs?",
+      "options": {
+        "A": "Approximate location is sufficient",
+        "B": "Exact dimensions and location per drawings, ensuring adequate framing support",
+        "C": "Openings can be cut later",
+        "D": "Stairs don't require planning"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stair openings must be precisely located and sized; approximations cause problems with stair fit and code compliance.",
+        "B": "Stair openings require precise layout per drawings for size and position, with proper headers and trimmers to support loads and provide correct stairway geometry.",
+        "C": "While openings can be modified, proper initial layout saves work and ensures structural integrity.",
+        "D": "Stair openings are major floor penetrations requiring careful planning for structure and stair installation."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.03 Lays out floors",
+      "question": "How should floor layout accommodate load-bearing walls above?",
+      "options": {
+        "A": "Ignore walls when laying out floors",
+        "B": "Position joists or beams to support wall loads, often doubled or blocked",
+        "C": "Walls can sit anywhere on the floor",
+        "D": "Use thinner joists under walls"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Load-bearing walls require specific floor support; ignoring them creates structural failure risk.",
+        "B": "Floor layout must position joists, beams, or special framing (doubled joists, beams, or blocking) directly under load-bearing walls to properly transfer loads to foundation.",
+        "C": "While non-bearing walls have flexibility, load-bearing walls require specific structural support below.",
+        "D": "Walls require stronger support, not weaker; doubled or larger members are used, not reduced sizes."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.04 Lays out decks",
+      "question": "What is the first consideration when laying out an exterior deck?",
+      "options": {
+        "A": "Color of stain",
+        "B": "Relationship to building, door locations, and required heights",
+        "C": "Type of furniture",
+        "D": "Landscaping"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Finishes are applied later; layout addresses structure and relationship to building.",
+        "B": "Deck layout starts with relationship to building (attachment points, door thresholds), determining size, shape, and elevation to meet access requirements and design intent.",
+        "C": "Furniture is chosen after deck is built; layout focuses on structure and function.",
+        "D": "Landscaping coordinates with deck but structural layout comes first."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.04 Lays out decks",
+      "question": "How is deck post spacing typically determined?",
+      "options": {
+        "A": "By guessing",
+        "B": "Based on beam span capacity and joist spans per design loads",
+        "C": "Posts are not necessary",
+        "D": "One post per deck"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Post spacing must be calculated based on structural loads and member capacities, never estimated.",
+        "B": "Post spacing depends on beam size and allowable span, which in turn depends on joist spans and loads; all must be coordinated per structural requirements or code.",
+        "C": "Posts are essential structural supports for most decks (except cantilevers or grade-level decks).",
+        "D": "Decks typically require multiple posts spaced according to structural requirements."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.04 Lays out decks",
+      "question": "Why must deck slopes be considered in layout?",
+      "options": {
+        "A": "Aesthetic preference only",
+        "B": "To ensure proper water drainage away from building",
+        "C": "To make walking difficult",
+        "D": "Slopes are not necessary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Drainage is a functional requirement to prevent water damage, not merely aesthetic.",
+        "B": "Decks should slope slightly (typically 1/4\" per foot or 2%) away from buildings to drain water and prevent pooling, rot, and water infiltration into structures.",
+        "C": "Proper slopes are minimal and aid drainage without affecting walking comfort.",
+        "D": "Slope is necessary for water management; level decks can hold water causing damage."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.04 Lays out decks",
+      "question": "What building connection detail is critical when laying out attached decks?",
+      "options": {
+        "A": "Paint color match",
+        "B": "Proper ledger board location, attachment, and flashing",
+        "C": "Matching siding texture",
+        "D": "Window locations"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint is a finish detail; structural connection is the critical layout consideration.",
+        "B": "The ledger board connection is critical: it must be positioned correctly relative to finish floor/door threshold, properly attached to structure, and flashed to prevent water intrusion.",
+        "C": "Siding appearance is secondary to proper structural connection and waterproofing.",
+        "D": "Windows are considered for clearance but ledger attachment is the primary connection concern."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.04 Lays out decks",
+      "question": "How should deck joist spacing be determined?",
+      "options": {
+        "A": "Any spacing works",
+        "B": "Based on decking material span rating and joist size structural capacity",
+        "C": "Maximum spacing always",
+        "D": "Minimum spacing always"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Joist spacing is structurally critical and must be calculated, not arbitrary.",
+        "B": "Joist spacing depends on decking span capacity (varies by material thickness and type) and joist size/species ability to support loads at given spans.",
+        "C": "Maximum spacing may not support the decking or loads; proper spacing must be calculated.",
+        "D": "Minimum spacing wastes materials and labor; proper spacing balances economy with structural requirements."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.05 Lays out walls",
+      "question": "Where should wall layout begin on a floor deck?",
+      "options": {
+        "A": "From the center of the building",
+        "B": "From a corner or principal wall, working systematically",
+        "C": "From random locations",
+        "D": "From the highest point"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Starting from center can work for some layouts but starting from an established corner/wall is more common and efficient.",
+        "B": "Wall layout typically begins from a corner or major reference wall, working systematically through the building to maintain accuracy and ensure walls are square and parallel.",
+        "C": "Random starting points create confusion and compound errors; systematic approach is essential.",
+        "D": "Layout is based on plan geometry, not elevation; starting points are determined by plan relationships."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.05 Lays out walls",
+      "question": "What is 'snapping a chalk line' used for in wall layout?",
+      "options": {
+        "A": "Decorative purposes",
+        "B": "Creating straight, visible reference lines for wall plates or stud locations",
+        "C": "Measuring distances",
+        "D": "Cleaning the deck"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Chalk lines are functional layout tools, not decorative elements.",
+        "B": "Chalk lines create straight, visible reference lines on floor decks marking wall plate positions, ensuring walls are straight and accurately positioned.",
+        "C": "While chalk lines span measured points, their purpose is marking straight lines between points, not measuring.",
+        "D": "Chalk lines mark layout; cleaning uses different methods."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.05 Lays out walls",
+      "question": "How are door and window openings marked during wall plate layout?",
+      "options": {
+        "A": "Not marked - cut later",
+        "B": "Marked with X's showing king stud, jack stud, and cripple stud locations",
+        "C": "Marked with paint only",
+        "D": "Verbally communicated"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Openings should be marked during layout to ensure proper framing members are installed.",
+        "B": "Opening locations are marked on plates showing king studs (full height), jack/trimmer studs (supporting header), cripple studs, and header positions for proper framing.",
+        "C": "While marking methods vary, the critical element is clearly indicating all framing member positions, not just the medium used.",
+        "D": "Verbal communication is insufficient; permanent marks on plates ensure accurate construction."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.05 Lays out walls",
+      "question": "Why is it important to mark stud layout on both top and bottom plates simultaneously?",
+      "options": {
+        "A": "To use more pencils",
+        "B": "To ensure studs will be vertical and properly aligned top to bottom",
+        "C": "It's not important",
+        "D": "To waste time"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Simultaneous marking serves a technical purpose, not tool usage.",
+        "B": "Laying out both plates together (held side-by-side) ensures stud locations align perfectly, resulting in vertical, plumb studs when the wall is assembled and raised.",
+        "C": "Alignment between plates is critical for vertical studs and structural integrity.",
+        "D": "Simultaneous layout saves time by preventing alignment errors and ensuring accuracy."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.05 Lays out walls",
+      "question": "What do 'X' marks on wall plates typically indicate?",
+      "options": {
+        "A": "Defective material",
+        "B": "The side of the line on which to place the stud",
+        "C": "Cut locations",
+        "D": "Measurements errors"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "X marks are layout indicators, not defect markers which use different notation.",
+        "B": "The X mark indicates which side of the layout line the stud should be placed, ensuring consistent spacing and preventing misalignment.",
+        "C": "Cut locations are marked differently; X's specifically indicate stud placement sides.",
+        "D": "Errors would be corrected; X marks are standard layout notation for member placement."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.05 Lays out walls",
+      "question": "How should partition wall intersections be marked in layout?",
+      "options": {
+        "A": "They don't need marking",
+        "B": "With backing or blocking studs indicated for drywall attachment",
+        "C": "With paint only",
+        "D": "After walls are built"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Intersections require special framing for proper connection and finish attachment.",
+        "B": "Partition intersections need backing studs, blocking, or ladder blocking marked to provide nailing surface for drywall on interior corners where walls meet.",
+        "C": "The marking method is less important than clearly indicating the special framing required at intersections.",
+        "D": "Backing must be installed during framing; marking during layout ensures it's not forgotten."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.06 Lays out ceilings",
+      "question": "What is the primary consideration when laying out ceiling joists?",
+      "options": {
+        "A": "Color of paint",
+        "B": "Joist span direction, spacing, and support bearing on walls or beams",
+        "C": "Furniture arrangement",
+        "D": "Lighting locations only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint is a finish applied after structure; layout focuses on structural requirements.",
+        "B": "Ceiling joist layout must determine span direction (shortest span if possible), proper spacing for loads, and ensure bearing on supporting walls or beams per structural design.",
+        "C": "Furniture above affects floor design, not ceiling structure below.",
+        "D": "While ceiling penetrations for lights are noted, the primary layout concern is structural joist positioning."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.06 Lays out ceilings",
+      "question": "Why might ceiling joist layout differ from floor joist layout?",
+      "options": {
+        "A": "They are always identical",
+        "B": "Ceiling joists may follow roof loads, attic access, or run perpendicular to floors",
+        "C": "Personal preference only",
+        "D": "No structural reason"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ceiling and floor joists serve different functions and may run different directions.",
+        "B": "Ceiling joists may be positioned to resist roof thrust (running parallel to rafters), accommodate attic access, or run perpendicular to floor joists for structural reasons.",
+        "C": "Joist direction is determined by structural requirements and building geometry, not arbitrary preference.",
+        "D": "Ceiling joist layout has specific structural purposes: supporting ceiling loads and often resisting roof thrust."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.06 Lays out ceilings",
+      "question": "How should ceiling openings for attic access be laid out?",
+      "options": {
+        "A": "Cut randomly where convenient",
+        "B": "Located per plans with proper framing (headers and trimmers) to support loads",
+        "C": "Openings aren't necessary",
+        "D": "After ceiling is installed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Access openings require specific locations per code requirements and proper structural support.",
+        "B": "Attic access must be located per code/plans, with headers and trimmers to carry interrupted joist loads and provide proper rough opening size.",
+        "C": "Attic access is required by building codes for inspection and maintenance.",
+        "D": "Proper framing requires installation during initial construction; layout must occur before framing."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.06 Lays out ceilings",
+      "question": "What must be considered when laying out ceilings in cathedral or vaulted ceiling areas?",
+      "options": {
+        "A": "Standard flat layout applies",
+        "B": "Sloped rafter/joist positioning, structural ridge requirements, and insulation space",
+        "C": "Ceilings don't need layout",
+        "D": "Paint color only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cathedral ceilings follow roof slope and require different structural considerations than flat ceilings.",
+        "B": "Cathedral ceilings require laying out sloped rafters/joists, often structural ridge beams, adequate insulation depth, and ventilation space per energy code.",
+        "C": "All ceilings need layout for proper construction, especially complex cathedral designs.",
+        "D": "Finishes are applied after structure; layout addresses structural and building science requirements."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.06 Lays out ceilings",
+      "question": "Why is ceiling joist layout important for drywall installation?",
+      "options": {
+        "A": "It's not important",
+        "B": "Proper spacing provides adequate support and nailing surface for ceiling drywall",
+        "C": "Drywall can span any distance",
+        "D": "Only affects appearance"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ceiling joist spacing directly affects drywall support and is critical for proper installation.",
+        "B": "Ceiling joists must be spaced appropriately (typically 16\" or 24\" O.C.) to support drywall weight and provide adequate nailing/screwing surface to prevent sagging.",
+        "C": "Drywall has specific span limitations; proper joist spacing is necessary for support.",
+        "D": "While spacing affects appearance (preventing sagging), the primary concern is structural support for the ceiling finish."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.07 Lays out roofs",
+      "question": "What is the first step in laying out a roof?",
+      "options": {
+        "A": "Ordering shingles",
+        "B": "Determining roof style, pitch, and establishing ridge and rafter positions",
+        "C": "Cutting rafters",
+        "D": "Installing gutters"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Materials are ordered after layout and cutting plans are complete.",
+        "B": "Roof layout begins by understanding roof type (gable, hip, etc.), determining pitch from plans, and establishing ridge location and rafter spacing per structural requirements.",
+        "C": "Rafters cannot be cut until layout determines their positions and dimensions.",
+        "D": "Gutters are installed after roofing is complete; layout focuses on structural framing."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.07 Lays out roofs",
+      "question": "How is common rafter length determined during layout?",
+      "options": {
+        "A": "By guessing",
+        "B": "Using run, rise, and pitch to calculate with framing square or construction calculator",
+        "C": "All rafters are the same length",
+        "D": "By trial and error"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Rafter length must be precisely calculated based on building dimensions and roof pitch.",
+        "B": "Rafter length is calculated from building run (half the span), rise (from pitch), using rafter tables, framing square, or construction calculator to determine true length along slope.",
+        "C": "Rafter length varies with building span and roof pitch; each building requires specific calculation.",
+        "D": "Trial and error wastes materials; proper calculation determines length before cutting."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.07 Lays out roofs",
+      "question": "What must be laid out at the ridge of a gable roof?",
+      "options": {
+        "A": "Nothing - ridge is not important",
+        "B": "Ridge board position, height, and rafter spacing on both sides",
+        "C": "Only the center point",
+        "D": "Paint color"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "The ridge is critical for roof geometry and must be carefully laid out.",
+        "B": "Ridge layout includes exact centerline position, height above plates, length, and rafter locations marked on both sides ensuring opposite rafters align.",
+        "C": "The ridge requires complete layout of position, elevation, and rafter spacing, not just centerline.",
+        "D": "Finishes are applied after structure; layout addresses structural positioning."
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.07 Lays out roofs",
+      "question": "How are hip rafter positions determined in layout?",
+      "options": {
+        "A": "Randomly placed",
+        "B": "At 45 degrees from building corners, running from corner to ridge",
+        "C": "Hip rafters are not necessary",
+        "D": "Parallel to common rafters"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hip rafter positions are geometrically determined by roof design, not random.",
+        "B": "Hip rafters run diagonally from building corners to the ridge at 45-degree angles (on plan) on equal-pitch hip roofs, requiring special layout and cutting.",
+        "C": "Hip rafters are essential structural members on hip roofs, connecting corners to the ridge.",
+        "D": "Hip rafters run diagonally; common rafters run perpendicular to ridge or walls."
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.07 Lays out roofs",
+      "question": "Why must roof overhang be considered in layout?",
+      "options": {
+        "A": "Overhangs are optional",
+        "B": "Overhang determines rafter length beyond building and affects fascia/soffit positioning",
+        "C": "Overhangs don't affect layout",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While overhang size varies, it must be planned as it affects rafter length and weather protection.",
+        "B": "Overhang dimension determines total rafter length needed beyond wall line and establishes fascia/soffit positions critical for weather protection and appearance.",
+        "C": "Overhang directly affects rafter cutting, length calculations, and trim positioning.",
+        "D": "Overhangs provide crucial weather protection and shade beyond aesthetic benefits."
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.07 Lays out roofs",
+      "question": "What is the purpose of laying out valley rafters?",
+      "options": {
+        "A": "Valleys are not part of roofs",
+        "B": "Valley rafters frame the intersection where two roof planes meet in an inside corner",
+        "C": "For decoration only",
+        "D": "To replace ridge boards"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Valleys are common roof features where different roof sections intersect.",
+        "B": "Valley rafters are structural members running along inside corners where roof planes intersect, supporting valley jack rafters and channeling water drainage.",
+        "C": "Valley rafters serve critical structural and water management functions, not decoration.",
+        "D": "Valley rafters serve different purposes than ridge boards; both may exist on the same roof."
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.08 Lays out stairs",
+      "question": "What are the two critical dimensions in stair layout?",
+      "options": {
+        "A": "Width and color",
+        "B": "Total rise and total run",
+        "C": "Cost and time",
+        "D": "Material type only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Width is important but color is a finish decision; rise and run are the fundamental layout dimensions.",
+        "B": "Total rise (vertical height) and total run (horizontal distance) are the two critical dimensions that determine individual riser height, tread depth, and number of steps.",
+        "C": "Cost and time are project management factors, not stair geometry dimensions.",
+        "D": "Materials are selected after dimensions are determined; rise and run define stair geometry."
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.08 Lays out stairs",
+      "question": "How is the number of risers in a stairway determined?",
+      "options": {
+        "A": "Random selection",
+        "B": "Total rise divided by desired individual riser height (within code limits)",
+        "C": "Always 10 risers",
+        "D": "By the owner's preference"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Riser count is calculated mathematically based on total height and code requirements.",
+        "B": "Number of risers equals total rise divided by maximum code-allowed riser height (typically 7-3/4\" to 8\"), rounded to achieve uniform riser heights within limits.",
+        "C": "Riser count varies with total rise; it's calculated for each specific stairway.",
+        "D": "Code requirements and geometry determine riser count, not preference."
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.08 Lays out stairs",
+      "question": "What is the relationship between number of risers and number of treads?",
+      "options": {
+        "A": "Equal number",
+        "B": "Number of treads equals number of risers minus one",
+        "C": "Number of treads is always more",
+        "D": "No relationship"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "There is always one fewer tread than risers in a standard stairway.",
+        "B": "A stairway has one fewer tread than risers because the top 'tread' is the floor/landing surface, not a separate stair tread.",
+        "C": "Treads are one less, not more, than risers in standard configurations.",
+        "D": "There is a specific mathematical relationship: treads = risers - 1."
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.08 Lays out stairs",
+      "question": "What tool is primarily used to layout stair stringers?",
+      "options": {
+        "A": "Tape measure only",
+        "B": "Framing square with stair gauges",
+        "C": "Level",
+        "D": "Chalk line"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tape measures mark lengths but cannot establish the precise rise/run angles needed for stringers.",
+        "B": "A framing square with stair gauges (or stops) clamped at rise and run dimensions allows accurate, consistent layout of treads and risers on stringer stock.",
+        "C": "Levels check plumb and level but don't layout rise/run patterns on stringers.",
+        "D": "Chalk lines create straight lines but don't establish the precise stepped pattern needed for stringers."
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.08 Lays out stairs",
+      "question": "Why must the bottom riser often be adjusted in stair layout?",
+      "options": {
+        "A": "For decoration",
+        "B": "To account for finished floor/tread thickness maintaining equal riser heights",
+        "C": "It's never adjusted",
+        "D": "To confuse builders"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bottom riser adjustment serves a functional purpose ensuring code-compliant uniform riser heights.",
+        "B": "The bottom riser is often shortened by the thickness of the finish floor or first tread to maintain uniform riser heights throughout the stairway, meeting code requirements.",
+        "C": "Bottom riser frequently needs adjustment to account for flooring thickness differences.",
+        "D": "Adjustment ensures code compliance and safety through uniform riser heights."
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.09 Lays out balustrades",
+      "question": "What is the primary code consideration when laying out balustrade spacing?",
+      "options": {
+        "A": "Aesthetic appearance only",
+        "B": "Baluster spacing to prevent 4-inch sphere passage (child safety)",
+        "C": "Cost minimization",
+        "D": "Paint coverage"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While appearance matters, the primary code requirement is safety-related spacing.",
+        "B": "Building codes require baluster spacing that prevents a 4-inch sphere from passing through, preventing children from slipping through or getting heads caught.",
+        "C": "While economy is considered, safety requirements must be met regardless of cost.",
+        "D": "Finish application is separate from layout; spacing is primarily a safety issue."
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.09 Lays out balustrades",
+      "question": "How is baluster spacing typically determined?",
+      "options": {
+        "A": "Random placement",
+        "B": "Divide rail length by number of spaces ensuring maximum spacing stays under code limit",
+        "C": "One baluster per foot",
+        "D": "By visual estimation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Baluster placement must be calculated to meet spacing codes and achieve uniform appearance.",
+        "B": "Calculate number of balusters needed to keep spacing under code maximum (typically 4\"), then divide rail length evenly by number of spaces for uniform distribution.",
+        "C": "One per foot may exceed safe spacing limits; calculation ensures code compliance.",
+        "D": "Precise calculation is required for safety and uniform appearance; estimation is inadequate."
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.09 Lays out balustrades",
+      "question": "What must be considered when laying out balusters on sloped stair railings?",
+      "options": {
+        "A": "All balusters are the same length",
+        "B": "Each baluster has different length due to railing slope, requiring individual layout",
+        "C": "Slope doesn't affect balusters",
+        "D": "Only end balusters need consideration"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "On sloped railings, progressive height change means each baluster is different length.",
+        "B": "Sloped railings require laying out each baluster individually as lengths progressively change to maintain plumb while following the sloped handrail.",
+        "C": "Railing slope directly affects baluster length calculations; it's a critical layout factor.",
+        "D": "All balusters on sloped railings have different lengths requiring individual measurement and layout."
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "B",
+      "task": "B-7",
+      "taskTitle": "Performs layout",
+      "subtask": "B-7.09 Lays out balustrades",
+      "question": "What is the standard height for balustrade handrails?",
+      "options": {
+        "A": "24 inches",
+        "B": "34-38 inches from nosing or deck surface",
+        "C": "48 inches",
+        "D": "Any height is acceptable"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "24 inches is too low and would not meet building code requirements for handrails.",
+        "B": "Building codes typically require handrail height of 34-38 inches measured vertically from stair nosing or deck surface for proper ergonomics and safety.",
+        "C": "48 inches is too high for functional handrail use and exceeds code requirements.",
+        "D": "Handrail height is specifically regulated by code for safety and must fall within defined ranges."
+      }
+    }
+  ]
+}

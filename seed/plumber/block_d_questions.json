@@ -1,0 +1,3871 @@
+{
+  "block": "D",
+  "blockTitle": "Water Service and Distribution",
+  "totalQuestions": 184,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.01 Plans layout and sizes piping and components for water service",
+      "question": "What is the minimum size for a water service line serving a single-family residence?",
+      "options": {
+        "A": "13 mm (1/2 inch)",
+        "B": "19 mm (3/4 inch)",
+        "C": "25 mm (1 inch)",
+        "D": "32 mm (1-1/4 inch)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "13 mm is too small for a service line and would provide inadequate flow for typical residential demands.",
+        "B": "Most codes require a minimum 19 mm (3/4 inch) water service line for single-family residences to ensure adequate flow and pressure.",
+        "C": "25 mm exceeds the minimum requirement though it may be used for larger homes or where pressure conditions warrant larger sizing.",
+        "D": "32 mm is much larger than the minimum requirement and would be used for multi-unit buildings or special circumstances."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.01 Plans layout and sizes piping and components for water service",
+      "question": "What factors must be considered when sizing a water service line?",
+      "options": {
+        "A": "Available pressure, fixture demand, pipe length, and elevation changes",
+        "B": "Only the number of fixtures",
+        "C": "The color of the building",
+        "D": "No factors need consideration"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sizing requires evaluating available pressure, total fixture demand, friction losses over distance, and pressure changes from elevation.",
+        "B": "Fixture count is important but insufficient alone; pressure, distance, and elevation significantly affect sizing requirements.",
+        "C": "Building color is completely unrelated to water service sizing and has no bearing on plumbing design.",
+        "D": "Multiple technical factors must be evaluated to properly size water service ensuring adequate flow and pressure."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.01 Plans layout and sizes piping and components for water service",
+      "question": "What is the purpose of a curb stop in a water service line?",
+      "options": {
+        "A": "To provide external shutoff control for the property water supply",
+        "B": "To heat the water",
+        "C": "For decoration only",
+        "D": "Curb stops serve no purpose"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Curb stops allow the water utility or authority to shut off water service at the property line from outside the building.",
+        "B": "Curb stops are shutoff valves and do not heat water; they provide service isolation capability.",
+        "C": "Curb stops serve critical control functions allowing service disconnection; they are not decorative elements.",
+        "D": "Curb stops are essential for external service control, emergency shutoff, and meter maintenance access."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.01 Plans layout and sizes piping and components for water service",
+      "question": "Why must water service lines be sized to maintain minimum pressure at fixtures?",
+      "options": {
+        "A": "To ensure adequate flow for fixture operation and prevent user dissatisfaction",
+        "B": "Pressure is not important",
+        "C": "Low pressure is always acceptable",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Adequate pressure ensures fixtures operate properly; undersized services cause low pressure and poor performance.",
+        "B": "Pressure is critical for proper fixture operation; inadequate pressure prevents fixtures from functioning correctly.",
+        "C": "Low pressure causes poor fixture performance and may violate code minimums; adequate pressure is required.",
+        "D": "Pressure relates to functional performance; it is not an aesthetic consideration but an operational requirement."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.01 Plans layout and sizes piping and components for water service",
+      "question": "What is the typical minimum static pressure required at the water service entrance?",
+      "options": {
+        "A": "140 kPa (20 psi)",
+        "B": "275 kPa (40 psi)",
+        "C": "700 kPa (100 psi)",
+        "D": "1400 kPa (200 psi)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "140 kPa is insufficient for proper fixture operation and does not meet typical minimum code requirements.",
+        "B": "Most codes require minimum 275 kPa (40 psi) static pressure at the service entrance to ensure adequate fixture operation.",
+        "C": "700 kPa exceeds minimum requirements and may require pressure reduction to prevent fixture damage.",
+        "D": "1400 kPa is excessive and dangerous; pressure reduction would be mandatory to prevent system damage."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.01 Plans layout and sizes piping and components for water service",
+      "question": "Where should the water service line connect to the municipal main?",
+      "options": {
+        "A": "At the top of the main using a corporation stop",
+        "B": "By drilling through the bottom",
+        "C": "Anywhere randomly",
+        "D": "Connections are not needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Top connections using corporation stops prevent sediment entry and follow standard utility practices.",
+        "B": "Bottom connections would draw sediment and debris; top or side connections are standard practice.",
+        "C": "Connection location is specified by utility standards; proper placement prevents problems and ensures service quality.",
+        "D": "Proper connection to the main is essential for water service; specific methods and locations are required."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.01 Plans layout and sizes piping and components for water service",
+      "question": "Why must water service lines be protected from freezing?",
+      "options": {
+        "A": "Frozen water expands causing pipe rupture and service interruption",
+        "B": "Freezing improves water quality",
+        "C": "Protection is unnecessary",
+        "D": "Water services never freeze"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water freezing causes expansion that ruptures pipes; proper depth and insulation prevent freezing damage.",
+        "B": "Freezing damages pipes and interrupts service; it does not improve water quality in any way.",
+        "C": "Freeze protection through adequate burial depth or insulation is essential in cold climates to prevent damage.",
+        "D": "Water services are vulnerable to freezing without proper protection; inadequate depth causes freeze damage."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.01 Plans layout and sizes piping and components for water service",
+      "question": "What is the purpose of a water meter in the service line?",
+      "options": {
+        "A": "To measure water consumption for billing and monitoring usage",
+        "B": "To heat the water",
+        "C": "Only for decoration",
+        "D": "Meters serve no purpose"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water meters measure consumption for billing purposes and help identify leaks through unusual usage patterns.",
+        "B": "Water meters measure flow volume and do not heat water; they are measurement devices.",
+        "C": "Meters serve critical measurement functions for billing and monitoring; they are not decorative elements.",
+        "D": "Water meters are essential for consumption measurement, billing, and leak detection through usage monitoring."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.02 Installs piping for water service",
+      "question": "What is the minimum depth for burying water service lines in cold climates?",
+      "options": {
+        "A": "Below the frost line to prevent freezing",
+        "B": "300 mm (12 inches) regardless of climate",
+        "C": "No minimum depth required",
+        "D": "10 meters (33 feet) everywhere"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water services must be buried below local frost penetration depth to prevent freezing; depth varies by climate.",
+        "B": "300 mm may be adequate in mild climates but insufficient in areas with deep frost penetration.",
+        "C": "Minimum depth is essential for freeze protection and preventing damage from surface loads.",
+        "D": "10 meters is excessive; typical frost protection depths range from 0.6 to 2 meters depending on climate."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.02 Installs piping for water service",
+      "question": "What bedding material should be used under water service piping?",
+      "options": {
+        "A": "Sand or fine gravel free of rocks and debris",
+        "B": "Large rocks and construction debris",
+        "C": "Clay soil only",
+        "D": "No bedding needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Clean granular material provides uniform support preventing point loads and pipe damage during installation and service.",
+        "B": "Rocks and debris create point loads damaging pipe; proper granular bedding protects piping.",
+        "C": "Clay retains water and provides poor support; free-draining granular material is preferred for bedding.",
+        "D": "Proper bedding is essential for protecting pipe from point loads and providing stable uniform support."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.02 Installs piping for water service",
+      "question": "Why should water service lines maintain a slight slope?",
+      "options": {
+        "A": "To facilitate complete drainage for winterization or repairs",
+        "B": "Slope is not necessary",
+        "C": "Only for appearance",
+        "D": "To restrict water flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Slight slope allows complete drainage preventing freeze damage during shutdowns and facilitating repairs.",
+        "B": "While pressurized systems don't require slope for flow, drainage capability is important for maintenance and winterization.",
+        "C": "Underground piping slope is functional for drainage; appearance is not relevant for buried installations.",
+        "D": "Slope facilitates drainage and does not restrict flow; pressure systems maintain flow regardless of orientation."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.02 Installs piping for water service",
+      "question": "What precaution prevents contamination during water service installation?",
+      "options": {
+        "A": "Keep pipe ends capped, avoid contamination, and disinfect before service",
+        "B": "No precautions needed",
+        "C": "Allow dirt and debris to enter freely",
+        "D": "Contamination is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper handling, capping open ends, and disinfection before service prevent contamination of potable water systems.",
+        "B": "Contamination prevention is essential for potable water; specific procedures protect water quality.",
+        "C": "Contamination introduces pathogens and debris requiring extensive flushing and disinfection; prevention is essential.",
+        "D": "Contamination compromises water safety; prevention through proper procedures ensures potable water quality."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.02 Installs piping for water service",
+      "question": "Why must water service piping avoid areas with contamination sources?",
+      "options": {
+        "A": "To prevent cross-contamination through leaks or backpressure conditions",
+        "B": "Routing near contamination is required",
+        "C": "Contamination sources are beneficial",
+        "D": "Location doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Separation from sewers and contamination prevents pollution of potable water through leaks or pressure reversals.",
+        "B": "Codes require separation from contamination sources; proximity creates cross-contamination risk.",
+        "C": "Contamination sources threaten water safety; separation protects potable water from pollution.",
+        "D": "Routing location is critical for water safety; separation from contamination sources is code-required."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.02 Installs piping for water service",
+      "question": "What is the minimum horizontal separation required between water services and sewers?",
+      "options": {
+        "A": "3 meters (10 feet) unless special protection is provided",
+        "B": "No separation required",
+        "C": "100 meters (330 feet) minimum",
+        "D": "They should touch"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Most codes require 3-meter horizontal separation or special protection to prevent cross-contamination between water and sewer.",
+        "B": "Separation is mandatory for health protection; codes specify minimum distances preventing contamination.",
+        "C": "100 meters is excessive; typical requirement is 3 meters horizontal separation with greater separation for crossings.",
+        "D": "Direct contact creates contamination risk; significant separation is required to protect water quality."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.02 Installs piping for water service",
+      "question": "How should water service lines be protected when crossing under driveways?",
+      "options": {
+        "A": "Using sleeves or deeper burial to protect from vehicle loads",
+        "B": "No protection needed",
+        "C": "Use thinner walls",
+        "D": "Surface mounting is acceptable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Sleeves or adequate depth protect water services from crushing under vehicle loads preventing pipe damage.",
+        "B": "Driveways impose significant loads requiring protection to prevent pipe crushing and service interruption.",
+        "C": "Thinner walls reduce strength; driveway crossings require protection, not weaker materials.",
+        "D": "Water services must be buried for freeze protection; surface mounting invites damage and freezing."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.02 Installs piping for water service",
+      "question": "Why should water service installations be inspected before backfilling?",
+      "options": {
+        "A": "To verify proper installation and test for leaks while accessible",
+        "B": "Inspection is unnecessary",
+        "C": "Only for appearance",
+        "D": "To delay the project"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pre-backfill inspection verifies proper installation and allows leak testing before burial when repairs are easier.",
+        "B": "Inspection prevents burying defects that would require expensive excavation to correct later.",
+        "C": "Inspection verifies functional compliance; buried installations are not visible for aesthetic purposes.",
+        "D": "Inspection ensures quality and prevents failures; it protects investment rather than causing delays."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.03 Installs components for water service",
+      "question": "What is a corporation stop and where is it installed?",
+      "options": {
+        "A": "A valve threaded into the water main to control individual service connections",
+        "B": "A type of building",
+        "C": "An electrical component",
+        "D": "Corporation stops don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Corporation stops are service valves installed in the main allowing individual service control and connection.",
+        "B": "Corporation stops are plumbing valves connecting services to mains, not architectural structures.",
+        "C": "Corporation stops are water service valves, not electrical equipment or components.",
+        "D": "Corporation stops are standard water utility components for individual service connections to water mains."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.03 Installs components for water service",
+      "question": "Why must water meters be installed in accessible locations?",
+      "options": {
+        "A": "To enable reading, maintenance, and replacement without major disruption",
+        "B": "Accessibility is not important",
+        "C": "Meters should be hidden permanently",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Accessible meters allow routine reading, maintenance, and replacement without costly excavation or demolition.",
+        "B": "Accessibility is essential for routine meter reading, testing, and maintenance throughout service life.",
+        "C": "While meters can be underground, they must be accessible through meter boxes; complete concealment prevents necessary access.",
+        "D": "Meter accessibility serves functional purposes for reading and maintenance; appearance is not the primary concern."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.03 Installs components for water service",
+      "question": "What is the purpose of a backflow preventer on a water service?",
+      "options": {
+        "A": "To prevent contaminated water from flowing back into the potable supply",
+        "B": "To increase water pressure",
+        "C": "For decoration only",
+        "D": "Backflow preventers serve no purpose"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Backflow preventers protect public water supplies from contamination by preventing reverse flow from properties.",
+        "B": "Backflow preventers actually reduce pressure slightly; their purpose is contamination prevention, not pressure increase.",
+        "C": "Backflow preventers serve critical safety functions protecting water supplies; they are not decorative elements.",
+        "D": "Backflow preventers are essential safety devices protecting public water from contamination through reverse flow."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.03 Installs components for water service",
+      "question": "Why should a main shutoff valve be installed after the water meter?",
+      "options": {
+        "A": "To allow building water supply isolation for repairs without affecting meter",
+        "B": "Shutoff valves are not needed",
+        "C": "Only for decoration",
+        "D": "To prevent water flow permanently"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Main shutoff after meter allows building system isolation for maintenance while keeping meter accessible to utility.",
+        "B": "Main shutoff valves are essential for isolating building systems for repairs and emergencies.",
+        "C": "Main shutoff valves serve critical control functions; they are not decorative elements.",
+        "D": "Main shutoff provides control capability for maintenance; it is not meant for permanent closure."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.03 Installs components for water service",
+      "question": "What component protects against water hammer in service lines?",
+      "options": {
+        "A": "Water hammer arrestors or air chambers absorbing pressure surges",
+        "B": "Hammers are beneficial",
+        "C": "No protection needed",
+        "D": "Water hammer cannot occur"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Arrestors or air chambers absorb shock waves from quick valve closures preventing pipe damage and noise.",
+        "B": "Water hammer causes damaging pressure surges; protection prevents pipe stress and noise.",
+        "C": "Water hammer protection prevents damage to pipes, fittings, and fixtures from pressure surges.",
+        "D": "Water hammer commonly occurs from quick valve closures; protection prevents resulting damage."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.03 Installs components for water service",
+      "question": "Why must water service components be protected from freezing?",
+      "options": {
+        "A": "Freezing can damage valves, meters, and backflow preventers causing failures",
+        "B": "Freezing improves performance",
+        "C": "Components are freeze-proof",
+        "D": "No protection needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Freezing damages internal components, cracks housings, and causes expensive failures; insulation or heated enclosures protect components.",
+        "B": "Freezing causes component damage and malfunction; it degrades rather than improves performance.",
+        "C": "Most components are vulnerable to freeze damage; protection through insulation or location is necessary.",
+        "D": "Freeze protection is essential for component longevity; exposure to freezing causes costly damage."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.03 Installs components for water service",
+      "question": "What is a meter setter and what is its purpose?",
+      "options": {
+        "A": "A valve assembly with couplings allowing meter installation and removal",
+        "B": "A person who reads meters",
+        "C": "A type of wrench",
+        "D": "Meter setters don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Meter setters include valves and couplings enabling meter installation, testing, and replacement without disrupting service long-term.",
+        "B": "While meter readers exist, a meter setter is hardware facilitating meter installation and removal.",
+        "C": "Meter setters are plumbing assemblies, not tools; they are valve and coupling assemblies for meters.",
+        "D": "Meter setters are standard plumbing components simplifying meter installation, testing, and replacement."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.03 Installs components for water service",
+      "question": "Why should pressure gauges be installed on water services?",
+      "options": {
+        "A": "To monitor pressure for system troubleshooting and component protection",
+        "B": "Only for decoration",
+        "C": "Pressure monitoring is unnecessary",
+        "D": "Gauges reduce water quality"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure gauges enable monitoring for troubleshooting and verifying pressure is within safe ranges for components.",
+        "B": "Pressure gauges serve functional monitoring purposes; they are not decorative elements.",
+        "C": "Pressure monitoring helps identify problems and prevents damage from excessive or inadequate pressure.",
+        "D": "Pressure gauges monitor pressure and do not affect water quality; they are measurement devices."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.04 Tests water service systems",
+      "question": "What pressure should water service lines be tested at?",
+      "options": {
+        "A": "150% of working pressure or as specified by code, typically 1000-1400 kPa",
+        "B": "No testing needed",
+        "C": "100 kPa (14.5 psi) only",
+        "D": "10,000 kPa (1450 psi)"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Test pressure typically 1.5 times working pressure or code-specified level (often 1000-1400 kPa) verifies system integrity.",
+        "B": "Pressure testing is required to verify leak-free installation before burial and service connection.",
+        "C": "100 kPa is far too low for pressure testing water services; much higher pressure is needed to stress-test systems.",
+        "D": "10,000 kPa would damage pipes and components; test pressures are high but not excessive."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.04 Tests water service systems",
+      "question": "How long should pressure be maintained during water service testing?",
+      "options": {
+        "A": "Minimum 2 hours or as specified by code to reveal slow leaks",
+        "B": "5 seconds only",
+        "C": "Testing is instantaneous",
+        "D": "No time requirement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Extended test duration (typically 2+ hours) allows slow leaks to become apparent through pressure drop.",
+        "B": "5 seconds is insufficient to detect slow leaks; adequate duration allows small defects to reveal themselves.",
+        "C": "Instant testing misses slow leaks; proper test duration ensures all defects are revealed.",
+        "D": "Specific test duration is required for valid verification; adequate time is essential for detecting all leaks."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.04 Tests water service systems",
+      "question": "Why must water services be disinfected before use?",
+      "options": {
+        "A": "To eliminate bacteria and ensure potable water quality from installation contamination",
+        "B": "Disinfection is unnecessary",
+        "C": "To add flavor",
+        "D": "Bacteria are beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Chlorine disinfection followed by flushing eliminates bacteria introduced during installation ensuring water safety.",
+        "B": "Disinfection is required for potable water systems; it eliminates pathogens from installation handling.",
+        "C": "Disinfection's purpose is pathogen elimination, not flavor modification; water safety is the objective.",
+        "D": "Pathogenic bacteria threaten health; disinfection eliminates contamination ensuring potable water."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.04 Tests water service systems",
+      "question": "What indicates a failed pressure test?",
+      "options": {
+        "A": "Pressure drop exceeding allowable limits during test period",
+        "B": "Maintaining constant pressure",
+        "C": "Pressure increase",
+        "D": "Tests cannot fail"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure loss beyond specified limits indicates leaks requiring repair; systems must hold pressure within tolerances.",
+        "B": "Maintaining pressure indicates passing test; stable pressure demonstrates leak-free installation.",
+        "C": "Pressure increase would indicate temperature change or testing errors; normal testing monitors for decay.",
+        "D": "Tests fail when leaks exist; failed tests require leak location and repair before retesting."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.04 Tests water service systems",
+      "question": "Why should water services be flushed after installation?",
+      "options": {
+        "A": "To remove debris, sediment, and disinfecting chemicals before service",
+        "B": "Flushing is not necessary",
+        "C": "To add contaminants",
+        "D": "Debris improves water quality"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flushing removes construction debris, sediment, and residual disinfectant ensuring clean water delivery.",
+        "B": "Flushing is essential for removing debris and chemicals; clean water delivery requires proper flushing.",
+        "C": "Flushing removes contaminants; the purpose is delivering clean water, not introducing pollution.",
+        "D": "Debris degrades water quality and clogs fixtures; flushing removes unwanted material ensuring quality."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.04 Tests water service systems",
+      "question": "What documentation should accompany water service testing?",
+      "options": {
+        "A": "Test date, pressure, duration, results, and disinfection procedures",
+        "B": "No documentation needed",
+        "C": "Only contractor name",
+        "D": "Documentation is optional"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete test records document code compliance and provide reference for future work or issues.",
+        "B": "Comprehensive documentation is required for code compliance and provides essential records.",
+        "C": "Contractor identification is one element; complete technical test data must be documented.",
+        "D": "Test documentation is mandatory for proving compliance and providing records for warranty and future reference."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.04 Tests water service systems",
+      "question": "How is bacteriological testing performed on new water services?",
+      "options": {
+        "A": "Water samples analyzed by certified lab for coliform bacteria",
+        "B": "Visual inspection only",
+        "C": "Bacteriological testing is not done",
+        "D": "Taste test only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Lab analysis of water samples tests for indicator organisms verifying disinfection effectiveness and water safety.",
+        "B": "Visual inspection cannot detect bacteria; laboratory analysis is required for microbiological verification.",
+        "C": "Bacteriological testing verifies disinfection effectiveness; it is often required before service connection.",
+        "D": "Taste cannot reliably detect pathogens; laboratory testing is the only valid method for bacteriological verification."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.04 Tests water service systems",
+      "question": "What is the proper concentration of chlorine for disinfecting water services?",
+      "options": {
+        "A": "50-100 mg/L (50-100 ppm) for minimum 24 hours contact time",
+        "B": "No chlorine needed",
+        "C": "1 mg/L only",
+        "D": "Pure chlorine gas"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Strong chlorine solution (50-100 ppm) with adequate contact time ensures effective pathogen elimination.",
+        "B": "Chlorine disinfection is required for potable water systems; it eliminates pathogens from construction.",
+        "C": "1 mg/L is too weak for disinfection; higher concentrations are needed for construction contamination elimination.",
+        "D": "Chlorine gas is dangerous; sodium hypochlorite solutions are safe and effective for disinfection."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.05 Services water service systems",
+      "question": "What maintenance is required for curb stops?",
+      "options": {
+        "A": "Periodic operation to prevent seizing and verify functionality",
+        "B": "No maintenance needed",
+        "C": "Replace daily",
+        "D": "Maintenance is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Periodic exercising prevents corrosion seizure ensuring curb stops operate when needed for emergencies.",
+        "B": "Curb stops can corrode and seize; periodic operation maintains functionality for emergency shutoff.",
+        "C": "Daily replacement is unnecessary and wasteful; periodic exercising maintains existing valve function.",
+        "D": "Proper maintenance extends valve life; exercising prevents seizing and ensures emergency operation capability."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.05 Services water service systems",
+      "question": "What causes water service line leaks?",
+      "options": {
+        "A": "Corrosion, ground movement, freezing, or mechanical damage",
+        "B": "Leaks never occur",
+        "C": "Perfect installation prevents all leaks",
+        "D": "Leaks are beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple factors including corrosion, settlement, frost heave, and external damage cause service line leaks over time.",
+        "B": "Service lines can develop leaks from various causes requiring repair to prevent water loss and property damage.",
+        "C": "While proper installation reduces risks, external factors like corrosion and ground movement cause leaks over time.",
+        "D": "Leaks waste water, damage property, and may cause contamination; they require prompt repair."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.05 Services water service systems",
+      "question": "How can frozen water service lines be thawed safely?",
+      "options": {
+        "A": "Using electric heating tape or warm water, never open flame",
+        "B": "Blowtorch directly on pipe",
+        "C": "Freezing cannot be corrected",
+        "D": "Hit with hammers"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Controlled electric heating or warm water safely thaws frozen services without damage or fire risk.",
+        "B": "Open flames risk fires and can damage pipes; controlled electrical heating is safe and effective.",
+        "C": "Frozen services can be thawed using proper heating methods restoring water flow.",
+        "D": "Mechanical force on frozen pipes causes breakage; thawing requires heat application, not impact."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.05 Services water service systems",
+      "question": "Why should water meters be tested periodically?",
+      "options": {
+        "A": "To verify accuracy ensuring fair billing and detecting mechanical wear",
+        "B": "Testing is unnecessary",
+        "C": "Meters never wear",
+        "D": "Inaccuracy is acceptable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Periodic testing verifies meter accuracy ensuring fair billing; wear can cause under or over-registration.",
+        "B": "Meters experience wear affecting accuracy; periodic testing ensures fair measurement.",
+        "C": "Mechanical wear affects meter accuracy over time; testing verifies continued accurate measurement.",
+        "D": "Accurate measurement is essential for fair billing; significant inaccuracy requires meter repair or replacement."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.05 Services water service systems",
+      "question": "What indicates a leak in a water service line?",
+      "options": {
+        "A": "Unexplained water usage, wet areas, or meter movement with fixtures off",
+        "B": "Leaks are impossible to detect",
+        "C": "Dry conditions everywhere",
+        "D": "Leaks have no indicators"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Unusual consumption, wet ground areas, or meter movement without use indicate service line leaks.",
+        "B": "Service line leaks show through usage patterns, wet areas, and meter activity; detection is possible.",
+        "C": "Wet areas above buried services often indicate leaks; dry conditions suggest no leakage.",
+        "D": "Multiple indicators reveal service line leaks including usage patterns, wet areas, and continuous meter movement."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.05 Services water service systems",
+      "question": "How should water service excavations be properly backfilled?",
+      "options": {
+        "A": "With compacted granular material in layers preventing settlement",
+        "B": "Loose random fill",
+        "C": "Construction debris only",
+        "D": "No backfilling needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper compaction in layers prevents settlement and pipe stress ensuring long-term integrity.",
+        "B": "Loose backfill allows settlement causing pipe stress and surface depressions; proper compaction is essential.",
+        "C": "Construction debris provides poor support and contains materials damaging pipes; clean fill is required.",
+        "D": "Proper backfilling is essential for pipe protection, settlement prevention, and surface restoration."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.05 Services water service systems",
+      "question": "What causes low water pressure in service lines?",
+      "options": {
+        "A": "Undersized piping, leaks, partially closed valves, or pressure loss in main",
+        "B": "Low pressure never occurs",
+        "C": "Excessive pipe size",
+        "D": "Perfect conditions always"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple factors including inadequate sizing, leaks, valve position, and supply problems cause low pressure.",
+        "B": "Low pressure is common from various causes requiring investigation and correction.",
+        "C": "While oversizing adds cost, inadequate sizing causes low pressure; excessive size doesn't reduce pressure significantly.",
+        "D": "Various conditions cause low pressure requiring diagnosis to identify and correct the specific cause."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "D",
+      "task": "D-11",
+      "taskTitle": "Installs, tests and services water service",
+      "subtask": "D-11.05 Services water service systems",
+      "question": "Why should backflow preventers be tested annually?",
+      "options": {
+        "A": "To verify proper operation protecting water supply from contamination",
+        "B": "Testing is not required",
+        "C": "They never fail",
+        "D": "Testing damages them"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Annual testing verifies backflow preventers function properly protecting public water from contamination.",
+        "B": "Annual testing is often legally required; backflow preventers need verification to ensure continued protection.",
+        "C": "Backflow preventers experience wear and fouling; testing verifies continued proper operation.",
+        "D": "Proper testing verifies function without damage; neglect allows failures threatening water supply safety."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "What is the minimum size for water supply branches to fixtures?",
+      "options": {
+        "A": "Typically 13 mm (1/2 inch) for most fixtures",
+        "B": "6 mm (1/4 inch)",
+        "C": "50 mm (2 inches)",
+        "D": "No minimum exists"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Most codes require minimum 13 mm (1/2 inch) fixture supplies ensuring adequate flow for proper operation.",
+        "B": "6 mm is too small for fixture supplies and would severely restrict flow causing poor performance.",
+        "C": "50 mm is excessive for individual fixture supplies; this size is used for mains or large commercial fixtures.",
+        "D": "Minimum sizes are code-specified ensuring fixtures receive adequate supply for proper operation."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "Why must cold and hot water lines be sized properly?",
+      "options": {
+        "A": "To maintain adequate flow and pressure at all fixtures simultaneously",
+        "B": "Size doesn't affect performance",
+        "C": "Smaller is always better",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sizing ensures adequate flow when multiple fixtures operate preventing pressure loss and poor performance.",
+        "B": "Pipe size significantly affects flow and pressure; undersizing causes inadequate supply.",
+        "C": "Undersizing reduces flow and pressure; proper sizing balances cost and performance.",
+        "D": "Pipe sizing is functional requirement for adequate supply; concealed piping appearance is not a factor."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "What is the purpose of a distribution manifold system?",
+      "options": {
+        "A": "To provide dedicated lines to each fixture improving flow and reducing wait time",
+        "B": "Only for decoration",
+        "C": "To restrict water flow",
+        "D": "Manifolds serve no purpose"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Manifold systems run individual lines to each fixture improving performance and reducing hot water delivery time.",
+        "B": "Manifold systems serve functional purposes improving water delivery; they are not decorative elements.",
+        "C": "Manifolds improve flow by providing dedicated lines; they enhance rather than restrict water delivery.",
+        "D": "Manifolds improve distribution efficiency, reduce wait times, and simplify fixture isolation."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "Why should water distribution use a loop system when possible?",
+      "options": {
+        "A": "To provide multiple flow paths reducing friction losses and dead ends",
+        "B": "Loop systems are prohibited",
+        "C": "Dead ends are preferable",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Loop systems allow flow from multiple directions reducing pressure loss and eliminating dead ends where water stagnates.",
+        "B": "Loop systems are good design practice reducing friction losses and improving reliability.",
+        "C": "Dead ends cause stagnation and pressure loss; loop systems eliminate these problems.",
+        "D": "Loop configuration is functional design improving pressure and water quality; appearance is not relevant."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "What factors affect pipe sizing in water distribution?",
+      "options": {
+        "A": "Flow demand, available pressure, pipe length, and elevation changes",
+        "B": "Only the color of pipes",
+        "C": "No factors apply",
+        "D": "Random selection"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sizing considers demand, pressure, friction loss over distance, and elevation-related pressure changes.",
+        "B": "Pipe color relates to identification, not sizing; functional parameters determine proper pipe dimensions.",
+        "C": "Multiple technical factors must be evaluated to properly size piping ensuring adequate supply.",
+        "D": "Pipe sizing follows engineering calculations based on demand, pressure, and system geometry."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "Why must water supply lines be protected from freezing?",
+      "options": {
+        "A": "Freezing causes pipe rupture and service interruption from ice expansion",
+        "B": "Freezing improves water quality",
+        "C": "Protection is unnecessary",
+        "D": "Water lines never freeze"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water freezing expands causing pipe rupture; insulation or placement in heated spaces prevents freeze damage.",
+        "B": "Freezing damages pipes and stops service; it does not improve water quality.",
+        "C": "Freeze protection through insulation or routing in heated areas prevents expensive damage.",
+        "D": "Unprotected water lines are vulnerable to freezing; adequate protection is essential in cold environments."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "What is water hammer and how is it prevented?",
+      "options": {
+        "A": "Pressure surge from quick valve closure; prevented by arrestors or air chambers",
+        "B": "A beneficial occurrence",
+        "C": "Cannot be prevented",
+        "D": "Hammer is not a water issue"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water hammer is shock wave from sudden flow stoppage; arrestors absorb surges preventing damage and noise.",
+        "B": "Water hammer causes damaging pressure spikes and noise; it should be prevented, not encouraged.",
+        "C": "Water hammer is preventable through arrestors, air chambers, or slow-closing valves.",
+        "D": "Water hammer is common plumbing problem causing damage; prevention is essential for system protection."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "Why should hot water returns be sized properly?",
+      "options": {
+        "A": "To maintain circulation flow keeping water hot throughout the system",
+        "B": "Returns are not necessary",
+        "C": "Any size works equally",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper return sizing ensures adequate circulation maintaining hot water availability and reducing waste.",
+        "B": "Hot water returns are essential in large systems for maintaining temperature and reducing water waste.",
+        "C": "Return sizing affects circulation effectiveness; undersizing restricts flow reducing circulation efficiency.",
+        "D": "Return sizing serves functional circulation purposes; concealed piping appearance is not relevant."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "What support spacing is required for copper water piping?",
+      "options": {
+        "A": "Horizontal: 1.8 m (6 feet), Vertical: 3 m (10 feet) maximum",
+        "B": "No support needed",
+        "C": "Every 30 meters (100 feet)",
+        "D": "Support spacing is random"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Copper piping requires support at code-specified intervals preventing sagging and stress on joints.",
+        "B": "Piping requires support to prevent sagging from weight and contents; unsupported pipes fail.",
+        "C": "30-meter spacing allows excessive sagging; much closer support is required for proper installation.",
+        "D": "Support spacing is code-specified by pipe material and size; proper intervals prevent sagging."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "Why must water supply piping be protected from physical damage?",
+      "options": {
+        "A": "To prevent punctures, crushing, or impact damage causing leaks",
+        "B": "Protection is unnecessary",
+        "C": "Damage improves performance",
+        "D": "Pipes are indestructible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Protection through routing, sleeves, or guards prevents mechanical damage that would cause leaks.",
+        "B": "Exposed piping is vulnerable to damage; protection prevents expensive repairs and water damage.",
+        "C": "Physical damage causes leaks and service interruption; protection maintains system integrity.",
+        "D": "All piping materials are vulnerable to mechanical damage; protection prevents costly failures."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "How should water pipes be insulated?",
+      "options": {
+        "A": "With closed-cell foam or fiberglass insulation preventing heat loss or gain",
+        "B": "Insulation is not needed",
+        "C": "Use any material",
+        "D": "Paper towels only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper insulation prevents heat loss from hot water and condensation on cold water lines.",
+        "B": "Insulation prevents energy waste, condensation, and freeze protection in vulnerable areas.",
+        "C": "Insulation material must be appropriate for application; proper materials prevent moisture and energy loss.",
+        "D": "Paper products are inadequate insulation; proper materials provide effective thermal protection."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "Why should water piping avoid direct contact with concrete?",
+      "options": {
+        "A": "Concrete's alkalinity can corrode copper; plastic sleeves provide protection",
+        "B": "Concrete improves pipe life",
+        "C": "Direct contact is required",
+        "D": "No interaction occurs"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Concrete's alkalinity accelerates copper corrosion; sleeves or coatings protect piping from chemical attack.",
+        "B": "Concrete's chemistry damages copper piping; protection extends rather than improves pipe life.",
+        "C": "Direct contact should be avoided; protection prevents corrosion damage to copper piping.",
+        "D": "Chemical reactions between concrete and copper occur; protection prevents damaging corrosion."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "What precaution prevents electrolysis in water piping?",
+      "options": {
+        "A": "Using dielectric unions where dissimilar metals connect",
+        "B": "Mix all metals directly",
+        "C": "Electrolysis is beneficial",
+        "D": "No precautions needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Dielectric unions isolate dissimilar metals preventing galvanic corrosion from electrical current flow.",
+        "B": "Direct connection of dissimilar metals causes galvanic corrosion; isolation is necessary.",
+        "C": "Electrolysis causes corrosion and leaks; prevention through proper connections is essential.",
+        "D": "Dissimilar metal connections require isolation; direct contact causes accelerated corrosion."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "Why must water piping penetrations through fire-rated assemblies be sealed?",
+      "options": {
+        "A": "To maintain fire rating preventing flame and smoke spread",
+        "B": "Sealing is not required",
+        "C": "Only for appearance",
+        "D": "To restrict water flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Firestopping penetrations maintains fire resistance preventing fire spread through openings around pipes.",
+        "B": "Fire-rated penetrations require proper sealing to maintain building fire protection integrity.",
+        "C": "Firestopping serves critical fire protection functions; appearance is not the concern.",
+        "D": "Firestopping seals around pipes maintaining fire rating; it does not restrict water flow."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "How should expansion and contraction be accommodated in water piping?",
+      "options": {
+        "A": "Using expansion loops, offsets, or flexible connectors absorbing movement",
+        "B": "Rigid installation only",
+        "C": "Movement is impossible",
+        "D": "No accommodation needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper expansion accommodation prevents stress on joints and supports from temperature-related dimensional changes.",
+        "B": "Rigid installation without expansion provision causes joint stress and potential failures from thermal movement.",
+        "C": "All materials expand and contract with temperature; accommodation prevents stress damage.",
+        "D": "Thermal expansion causes significant movement; proper accommodation is essential for long-term integrity."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "Why should water piping slope toward drain points?",
+      "options": {
+        "A": "To enable complete drainage for winterization or repairs",
+        "B": "Slope is not necessary",
+        "C": "Only for appearance",
+        "D": "To restrict flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Slope toward drain valves allows complete system drainage preventing freeze damage during shutdowns.",
+        "B": "While pressurized systems function regardless of slope, drainage capability prevents freeze damage.",
+        "C": "Concealed piping slope serves drainage function; appearance is not relevant.",
+        "D": "Slight slope aids drainage without affecting pressurized flow; it enables maintenance capability."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "What is the purpose of isolation valves in water distribution?",
+      "options": {
+        "A": "To allow section shutoff for repairs without affecting entire system",
+        "B": "Only for decoration",
+        "C": "To permanently block flow",
+        "D": "Isolation valves serve no purpose"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Strategic valve placement allows isolating sections for maintenance minimizing service disruption.",
+        "B": "Isolation valves serve critical control functions; they are not decorative elements.",
+        "C": "Isolation valves provide temporary shutoff capability; permanent blockage defeats their purpose.",
+        "D": "Isolation valves are essential for enabling repairs and maintenance without total system shutdown."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "Where should main shutoff valves be located?",
+      "options": {
+        "A": "Near the water service entrance in accessible location",
+        "B": "Hidden inaccessibly",
+        "C": "Main shutoffs are not needed",
+        "D": "Outside the building only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Main shutoff at service entrance in accessible location enables emergency system isolation.",
+        "B": "Main shutoff must be accessible for emergency use; hidden valves delay response to leaks.",
+        "C": "Main shutoff valves are essential for emergency system isolation during leaks or repairs.",
+        "D": "While exterior access is valuable, interior main shutoff at service entrance is typically required."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "What type of valve is preferred for main shutoff service?",
+      "options": {
+        "A": "Ball or gate valves providing full bore and reliable shutoff",
+        "B": "Globe valves only",
+        "C": "Check valves",
+        "D": "Any valve works equally"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Ball or gate valves provide full flow when open and reliable shutoff when closed for main service.",
+        "B": "Globe valves create flow restriction; ball or gate valves are preferred for main shutoff applications.",
+        "C": "Check valves prevent backflow and don't provide manual shutoff; they're not suitable for main shutoff.",
+        "D": "Valve type matters; ball and gate valves are preferred for full flow and reliable shutoff."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "Why should fixture shutoff valves be installed?",
+      "options": {
+        "A": "To allow fixture service without shutting down entire system",
+        "B": "Fixture shutoffs are not needed",
+        "C": "Only for appearance",
+        "D": "To permanently restrict flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Fixture shutoffs enable repairs and replacement without affecting other fixtures or requiring main shutoff.",
+        "B": "Fixture shutoffs are required by code allowing maintenance without disrupting entire water supply.",
+        "C": "Fixture shutoffs serve functional control purposes; they are required components, not decoration.",
+        "D": "Fixture shutoffs provide control for maintenance; permanent restriction defeats their purpose."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "What is the purpose of pressure reducing valves?",
+      "options": {
+        "A": "To lower excessive supply pressure protecting fixtures and preventing water waste",
+        "B": "To increase pressure",
+        "C": "Only for decoration",
+        "D": "PRVs serve no purpose"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "PRVs reduce high street pressure to safe levels protecting fixtures and reducing water consumption.",
+        "B": "PRVs reduce rather than increase pressure; they protect against excessive supply pressure.",
+        "C": "PRVs serve critical pressure control functions; they are not decorative elements.",
+        "D": "PRVs protect systems from damage and reduce waste by controlling excessive supply pressure."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "Where should pressure relief valves be installed?",
+      "options": {
+        "A": "On water heaters and closed systems to prevent dangerous pressure buildup",
+        "B": "Relief valves are not needed",
+        "C": "Only for decoration",
+        "D": "Inside fixtures only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Relief valves prevent dangerous pressure buildup in closed systems protecting against explosion hazards.",
+        "B": "Relief valves are mandatory safety devices preventing dangerous pressure in closed water heating systems.",
+        "C": "Relief valves serve critical safety functions preventing explosions; they are not decorative elements.",
+        "D": "Relief valves protect entire systems and must discharge to safe locations, not inside fixtures."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "What is a water hammer arrestor?",
+      "options": {
+        "A": "A device with air chamber absorbing pressure surges from quick valve closure",
+        "B": "A type of hammer",
+        "C": "An electrical device",
+        "D": "Arrestors don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Arrestors contain air chambers that compress absorbing shock waves preventing pipe damage and noise.",
+        "B": "While called arrestors, they are plumbing devices, not tools; they absorb hydraulic shock.",
+        "C": "Water hammer arrestors are mechanical plumbing devices, not electrical components.",
+        "D": "Water hammer arrestors are standard plumbing components protecting against hydraulic shock damage."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "Why should expansion tanks be installed on closed water systems?",
+      "options": {
+        "A": "To accommodate thermal expansion preventing dangerous pressure buildup",
+        "B": "Expansion tanks are not needed",
+        "C": "Only for decoration",
+        "D": "To store cold water"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Expansion tanks absorb volume increase from heating preventing excessive pressure in closed systems.",
+        "B": "Expansion tanks are required in closed systems; thermal expansion creates dangerous pressure without accommodation.",
+        "C": "Expansion tanks serve critical safety functions preventing pressure damage; they are not decorative.",
+        "D": "Expansion tanks accommodate volume changes from heating, not cold water storage."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What is a cross-connection in plumbing?",
+      "options": {
+        "A": "Any connection allowing non-potable water or contaminants to enter potable supply",
+        "B": "A beneficial connection",
+        "C": "Pipes crossing at right angles",
+        "D": "Cross-connections don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Cross-connections are any link between potable and non-potable water creating contamination risk.",
+        "B": "Cross-connections threaten water safety by allowing contamination entry; they must be prevented.",
+        "C": "While pipes may cross physically, cross-connections specifically refer to contamination pathways.",
+        "D": "Cross-connections are serious contamination risks requiring prevention through proper design and devices."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What is an air gap and why is it important?",
+      "options": {
+        "A": "Vertical space between supply outlet and fixture flood rim preventing backflow",
+        "B": "A window opening",
+        "C": "Air gaps are not important",
+        "D": "Any distance works"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Air gaps provide absolute protection against backflow by physical separation preventing any reverse flow path.",
+        "B": "While air gaps involve air space, they specifically refer to plumbing contamination prevention separations.",
+        "C": "Air gaps are the most reliable cross-connection control providing absolute contamination prevention.",
+        "D": "Air gap distance is code-specified ensuring adequate separation for backflow prevention."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What is backflow and what causes it?",
+      "options": {
+        "A": "Reverse water flow from back-pressure or back-siphonage allowing contamination entry",
+        "B": "Normal forward flow",
+        "C": "Backflow is beneficial",
+        "D": "Backflow cannot occur"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Backflow occurs when pressure reverses allowing non-potable water to enter potable supply through cross-connections.",
+        "B": "Backflow is specifically reverse flow; normal flow is forward from supply to fixtures.",
+        "C": "Backflow causes contamination threatening health; prevention is essential for water safety.",
+        "D": "Backflow commonly occurs from pressure changes; prevention through proper devices is necessary."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What is a vacuum breaker?",
+      "options": {
+        "A": "A device allowing air entry preventing back-siphonage",
+        "B": "A tool for breaking vacuums",
+        "C": "An electrical component",
+        "D": "Vacuum breakers don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Vacuum breakers admit air when negative pressure develops preventing siphoning of non-potable water.",
+        "B": "While they address vacuums, vacuum breakers are plumbing devices preventing contamination, not tools.",
+        "C": "Vacuum breakers are mechanical plumbing devices, not electrical components.",
+        "D": "Vacuum breakers are common backflow prevention devices protecting against back-siphonage."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "Where must hose bibb vacuum breakers be installed?",
+      "options": {
+        "A": "On all threaded hose connections to prevent contamination from attached hoses",
+        "B": "Vacuum breakers are not needed on hose bibbs",
+        "C": "Only indoors",
+        "D": "Installation location doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Hose bibbs require vacuum breakers preventing back-siphonage through hoses submerged in contaminated water.",
+        "B": "Hose connections are high-risk cross-connection points requiring mandatory vacuum breaker protection.",
+        "C": "Both interior and exterior hose connections require vacuum breakers for contamination prevention.",
+        "D": "Hose bibbs wherever located require vacuum breakers due to contamination risk from submerged hoses."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What is a reduced pressure zone (RPZ) backflow preventer?",
+      "options": {
+        "A": "A testable device using two check valves and pressure differential for high-hazard protection",
+        "B": "A simple check valve",
+        "C": "An electrical device",
+        "D": "RPZ devices don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "RPZ devices provide maximum protection through redundant checks and pressure monitoring for high contamination risks.",
+        "B": "RPZ devices are much more complex than check valves providing superior testable protection.",
+        "C": "RPZ devices are mechanical plumbing protection devices, not electrical components.",
+        "D": "RPZ backflow preventers are sophisticated devices for high-hazard cross-connection control."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "Why must backflow preventers be tested annually?",
+      "options": {
+        "A": "To verify proper operation ensuring continued protection against contamination",
+        "B": "Testing is not required",
+        "C": "They never need testing",
+        "D": "Testing damages devices"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Annual testing by certified testers verifies mechanical function ensuring continued water supply protection.",
+        "B": "Regular testing is legally required for many backflow devices; verification ensures continued protection.",
+        "C": "Backflow preventers experience wear and fouling; testing verifies they still function properly.",
+        "D": "Proper testing verifies function without damage; neglect allows failures threatening public water safety."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What hazard level requires RPZ backflow preventer installation?",
+      "options": {
+        "A": "High hazard situations with toxic or dangerous contamination potential",
+        "B": "No hazard protection needed",
+        "C": "Low hazard only",
+        "D": "All hazards are identical"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "RPZ devices are required for high-hazard connections where contamination could cause serious illness or death.",
+        "B": "Backflow protection is required based on hazard assessment; high hazards need maximum protection.",
+        "C": "Low hazards may use simpler devices; RPZ protection is specified for serious contamination risks.",
+        "D": "Hazard levels vary significantly; protection requirements increase with contamination severity."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "What pressure should water distribution systems be tested at?",
+      "options": {
+        "A": "Working pressure plus 350 kPa (50 psi) or 1.5 times working pressure",
+        "B": "No testing needed",
+        "C": "50 kPa (7 psi) only",
+        "D": "Any pressure works"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Test pressure exceeding working pressure verifies system integrity under stress conditions.",
+        "B": "Pressure testing is required to verify leak-free installation before concealment and service.",
+        "C": "50 kPa is far too low for testing pressurized water systems; much higher pressure is necessary.",
+        "D": "Test pressure is code-specified ensuring adequate stress testing reveals all defects."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "How long should pressure be maintained during water system testing?",
+      "options": {
+        "A": "Minimum 2 hours or as code requires to detect slow leaks",
+        "B": "5 seconds only",
+        "C": "No time requirement",
+        "D": "Testing is instantaneous"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Extended test duration allows slow leaks to reveal themselves through gradual pressure loss.",
+        "B": "Brief testing misses slow leaks; adequate duration is essential for complete verification.",
+        "C": "Test duration is code-specified ensuring slow leaks have time to become apparent.",
+        "D": "Instant testing cannot detect slow leaks; proper duration is essential for thorough verification."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "What indicates a failed pressure test?",
+      "options": {
+        "A": "Pressure drop exceeding allowable limits or visible leaks",
+        "B": "Maintaining constant pressure",
+        "C": "Pressure increase",
+        "D": "Tests cannot fail"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Excessive pressure loss or leaks indicate defects requiring repair before system acceptance.",
+        "B": "Stable pressure indicates passing test; pressure maintenance demonstrates leak-free installation.",
+        "C": "Pressure increase would indicate temperature effects; normal testing monitors for pressure decay.",
+        "D": "Tests fail when leaks exist; failures require defect location and repair before retesting."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "Why should water systems be flushed before use?",
+      "options": {
+        "A": "To remove debris, flux, and contaminants from installation",
+        "B": "Flushing is not necessary",
+        "C": "To add contaminants",
+        "D": "Debris improves water quality"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flushing removes construction debris, soldering flux, and pipe cuttings ensuring clean water delivery.",
+        "B": "Flushing is essential for removing installation debris providing clean water at fixtures.",
+        "C": "Flushing removes contamination; the purpose is clean water delivery, not pollution addition.",
+        "D": "Debris degrades water quality; flushing removes unwanted materials ensuring potability."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "How are air locks removed from water distribution systems?",
+      "options": {
+        "A": "By opening highest fixtures and flushing until steady water flow appears",
+        "B": "Air locks cannot be removed",
+        "C": "By adding more air",
+        "D": "Ignore air locks"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Opening high points allows trapped air to escape as water displaces it upward and out.",
+        "B": "Air locks are removable through proper venting and flushing procedures restoring full flow.",
+        "C": "Adding air worsens air locks; removal requires venting to eliminate trapped air.",
+        "D": "Air locks restrict flow and cause sputtering; removal is necessary for proper system operation."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "What is flow testing and why is it performed?",
+      "options": {
+        "A": "Measuring flow rates at fixtures to verify adequate supply and pressure",
+        "B": "Flow testing is unnecessary",
+        "C": "Only a visual check",
+        "D": "To restrict flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flow testing verifies fixtures receive adequate flow confirming proper system sizing and installation.",
+        "B": "Flow testing validates design calculations ensuring fixtures operate properly with adequate supply.",
+        "C": "Visual observation alone cannot quantify flow; measurement verifies adequate performance.",
+        "D": "Flow testing verifies adequate flow; the purpose is confirmation, not restriction."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "Why should isolation valves be tested during commissioning?",
+      "options": {
+        "A": "To verify they operate properly and provide complete shutoff",
+        "B": "Valve testing is unnecessary",
+        "C": "Valves never need testing",
+        "D": "Testing damages valves"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Valve testing confirms proper operation and complete shutoff ensuring maintenance capability.",
+        "B": "Valve testing verifies functionality essential for future maintenance and emergency isolation.",
+        "C": "Valves can be defective or installed incorrectly; testing verifies proper function.",
+        "D": "Proper testing verifies function without damage; commissioning identifies defects before reliance."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "What documentation should accompany distribution system testing?",
+      "options": {
+        "A": "Test date, pressure, duration, results, repairs made, and system layout",
+        "B": "No documentation needed",
+        "C": "Only contractor name",
+        "D": "Documentation is optional"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete records document compliance and provide essential reference for future work.",
+        "B": "Comprehensive documentation is required for code compliance and future system reference.",
+        "C": "Contractor identification is one component; complete technical test data must be documented.",
+        "D": "Test documentation is mandatory for proving compliance and providing maintenance records."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What causes low water pressure at fixtures?",
+      "options": {
+        "A": "Undersized piping, clogged aerators, partially closed valves, or supply issues",
+        "B": "Low pressure never occurs",
+        "C": "Oversized piping",
+        "D": "Perfect conditions always"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple factors including sizing, restrictions, valve position, and supply problems cause low pressure.",
+        "B": "Low pressure is common from various causes requiring diagnosis and correction.",
+        "C": "While oversizing adds cost, undersizing causes low pressure; excessive size doesn't significantly reduce pressure.",
+        "D": "Various conditions cause low pressure; diagnosis identifies specific causes enabling correction."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "How should clogged aerators be cleaned?",
+      "options": {
+        "A": "Remove, disassemble, soak in vinegar, and flush debris",
+        "B": "Aerators cannot be cleaned",
+        "C": "Hit with hammer",
+        "D": "Cleaning is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Vinegar dissolves mineral deposits; flushing removes debris restoring proper flow.",
+        "B": "Aerators are cleanable; mineral deposit removal restores flow without replacement cost.",
+        "C": "Impact damages aerators; proper cleaning through disassembly and soaking is effective.",
+        "D": "Regular cleaning maintains aerator function preventing complete blockage requiring replacement."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What causes water discoloration?",
+      "options": {
+        "A": "Rust from pipes, sediment disturbance, or manganese in supply",
+        "B": "Discoloration is beneficial",
+        "C": "Water is never discolored",
+        "D": "Only from exterior paint"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Corrosion, disturbed sediment, or minerals cause discoloration requiring flushing or system correction.",
+        "B": "Discoloration indicates problems with pipes or supply requiring investigation and correction.",
+        "C": "Discoloration occurs from various internal causes affecting water quality and requiring attention.",
+        "D": "Exterior finishes don't affect water color; discoloration originates from pipe corrosion or supply issues."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "Why should water heaters be drained periodically?",
+      "options": {
+        "A": "To remove sediment buildup improving efficiency and extending life",
+        "B": "Draining is harmful",
+        "C": "Sediment is beneficial",
+        "D": "Water heaters never need draining"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Sediment accumulation reduces efficiency and capacity; periodic draining removes deposits.",
+        "B": "Proper draining removes harmful sediment; neglect reduces efficiency and accelerates tank failure.",
+        "C": "Sediment reduces efficiency and damages tanks; removal through draining extends heater life.",
+        "D": "Sediment accumulates continuously in water heaters; periodic draining is essential maintenance."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What indicates a leak in water distribution piping?",
+      "options": {
+        "A": "Water stains, meter movement with fixtures off, or unexplained usage increase",
+        "B": "Leaks are impossible to detect",
+        "C": "Dry conditions everywhere",
+        "D": "Leaks have no indicators"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Stains, continuous meter movement, and usage spikes indicate leaks requiring investigation.",
+        "B": "Leaks show through stains, meter activity, and usage patterns enabling detection.",
+        "C": "Wet spots and stains often indicate leaks; dry conditions suggest absence of leakage.",
+        "D": "Multiple indicators reveal leaks including visible water, meter movement, and usage changes."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "How should frozen water pipes be thawed?",
+      "options": {
+        "A": "Using electric heating tape, hair dryer, or warm towels, never open flame",
+        "B": "Blowtorch directly",
+        "C": "Frozen pipes cannot be thawed",
+        "D": "Hit with hammers"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Gentle controlled heating safely thaws pipes without damage or fire risk.",
+        "B": "Open flames create fire hazard and can damage pipes; controlled heating is safe and effective.",
+        "C": "Frozen pipes are thawable using proper heating methods restoring water flow.",
+        "D": "Impact on frozen pipes causes breakage; thawing requires heat application, not force."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What maintenance is required for pressure reducing valves?",
+      "options": {
+        "A": "Periodic testing, adjustment, and strainer cleaning to maintain proper function",
+        "B": "No maintenance needed",
+        "C": "Replace daily",
+        "D": "Maintenance is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular maintenance ensures PRVs continue regulating pressure properly protecting fixtures.",
+        "B": "PRVs experience wear and fouling; maintenance ensures continued proper pressure regulation.",
+        "C": "Daily replacement is unnecessary; periodic maintenance maintains existing valve function.",
+        "D": "Proper maintenance extends valve life and ensures continued pressure protection."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "Why should distribution systems be winterized in vacant buildings?",
+      "options": {
+        "A": "To drain water preventing freeze damage to pipes and fixtures",
+        "B": "Winterization is unnecessary",
+        "C": "Leave water in pipes",
+        "D": "Freezing is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete drainage prevents freeze damage saving expensive repairs in unheated buildings.",
+        "B": "Winterization prevents costly freeze damage in unheated spaces during cold weather.",
+        "C": "Water left in pipes will freeze causing rupture; complete drainage is essential.",
+        "D": "Freezing causes expensive pipe damage; winterization prevents destructive ice formation."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What causes hammering noises in water pipes?",
+      "options": {
+        "A": "Quick valve closure creating pressure waves, or loose pipes vibrating",
+        "B": "Hammering is normal and acceptable",
+        "C": "Perfectly quiet operation always",
+        "D": "External construction only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water hammer from flow stoppage or vibration from inadequate support causes annoying and damaging noise.",
+        "B": "Hammering indicates problems requiring correction through arrestors or better support.",
+        "C": "Hammering reveals specific problems; quiet operation indicates proper installation and protection.",
+        "D": "Internal hydraulic and mechanical issues cause pipe hammering; external noise is separate."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "How can scale buildup in pipes be prevented?",
+      "options": {
+        "A": "Water softening, filtration, or chemical treatment reducing mineral content",
+        "B": "Scale is beneficial",
+        "C": "Scale cannot be prevented",
+        "D": "Add more minerals"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Reducing water hardness through treatment prevents scale accumulation maintaining flow capacity.",
+        "B": "Scale reduces pipe capacity and efficiency; prevention maintains system performance.",
+        "C": "Scale is preventable through water treatment reducing mineral precipitation.",
+        "D": "Additional minerals worsen scaling; treatment removes minerals preventing deposits."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.01 Plans layout and sizes piping for private water pressure systems",
+      "question": "When is a private water pressure system necessary?",
+      "options": {
+        "A": "When municipal supply is unavailable or pressure is inadequate",
+        "B": "Private systems are never needed",
+        "C": "Only for decoration",
+        "D": "Always required regardless of supply"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Private systems provide water where municipal service is unavailable or boost inadequate municipal pressure.",
+        "B": "Private systems are essential in rural areas and situations with inadequate municipal supply.",
+        "C": "Pressure systems serve critical water supply functions; they are not decorative elements.",
+        "D": "Private systems are needed only when municipal supply is absent or inadequate for requirements."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.01 Plans layout and sizes piping for private water pressure systems",
+      "question": "What components comprise a typical private pressure system?",
+      "options": {
+        "A": "Water source, pump, pressure tank, controls, and distribution piping",
+        "B": "Only a pump",
+        "C": "No components needed",
+        "D": "Just wishful thinking"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete systems include source, pumping, storage, control, and distribution components working together.",
+        "B": "Pumps alone cannot provide steady pressure; tanks, controls, and distribution are essential components.",
+        "C": "Multiple integrated components are necessary for proper private pressure system operation.",
+        "D": "Private systems require specific equipment and proper design to function reliably."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What indicates a water heater anode rod needs replacement?",
+      "options": {
+        "A": "Exposed core wire or rod deterioration allowing tank corrosion",
+        "B": "Anode rods never need replacement",
+        "C": "Visual inspection is impossible",
+        "D": "Replacement is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Depleted anode rods expose tanks to corrosion; replacement when significantly deteriorated extends tank life.",
+        "B": "Anode rods sacrifice themselves protecting tanks; periodic replacement is essential maintenance.",
+        "C": "Anode rods are removable for inspection; checking deterioration determines replacement timing.",
+        "D": "Anode replacement protects expensive tanks; proper maintenance extends water heater service life."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "Why should relief valve discharge pipes terminate properly?",
+      "options": {
+        "A": "To safely discharge hot water and steam preventing scalding or property damage",
+        "B": "Discharge location doesn't matter",
+        "C": "Direct discharge onto people is acceptable",
+        "D": "Relief valves don't discharge"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper termination near floor drains prevents scalding injuries and water damage from relief valve operation.",
+        "B": "Discharge location is critical for safety; improper termination creates scalding hazards.",
+        "C": "Relief discharge can cause severe burns; proper termination directs water safely away from people.",
+        "D": "Relief valves discharge during overpressure conditions; proper piping manages dangerous discharge safely."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What causes whistling in water pipes?",
+      "options": {
+        "A": "Restricted flow through partially closed valves or small orifices creating turbulence",
+        "B": "Whistling is impossible",
+        "C": "Perfect system operation",
+        "D": "External wind only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flow restriction creates high-velocity turbulence producing audible whistling requiring valve adjustment or replacement.",
+        "B": "Whistling commonly occurs from flow restrictions in valves or fixtures requiring correction.",
+        "C": "Whistling indicates flow restrictions; proper systems operate quietly without whistling sounds.",
+        "D": "Internal flow conditions cause whistling; external wind is separate from pipe whistling."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "How should water quality issues be addressed?",
+      "options": {
+        "A": "Through testing, filtration, treatment, or source correction based on specific problems",
+        "B": "Ignore water quality",
+        "C": "Quality issues resolve themselves",
+        "D": "No treatment exists"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Testing identifies specific problems; appropriate treatment or source changes address quality issues.",
+        "B": "Water quality affects health and fixtures; problems require investigation and appropriate treatment.",
+        "C": "Quality problems persist without treatment; active correction is necessary for safe water.",
+        "D": "Multiple treatment methods exist for various water quality problems; appropriate selection addresses specific issues."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What maintenance extends fixture shutoff valve life?",
+      "options": {
+        "A": "Periodic exercising preventing corrosion seizure and ensuring emergency operation",
+        "B": "Never operate valves",
+        "C": "Valves never seize",
+        "D": "Exercising damages valves"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular operation prevents mineral buildup and corrosion ensuring valves function when needed.",
+        "B": "Unused valves corrode and seize; periodic operation maintains functionality for repairs.",
+        "C": "Fixture valves can seize from mineral deposits and corrosion; exercising prevents seizure.",
+        "D": "Proper exercising maintains valve function; neglect allows corrosion causing valve failure."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "What is the purpose of a circulation pump in hot water systems?",
+      "options": {
+        "A": "To maintain hot water throughout piping reducing wait time and water waste",
+        "B": "Circulation pumps are not used",
+        "C": "Only for decoration",
+        "D": "To cool water"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Circulation pumps keep water hot throughout the system providing instant hot water and reducing waste.",
+        "B": "Circulation pumps are common in large systems maintaining temperature and reducing water waste.",
+        "C": "Circulation pumps serve functional purposes improving hot water delivery; they are not decorative.",
+        "D": "Circulation pumps maintain hot water temperature; they do not cool water."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "Why must fixture supply lines be sized for peak demand?",
+      "options": {
+        "A": "To ensure adequate flow when multiple fixtures operate simultaneously",
+        "B": "Single fixture sizing is adequate",
+        "C": "Peak demand is irrelevant",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Sizing for simultaneous use prevents pressure loss and flow reduction during peak usage periods.",
+        "B": "Single fixture sizing causes inadequate supply during simultaneous use; peak demand determines sizing.",
+        "C": "Peak demand represents maximum system load requiring adequate capacity for acceptable performance.",
+        "D": "Pipe sizing serves functional flow requirements; concealed piping appearance is irrelevant."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "What is the advantage of PEX piping in water distribution?",
+      "options": {
+        "A": "Flexibility allowing easier installation, freeze resistance, and corrosion immunity",
+        "B": "No advantages exist",
+        "C": "PEX is inferior to all materials",
+        "D": "Only for decoration"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "PEX flexibility reduces fittings, resists freeze damage, and eliminates corrosion providing installation and performance benefits.",
+        "B": "PEX offers multiple advantages including flexibility, durability, and ease of installation.",
+        "C": "PEX has specific advantages making it suitable for many applications; material selection depends on requirements.",
+        "D": "PEX serves functional piping purposes; material advantages are performance-based, not aesthetic."
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "What is the proper method for connecting PEX tubing?",
+      "options": {
+        "A": "Crimp rings, clamps, or push-fit fittings appropriate for the PEX type",
+        "B": "Tape only",
+        "C": "No connections possible",
+        "D": "Random methods"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple approved connection methods exist; proper technique ensures leak-free permanent connections.",
+        "B": "Tape alone cannot secure PEX connections; mechanical or compression fittings are required.",
+        "C": "PEX is connectable using approved methods including crimping, clamping, and push-fit systems.",
+        "D": "PEX connections require specific approved methods; proper technique ensures reliable leak-free joints."
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "Why should water pipes not be installed in exterior walls?",
+      "options": {
+        "A": "Exposure to cold temperatures increases freezing risk causing pipe damage",
+        "B": "Exterior walls are the best location",
+        "C": "Freezing is beneficial",
+        "D": "Location doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Exterior wall installation exposes pipes to cold increasing freeze risk; interior walls provide better protection.",
+        "B": "Exterior walls expose pipes to temperature extremes; interior walls offer better freeze protection.",
+        "C": "Freezing causes pipe rupture and service loss; avoiding freeze-prone locations prevents damage.",
+        "D": "Pipe location significantly affects freeze risk; proper routing in protected areas prevents damage."
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "What is the purpose of pipe hangers and supports?",
+      "options": {
+        "A": "To prevent sagging, reduce stress on joints, and minimize vibration",
+        "B": "Supports are not needed",
+        "C": "Only for decoration",
+        "D": "To restrict water flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper support prevents sagging that stresses joints and reduces vibration preventing noise and damage.",
+        "B": "Piping requires support preventing sagging from weight and contents; unsupported pipes fail.",
+        "C": "Supports serve structural functions maintaining proper pipe alignment; they are not decorative.",
+        "D": "Supports maintain proper alignment without restricting flow; they protect pipe integrity."
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "Why should soldering flux be water-soluble?",
+      "options": {
+        "A": "To allow complete flushing preventing pipe corrosion from acidic flux residue",
+        "B": "Flux type doesn't matter",
+        "C": "Acid flux is preferred",
+        "D": "Flux is not used"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water-soluble flux is completely removable by flushing preventing internal corrosion from acid residue.",
+        "B": "Flux type is critical; water-soluble flux prevents corrosion while acid flux causes internal damage.",
+        "C": "Acid flux corrodes copper internally; water-soluble flux is required for potable water systems.",
+        "D": "Flux is essential for proper soldering; water-soluble types prevent internal corrosion."
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "What precaution prevents pipe freezing in crawl spaces?",
+      "options": {
+        "A": "Adequate insulation, heat tape, or enclosing and heating the space",
+        "B": "No precautions needed",
+        "C": "Freezing is impossible",
+        "D": "Remove all insulation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple protection methods prevent freeze damage in vulnerable crawl space locations.",
+        "B": "Crawl spaces are vulnerable to freezing; protection prevents expensive pipe damage.",
+        "C": "Unprotected crawl space piping commonly freezes; proper protection is essential.",
+        "D": "Insulation provides freeze protection; removal increases rather than decreases freeze risk."
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "What is a check valve and where is it used?",
+      "options": {
+        "A": "A valve allowing flow in one direction only, preventing backflow",
+        "B": "A valve for checking quality",
+        "C": "An electrical component",
+        "D": "Check valves don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Check valves permit forward flow while blocking reverse flow protecting pumps and preventing backflow.",
+        "B": "While called check valves, they control flow direction rather than checking quality.",
+        "C": "Check valves are mechanical plumbing devices, not electrical components.",
+        "D": "Check valves are common plumbing components preventing reverse flow in various applications."
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "Why should water heaters have drain valves?",
+      "options": {
+        "A": "To enable sediment removal and complete tank drainage for maintenance",
+        "B": "Drain valves are unnecessary",
+        "C": "Only for decoration",
+        "D": "To add sediment"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Drain valves allow periodic sediment flushing and complete drainage for repairs or replacement.",
+        "B": "Drain valves are essential for maintenance enabling sediment removal and tank drainage.",
+        "C": "Drain valves serve functional maintenance purposes; they are not decorative elements.",
+        "D": "Drain valves remove sediment improving efficiency; they don't add deposits to tanks."
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "What is a mixing valve and what is its purpose?",
+      "options": {
+        "A": "A valve blending hot and cold water to safe temperatures preventing scalding",
+        "B": "A valve for mixing chemicals",
+        "C": "An electrical mixer",
+        "D": "Mixing valves don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Thermostatic mixing valves blend water to safe temperatures preventing scalding while maintaining comfort.",
+        "B": "While they mix fluids, mixing valves specifically blend hot and cold water for temperature control.",
+        "C": "Mixing valves are plumbing temperature control devices, not electrical equipment.",
+        "D": "Mixing valves are safety devices preventing scalding by controlling water temperature."
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "Why should drain pans be installed under water heaters?",
+      "options": {
+        "A": "To contain leaks preventing water damage to structure and contents below",
+        "B": "Drain pans are not needed",
+        "C": "Only for decoration",
+        "D": "To collect drinking water"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Drain pans with proper drainage protect structures from damage when water heaters leak or relief valves discharge.",
+        "B": "Drain pans are often code-required in locations above finished spaces preventing expensive water damage.",
+        "C": "Drain pans serve protective functions preventing water damage; they are not decorative elements.",
+        "D": "Drain pans collect leak water for safe disposal, not for potable use."
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "What is a balancing valve used for?",
+      "options": {
+        "A": "To adjust flow in branches ensuring even distribution throughout the system",
+        "B": "For physical balance only",
+        "C": "Balancing valves are not used",
+        "D": "To block all flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Balancing valves adjust resistance in parallel branches creating uniform flow distribution and pressure.",
+        "B": "While called balancing valves, they balance hydraulic conditions rather than physical equilibrium.",
+        "C": "Balancing valves are important in large systems ensuring even flow distribution to all branches.",
+        "D": "Balancing valves adjust flow proportions; complete blockage defeats their distribution purpose."
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "Why should water meters be protected from freezing?",
+      "options": {
+        "A": "Freezing damages internal mechanisms and cracks meter housings",
+        "B": "Freezing improves meter accuracy",
+        "C": "Meters are freeze-proof",
+        "D": "No protection needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Ice expansion damages meter internals and housings; insulation or heated enclosures prevent freeze damage.",
+        "B": "Freezing causes expensive meter damage; it degrades rather than improves performance.",
+        "C": "Water meters are vulnerable to freeze damage; protection through insulation or location is necessary.",
+        "D": "Freeze protection is essential for meter longevity; exposure to freezing causes costly damage."
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What is back-siphonage and what causes it?",
+      "options": {
+        "A": "Reverse flow from negative pressure in supply lines sucking contaminated water back",
+        "B": "Normal forward flow",
+        "C": "Back-siphonage is beneficial",
+        "D": "Cannot occur"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Supply line negative pressure from high withdrawal or breaks creates suction drawing contamination through cross-connections.",
+        "B": "Back-siphonage is specifically reverse flow from vacuum; normal flow is forward under pressure.",
+        "C": "Back-siphonage causes contamination threatening health; prevention is essential for water safety.",
+        "D": "Back-siphonage commonly occurs from pressure drops; prevention through devices is necessary."
+      }
+    },
+    {
+      "questionNumber": 113,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What is back-pressure and how does it differ from back-siphonage?",
+      "options": {
+        "A": "Reverse flow from downstream pressure exceeding supply pressure forcing contamination backward",
+        "B": "They are identical",
+        "C": "Back-pressure is beneficial",
+        "D": "Back-pressure never occurs"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Back-pressure occurs when non-potable system pressure exceeds supply pressure pushing contamination into potable water.",
+        "B": "Back-pressure is from positive downstream pressure while back-siphonage results from upstream vacuum.",
+        "C": "Back-pressure causes dangerous contamination; prevention through proper devices is essential.",
+        "D": "Back-pressure occurs when pumps or elevation create higher downstream pressure than supply."
+      }
+    },
+    {
+      "questionNumber": 114,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "Why are double check valve assemblies used?",
+      "options": {
+        "A": "To provide redundant backflow protection for moderate hazard applications",
+        "B": "Single checks are always sufficient",
+        "C": "Only for decoration",
+        "D": "Double checks are prohibited"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Two independent checks provide backup protection; if one fails, the second prevents contamination.",
+        "B": "Single checks offer no redundancy; double checks provide safer protection through backup.",
+        "C": "Double check assemblies serve critical protection functions; they are not decorative elements.",
+        "D": "Double check valves are approved devices for moderate hazard cross-connection control."
+      }
+    },
+    {
+      "questionNumber": 115,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What makes an air gap the most reliable backflow prevention?",
+      "options": {
+        "A": "Physical separation creates absolute barrier with no mechanical components to fail",
+        "B": "Air gaps are least reliable",
+        "C": "Mechanical devices are superior",
+        "D": "Air gaps don't work"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Air gaps provide absolute protection through physical separation; no pressure condition can breach separation.",
+        "B": "Air gaps are most reliable protection; mechanical devices can fail while physical separation cannot.",
+        "C": "While mechanical devices are effective, air gaps provide superior protection through absolute physical separation.",
+        "D": "Air gaps are most effective backflow prevention; physical separation provides absolute protection."
+      }
+    },
+    {
+      "questionNumber": 116,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "Where should atmospheric vacuum breakers not be installed?",
+      "options": {
+        "A": "Under continuous pressure or where subject to back-pressure",
+        "B": "Anywhere is acceptable",
+        "C": "Only outdoor locations",
+        "D": "Vacuum breakers work everywhere"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Atmospheric vacuum breakers are not designed for continuous pressure or back-pressure; they require specific conditions.",
+        "B": "AVBs have specific application requirements; improper installation compromises protection.",
+        "C": "AVBs can be used indoors or outdoors; the limitation is pressure conditions, not location.",
+        "D": "AVBs have specific application limits; other devices are needed for continuous pressure or back-pressure."
+      }
+    },
+    {
+      "questionNumber": 117,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What is a pressure vacuum breaker assembly?",
+      "options": {
+        "A": "A testable device with check valve and air inlet protecting against back-siphonage",
+        "B": "A simple air gap",
+        "C": "An electrical device",
+        "D": "PVBs don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "PVBs combine check valves with air inlets providing testable protection against back-siphonage under pressure.",
+        "B": "PVBs are mechanical assemblies more complex than air gaps providing different protection.",
+        "C": "PVBs are mechanical plumbing protection devices, not electrical components.",
+        "D": "Pressure vacuum breakers are common testable devices for irrigation and other applications."
+      }
+    },
+    {
+      "questionNumber": 118,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "Why must backflow preventers be installed above ground?",
+      "options": {
+        "A": "To prevent submersion during flooding and enable testing and inspection access",
+        "B": "Underground installation is required",
+        "C": "Location doesn't matter",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Above-ground installation prevents flood contamination and allows necessary testing and maintenance access.",
+        "B": "Underground installation exposes devices to flooding and prevents proper testing and inspection.",
+        "C": "Installation location affects flood risk and accessibility; proper location is essential for function.",
+        "D": "Location serves protection and maintenance functions; appearance is not the primary concern."
+      }
+    },
+    {
+      "questionNumber": 119,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What is the purpose of test cocks on backflow preventers?",
+      "options": {
+        "A": "To enable performance testing verifying proper operation without device removal",
+        "B": "Only for decoration",
+        "C": "Test cocks are not needed",
+        "D": "To permanently release pressure"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Test cocks allow differential pressure testing confirming check valves and relief valves function properly.",
+        "B": "Test cocks serve functional testing purposes; they are not decorative elements.",
+        "C": "Test cocks are essential for verifying backflow preventer operation during required testing.",
+        "D": "Test cocks are for temporary testing connections; continuous discharge would indicate device malfunction."
+      }
+    },
+    {
+      "questionNumber": 120,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "What is hydrostatic testing?",
+      "options": {
+        "A": "Pressurizing water systems with water to verify leak-free installation",
+        "B": "Testing water chemistry only",
+        "C": "Visual inspection without pressure",
+        "D": "Hydrostatic testing is not used"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Hydrostatic testing uses water pressure to stress systems revealing leaks before burial or concealment.",
+        "B": "While hydro refers to water, hydrostatic testing specifically evaluates pressure integrity, not chemistry.",
+        "C": "Hydrostatic testing requires pressurization; visual inspection alone cannot verify pressure integrity.",
+        "D": "Hydrostatic testing is standard method for verifying pressure system integrity before concealment."
+      }
+    },
+    {
+      "questionNumber": 121,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "Why should air be purged before pressure testing?",
+      "options": {
+        "A": "Air compressibility prevents proper pressure stabilization and leak detection",
+        "B": "Air improves testing",
+        "C": "Air removal is unnecessary",
+        "D": "Air should be added"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Trapped air compresses masking leaks; complete water filling enables accurate pressure testing.",
+        "B": "Air compressibility interferes with testing; complete water filling provides accurate results.",
+        "C": "Air removal is essential for valid testing; compression prevents proper pressure maintenance.",
+        "D": "Air should be eliminated, not added; water-filled systems provide accurate pressure testing."
+      }
+    },
+    {
+      "questionNumber": 122,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "What safety precautions are necessary during pressure testing?",
+      "options": {
+        "A": "Controlled pressurization, pressure relief provisions, and personnel clear of pressurized areas",
+        "B": "No safety measures needed",
+        "C": "Instant maximum pressure application",
+        "D": "Safety is irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Gradual pressurization, relief capability, and personnel safety prevent injuries from pressure testing.",
+        "B": "High pressure testing creates hazards; proper safety procedures protect personnel and property.",
+        "C": "Sudden pressurization creates hazards; gradual controlled pressure application is safe practice.",
+        "D": "Safety is paramount in pressure testing; proper procedures prevent injuries from system failures or equipment problems."
+      }
+    },
+    {
+      "questionNumber": 123,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "Why should fixture flow rates be measured?",
+      "options": {
+        "A": "To verify adequate supply confirming proper system sizing and installation",
+        "B": "Flow measurement is unnecessary",
+        "C": "Only appearance matters",
+        "D": "To restrict flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flow measurement validates design ensuring fixtures receive adequate water for proper operation.",
+        "B": "Flow verification confirms system adequacy; measurement validates design calculations.",
+        "C": "Flow measurement verifies functional performance; appearance is not relevant.",
+        "D": "Flow measurement verifies adequacy; the purpose is confirmation, not intentional restriction."
+      }
+    },
+    {
+      "questionNumber": 124,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What causes sediment accumulation in water heaters?",
+      "options": {
+        "A": "Minerals precipitating from heated water settling at tank bottom",
+        "B": "Sediment is externally added",
+        "C": "Accumulation is beneficial",
+        "D": "Sediment never forms"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Heating causes dissolved minerals to precipitate; gravity settles particles forming sediment layer reducing capacity.",
+        "B": "Sediment forms from water-borne minerals, not external addition; precipitation occurs during heating.",
+        "C": "Sediment reduces efficiency and capacity; removal through draining improves heater performance.",
+        "D": "Sediment continuously forms in water heaters; periodic removal is essential maintenance."
+      }
+    },
+    {
+      "questionNumber": 125,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "Why do copper pipes develop green deposits?",
+      "options": {
+        "A": "Copper oxidation from water exposure forming copper carbonate patina",
+        "B": "Paint only",
+        "C": "Green deposits are beneficial",
+        "D": "Copper never discolors"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Natural copper oxidation produces green patina; while unsightly, it actually protects underlying copper from further corrosion.",
+        "B": "Green deposits are natural oxidation, not paint; they form from copper's reaction with water and air.",
+        "C": "Green patina is protective though unsightly; it indicates natural aging rather than harmful corrosion.",
+        "D": "Copper oxidizes over time producing characteristic green patina; discoloration is normal aging."
+      }
+    },
+    {
+      "questionNumber": 126,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What maintenance is required for water filters?",
+      "options": {
+        "A": "Periodic cartridge replacement based on usage or pressure drop",
+        "B": "Filters never need service",
+        "C": "Use indefinitely without changes",
+        "D": "Maintenance is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Filter cartridges accumulate contaminants requiring replacement maintaining effectiveness and preventing bacterial growth.",
+        "B": "Filters accumulate contaminants reducing effectiveness; regular replacement maintains water quality.",
+        "C": "Exhausted filters lose effectiveness and may harbor bacteria; timely replacement is essential.",
+        "D": "Proper maintenance ensures continued filtration; neglect allows bacterial growth and reduced effectiveness."
+      }
+    },
+    {
+      "questionNumber": 127,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.01 Plans layout and sizes piping for potable water distribution systems",
+      "question": "What is the minimum pressure required for proper fixture operation?",
+      "options": {
+        "A": "138-207 kPa (20-30 psi) for most fixtures to function adequately",
+        "B": "1000 kPa (145 psi) minimum",
+        "C": "10 kPa (1.5 psi) is sufficient",
+        "D": "Pressure is irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Most fixtures require 138-207 kPa minimum for proper operation; lower pressure causes poor performance.",
+        "B": "1000 kPa far exceeds minimum requirements and may damage fixtures; typical range is much lower.",
+        "C": "10 kPa is grossly inadequate for fixture operation; much higher pressure is required.",
+        "D": "Adequate pressure is essential for fixture operation; insufficient pressure prevents proper function."
+      }
+    },
+    {
+      "questionNumber": 128,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "Why should copper pipe be deburred after cutting?",
+      "options": {
+        "A": "To remove sharp edges preventing turbulence and future leak points",
+        "B": "Deburring is unnecessary",
+        "C": "Burrs improve flow",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Deburring removes internal edges that create turbulence and potential leak points at fittings.",
+        "B": "Burrs create flow restrictions and can compromise joint integrity; removal is essential.",
+        "C": "Burrs create turbulence and reduce flow; smooth interiors optimize hydraulic performance.",
+        "D": "While appearance improves, the critical reasons are flow optimization and proper joint seating."
+      }
+    },
+    {
+      "questionNumber": 129,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.02 Installs piping for potable water distribution systems",
+      "question": "What is proper technique for soldering copper joints?",
+      "options": {
+        "A": "Heat fitting, apply solder to joint allowing capillary action to draw it in",
+        "B": "Heat solder directly",
+        "C": "No heat needed",
+        "D": "Random technique"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Heating the fitting draws solder through capillary action creating complete leak-free joints.",
+        "B": "Direct solder heating prevents proper capillary flow; heating the copper draws solder into joints.",
+        "C": "Heat is essential for melting solder and enabling capillary flow creating permanent joints.",
+        "D": "Proper technique ensures reliable leak-free joints; specific procedures are necessary for quality."
+      }
+    },
+    {
+      "questionNumber": 130,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "What is a tempering valve?",
+      "options": {
+        "A": "A mixing valve reducing hot water temperature to safe levels",
+        "B": "A valve for tempering steel",
+        "C": "An emotional control device",
+        "D": "Tempering valves don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Tempering valves mix hot and cold water delivering safe temperatures preventing scalding injuries.",
+        "B": "While tempering relates to heat treatment, tempering valves specifically control water temperature mixing.",
+        "C": "Tempering valves are plumbing temperature control devices, not psychological equipment.",
+        "D": "Tempering valves are safety devices preventing scalding by controlling water temperature delivery."
+      }
+    },
+    {
+      "questionNumber": 131,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.03 Installs components for potable water distribution systems",
+      "question": "Why should shut-off valves be full-port design?",
+      "options": {
+        "A": "To minimize flow restriction when open maintaining system pressure",
+        "B": "Restricted ports are superior",
+        "C": "Port size is irrelevant",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Full-port valves match pipe diameter minimizing pressure loss when open for unrestricted flow.",
+        "B": "Restricted ports create unnecessary pressure loss; full-port design optimizes flow.",
+        "C": "Port size affects flow and pressure; full-port design minimizes restrictions.",
+        "D": "Port size serves hydraulic function; full bore optimizes flow performance."
+      }
+    },
+    {
+      "questionNumber": 132,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "What protection is required for boiler feed water connections?",
+      "options": {
+        "A": "RPZ backflow preventer protecting against high-hazard contamination from heating chemicals",
+        "B": "No protection needed",
+        "C": "Simple check valve sufficient",
+        "D": "Air gap is impossible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Boiler chemicals create high-hazard conditions requiring RPZ protection against toxic contamination.",
+        "B": "Boiler connections are high-hazard requiring maximum protection preventing chemical contamination.",
+        "C": "Simple checks are inadequate for high-hazard; RPZ devices provide necessary protection level.",
+        "D": "While air gaps provide best protection, RPZ devices offer practical high-hazard protection for boiler connections."
+      }
+    },
+    {
+      "questionNumber": 133,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.04 Installs cross-connection controls for potable water distribution systems",
+      "question": "Why must backflow preventers be protected from freezing?",
+      "options": {
+        "A": "Freezing damages internal components rendering devices inoperative",
+        "B": "Freezing improves performance",
+        "C": "Devices are freeze-proof",
+        "D": "No protection needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Ice expansion cracks housings and damages internals; freeze protection maintains device functionality.",
+        "B": "Freezing causes expensive damage impairing function; it degrades rather than improves performance.",
+        "C": "Backflow preventers are vulnerable to freeze damage; protection through insulation or location is necessary.",
+        "D": "Freeze protection is essential for device reliability; exposure to freezing causes costly failures."
+      }
+    },
+    {
+      "questionNumber": 134,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.05 Tests distribution systems",
+      "question": "What is the purpose of system commissioning?",
+      "options": {
+        "A": "To verify complete system functions properly before owner acceptance",
+        "B": "Commissioning is unnecessary",
+        "C": "Only for decoration",
+        "D": "To delay completion"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Commissioning validates all components function properly together meeting design intent before turnover.",
+        "B": "Commissioning ensures quality preventing problems after occupancy; verification protects all parties.",
+        "C": "Commissioning serves functional verification purposes; it is not decorative activity.",
+        "D": "Commissioning ensures quality and functionality; it protects investment rather than causing delays."
+      }
+    },
+    {
+      "questionNumber": 135,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What indicates a pressure reducing valve needs adjustment?",
+      "options": {
+        "A": "Downstream pressure too high or too low relative to setpoint",
+        "B": "PRVs never need adjustment",
+        "C": "Perfect pressure always",
+        "D": "Adjustment is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure deviation from setpoint indicates adjustment need; proper setting protects fixtures and reduces waste.",
+        "B": "PRVs require periodic checking and adjustment maintaining proper downstream pressure.",
+        "C": "PRV wear or fouling affects performance; monitoring and adjustment maintain proper pressure.",
+        "D": "Proper adjustment maintains fixture protection; neglect allows pressure problems."
+      }
+    },
+    {
+      "questionNumber": 136,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "How should pinhole leaks in copper piping be addressed?",
+      "options": {
+        "A": "Section replacement or repair coupling installation depending on corrosion extent",
+        "B": "Tape only",
+        "C": "Ignore completely",
+        "D": "Pinhole leaks are beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pinhole leaks indicate corrosion requiring permanent repair; extent determines replacement or coupling use.",
+        "B": "Tape provides temporary measures only; pinhole leaks require permanent repair or replacement.",
+        "C": "Pinhole leaks waste water and indicate corrosion; repair prevents damage and waste.",
+        "D": "Pinhole leaks waste water and may indicate widespread corrosion; repair is necessary."
+      }
+    },
+    {
+      "questionNumber": 137,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "What causes blue-green staining on fixtures?",
+      "options": {
+        "A": "Copper corrosion from acidic water dissolving copper from piping",
+        "B": "External paint only",
+        "C": "Staining is beneficial",
+        "D": "Stains are impossible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Acidic water dissolves copper creating blue-green stains; pH adjustment prevents corrosion and staining.",
+        "B": "Blue-green staining results from internal copper corrosion, not external sources like paint.",
+        "C": "Staining indicates corrosive water damaging pipes; treatment prevents pipe damage and staining.",
+        "D": "Copper corrosion commonly produces blue-green staining requiring water treatment for prevention."
+      }
+    },
+    {
+      "questionNumber": 138,
+      "block": "D",
+      "task": "D-12",
+      "taskTitle": "Installs, tests and services potable water distribution systems",
+      "subtask": "D-12.06 Services distribution systems",
+      "question": "Why should water heater temperature be set properly?",
+      "options": {
+        "A": "To balance safety, efficiency, and bacterial control - typically 60°C (140°F)",
+        "B": "Any temperature is acceptable",
+        "C": "Maximum temperature always",
+        "D": "Temperature is irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper temperature prevents scalding while controlling legionella and maintaining efficiency; 60°C balances concerns.",
+        "B": "Temperature affects safety, bacteria control, and efficiency; proper setting balances competing factors.",
+        "C": "Excessive temperature wastes energy and creates scalding risk; moderate settings balance needs.",
+        "D": "Temperature critically affects safety, bacterial growth, and efficiency; proper setting is essential."
+      }
+    },
+    {
+      "questionNumber": 139,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.01 Plans layout and sizes piping for private water pressure systems",
+      "question": "What type of pump is commonly used for residential water pressure systems?",
+      "options": {
+        "A": "Centrifugal pumps including submersible or jet pumps",
+        "B": "Hand pumps only",
+        "C": "No pumps are needed",
+        "D": "Pumps are prohibited"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Centrifugal pumps (submersible for deep wells, jet pumps for shallow) efficiently provide residential water pressure.",
+        "B": "Hand pumps are backup options; motorized centrifugal pumps provide convenient automatic pressure.",
+        "C": "Pumps are essential for pressure systems; they provide the energy for water delivery.",
+        "D": "Pumps are standard components for private pressure systems providing necessary pressure."
+      }
+    },
+    {
+      "questionNumber": 140,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.01 Plans layout and sizes piping for private water pressure systems",
+      "question": "What is the purpose of a pressure tank in private systems?",
+      "options": {
+        "A": "To provide storage reducing pump cycling and maintaining steady pressure",
+        "B": "Only for decoration",
+        "C": "Tanks are not needed",
+        "D": "To restrict water flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure tanks store water under pressure reducing pump starts and providing steady delivery pressure.",
+        "B": "Pressure tanks serve critical functional purposes; they are not decorative elements.",
+        "C": "Pressure tanks are essential for reducing pump cycling and providing pressure stability.",
+        "D": "Pressure tanks provide water storage and pressure buffering; they enhance rather than restrict flow."
+      }
+    },
+    {
+      "questionNumber": 141,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.01 Plans layout and sizes piping for private water pressure systems",
+      "question": "How is pump capacity determined?",
+      "options": {
+        "A": "Based on peak water demand, required pressure, and total dynamic head",
+        "B": "Random selection",
+        "C": "Capacity is irrelevant",
+        "D": "Smallest pump always"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pump sizing considers maximum simultaneous demand, desired pressure, and total head losses ensuring adequate supply.",
+        "B": "Proper pump selection requires calculating demand, pressure, and head; random selection causes problems.",
+        "C": "Pump capacity must meet demand under maximum use conditions; undersizing causes inadequate supply.",
+        "D": "Minimum pumps cause inadequate pressure and flow; proper sizing matches system requirements."
+      }
+    },
+    {
+      "questionNumber": 142,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.01 Plans layout and sizes piping for private water pressure systems",
+      "question": "What is total dynamic head in pump selection?",
+      "options": {
+        "A": "Sum of elevation lift, friction losses, and required pressure head",
+        "B": "Pump physical height only",
+        "C": "TDH is not relevant",
+        "D": "Random number"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "TDH includes all resistance the pump must overcome: elevation, friction, and pressure requirements.",
+        "B": "While elevation is one component, TDH includes friction and pressure requirements beyond physical height.",
+        "C": "TDH is fundamental to pump selection; it represents total resistance pump must overcome.",
+        "D": "TDH is calculated from system geometry and requirements; proper calculation ensures adequate pump selection."
+      }
+    },
+    {
+      "questionNumber": 143,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.01 Plans layout and sizes piping for private water pressure systems",
+      "question": "Why must well pumps be sized for sustainable yield?",
+      "options": {
+        "A": "To prevent well depletion and pump damage from running dry",
+        "B": "Any pumping rate is acceptable",
+        "C": "Maximum pumping always",
+        "D": "Yield is irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pumping faster than well recovery depletes water and damages pumps running dry; sustainable rates prevent problems.",
+        "B": "Excessive pumping rates exceed well recovery causing depletion and pump damage.",
+        "C": "Maximum pumping may exceed sustainable yield causing well depletion; sustainable rates match recovery.",
+        "D": "Well yield limits sustainable pumping; exceeding yield causes depletion and system failure."
+      }
+    },
+    {
+      "questionNumber": 144,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.01 Plans layout and sizes piping for private water pressure systems",
+      "question": "What controls are required for automatic pressure systems?",
+      "options": {
+        "A": "Pressure switch, pressure gauge, and low-pressure cutoff protecting pump",
+        "B": "No controls needed",
+        "C": "Manual operation only",
+        "D": "Controls are prohibited"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure switch automates operation, gauge monitors performance, cutoff prevents damage from low water.",
+        "B": "Controls are essential for automatic operation and pump protection; manual systems are impractical.",
+        "C": "While manual control is possible, automatic controls provide convenience and pump protection.",
+        "D": "Automatic controls are standard for private systems providing convenience and equipment protection."
+      }
+    },
+    {
+      "questionNumber": 145,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.02 Installs piping for private water pressure systems",
+      "question": "What is the minimum size for well pump discharge piping?",
+      "options": {
+        "A": "Same as pump discharge connection, typically 25-32 mm (1 to 1-1/4 inch)",
+        "B": "6 mm (1/4 inch)",
+        "C": "100 mm (4 inches)",
+        "D": "Size doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Discharge piping should match pump outlet size minimizing friction loss and maintaining pump efficiency.",
+        "B": "6 mm is far too small creating excessive friction loss and reducing pump performance.",
+        "C": "100 mm exceeds typical residential pump requirements adding unnecessary cost.",
+        "D": "Piping size affects friction loss and pump performance; proper sizing optimizes efficiency."
+      }
+    },
+    {
+      "questionNumber": 146,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.02 Installs piping for private water pressure systems",
+      "question": "Why must suction piping be airtight?",
+      "options": {
+        "A": "Air leaks cause pump cavitation and loss of prime preventing water delivery",
+        "B": "Air leaks improve performance",
+        "C": "Leaks are beneficial",
+        "D": "Airtightness is unnecessary"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Suction side air leaks destroy pump prime and cause cavitation; airtight installation ensures reliable operation.",
+        "B": "Air leaks cause pump failures and lost prime; airtight connections ensure proper operation.",
+        "C": "Air in suction lines prevents pumping and damages equipment; tight connections are essential.",
+        "D": "Airtight suction piping is critical for pump operation; leaks prevent priming and cause failures."
+      }
+    },
+    {
+      "questionNumber": 147,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.02 Installs piping for private water pressure systems",
+      "question": "How should piping be supported to prevent vibration?",
+      "options": {
+        "A": "With rigid supports and isolation at pump connections dampening vibration transmission",
+        "B": "No support needed",
+        "C": "Loose connections preferred",
+        "D": "Maximum vibration is desirable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper support with vibration isolation prevents noise, wear, and structural transmission of pump vibration.",
+        "B": "Unsupported piping amplifies vibration causing noise and fatigue failures; proper support is essential.",
+        "C": "Loose connections allow leaks and amplify vibration; secure supported installation reduces problems.",
+        "D": "Vibration causes noise, wear, and failures; proper support and isolation minimize vibration."
+      }
+    },
+    {
+      "questionNumber": 148,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.02 Installs piping for private water pressure systems",
+      "question": "Why should check valves be installed on pump discharge?",
+      "options": {
+        "A": "To prevent backflow when pump stops maintaining tank pressure",
+        "B": "Check valves are not needed",
+        "C": "To restrict flow",
+        "D": "Only for decoration"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Check valves prevent reverse flow maintaining tank pressure and preventing pump damage from back-spin.",
+        "B": "Check valves are essential for maintaining system pressure and protecting pumps from reverse rotation.",
+        "C": "Check valves prevent reverse flow while allowing forward delivery; restriction is minimal.",
+        "D": "Check valves serve critical functional purposes; they are not decorative elements."
+      }
+    },
+    {
+      "questionNumber": 149,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.02 Installs piping for private water pressure systems",
+      "question": "What precaution prevents freezing of pressure system piping?",
+      "options": {
+        "A": "Burial below frost line, insulation, or heat tracing in vulnerable areas",
+        "B": "No freeze protection needed",
+        "C": "Surface mounting is best",
+        "D": "Freezing is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple protection methods prevent freeze damage in vulnerable locations ensuring year-round operation.",
+        "B": "Freeze protection is essential for cold climate operation; unprotected systems fail.",
+        "C": "Surface mounting increases freeze risk; proper burial or insulation provides protection.",
+        "D": "Freezing causes system damage and service interruption; protection prevents costly failures."
+      }
+    },
+    {
+      "questionNumber": 150,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.03 Installs components for private water pressure systems",
+      "question": "What is the function of a pressure switch?",
+      "options": {
+        "A": "To automatically start and stop pump maintaining pressure within set range",
+        "B": "Only for decoration",
+        "C": "To measure temperature",
+        "D": "Pressure switches are not used"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure switches sense system pressure automatically controlling pump operation maintaining desired pressure range.",
+        "B": "Pressure switches serve critical control functions; they are not decorative elements.",
+        "C": "Pressure switches monitor pressure, not temperature; they control pump operation based on pressure.",
+        "D": "Pressure switches are standard automatic control components for private water systems."
+      }
+    },
+    {
+      "questionNumber": 151,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.03 Installs components for private water pressure systems",
+      "question": "Why are pressure tanks pre-charged with air?",
+      "options": {
+        "A": "Air cushion provides pressure maintenance between pump cycles",
+        "B": "Air charge is not needed",
+        "C": "To restrict water storage",
+        "D": "Only for decoration"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pre-charged air provides compressible cushion maintaining pressure as water is used reducing pump cycling.",
+        "B": "Air pre-charge is essential for pressure tank function; it provides the compressible cushion maintaining pressure.",
+        "C": "Air charge enables pressure maintenance and water storage; it enhances rather than restricts capacity.",
+        "D": "Air pre-charge serves critical functional purposes; it is not decorative feature."
+      }
+    },
+    {
+      "questionNumber": 152,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.03 Installs components for private water pressure systems",
+      "question": "What protects pumps from running dry?",
+      "options": {
+        "A": "Low water cutoff switch or pressure sensor preventing operation without water",
+        "B": "No protection needed",
+        "C": "Dry running is beneficial",
+        "D": "Pumps cannot run dry"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Dry-run protection prevents expensive pump damage from operating without water for cooling and lubrication.",
+        "B": "Dry-run protection is essential; pumps suffer rapid damage without water.",
+        "C": "Dry running quickly damages pumps through overheating; protection prevents costly failures.",
+        "D": "Pumps can run dry if water is depleted; protection prevents resulting damage."
+      }
+    },
+    {
+      "questionNumber": 153,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.03 Installs components for private water pressure systems",
+      "question": "Why should pressure gauges be installed on pressure systems?",
+      "options": {
+        "A": "To monitor system operation and diagnose problems through pressure observation",
+        "B": "Gauges are not needed",
+        "C": "Only for decoration",
+        "D": "To reduce pressure"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure gauges enable monitoring system performance and identifying problems through abnormal pressure readings.",
+        "B": "Pressure gauges provide essential system monitoring enabling problem detection and troubleshooting.",
+        "C": "Pressure gauges serve functional monitoring purposes; they are not decorative elements.",
+        "D": "Pressure gauges monitor pressure without affecting it; they are measurement devices."
+      }
+    },
+    {
+      "questionNumber": 154,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.03 Installs components for private water pressure systems",
+      "question": "What is a cycle stop valve and what does it do?",
+      "options": {
+        "A": "A valve maintaining constant pressure reducing pump cycling and extending life",
+        "B": "A valve that stops all flow",
+        "C": "An electrical component",
+        "D": "Cycle stop valves don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Cycle stop valves throttle flow maintaining pressure allowing pumps to run longer at lower flows reducing cycling.",
+        "B": "Cycle stop valves regulate pressure and flow; they don't stop all flow but optimize pump operation.",
+        "C": "Cycle stop valves are hydraulic control devices, not electrical components.",
+        "D": "Cycle stop valves are advanced controls reducing pump cycling and improving pressure stability."
+      }
+    },
+    {
+      "questionNumber": 155,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.03 Installs components for private water pressure systems",
+      "question": "Why should isolation valves be installed around system components?",
+      "options": {
+        "A": "To enable component service without draining entire system",
+        "B": "Isolation valves are not needed",
+        "C": "Only for decoration",
+        "D": "To permanently block flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Strategic isolation valves allow component service minimizing downtime and water loss during maintenance.",
+        "B": "Isolation valves are essential for efficient maintenance allowing component service without system shutdown.",
+        "C": "Isolation valves serve functional maintenance purposes; they are not decorative elements.",
+        "D": "Isolation valves provide temporary shutoff for maintenance; permanent blockage defeats their purpose."
+      }
+    },
+    {
+      "questionNumber": 156,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.03 Installs components for private water pressure systems",
+      "question": "What electrical protection is required for well pumps?",
+      "options": {
+        "A": "Properly sized breaker, overload protection, and lightning arrestor",
+        "B": "No protection needed",
+        "C": "Any electrical connection works",
+        "D": "Pumps don't use electricity"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Electrical protection prevents motor damage from overloads, short circuits, and lightning strikes.",
+        "B": "Proper electrical protection is essential for pump motor longevity and fire prevention.",
+        "C": "Electrical installations must follow code requirements; proper protection prevents damage and hazards.",
+        "D": "Most pumps are electric; proper electrical protection is essential for safe reliable operation."
+      }
+    },
+    {
+      "questionNumber": 157,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.04 Tests pressure systems",
+      "question": "How should new pressure systems be tested?",
+      "options": {
+        "A": "Pressure test piping, verify controls, check for leaks, and confirm adequate flow",
+        "B": "No testing needed",
+        "C": "Visual inspection only",
+        "D": "Testing is prohibited"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Comprehensive testing verifies piping integrity, control operation, leak-free installation, and adequate performance.",
+        "B": "Testing is essential for verifying proper installation and operation before system acceptance.",
+        "C": "Visual inspection alone cannot verify pressure integrity or control operation; actual testing is necessary.",
+        "D": "Testing is required to ensure proper installation and operation before commissioning."
+      }
+    },
+    {
+      "questionNumber": 158,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.04 Tests pressure systems",
+      "question": "What verifies proper pressure switch adjustment?",
+      "options": {
+        "A": "Observing cut-in and cut-out pressures matching desired settings",
+        "B": "Switch testing is not needed",
+        "C": "Random pressures are acceptable",
+        "D": "Visual inspection only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Testing verifies switch activates and deactivates at correct pressures ensuring proper automatic operation.",
+        "B": "Pressure switch testing verifies proper operation ensuring automatic control functions correctly.",
+        "C": "Pressure settings must match requirements; improper adjustment causes inadequate or excessive pressure.",
+        "D": "Visual inspection cannot verify operating pressures; actual testing with gauge is necessary."
+      }
+    },
+    {
+      "questionNumber": 159,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.04 Tests pressure systems",
+      "question": "How is pump capacity verified during testing?",
+      "options": {
+        "A": "Measuring flow rate and pressure under load conditions",
+        "B": "Capacity testing is not needed",
+        "C": "Visual observation only",
+        "D": "Pumps cannot be tested"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flow and pressure measurement under actual load conditions verifies pump meets design requirements.",
+        "B": "Capacity verification ensures pump meets system requirements; testing validates design assumptions.",
+        "C": "Visual observation cannot quantify performance; measurement of flow and pressure is necessary.",
+        "D": "Pump performance is testable through flow and pressure measurement validating capacity."
+      }
+    },
+    {
+      "questionNumber": 160,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.04 Tests pressure systems",
+      "question": "Why should pressure tank pre-charge be verified?",
+      "options": {
+        "A": "Proper pre-charge ensures adequate drawdown and prevents waterlogging",
+        "B": "Pre-charge is irrelevant",
+        "C": "Any pressure works",
+        "D": "Testing is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper pre-charge pressure ensures tank provides adequate water between pump cycles without waterlogging.",
+        "B": "Pre-charge pressure critically affects tank performance; proper setting ensures adequate function.",
+        "C": "Pre-charge must be set correctly for tank type and system pressure; improper charge reduces effectiveness.",
+        "D": "Pre-charge verification ensures proper tank function; proper testing maintains system performance."
+      }
+    },
+    {
+      "questionNumber": 161,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.04 Tests pressure systems",
+      "question": "What indicates proper check valve operation?",
+      "options": {
+        "A": "Pressure maintained when pump stops without backflow",
+        "B": "Check valve testing is not needed",
+        "C": "Backflow is normal",
+        "D": "Valves cannot be tested"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper check valve prevents backflow maintaining system pressure when pump stops.",
+        "B": "Check valve testing verifies proper operation preventing system pressure loss and pump damage.",
+        "C": "Backflow indicates check valve failure; proper operation maintains pressure without reverse flow.",
+        "D": "Check valves are testable by observing pressure maintenance; testing verifies proper operation."
+      }
+    },
+    {
+      "questionNumber": 162,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "What routine maintenance is required for well pumps?",
+      "options": {
+        "A": "Monitor performance, check electrical connections, verify controls, and inspect for leaks",
+        "B": "No maintenance needed",
+        "C": "Pumps are maintenance-free",
+        "D": "Maintenance is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular monitoring and inspection identify developing problems enabling preventive maintenance.",
+        "B": "Pumps require periodic inspection and maintenance ensuring reliable operation and longevity.",
+        "C": "No pumps are maintenance-free; regular attention prevents failures and extends life.",
+        "D": "Proper maintenance extends pump life and prevents failures; neglect leads to expensive breakdowns."
+      }
+    },
+    {
+      "questionNumber": 163,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "How often should pressure tanks be checked for proper air charge?",
+      "options": {
+        "A": "Annually or when short cycling indicates waterlogging",
+        "B": "Never check air charge",
+        "C": "Once every 50 years",
+        "D": "Checking is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Annual checks or when cycling increases detect air loss enabling recharge maintaining proper operation.",
+        "B": "Tanks lose air over time; periodic checking and recharging maintains proper function.",
+        "C": "Annual or problem-triggered checking is appropriate; 50-year intervals ignore maintenance needs.",
+        "D": "Air charge checking maintains tank function; proper maintenance prevents waterlogging problems."
+      }
+    },
+    {
+      "questionNumber": 164,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "What causes short cycling in pressure systems?",
+      "options": {
+        "A": "Loss of tank air charge, leaking check valve, or undersized tank",
+        "B": "Short cycling is normal",
+        "C": "Perfect operation always",
+        "D": "Cycling cannot be diagnosed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple causes reduce effective tank storage causing rapid pump cycling requiring diagnosis and correction.",
+        "B": "Short cycling indicates problems reducing tank effectiveness; normal operation has longer pump run intervals.",
+        "C": "Excessive cycling reveals specific problems; investigation identifies causes enabling correction.",
+        "D": "Short cycling causes are identifiable through systematic diagnosis; correction restores proper operation."
+      }
+    },
+    {
+      "questionNumber": 165,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "Why does pump performance decrease over time?",
+      "options": {
+        "A": "Wear of impellers, buildup deposits, or bearing deterioration reducing efficiency",
+        "B": "Performance never decreases",
+        "C": "Decrease is beneficial",
+        "D": "Pumps improve with age"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Normal wear and deposits reduce pump efficiency; monitoring enables timely intervention or replacement.",
+        "B": "Pumps experience gradual wear reducing performance; monitoring and maintenance extend life.",
+        "C": "Performance decrease indicates wear requiring attention; it signals approaching maintenance or replacement needs.",
+        "D": "Pumps deteriorate with use; proper maintenance slows decline but cannot prevent eventual wear."
+      }
+    },
+    {
+      "questionNumber": 166,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "What maintenance is required for pressure switches?",
+      "options": {
+        "A": "Cleaning contacts, verifying settings, and checking for corrosion",
+        "B": "No maintenance needed",
+        "C": "Switches are maintenance-free",
+        "D": "Maintenance is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Periodic cleaning and verification ensures reliable switch operation maintaining proper automatic control.",
+        "B": "Pressure switches require periodic maintenance ensuring continued reliable automatic operation.",
+        "C": "Switches experience wear and corrosion; maintenance maintains reliable control function.",
+        "D": "Proper maintenance ensures reliable operation; neglect allows failures and erratic operation."
+      }
+    },
+    {
+      "questionNumber": 167,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "How should well yield be monitored?",
+      "options": {
+        "A": "Observing recovery rate, water level changes, and pump cycle frequency",
+        "B": "Monitoring is not needed",
+        "C": "Wells never change",
+        "D": "Yield cannot be monitored"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular monitoring detects yield changes enabling pumping adjustment preventing well depletion or pump damage.",
+        "B": "Well yield monitoring identifies developing problems enabling timely response before failures occur.",
+        "C": "Well yield can change from various causes; monitoring detects problems enabling appropriate response.",
+        "D": "Well yield is monitorable through observation of operating parameters; monitoring enables problem detection."
+      }
+    },
+    {
+      "questionNumber": 168,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "What indicates a failing pressure tank?",
+      "options": {
+        "A": "Waterlogging, short cycling, or visible corrosion and leaks",
+        "B": "Tanks never fail",
+        "C": "Perfect operation always",
+        "D": "Failure is undetectable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple symptoms indicate tank problems; replacement restores proper system operation.",
+        "B": "Pressure tanks eventually fail from air loss or corrosion; monitoring enables timely replacement.",
+        "C": "Tank problems reveal themselves through short cycling and leaks; symptoms indicate replacement need.",
+        "D": "Tank failures produce clear symptoms; recognition enables appropriate intervention."
+      }
+    },
+    {
+      "questionNumber": 169,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "Why should system pressure be monitored regularly?",
+      "options": {
+        "A": "To detect developing problems enabling timely intervention preventing failures",
+        "B": "Monitoring is unnecessary",
+        "C": "Pressure never changes",
+        "D": "Monitoring is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular monitoring reveals trends indicating developing problems enabling preventive action before failures.",
+        "B": "Pressure monitoring identifies problems early; observation enables maintenance preventing major failures.",
+        "C": "Pressure changes reveal system problems; monitoring enables problem detection and timely correction.",
+        "D": "Pressure monitoring provides valuable problem indication; proper observation prevents expensive failures."
+      }
+    },
+    {
+      "questionNumber": 170,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.01 Plans layout and sizes piping for private water pressure systems",
+      "question": "What water source options exist for private systems?",
+      "options": {
+        "A": "Drilled wells, dug wells, springs, or surface water with proper treatment",
+        "B": "Only municipal supply",
+        "C": "No sources exist",
+        "D": "Sources don't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple source options exist; proper development and treatment ensure safe water supply.",
+        "B": "Private systems specifically address situations without municipal supply; various sources are available.",
+        "C": "Multiple water sources can supply private systems when properly developed and protected.",
+        "D": "Source type affects development method and treatment needs; proper selection ensures adequate safe supply."
+      }
+    },
+    {
+      "questionNumber": 171,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.01 Plans layout and sizes piping for private water pressure systems",
+      "question": "What is the difference between shallow and deep well pumps?",
+      "options": {
+        "A": "Shallow pumps for wells under 7.6 m (25 ft), deep pumps for greater depths",
+        "B": "They are identical",
+        "C": "No difference exists",
+        "D": "Depth is irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Suction limitations restrict shallow pumps; deep well pumps use submersible or ejector designs for greater depths.",
+        "B": "Shallow and deep well pumps use different operating principles based on suction limitations.",
+        "C": "Pump type must match well depth; shallow pumps cannot lift water from deep wells.",
+        "D": "Well depth determines pump type; proper matching ensures adequate water delivery."
+      }
+    },
+    {
+      "questionNumber": 172,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.02 Installs piping for private water pressure systems",
+      "question": "Why should pump and tank be located in protected space?",
+      "options": {
+        "A": "To prevent freezing damage and enable convenient maintenance access",
+        "B": "Outdoor installation is required",
+        "C": "Location doesn't matter",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Indoor installation prevents freeze damage and provides convenient access for maintenance and monitoring.",
+        "B": "While outdoor installation is possible with protection, indoor locations offer better freeze protection and access.",
+        "C": "Location affects freeze risk and maintenance convenience; proper placement optimizes operation.",
+        "D": "Protected location serves functional purposes preventing damage and enabling maintenance."
+      }
+    },
+    {
+      "questionNumber": 173,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.02 Installs piping for private water pressure systems",
+      "question": "What prevents pressure tank from walking during operation?",
+      "options": {
+        "A": "Proper anchoring or adequate mass resisting vibration forces",
+        "B": "No anchoring needed",
+        "C": "Movement is beneficial",
+        "D": "Tanks never move"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Anchoring or sufficient mass prevents tank movement from pump vibration maintaining secure installation.",
+        "B": "Pump vibration can move tanks; proper anchoring or mass prevents walking.",
+        "C": "Tank movement indicates inadequate securing; proper anchoring maintains stable installation.",
+        "D": "Vibration can move improperly secured tanks; anchoring or mass prevents movement."
+      }
+    },
+    {
+      "questionNumber": 174,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.03 Installs components for private water pressure systems",
+      "question": "What is a well seal and why is it important?",
+      "options": {
+        "A": "A seal preventing surface contamination from entering the well",
+        "B": "An animal",
+        "C": "Not important",
+        "D": "Well seals don't exist"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Well seals prevent surface water, insects, and contaminants from entering the well protecting water quality.",
+        "B": "While seals are animals, well seals are mechanical devices protecting well water from contamination.",
+        "C": "Well seals are critical for preventing contamination; they protect water quality and public health.",
+        "D": "Well seals are standard protection devices preventing surface contamination of well water."
+      }
+    },
+    {
+      "questionNumber": 175,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.03 Installs components for private water pressure systems",
+      "question": "Why should pressure systems have drain valves?",
+      "options": {
+        "A": "To enable complete system drainage for winterization or repairs",
+        "B": "Drain valves are not needed",
+        "C": "Only for decoration",
+        "D": "To permanently release pressure"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Drain valves allow complete water removal preventing freeze damage during shutdowns or enabling repairs.",
+        "B": "Drain valves enable winterization and repairs; they are essential for maintenance capability.",
+        "C": "Drain valves serve functional maintenance purposes; they are not decorative elements.",
+        "D": "Drain valves provide drainage capability for maintenance; continuous drainage would waste water."
+      }
+    },
+    {
+      "questionNumber": 176,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.03 Installs components for private water pressure systems",
+      "question": "What is the purpose of a pressure relief valve on pressure systems?",
+      "options": {
+        "A": "To prevent dangerous over-pressure from control failures",
+        "B": "Relief valves are not needed",
+        "C": "Only for decoration",
+        "D": "To maintain high pressure"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Relief valves provide safety backup preventing dangerous pressure if controls fail.",
+        "B": "Relief valves provide critical safety backup protecting against control failure over-pressure.",
+        "C": "Relief valves serve safety functions preventing dangerous pressure; they are not decorative.",
+        "D": "Relief valves limit maximum pressure preventing dangerous over-pressure conditions."
+      }
+    },
+    {
+      "questionNumber": 177,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.04 Tests pressure systems",
+      "question": "What confirms proper pressure tank sizing?",
+      "options": {
+        "A": "Adequate drawdown between pump cycles without excessive cycling",
+        "B": "Tank sizing is irrelevant",
+        "C": "Any size works",
+        "D": "Testing is impossible"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sizing provides adequate water storage between pump cycles preventing rapid cycling.",
+        "B": "Tank size affects cycling frequency and system life; proper sizing optimizes operation.",
+        "C": "Tank must match system demand; undersizing causes excessive cycling reducing pump life.",
+        "D": "Tank performance is observable through cycle monitoring; observation confirms adequate sizing."
+      }
+    },
+    {
+      "questionNumber": 178,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.04 Tests pressure systems",
+      "question": "How is system leak-tightness verified?",
+      "options": {
+        "A": "Pressure testing with observation for pressure decay indicating leaks",
+        "B": "Visual inspection only",
+        "C": "Testing is not done",
+        "D": "Leaks are acceptable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure testing reveals leaks through pressure decay; repairs ensure efficient operation.",
+        "B": "Visual inspection misses many leaks; pressure testing definitively reveals all leaks.",
+        "C": "Leak testing prevents water waste and pump wear; verification ensures efficient operation.",
+        "D": "Leaks waste water and increase pump cycling; leak-free systems optimize efficiency."
+      }
+    },
+    {
+      "questionNumber": 179,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "What causes pump motor overheating?",
+      "options": {
+        "A": "Excessive cycling, low voltage, bearing wear, or inadequate ventilation",
+        "B": "Overheating is normal",
+        "C": "Heating is beneficial",
+        "D": "Motors never overheat"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Multiple causes create excess heat; diagnosis and correction prevent motor failure.",
+        "B": "Overheating indicates problems reducing motor life; correction extends motor longevity.",
+        "C": "Overheating damages motors; proper operation maintains normal temperature range.",
+        "D": "Motors can overheat from various causes; attention to symptoms prevents failures."
+      }
+    },
+    {
+      "questionNumber": 180,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "Why should well water be tested periodically?",
+      "options": {
+        "A": "To ensure continued safety and identify developing contamination",
+        "B": "Testing is not needed",
+        "C": "Initial test is sufficient forever",
+        "D": "Well water is always safe"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Periodic testing detects contamination changes ensuring continued water safety and enabling treatment if needed.",
+        "B": "Well water quality can change; periodic testing ensures continued safety.",
+        "C": "Initial testing is inadequate; conditions change requiring periodic verification of safety.",
+        "D": "Well water quality can degrade; testing ensures continued safety and identifies treatment needs."
+      }
+    },
+    {
+      "questionNumber": 181,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "What indicates check valve failure?",
+      "options": {
+        "A": "Rapid pressure loss when pump stops or back-spinning pump",
+        "B": "Check valves never fail",
+        "C": "Perfect operation always",
+        "D": "Failure is undetectable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Failed check valves allow backflow causing rapid pressure loss and potential pump damage from reverse rotation.",
+        "B": "Check valves can fail from wear or debris; monitoring reveals problems requiring replacement.",
+        "C": "Check valve failures produce clear symptoms; observation enables problem detection.",
+        "D": "Check valve failure is detectable through pressure monitoring; symptoms indicate replacement need."
+      }
+    },
+    {
+      "questionNumber": 182,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "How should pressure system components be winterized?",
+      "options": {
+        "A": "Complete drainage, compressed air purging, and antifreeze in traps",
+        "B": "No winterization needed",
+        "C": "Leave water in system",
+        "D": "Winterization is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete water removal prevents freeze damage protecting expensive equipment during shutdowns.",
+        "B": "Winterization prevents costly freeze damage in unheated spaces; proper procedures protect equipment.",
+        "C": "Water left in systems will freeze causing expensive damage; complete removal is essential.",
+        "D": "Proper winterization prevents damage; procedures protect investment during seasonal shutdowns."
+      }
+    },
+    {
+      "questionNumber": 183,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "What maintenance extends pump life?",
+      "options": {
+        "A": "Proper pressure settings, preventing dry running, and regular inspection",
+        "B": "No maintenance needed",
+        "C": "Maximum cycling is beneficial",
+        "D": "Maintenance reduces life"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper operation and regular attention prevent premature wear extending pump service life.",
+        "B": "Pumps benefit from proper operation and maintenance; attention extends life.",
+        "C": "Excessive cycling accelerates wear; proper tank sizing reduces cycling extending pump life.",
+        "D": "Proper maintenance extends equipment life; neglect accelerates wear and failures."
+      }
+    },
+    {
+      "questionNumber": 184,
+      "block": "D",
+      "task": "D-13",
+      "taskTitle": "Installs, tests and services private water pressure systems",
+      "subtask": "D-13.05 Services pressure systems",
+      "question": "Why should system performance be documented?",
+      "options": {
+        "A": "To establish baseline for detecting changes indicating developing problems",
+        "B": "Documentation is unnecessary",
+        "C": "Memory is sufficient",
+        "D": "Records are harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Baseline documentation enables comparison revealing performance changes indicating maintenance needs.",
+        "B": "Documentation provides valuable reference for detecting changes and planning maintenance.",
+        "C": "Written records provide reliable reference; memory is inadequate for tracking long-term trends.",
+        "D": "Documentation aids troubleshooting and maintenance planning; records protect investment."
+      }
+    }
+  ]
+}

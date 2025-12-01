@@ -1,0 +1,3031 @@
+{
+  "block": "F",
+  "title": "Electrical and Vehicle Management Systems",
+  "totalQuestions": 144,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What is the first step when diagnosing a no-crank condition on heavy equipment?",
+      "options": {
+        "A": "Check battery voltage and connections.",
+        "B": "Replace the starter motor immediately.",
+        "C": "Test the alternator output.",
+        "D": "Check the fuel system pressure."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Alternator testing is for charging issues, not starting problems.",
+        "B": "Starter replacement should only occur after diagnosis confirms failure.",
+        "C": "Battery voltage and connections must be verified first as they are the primary power source.",
+        "D": "Fuel system does not affect cranking ability."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "A battery load test shows the voltage drops to 8.5V under load. What does this indicate?",
+      "options": {
+        "A": "Battery is in good condition.",
+        "B": "Battery requires a slow charge.",
+        "C": "Battery has failed and requires replacement.",
+        "D": "Battery terminals need cleaning."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Voltage dropping below 9.6V indicates failure.",
+        "B": "A failed battery cannot be recovered by charging.",
+        "C": "Dirty terminals would show high resistance, not low voltage under load.",
+        "D": "Voltage below 9.6V under load indicates internal cell failure."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What is the typical voltage output of a properly functioning alternator at idle speed?",
+      "options": {
+        "A": "12.0-12.6 volts.",
+        "B": "13.5-14.5 volts.",
+        "C": "15.0-16.0 volts.",
+        "D": "10.5-11.5 volts."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This is battery resting voltage, not charging voltage.",
+        "B": "Overcharging condition that can damage batteries and electronics.",
+        "C": "Normal alternator output ranges from 13.5 to 14.5 volts.",
+        "D": "Indicates undercharging or alternator failure."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What causes a starter solenoid to click but not engage the starter motor?",
+      "options": {
+        "A": "Faulty ignition switch.",
+        "B": "Low battery voltage or poor connections.",
+        "C": "Defective fuel pump.",
+        "D": "Broken drive belt."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ignition switch failure would prevent clicking entirely.",
+        "B": "Insufficient voltage prevents the solenoid from fully engaging the starter.",
+        "C": "Fuel pump does not affect starter operation.",
+        "D": "Drive belt does not affect starting system."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "During a charging system test, the alternator output is only 12.8V at 2000 RPM. What is the most likely cause?",
+      "options": {
+        "A": "Faulty voltage regulator.",
+        "B": "Loose battery terminals.",
+        "C": "Defective starter motor.",
+        "D": "Low engine oil pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Loose terminals affect voltage drop but not alternator output voltage.",
+        "B": "Voltage regulator failure prevents proper charging voltage output.",
+        "C": "Starter motor does not affect charging system operation.",
+        "D": "Oil pressure has no effect on electrical charging."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What tool is used to measure the amperage draw of a starter motor during cranking?",
+      "options": {
+        "A": "Multimeter set to voltage.",
+        "B": "Inductive ammeter or current clamp.",
+        "C": "Ohmmeter.",
+        "D": "Test light."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Voltage measurement does not show current draw.",
+        "B": "Ohmmeter measures resistance, not current flow.",
+        "C": "Inductive ammeter safely measures high amperage without breaking circuit.",
+        "D": "Test light only indicates presence of voltage."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "A battery shows 12.4V at rest but drops to 10V when attempting to start. What is the problem?",
+      "options": {
+        "A": "Alternator is not charging.",
+        "B": "Battery has high internal resistance.",
+        "C": "Starter motor is drawing excessive current.",
+        "D": "Battery is overcharged."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Alternator only charges when engine is running.",
+        "B": "While possible, battery weakness is more likely with this voltage drop.",
+        "C": "Excessive voltage drop indicates weak battery with high internal resistance.",
+        "D": "Overcharged batteries show higher voltage, not lower under load."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What is the purpose of the alternator voltage regulator?",
+      "options": {
+        "A": "To increase battery voltage during starting.",
+        "B": "To maintain consistent charging voltage regardless of load.",
+        "C": "To reduce voltage to the starter motor.",
+        "D": "To monitor battery temperature."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Voltage regulator controls charging, not starting voltage.",
+        "B": "Temperature sensing is a separate function in some systems.",
+        "C": "Regulator has no connection to starter motor circuit.",
+        "D": "Regulator maintains proper charging voltage under varying loads and speeds."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "When performing a voltage drop test on the positive battery cable during cranking, what is the maximum acceptable voltage drop?",
+      "options": {
+        "A": "0.1 volts.",
+        "B": "0.5 volts.",
+        "C": "1.5 volts.",
+        "D": "3.0 volts."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While ideal, 0.1V is difficult to achieve in heavy equipment applications.",
+        "B": "Excessive voltage drop indicating high resistance.",
+        "C": "Maximum acceptable voltage drop is 0.5V on positive cable during cranking.",
+        "D": "Severely excessive drop requiring immediate repair."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What is indicated when an alternator produces AC voltage at the output terminal?",
+      "options": {
+        "A": "Normal operation.",
+        "B": "Faulty diodes in the rectifier bridge.",
+        "C": "Overcharging condition.",
+        "D": "Weak voltage regulator."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Alternator output should be DC voltage only.",
+        "B": "Failed diodes allow AC voltage to pass through instead of being rectified to DC.",
+        "C": "Overcharging relates to voltage level, not AC ripple.",
+        "D": "Regulator controls voltage level, not rectification."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "A vehicle experiences slow cranking speed only when the engine is hot. What is the most likely cause?",
+      "options": {
+        "A": "Weak battery.",
+        "B": "Heat-damaged starter motor.",
+        "C": "Faulty alternator.",
+        "D": "Incorrect engine oil viscosity."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Weak battery would cause slow cranking regardless of temperature.",
+        "B": "Heat soak causes internal starter components to expand and bind.",
+        "C": "Alternator does not affect cranking when starting.",
+        "D": "Oil viscosity affects cranking resistance, not just when hot."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What is the correct procedure to test for parasitic battery drain?",
+      "options": {
+        "A": "Connect voltmeter between battery posts.",
+        "B": "Connect ammeter in series with negative battery cable.",
+        "C": "Use test light across battery terminals.",
+        "D": "Measure resistance across battery posts."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Voltmeter measures voltage, not current drain.",
+        "B": "Resistance measurement does not show current drain.",
+        "C": "Test light only indicates presence of current, not amount.",
+        "D": "Ammeter in series measures current draw with all systems off."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "During alternator testing, the drive belt tension is found to be loose. What effect does this have?",
+      "options": {
+        "A": "Increases alternator output voltage.",
+        "B": "Causes alternator to overheat.",
+        "C": "Reduces charging output due to belt slippage.",
+        "D": "Has no effect on charging system."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Loose belt reduces, not increases, output.",
+        "B": "Belt slippage prevents alternator from reaching proper speed, reducing output.",
+        "C": "While it may contribute to heat, the primary issue is reduced output.",
+        "D": "Belt tension directly affects alternator performance."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What is the purpose of the battery hold-down clamp?",
+      "options": {
+        "A": "To improve electrical conductivity.",
+        "B": "To prevent battery movement and case damage.",
+        "C": "To increase battery voltage output.",
+        "D": "To regulate charging current."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Hold-down clamp does not affect electrical connection.",
+        "B": "Hold-down has no effect on voltage output.",
+        "C": "Prevents physical damage from vibration and movement during operation.",
+        "D": "Charging regulation is handled by voltage regulator."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "A starter motor runs continuously after the engine starts. What is the most likely cause?",
+      "options": {
+        "A": "Stuck starter solenoid contacts.",
+        "B": "Low battery voltage.",
+        "C": "Faulty alternator.",
+        "D": "Incorrect ignition timing."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Alternator does not control starter operation.",
+        "B": "Low voltage would prevent starting, not cause continuous operation.",
+        "C": "Stuck solenoid keeps starter engaged even after key is released.",
+        "D": "Ignition timing does not affect starter engagement."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What safety precaution must be taken before disconnecting a battery on heavy equipment?",
+      "options": {
+        "A": "Start the engine first.",
+        "B": "Turn off all electrical loads and ignition.",
+        "C": "Connect jumper cables.",
+        "D": "Remove the alternator fuse."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Engine should be off before battery disconnection.",
+        "B": "Jumper cables are not needed for disconnection.",
+        "C": "Prevents voltage spikes and protects electronic components.",
+        "D": "Fuse removal is not necessary before battery disconnection."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "When testing battery specific gravity, a reading of 1.200 indicates what condition?",
+      "options": {
+        "A": "Fully charged battery.",
+        "B": "Battery is at 50% charge.",
+        "C": "Battery is discharged and may be sulfated.",
+        "D": "Battery is overcharged."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Fully charged reads approximately 1.265.",
+        "B": "50% charge would read approximately 1.225-1.230.",
+        "C": "Overcharge does not reduce specific gravity.",
+        "D": "1.200 indicates severely discharged battery, likely with sulfation."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What is the function of the starter drive mechanism (Bendix)?",
+      "options": {
+        "A": "To increase starter motor speed.",
+        "B": "To engage and disengage pinion gear from flywheel.",
+        "C": "To regulate battery voltage.",
+        "D": "To cool the starter motor."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Meshes pinion with ring gear during start and disengages after.",
+        "B": "Bendix controls engagement, not motor speed.",
+        "C": "Voltage regulation is handled by alternator regulator.",
+        "D": "Cooling is not a function of the drive mechanism."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "An alternator shows normal voltage output but the battery warning light remains illuminated. What is the likely cause?",
+      "options": {
+        "A": "Failed diode trio.",
+        "B": "Broken alternator belt.",
+        "C": "Discharged battery.",
+        "D": "Faulty ignition switch."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Broken belt would prevent charging entirely.",
+        "B": "Diode trio failure prevents excitation current to warning light circuit.",
+        "C": "Discharged battery would not cause warning light to stay on with proper charging.",
+        "D": "Ignition switch does not control warning light when engine running."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What is the correct method to clean battery terminals with corrosion?",
+      "options": {
+        "A": "Use baking soda and water solution, then wire brush.",
+        "B": "Apply battery acid to dissolve corrosion.",
+        "C": "Use sandpaper only.",
+        "D": "Spray with oil-based lubricant."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Oil-based products attract dirt and do not clean corrosion.",
+        "B": "Adding acid increases corrosion and is dangerous.",
+        "C": "Sandpaper alone does not neutralize acid residue.",
+        "D": "Baking soda neutralizes acid corrosion, wire brush removes residue."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "During starter motor testing on the bench, the motor draws 300 amps at no load. What does this indicate?",
+      "options": {
+        "A": "Normal operation.",
+        "B": "Internal short or grounded armature.",
+        "C": "Weak battery connection.",
+        "D": "Correct amperage for heavy equipment."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "No-load draw should be 60-90 amps typically.",
+        "B": "This is a bench test, not affected by vehicle connections.",
+        "C": "Excessive current indicates internal short circuit in starter motor.",
+        "D": "Even heavy equipment starters should not draw this much at no load."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What causes excessive voltage drop in the ground circuit during cranking?",
+      "options": {
+        "A": "Overcharged battery.",
+        "B": "Poor ground connections or corroded cables.",
+        "C": "Excessive alternator output.",
+        "D": "Low engine compression."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Corrosion and loose connections increase resistance in ground path.",
+        "B": "Battery charge state does not cause ground circuit resistance.",
+        "C": "Alternator output does not affect ground circuit resistance.",
+        "D": "Compression affects engine load, not electrical resistance."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "An alternator with a failed stator winding will exhibit what symptom?",
+      "options": {
+        "A": "Excessive AC ripple voltage and low output.",
+        "B": "Overcharging condition.",
+        "C": "Normal charging with battery light on.",
+        "D": "Intermittent charging only."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Failed stator phase causes high AC ripple and reduced DC output.",
+        "B": "Failed stator reduces, not increases, charging output.",
+        "C": "Charging would be reduced, not normal.",
+        "D": "Stator failure causes consistent low output, not intermittent."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.01 Diagnoses starting/charging systems and batteries",
+      "question": "What is the purpose of the neutral safety switch in the starting circuit?",
+      "options": {
+        "A": "To prevent starting in gear.",
+        "B": "To increase starter motor speed.",
+        "C": "To regulate charging voltage.",
+        "D": "To bypass the ignition switch."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Prevents starter engagement unless transmission is in neutral or park.",
+        "B": "Neutral safety switch controls circuit continuity, not motor speed.",
+        "C": "Voltage regulation is handled by alternator regulator.",
+        "D": "Switch is part of the ignition circuit, not a bypass."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "What is the most common cause of wiper motor failure on heavy equipment?",
+      "options": {
+        "A": "Low windshield washer fluid.",
+        "B": "Excessive load from binding linkage or seized pivots.",
+        "C": "Incorrect wiper blade size.",
+        "D": "Low battery voltage."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Binding creates excessive current draw and overheats motor.",
+        "B": "Washer fluid level does not affect wiper motor.",
+        "C": "Blade size does not typically cause motor failure.",
+        "D": "While low voltage affects performance, mechanical binding is more common cause of failure."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "A blower motor operates only on high speed. What is the likely cause?",
+      "options": {
+        "A": "Failed resistor pack.",
+        "B": "Defective blower motor.",
+        "C": "Low system voltage.",
+        "D": "Clogged cabin filter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Motor failure would prevent all speeds from operating.",
+        "B": "Resistor pack failure eliminates lower speeds, allowing only direct high speed.",
+        "C": "Low voltage would affect all speeds equally.",
+        "D": "Clogged filter reduces airflow but does not affect speed settings."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "When diagnosing a non-functional horn, what should be checked first?",
+      "options": {
+        "A": "Replace the horn relay.",
+        "B": "Check fuse and relay operation.",
+        "C": "Replace the horn button.",
+        "D": "Test alternator output."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Relay should be tested before replacement.",
+        "B": "Alternator does not affect horn operation directly.",
+        "C": "Button should be tested, but fuse and relay are checked first.",
+        "D": "Fuse and relay are most common failure points and easiest to check."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "What causes an electric cooling fan to run continuously even when the engine is cold?",
+      "options": {
+        "A": "Failed coolant temperature sensor.",
+        "B": "Stuck closed relay contacts.",
+        "C": "Low coolant level.",
+        "D": "Defective thermostat."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Relay contacts welded closed keep fan powered constantly.",
+        "B": "Sensor failure would prevent fan from running or cause delayed operation.",
+        "C": "Coolant level does not cause continuous fan operation.",
+        "D": "Thermostat affects engine temperature, not electric fan circuit."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "A headlight illuminates dimly on one side only. What is the most likely cause?",
+      "options": {
+        "A": "Weak alternator output.",
+        "B": "Poor ground connection at that headlight.",
+        "C": "Low battery voltage.",
+        "D": "Faulty headlight switch."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Poor ground creates resistance, reducing brightness on affected side only.",
+        "B": "Alternator issue would affect both headlights.",
+        "C": "Low battery affects both lights equally.",
+        "D": "Switch failure would affect both headlights or prevent operation."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "What tool is best suited for diagnosing an intermittent electrical component failure?",
+      "options": {
+        "A": "Torque wrench.",
+        "B": "Oscilloscope or graphing multimeter.",
+        "C": "Compression tester.",
+        "D": "Feeler gauge."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Torque wrench is for fastener tightening, not electrical diagnosis.",
+        "B": "Compression tester is for engine cylinder testing.",
+        "C": "Captures voltage fluctuations over time to identify intermittent faults.",
+        "D": "Feeler gauge measures clearances, not electrical signals."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "A gauge shows erratic readings. What is the first diagnostic step?",
+      "options": {
+        "A": "Replace the gauge cluster.",
+        "B": "Check ground connections and wiring to the sensor.",
+        "C": "Replace the sending unit.",
+        "D": "Reprogram the ECM."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Gauge cluster should only be replaced after diagnosis confirms failure.",
+        "B": "ECM programming does not typically cause erratic analog gauge readings.",
+        "C": "Sending unit should be tested, not replaced first.",
+        "D": "Poor grounds and loose connections are most common cause of erratic readings."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "What causes power windows to operate slowly?",
+      "options": {
+        "A": "Incorrect window tint.",
+        "B": "Worn motor brushes or binding regulator mechanism.",
+        "C": "Low tire pressure.",
+        "D": "Faulty fuel injectors."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Window tint does not affect motor operation.",
+        "B": "Fuel injectors do not affect electrical accessories.",
+        "C": "Tire pressure has no relation to window operation.",
+        "D": "Worn brushes reduce motor efficiency and binding increases load."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "When diagnosing a failed fuel gauge, what component should be tested first?",
+      "options": {
+        "A": "Fuel pump.",
+        "B": "Fuel level sending unit and wiring.",
+        "C": "Fuel filter.",
+        "D": "Injectors."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Fuel pump does not affect gauge operation.",
+        "B": "Injectors are unrelated to fuel level indication.",
+        "C": "Fuel filter does not affect gauge operation.",
+        "D": "Sending unit resistance changes with fuel level to drive gauge reading."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "A turn signal flashes rapidly on one side. What is the cause?",
+      "options": {
+        "A": "Failed bulb on that side.",
+        "B": "Overcharged battery.",
+        "C": "Incorrect flasher relay.",
+        "D": "Low coolant level."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While possible, burned bulb is more common cause.",
+        "B": "Battery charge state does not affect flasher speed.",
+        "C": "Reduced load from failed bulb causes flasher to cycle faster.",
+        "D": "Coolant level has no effect on turn signals."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "What is the function of a relay in an electrical circuit?",
+      "options": {
+        "A": "To increase voltage to accessories.",
+        "B": "To use low current to control high current circuits.",
+        "C": "To reduce amperage draw.",
+        "D": "To convert AC to DC voltage."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Relays do not change voltage levels.",
+        "B": "Voltage conversion is function of rectifier, not relay.",
+        "C": "Relay does not reduce amperage, it controls circuit.",
+        "D": "Allows small switch current to control large load currents safely."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "A backup alarm fails to sound. What should be checked first?",
+      "options": {
+        "A": "Transmission fluid level.",
+        "B": "Alarm fuse and reverse switch operation.",
+        "C": "Engine oil pressure.",
+        "D": "Tire pressure sensors."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Fuse and reverse switch are primary causes of alarm failure.",
+        "B": "Fluid level does not affect alarm operation.",
+        "C": "Oil pressure is unrelated to backup alarm.",
+        "D": "Tire sensors do not affect backup alarm."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "What causes instrument panel lights to dim when the blower motor is turned on?",
+      "options": {
+        "A": "Correct system operation.",
+        "B": "High resistance in power supply or poor ground connection.",
+        "C": "Low coolant level.",
+        "D": "Excessive fuel pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dimming indicates electrical problem, not normal operation.",
+        "B": "Poor connection causes voltage drop under increased load.",
+        "C": "Coolant level does not affect electrical circuits.",
+        "D": "Fuel pressure is unrelated to electrical dimming."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "When testing a motor for a short to ground, what reading indicates a problem?",
+      "options": {
+        "A": "Infinite resistance.",
+        "B": "Low resistance (near zero ohms).",
+        "C": "High voltage output.",
+        "D": "Normal operating temperature."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Infinite resistance indicates good insulation, no short.",
+        "B": "Temperature does not indicate short to ground.",
+        "C": "Motors do not produce voltage output.",
+        "D": "Low resistance between motor circuit and ground indicates short."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "A power seat moves slowly in one direction but normally in others. What is the likely cause?",
+      "options": {
+        "A": "Low battery voltage.",
+        "B": "Failed seat motor.",
+        "C": "Worn or dirty switch contacts for that direction.",
+        "D": "Incorrect seat position sensor."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Poor contact creates resistance, reducing current to motor in one direction.",
+        "B": "Motor failure would affect all directions.",
+        "C": "Low battery would affect all directions equally.",
+        "D": "Position sensor does not control motor speed."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "What is the correct method to test a suspect electrical connector?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Measure voltage drop across connector under load.",
+        "C": "Apply grease and reconnect.",
+        "D": "Replace without testing."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual inspection may miss internal corrosion.",
+        "B": "Voltage drop test reveals resistance caused by poor connection.",
+        "C": "Testing should be done before applying any treatment.",
+        "D": "Proper diagnosis should precede replacement."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "A hydraulic fan motor operates intermittently. What electrical component should be checked?",
+      "options": {
+        "A": "Fan motor solenoid and wiring connections.",
+        "B": "Alternator voltage regulator.",
+        "C": "Starter motor.",
+        "D": "Battery terminals only."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Solenoid controls hydraulic fan motor engagement, loose connections cause intermittent operation.",
+        "B": "Voltage regulator affects charging, not specific motor operation.",
+        "C": "Starter motor is unrelated to hydraulic fan operation.",
+        "D": "While important, battery terminals alone don't explain intermittent fan operation."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "What causes excessive current draw in an electric motor?",
+      "options": {
+        "A": "Mechanical binding or seized bearings.",
+        "B": "High battery voltage.",
+        "C": "Clean electrical connections.",
+        "D": "Proper lubrication."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Clean connections reduce resistance and current draw.",
+        "B": "High voltage increases speed but doesn't necessarily increase current with normal load.",
+        "C": "Mechanical resistance increases load, causing higher current draw.",
+        "D": "Proper lubrication reduces current draw, not increases it."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "When diagnosing work lights that do not illuminate, what is checked after verifying fuse integrity?",
+      "options": {
+        "A": "Engine compression.",
+        "B": "Switch operation and bulb condition.",
+        "C": "Transmission fluid level.",
+        "D": "Brake pad thickness."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Switch and bulbs are next most common failure points after fuse.",
+        "B": "Compression has no relation to lighting circuits.",
+        "C": "Fluid level is unrelated to lighting operation.",
+        "D": "Brake pads do not affect work lights."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "A temperature gauge reads high but the engine is not overheating. What is the probable cause?",
+      "options": {
+        "A": "Failed cooling fan.",
+        "B": "Faulty temperature sending unit.",
+        "C": "Low fuel level.",
+        "D": "Incorrect tire pressure."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Fan failure would cause actual overheating.",
+        "B": "Tire pressure is unrelated to temperature indication.",
+        "C": "Fuel level does not affect temperature gauge.",
+        "D": "Sending unit failure provides incorrect resistance to gauge."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "What is the purpose of a circuit breaker in heavy equipment electrical systems?",
+      "options": {
+        "A": "To increase voltage to circuits.",
+        "B": "To automatically reset protection after overload.",
+        "C": "To convert AC to DC power.",
+        "D": "To boost alternator output."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Circuit breaker protects circuits, does not increase voltage.",
+        "B": "Resets automatically or manually after cooling, unlike fuses.",
+        "C": "Rectification is performed by diodes, not breakers.",
+        "D": "Breaker protects circuits, does not affect alternator."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "An electric radiator fan fails to shut off after engine cooldown. What should be inspected?",
+      "options": {
+        "A": "Oil pressure sensor.",
+        "B": "Temperature sensor and fan relay.",
+        "C": "Fuel pressure regulator.",
+        "D": "Transmission range sensor."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil pressure does not control cooling fan.",
+        "B": "Stuck relay or failed temp sensor causes continuous fan operation.",
+        "C": "Fuel system does not affect fan operation.",
+        "D": "Transmission sensor is unrelated to cooling fan."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "What does a diode do in an electrical circuit?",
+      "options": {
+        "A": "Allows current flow in one direction only.",
+        "B": "Increases voltage output.",
+        "C": "Stores electrical energy.",
+        "D": "Regulates current flow bidirectionally."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Diode does not increase voltage.",
+        "B": "Diode acts as one-way valve for electrical current.",
+        "C": "Capacitor stores energy, not diode.",
+        "D": "Diode blocks reverse current flow."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "F",
+      "task": "F-13",
+      "taskTitle": "Diagnoses electrical systems",
+      "subtask": "F-13.02 Diagnoses electrical components, motors and accessories",
+      "question": "During accessory diagnosis, what indicates a short circuit in the wiring?",
+      "options": {
+        "A": "Circuit draws no current.",
+        "B": "Fuse blows immediately when circuit is energized.",
+        "C": "Normal operation at low voltage.",
+        "D": "Slow motor operation."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Short creates excessive current draw, immediately blowing fuse.",
+        "B": "Open circuit draws no current, not short circuit.",
+        "C": "Short circuit would prevent normal operation.",
+        "D": "Slow operation indicates high resistance, not short."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "What is the correct procedure for replacing a battery in heavy equipment?",
+      "options": {
+        "A": "Connect positive first, then negative.",
+        "B": "Disconnect negative first, reconnect negative last.",
+        "C": "Disconnect positive first, reconnect positive last.",
+        "D": "Remove both cables simultaneously."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This is the connection sequence, but disconnection order is opposite.",
+        "B": "Disconnecting negative first prevents shorts; reconnecting it last prevents sparks near battery.",
+        "C": "Increases risk of shorting tools against chassis.",
+        "D": "Proper sequence must be followed for safety."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "When installing a new alternator, what must be done before connecting the wiring?",
+      "options": {
+        "A": "Start the engine to test.",
+        "B": "Verify correct pulley alignment and belt tension.",
+        "C": "Connect battery cables first.",
+        "D": "Remove the voltage regulator."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Engine should not be started until installation is complete.",
+        "B": "Voltage regulator should remain connected unless being replaced.",
+        "C": "Mechanical installation should be verified before electrical connections.",
+        "D": "Proper alignment and tension prevent premature failure and belt damage."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "What is the proper method to install new battery cables?",
+      "options": {
+        "A": "Route cables away from heat sources and moving parts, secure properly.",
+        "B": "Allow cables to contact exhaust manifolds for heat dissipation.",
+        "C": "Route loosely without securing to allow flexibility.",
+        "D": "Bundle with fuel lines for organization."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Fuel lines and electrical cables should be separated.",
+        "B": "Heat exposure damages insulation and creates fire hazard.",
+        "C": "Unsecured cables can chafe, short, or disconnect from vibration.",
+        "D": "Prevents heat damage, chafing, and ensures reliable connections."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "After replacing a starter motor, what should be verified before operation?",
+      "options": {
+        "A": "Only electrical connections.",
+        "B": "Starter mounting bolts torque, electrical connections, and pinion gear engagement.",
+        "C": "Battery charge only.",
+        "D": "Alternator output first."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Mechanical mounting is equally important.",
+        "B": "Ensures proper installation, prevents damage during cranking.",
+        "C": "Battery charge alone does not verify proper starter installation.",
+        "D": "Alternator is not directly related to starter installation verification."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "When replacing an alternator belt, what is the correct tension specification?",
+      "options": {
+        "A": "As tight as possible by hand.",
+        "B": "Loose enough to prevent noise.",
+        "C": "According to manufacturer's specifications using proper gauge.",
+        "D": "Tight enough to prevent any deflection."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hand tightening is inconsistent and often incorrect.",
+        "B": "Proper tension ensures efficient operation without bearing damage.",
+        "C": "Loose belt will slip and reduce charging.",
+        "D": "Some deflection is normal and specified; excessive tension damages bearings."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "What safety precaution must be taken when working on a charging system?",
+      "options": {
+        "A": "Keep engine running during all tests.",
+        "B": "Disconnect battery negative cable before removing alternator.",
+        "C": "Short circuit alternator output to test.",
+        "D": "Connect jumper cables during service."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Engine should be off for most service procedures.",
+        "B": "Prevents accidental shorts and protects electronics during service.",
+        "C": "Shorting alternator output can cause severe damage.",
+        "D": "Jumper cables are not needed during service."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "When installing battery terminals, what ensures a proper connection?",
+      "options": {
+        "A": "Hand tighten only.",
+        "B": "Apply grease before tightening.",
+        "C": "Clean posts and terminals, torque to specifications, apply protective coating after.",
+        "D": "Over-tighten to prevent loosening."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Proper torque is required for good electrical contact.",
+        "B": "Grease before tightening prevents proper metal-to-metal contact.",
+        "C": "Over-tightening can damage terminals and posts.",
+        "D": "Clean connection, proper torque, and post-installation protection ensure reliability."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "What is the correct procedure for bench testing a starter motor?",
+      "options": {
+        "A": "Connect directly to battery and run continuously.",
+        "B": "Secure starter in vise, connect to power source, test no-load and load current.",
+        "C": "Test while still mounted on engine.",
+        "D": "Submerge in water and test."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Continuous operation will overheat and damage starter.",
+        "B": "Bench test requires removal for accurate measurement.",
+        "C": "Proper bench test safely measures performance characteristics.",
+        "D": "Water exposure will damage electrical components."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "After alternator replacement, the warning light stays on. What should be checked?",
+      "options": {
+        "A": "Only the alternator mounting bolts.",
+        "B": "Wiring connections to alternator and regulator, drive belt tension.",
+        "C": "Tire pressure.",
+        "D": "Coolant level."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Mounting does not affect warning light circuit.",
+        "B": "Coolant level does not affect alternator warning light.",
+        "C": "Tire pressure is unrelated to charging system.",
+        "D": "Loose connections or improper belt tension prevent charging and keep light on."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "What is the purpose of applying dielectric grease to electrical connections?",
+      "options": {
+        "A": "To conduct electricity better.",
+        "B": "To seal out moisture and prevent corrosion.",
+        "C": "To increase voltage.",
+        "D": "To reduce amperage draw."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Protects connections from moisture and corrosion, ensuring long-term reliability.",
+        "B": "Dielectric grease is non-conductive.",
+        "C": "Grease does not change voltage.",
+        "D": "Grease protects connections but does not reduce amperage."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "When replacing a solenoid on a starter motor, what must be verified?",
+      "options": {
+        "A": "Solenoid part number matches, mounting is secure, connections are tight.",
+        "B": "Only that it fits physically.",
+        "C": "Alternator output is correct.",
+        "D": "Battery is fully discharged."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Alternator output is separate from solenoid replacement verification.",
+        "B": "Electrical specifications must also match.",
+        "C": "Ensures proper fit, function, and reliable electrical connection.",
+        "D": "Battery should be charged for proper testing."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.01 Repairs starting/charging systems and batteries",
+      "question": "What should be done if excessive voltage drop is found in the positive battery cable?",
+      "options": {
+        "A": "Increase alternator output.",
+        "B": "Replace or repair the cable to eliminate high resistance.",
+        "C": "Add additional batteries.",
+        "D": "Reduce starter motor current draw."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Increasing alternator output does not fix cable resistance.",
+        "B": "Starter current is determined by engine load and motor condition, not adjustable.",
+        "C": "Additional batteries do not fix cable resistance problem.",
+        "D": "Cable replacement eliminates resistance and restores proper voltage delivery."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "When replacing a blower motor resistor, what should be inspected first?",
+      "options": {
+        "A": "Alternator output voltage.",
+        "B": "Blower motor for excessive current draw or binding.",
+        "C": "Battery terminals only.",
+        "D": "Fuel pump operation."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Excessive motor current from binding causes resistor burnout; must fix root cause.",
+        "B": "Alternator voltage does not typically cause resistor failure.",
+        "C": "Battery terminals are not primary cause of resistor failure.",
+        "D": "Fuel pump is unrelated to blower motor circuit."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "What is the correct procedure for replacing a wiper motor?",
+      "options": {
+        "A": "Disconnect battery, mark linkage position, remove motor, install and adjust new motor.",
+        "B": "Leave battery connected and replace motor quickly.",
+        "C": "Remove windshield first.",
+        "D": "Replace entire wiper system."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sequence ensures safety, correct installation, and proper operation.",
+        "B": "Battery must be disconnected for safety.",
+        "C": "Windshield removal is unnecessary for motor replacement.",
+        "D": "Only motor needs replacement if other components are functional."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "When installing a replacement relay, what must be verified?",
+      "options": {
+        "A": "Physical size only.",
+        "B": "Relay pin configuration, voltage rating, and current capacity match.",
+        "C": "Color matches old relay.",
+        "D": "Brand name is identical."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Physical fit alone does not ensure proper electrical operation.",
+        "B": "Brand is less important than electrical specifications.",
+        "C": "Color is not an electrical specification.",
+        "D": "Pin configuration and ratings must match to prevent failure or damage."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "What is the proper method to repair a damaged wire harness?",
+      "options": {
+        "A": "Twist wires together and tape.",
+        "B": "Use proper connectors or solder and heat shrink tubing, route away from hazards.",
+        "C": "Use electrical tape only.",
+        "D": "Replace entire vehicle wiring."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper repair ensures reliable connection, protection from moisture and vibration.",
+        "B": "Twist and tape connections are unreliable and unsafe.",
+        "C": "Tape alone provides inadequate connection and protection.",
+        "D": "Complete replacement is unnecessary for localized damage."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "When replacing a headlight bulb, what safety precaution is required?",
+      "options": {
+        "A": "Ensure lights are off and cool, avoid touching halogen bulb glass.",
+        "B": "Keep lights on during replacement.",
+        "C": "Use bare hands to install for better grip.",
+        "D": "Replace while engine is running."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Skin oils on halogen bulbs cause premature failure.",
+        "B": "Lights must be off for safety.",
+        "C": "Prevents burns and oil contamination that shortens bulb life.",
+        "D": "Engine operation is irrelevant but lights should be off."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "What is the correct method to install a replacement horn?",
+      "options": {
+        "A": "Mount securely, connect wiring, verify ground connection, test operation.",
+        "B": "Connect wires only, leave loose for easy replacement.",
+        "C": "Mount in any location regardless of moisture exposure.",
+        "D": "Connect without testing."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Horn must be securely mounted to prevent damage from vibration.",
+        "B": "Proper mounting, wiring, and testing ensure reliable operation.",
+        "C": "Location should protect from moisture and debris.",
+        "D": "Testing verifies correct installation before completing job."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "When repairing a gauge sending unit, what should be checked?",
+      "options": {
+        "A": "Sending unit resistance values at various positions match specifications.",
+        "B": "Physical appearance only.",
+        "C": "Alternator output.",
+        "D": "Tire pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Internal electrical values must be tested, not just visual inspection.",
+        "B": "Resistance values must be within specs to provide accurate gauge readings.",
+        "C": "Alternator output does not directly affect sending unit function.",
+        "D": "Tire pressure is unrelated to gauge sending units."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "What is the proper procedure for replacing a cooling fan motor?",
+      "options": {
+        "A": "Disconnect battery, drain coolant if necessary, remove fan assembly, install new motor.",
+        "B": "Replace while engine is hot.",
+        "C": "Leave battery connected during replacement.",
+        "D": "Do not drain coolant under any circumstances."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Battery must be disconnected to prevent shorts and injury.",
+        "B": "Hot engine creates burn hazard.",
+        "C": "Ensures safety and prevents coolant loss during removal.",
+        "D": "Some installations require partial coolant drain for access."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "When installing a new switch, what ensures proper operation?",
+      "options": {
+        "A": "Correct wiring connections per schematic, proper mounting, operational testing.",
+        "B": "Random wire connection.",
+        "C": "Loose mounting for easy future access.",
+        "D": "Testing is unnecessary."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper wiring, secure mounting, and testing ensure reliable function.",
+        "B": "Incorrect wiring can cause malfunction or damage.",
+        "C": "Switch must be securely mounted for reliable operation.",
+        "D": "Testing verifies proper installation."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "What should be done before soldering electrical connections?",
+      "options": {
+        "A": "Clean wire ends, ensure proper heat application, use rosin core solder.",
+        "B": "Use acid core solder on all connections.",
+        "C": "Apply solder without cleaning wires.",
+        "D": "Solder while wires are installed in vehicle."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Clean wires, proper technique, and correct solder type ensure good connection.",
+        "B": "Acid core solder causes corrosion in electrical circuits.",
+        "C": "Clean wires are essential for proper solder adhesion.",
+        "D": "Wires should be removed or protected from heat damage to surrounding components."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "When replacing a power window motor, what must be considered?",
+      "options": {
+        "A": "Motor torque rating and mounting configuration.",
+        "B": "Window tint darkness.",
+        "C": "Exterior paint color.",
+        "D": "Tire size."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Paint color is irrelevant to motor choice.",
+        "B": "Tint does not affect motor selection.",
+        "C": "Motor must have adequate torque and proper mounting for reliable operation.",
+        "D": "Tire size has no relation to window motor."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "F",
+      "task": "F-14",
+      "taskTitle": "Repairs electrical systems",
+      "subtask": "F-14.02 Repairs electrical components, motors and accessories",
+      "question": "What is the correct method to replace a backup alarm?",
+      "options": {
+        "A": "Disconnect power, mount alarm securely, connect wiring, test in reverse.",
+        "B": "Mount alarm but do not test.",
+        "C": "Connect wiring only without mounting.",
+        "D": "Install while transmission is in reverse."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Alarm must be securely mounted to prevent damage.",
+        "B": "Testing is critical to verify operation.",
+        "C": "Proper installation and testing ensure alarm functions when needed.",
+        "D": "Transmission should be in park/neutral during installation."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "What tool is required to read diagnostic trouble codes from an electronic control module?",
+      "options": {
+        "A": "Torque wrench.",
+        "B": "Diagnostic scan tool or code reader.",
+        "C": "Test light.",
+        "D": "Feeler gauge."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Torque wrench is for fasteners, not diagnostics.",
+        "B": "Test light only indicates voltage presence.",
+        "C": "Scan tool communicates with ECM to retrieve stored fault codes.",
+        "D": "Feeler gauge measures clearances, not electronic data."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "What does a pending diagnostic trouble code indicate?",
+      "options": {
+        "A": "A fault was detected once but not confirmed yet.",
+        "B": "A permanent system failure.",
+        "C": "Normal system operation.",
+        "D": "Battery needs replacement."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pending code indicates single occurrence; becomes active if fault repeats.",
+        "B": "Permanent codes indicate confirmed failures.",
+        "C": "Any trouble code indicates abnormal operation.",
+        "D": "Battery condition is separate from pending codes."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "What is the first step after retrieving diagnostic trouble codes?",
+      "options": {
+        "A": "Clear all codes immediately.",
+        "B": "Record codes and refer to service manual for diagnostic procedures.",
+        "C": "Replace the ECM.",
+        "D": "Ignore codes if vehicle operates normally."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Codes must be diagnosed and repaired before clearing.",
+        "B": "ECM replacement is last resort after proper diagnosis.",
+        "C": "Proper documentation and following procedures ensures correct diagnosis.",
+        "D": "Codes indicate problems that may worsen if ignored."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "What does an active diagnostic trouble code indicate?",
+      "options": {
+        "A": "Fault was present in the past but is currently resolved.",
+        "B": "Fault is currently present or occurred multiple times.",
+        "C": "System is functioning normally.",
+        "D": "Code reader malfunction."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This describes a historic or stored code.",
+        "B": "Active code indicates current problem or repeated occurrence.",
+        "C": "Active codes always indicate a problem.",
+        "D": "Active code is legitimate system fault."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "When should diagnostic trouble codes be cleared?",
+      "options": {
+        "A": "Before diagnosing the problem.",
+        "B": "After repair is completed and verified.",
+        "C": "Immediately upon reading them.",
+        "D": "Never, regardless of repair."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Codes provide diagnostic information needed for repair.",
+        "B": "Clear only after repair is confirmed successful to verify fix.",
+        "C": "Premature clearing loses diagnostic information.",
+        "D": "Codes should be cleared after successful repair."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "What does a sensor circuit high voltage code typically indicate?",
+      "options": {
+        "A": "Open circuit, short to voltage, or failed sensor.",
+        "B": "Low battery voltage.",
+        "C": "Normal operation.",
+        "D": "Excessive fuel pressure."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Fuel pressure does not cause sensor voltage codes.",
+        "B": "Low battery would cause low voltage codes.",
+        "C": "High voltage code always indicates a fault.",
+        "D": "High voltage codes indicate open circuit or short to power source."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "When multiple DTCs are present, which should be diagnosed first?",
+      "options": {
+        "A": "Most recent code.",
+        "B": "Oldest stored code or codes that could cause other codes.",
+        "C": "Random selection.",
+        "D": "Ignore all and replace ECM."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oldest code or primary fault should be addressed first.",
+        "B": "Primary faults often cause secondary codes; fix root cause first.",
+        "C": "Systematic approach prevents misdiagnosis.",
+        "D": "Proper diagnosis should precede any component replacement."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "What does a sensor circuit low voltage code typically indicate?",
+      "options": {
+        "A": "Overcharged battery.",
+        "B": "Short to ground, poor connection, or failed sensor.",
+        "C": "Excessive alternator output.",
+        "D": "Normal cold weather operation."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Low voltage indicates ground short, connection problem, or sensor failure.",
+        "B": "Battery charge state does not cause sensor low voltage.",
+        "C": "Alternator output affects system voltage, not sensor signal.",
+        "D": "Low voltage code indicates fault, not normal operation."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "What is indicated by an intermittent diagnostic trouble code?",
+      "options": {
+        "A": "Permanent system failure.",
+        "B": "Fault that occurs occasionally, often due to loose connection or heat-related issue.",
+        "C": "Normal system variation.",
+        "D": "Incorrect fuel type."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Intermittent codes indicate connection, heat soak, or vibration-related problems.",
+        "B": "Permanent failure would set consistent codes.",
+        "C": "All codes indicate abnormal operation.",
+        "D": "Fuel type does not cause intermittent codes."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "What communication protocol is commonly used for heavy equipment diagnostics?",
+      "options": {
+        "A": "Morse code.",
+        "B": "J1939 CAN bus.",
+        "C": "FM radio.",
+        "D": "Bluetooth audio."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "J1939 is standard CAN bus protocol for heavy equipment and trucks.",
+        "B": "Morse code is not used for vehicle diagnostics.",
+        "C": "FM radio is not a diagnostic protocol.",
+        "D": "Bluetooth audio is for entertainment, not diagnostics."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "What should be done if a DTC returns immediately after clearing?",
+      "options": {
+        "A": "Clear it repeatedly until it stays cleared.",
+        "B": "Diagnose the circuit/component as the fault is still present.",
+        "C": "Replace ECM immediately.",
+        "D": "Ignore it as a glitch."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Immediate return indicates active fault requiring diagnosis and repair.",
+        "B": "Repeated clearing does not fix the problem.",
+        "C": "ECM is rarely the cause; circuit diagnosis comes first.",
+        "D": "Returning code indicates real problem requiring attention."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.01 Reads diagnostic trouble codes (DTCs)",
+      "question": "What information do diagnostic trouble codes provide?",
+      "options": {
+        "A": "Exact failed component and repair procedure.",
+        "B": "General area of fault requiring further diagnosis.",
+        "C": "Complete repair manual.",
+        "D": "Nothing useful."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Codes direct technician to affected system for detailed diagnosis.",
+        "B": "Codes indicate problem area, not exact failed part.",
+        "C": "Codes are diagnostic aids, not complete repair information.",
+        "D": "Codes are essential diagnostic starting point."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "What is the purpose of monitoring live data parameters with a scan tool?",
+      "options": {
+        "A": "To watch entertainment videos.",
+        "B": "To observe real-time sensor values and system operation.",
+        "C": "To clear trouble codes.",
+        "D": "To increase engine power."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Scan tools are diagnostic equipment, not entertainment.",
+        "B": "Code clearing is separate function from parameter monitoring.",
+        "C": "Live data shows actual sensor readings and system performance for diagnosis.",
+        "D": "Monitoring does not change engine operation."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "When monitoring coolant temperature parameters, what indicates a faulty sensor?",
+      "options": {
+        "A": "Temperature reading matches actual engine temperature.",
+        "B": "Temperature reads -40°C or stays at single value regardless of engine temperature.",
+        "C": "Temperature increases as engine warms.",
+        "D": "Temperature decreases when thermostat opens."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Accurate reading indicates proper sensor function.",
+        "B": "Normal sensor response to engine warm-up.",
+        "C": "Fixed or default value indicates open circuit or failed sensor.",
+        "D": "Slight decrease is normal when thermostat opens and fresh coolant circulates."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "What parameter should be monitored to verify proper throttle position sensor operation?",
+      "options": {
+        "A": "Fuel pressure.",
+        "B": "Throttle position percentage changing smoothly with pedal movement.",
+        "C": "Oil temperature.",
+        "D": "Battery voltage only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fuel pressure does not indicate TPS function.",
+        "B": "TPS percentage should change proportionally with throttle pedal position.",
+        "C": "Oil temperature is unrelated to TPS operation.",
+        "D": "Battery voltage alone does not verify TPS operation."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "When monitoring hydraulic pressure parameters, what indicates a problem?",
+      "options": {
+        "A": "Pressure within specified range during operation.",
+        "B": "Pressure significantly below specification or erratic readings.",
+        "C": "Pressure increases under load.",
+        "D": "Pressure varies with engine speed."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Low or erratic pressure indicates pump wear, leaks, or sensor problems.",
+        "B": "Pressure within range indicates normal operation.",
+        "C": "Pressure increase under load is normal system response.",
+        "D": "Some pressure variation with engine speed is normal."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "What does monitoring injector pulse width reveal?",
+      "options": {
+        "A": "Wheel speed.",
+        "B": "Duration of fuel injector opening time.",
+        "C": "Coolant flow rate.",
+        "D": "Brake pad thickness."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pulse width indicates how long injector is commanded open, showing fuel delivery.",
+        "B": "Wheel speed is separate parameter.",
+        "C": "Coolant flow is separate from injection timing.",
+        "D": "Brake pads are mechanical, not monitored electronically."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "When monitoring parameters during a road test, what indicates intermittent sensor failure?",
+      "options": {
+        "A": "Steady, consistent readings.",
+        "B": "Sudden spikes, dropouts, or irrational values during operation.",
+        "C": "Gradual changes with conditions.",
+        "D": "Values that match service manual specifications."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Steady readings indicate normal operation.",
+        "B": "Specifications indicate proper function.",
+        "C": "Gradual changes are normal response to operating conditions.",
+        "D": "Sudden irrational changes indicate intermittent connection or sensor problems."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "What parameter indicates proper oxygen sensor operation?",
+      "options": {
+        "A": "Fixed voltage reading.",
+        "B": "Voltage cycling between rich and lean (0.1-0.9V) in closed loop.",
+        "C": "Zero voltage always.",
+        "D": "Maximum voltage always."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Healthy O2 sensor switches voltage rapidly in closed loop operation.",
+        "B": "Fixed reading indicates failed or lazy sensor.",
+        "C": "Zero voltage indicates lean condition or failed sensor.",
+        "D": "Maximum voltage indicates rich condition or failed sensor."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "When monitoring transmission parameters, what indicates clutch slippage?",
+      "options": {
+        "A": "Equal input and output speeds.",
+        "B": "Input speed higher than expected output speed ratio.",
+        "C": "Lower than normal fluid temperature.",
+        "D": "Zero speed reading."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This would be normal in direct drive, not all gears.",
+        "B": "Slippage causes heat increase, not decrease.",
+        "C": "Speed mismatch indicates clutch not fully engaging, allowing slip.",
+        "D": "Zero speed means stopped, not slipping."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "What does monitoring turbocharger boost pressure parameters help diagnose?",
+      "options": {
+        "A": "Brake wear.",
+        "B": "Turbo performance, boost leaks, or wastegate problems.",
+        "C": "Tire pressure.",
+        "D": "Coolant level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Brake wear is mechanical inspection, not boost pressure related.",
+        "B": "Boost pressure reveals turbo efficiency and boost system integrity.",
+        "C": "Tire pressure is separate system.",
+        "D": "Coolant level does not affect boost pressure reading."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "When monitoring voltage parameters at various engine speeds, what should occur?",
+      "options": {
+        "A": "Voltage decreases as RPM increases.",
+        "B": "Voltage remains stable within 13.5-14.5V range.",
+        "C": "Voltage drops to zero at idle.",
+        "D": "Voltage exceeds 16V at high RPM."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Voltage should remain stable due to regulator.",
+        "B": "Voltage should never drop to zero with engine running.",
+        "C": "Voltage regulator maintains constant charging voltage across RPM range.",
+        "D": "Voltage above 15V indicates overcharging condition."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "What does monitoring differential pressure across a diesel particulate filter (DPF) indicate?",
+      "options": {
+        "A": "Filter restriction or loading condition.",
+        "B": "Transmission temperature.",
+        "C": "Battery state of charge.",
+        "D": "Tire wear rate."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Battery state is measured differently.",
+        "B": "Transmission temperature is separate parameter.",
+        "C": "Differential pressure indicates soot loading and need for regeneration.",
+        "D": "Tire wear is visual inspection."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.02 Monitors parameters",
+      "question": "When monitoring parameters, what indicates a mass airflow sensor problem?",
+      "options": {
+        "A": "MAF reading matches expected airflow for engine speed and load.",
+        "B": "MAF reading is excessively high, low, or does not change with throttle.",
+        "C": "MAF reading increases with acceleration.",
+        "D": "MAF reading decreases at idle."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Fixed or irrational MAF values indicate sensor contamination or failure.",
+        "B": "Matching expected values indicates proper function.",
+        "C": "Increase with acceleration is normal response.",
+        "D": "Lower reading at idle is normal due to reduced airflow."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "A scan tool shows coolant temperature at -40°C while engine is hot. What does this indicate?",
+      "options": {
+        "A": "Engine is actually cold.",
+        "B": "Open circuit in coolant temperature sensor or wiring.",
+        "C": "Thermostat is stuck open.",
+        "D": "Low coolant level."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "-40°C is default value, not actual temperature.",
+        "B": "Low coolant affects actual temperature, not sensor reading default.",
+        "C": "Stuck thermostat would show different symptoms.",
+        "D": "-40°C is typical default value indicating open circuit condition."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "When interpreting voltage drop test results, what indicates excessive resistance?",
+      "options": {
+        "A": "0.0 volts drop.",
+        "B": "Greater than 0.5V drop on ground circuit during cranking.",
+        "C": "0.1V drop.",
+        "D": "Negative voltage reading."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Zero drop is ideal but practically uncommon.",
+        "B": "Voltage drop exceeding 0.5V indicates high resistance requiring repair.",
+        "C": "0.1V drop is acceptable and indicates good connection.",
+        "D": "Negative reading indicates reversed test lead connection."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "A compression test shows one cylinder significantly lower than others. What does this indicate?",
+      "options": {
+        "A": "Normal variation between cylinders.",
+        "B": "Possible worn rings, valves, or head gasket leak in that cylinder.",
+        "C": "Low battery voltage.",
+        "D": "Incorrect fuel pressure."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Significant difference indicates problem, not normal variation.",
+        "B": "Battery voltage affects cranking speed, not compression readings comparison.",
+        "C": "Low compression in one cylinder indicates internal engine problem.",
+        "D": "Fuel pressure does not affect compression test results."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "When interpreting alternator ripple voltage test, what indicates failed diode?",
+      "options": {
+        "A": "No AC voltage present (less than 0.1V AC).",
+        "B": "Excessive AC voltage (greater than 0.5V AC) in DC output.",
+        "C": "14.5V DC output.",
+        "D": "Zero voltage reading."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Minimal AC voltage indicates good diode rectification.",
+        "B": "14.5V DC is normal charging voltage.",
+        "C": "Excessive AC ripple indicates one or more diodes have failed.",
+        "D": "Zero voltage indicates different problem, not ripple."
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "When interpreting hydraulic flow test results, what indicates pump wear?",
+      "options": {
+        "A": "Flow rate matches specifications.",
+        "B": "Flow rate significantly below specifications at rated pressure and speed.",
+        "C": "Flow increases with pressure.",
+        "D": "Flow matches engine speed."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Matching specs indicates proper pump condition.",
+        "B": "While flow is related to speed, matching alone doesn't indicate condition.",
+        "C": "Flow should decrease slightly with pressure increase due to leakage.",
+        "D": "Reduced flow at proper speed and pressure indicates internal pump wear."
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "A fuel pressure test shows pressure drops rapidly after pump shuts off. What does this indicate?",
+      "options": {
+        "A": "Normal system operation.",
+        "B": "Leaking injector, fuel pressure regulator, or check valve.",
+        "C": "Strong fuel pump.",
+        "D": "Clean fuel filter."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Pressure should hold for specified time after shutdown.",
+        "B": "Pump strength does not prevent pressure drop after shutdown.",
+        "C": "Rapid pressure loss indicates internal system leak preventing pressure retention.",
+        "D": "Filter condition does not affect pressure retention."
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "When interpreting an oscilloscope pattern of sensor signal, what indicates a faulty sensor?",
+      "options": {
+        "A": "Smooth, consistent waveform matching specifications.",
+        "B": "Erratic pattern with dropouts, spikes, or distortion.",
+        "C": "Signal amplitude changes with sensor input.",
+        "D": "Frequency matches specifications."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Smooth pattern indicates proper sensor function.",
+        "B": "Correct frequency indicates proper operation.",
+        "C": "Amplitude change with input is normal sensor response.",
+        "D": "Irregular waveform indicates sensor or wiring problem."
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "A starter draw test shows 400 amps with slow cranking speed. What does this indicate?",
+      "options": {
+        "A": "Normal starter operation.",
+        "B": "High resistance in starter motor or excessive mechanical load.",
+        "C": "Low battery voltage only.",
+        "D": "Correct amperage for heavy equipment."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Excessive amperage with slow cranking indicates problem.",
+        "B": "400A is excessive for typical cranking.",
+        "C": "Low battery would show low amperage, not high.",
+        "D": "High current with low speed indicates binding, worn starter, or engine problems."
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "When interpreting insulation resistance test results on a motor, what indicates acceptable insulation?",
+      "options": {
+        "A": "Zero ohms to ground.",
+        "B": "Several megohms (MΩ) to ground.",
+        "C": "100 ohms to ground.",
+        "D": "Negative resistance reading."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Zero ohms indicates complete short to ground.",
+        "B": "High resistance (megohms) indicates good insulation integrity.",
+        "C": "100 ohms is too low, indicating insulation breakdown.",
+        "D": "Negative resistance is impossible, indicates meter error."
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "A circuit resistance test shows infinite resistance. What does this indicate?",
+      "options": {
+        "A": "Perfect circuit continuity.",
+        "B": "Open circuit or broken wire.",
+        "C": "Short circuit.",
+        "D": "Normal circuit resistance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Continuity shows low resistance, not infinite.",
+        "B": "Infinite resistance indicates no current path, circuit is open.",
+        "C": "Short circuit shows very low or zero resistance.",
+        "D": "Normal circuit shows measurable resistance based on component values."
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "When interpreting battery load test results, battery voltage is 9.2V after 15 seconds under load. What does this indicate?",
+      "options": {
+        "A": "Battery passes test.",
+        "B": "Battery is marginal, retest after charging.",
+        "C": "Battery is acceptable for service.",
+        "D": "Battery has failed the test."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Voltage below 9.6V indicates failure.",
+        "B": "Voltage below 9.6V during load test indicates battery failure.",
+        "C": "Battery below 9.6V must be replaced.",
+        "D": "Such low voltage indicates cell failure, not marginal condition."
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.03 Interprets test results",
+      "question": "What does interpreting a 5-volt reference voltage at 4.8V indicate?",
+      "options": {
+        "A": "Normal voltage within tolerance.",
+        "B": "Possible short to ground or high resistance in reference circuit.",
+        "C": "Overcharging condition.",
+        "D": "Strong alternator output."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "5V reference should be close to 5.0V, 4.8V is low.",
+        "B": "Alternator output does not directly affect 5V reference.",
+        "C": "Reference voltage is regulated separately from charging voltage.",
+        "D": "Reduced reference voltage indicates partial short or high resistance affecting sensors."
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "What is the correct method to test a relay?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Apply voltage to coil and verify contacts close, check for continuity through contacts.",
+        "C": "Shake it and listen for rattle.",
+        "D": "Test with circuit connected under full load."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Visual inspection cannot verify electrical function.",
+        "B": "Relay should be tested isolated from circuit for accurate results.",
+        "C": "Shake test is crude and unreliable.",
+        "D": "Proper bench test verifies coil operation and contact function."
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "When testing a switch, what indicates proper operation?",
+      "options": {
+        "A": "Infinite resistance in both on and off positions.",
+        "B": "Zero resistance when closed, infinite resistance when open.",
+        "C": "High resistance in on position.",
+        "D": "Switch feels loose."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Infinite resistance in both positions indicates failed switch.",
+        "B": "High resistance indicates poor contact or failure.",
+        "C": "Switch should show continuity when closed, open circuit when off.",
+        "D": "Mechanical feel does not confirm electrical function."
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "What is the proper method to test a solenoid coil?",
+      "options": {
+        "A": "Apply full battery voltage indefinitely.",
+        "B": "Measure coil resistance with ohmmeter and compare to specifications.",
+        "C": "Short circuit the terminals.",
+        "D": "Submerge in water and test."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Continuous voltage application can overheat and damage coil.",
+        "B": "Water exposure will damage electrical components.",
+        "C": "Shorting terminals can damage coil.",
+        "D": "Resistance measurement verifies coil integrity without damage."
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "When testing circuit continuity, what reading indicates a good circuit?",
+      "options": {
+        "A": "Infinite resistance.",
+        "B": "Low resistance (near zero ohms for wire).",
+        "C": "Fluctuating resistance.",
+        "D": "Negative resistance."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Infinite resistance indicates open circuit.",
+        "B": "Negative resistance is impossible with standard meter.",
+        "C": "Fluctuating resistance indicates loose connection or damaged wire.",
+        "D": "Low resistance confirms complete circuit path without breaks."
+      }
+    },
+    {
+      "questionNumber": 113,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "What is the correct procedure to test a temperature sensor?",
+      "options": {
+        "A": "Measure resistance at various temperatures and compare to specifications.",
+        "B": "Apply maximum voltage and observe.",
+        "C": "Visual inspection only.",
+        "D": "Install and hope it works."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excessive voltage can damage sensor.",
+        "B": "Resistance should change predictably with temperature per manufacturer specs.",
+        "C": "Internal sensor function cannot be verified visually.",
+        "D": "Proper testing should precede installation."
+      }
+    },
+    {
+      "questionNumber": 114,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "When testing a pressure transducer, what method is used?",
+      "options": {
+        "A": "Apply known pressure and measure voltage/current output.",
+        "B": "Shake and listen for noise.",
+        "C": "Visual inspection only.",
+        "D": "Measure with no pressure applied only."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Electrical function must be tested, not just visually inspected.",
+        "B": "Shaking does not verify sensor accuracy.",
+        "C": "Output should correspond to applied pressure per calibration specifications.",
+        "D": "Transducer must be tested across its pressure range."
+      }
+    },
+    {
+      "questionNumber": 115,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "What tool is used to test for AC voltage in an alternator output?",
+      "options": {
+        "A": "Test light.",
+        "B": "Multimeter set to AC voltage mode.",
+        "C": "Compression tester.",
+        "D": "Torque wrench."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "AC voltage measurement reveals diode integrity through ripple voltage.",
+        "B": "Test light cannot measure AC voltage level.",
+        "C": "Compression tester is for engine cylinders.",
+        "D": "Torque wrench is for fastener tightening."
+      }
+    },
+    {
+      "questionNumber": 116,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "When testing a wiring harness for shorts to ground, what indicates a short?",
+      "options": {
+        "A": "Infinite resistance to ground.",
+        "B": "Low resistance (near zero ohms) to ground.",
+        "C": "Resistance matches wire gauge specifications.",
+        "D": "High resistance to ground."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Low resistance to ground indicates insulation failure and short circuit.",
+        "B": "Infinite resistance indicates good insulation, no short.",
+        "C": "Wire gauge resistance is measured along wire length, not to ground.",
+        "D": "High resistance indicates good insulation."
+      }
+    },
+    {
+      "questionNumber": 117,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "What is the proper method to test a diode?",
+      "options": {
+        "A": "Measure resistance in both directions; should show low in one, high in other.",
+        "B": "Apply maximum voltage until it glows.",
+        "C": "Short circuit test.",
+        "D": "Diodes cannot be tested."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excessive voltage damages diode.",
+        "B": "Diode should conduct in forward bias, block in reverse bias.",
+        "C": "Short circuit test will destroy diode.",
+        "D": "Diodes can and should be tested with proper method."
+      }
+    },
+    {
+      "questionNumber": 118,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "When testing a motor for a short to ground, what is the acceptable reading?",
+      "options": {
+        "A": "Zero ohms to ground.",
+        "B": "Infinite or very high resistance to ground.",
+        "C": "50 ohms to ground.",
+        "D": "Reading fluctuates wildly."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Zero ohms indicates direct short requiring replacement.",
+        "B": "High resistance indicates good insulation and no short to ground.",
+        "C": "50 ohms is too low, indicates insulation breakdown.",
+        "D": "Fluctuating reading indicates intermittent short or bad connection."
+      }
+    },
+    {
+      "questionNumber": 119,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "What is the correct method to test a capacitor?",
+      "options": {
+        "A": "Discharge safely, then measure capacitance with appropriate meter.",
+        "B": "Short terminals with screwdriver.",
+        "C": "Apply voltage and watch for sparks.",
+        "D": "Visual inspection is sufficient."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Capacitor function cannot be determined visually.",
+        "B": "Dangerous and can damage capacitor or cause injury.",
+        "C": "Unsafe testing method.",
+        "D": "Safe discharge followed by capacitance measurement verifies function."
+      }
+    },
+    {
+      "questionNumber": 120,
+      "block": "F",
+      "task": "F-15",
+      "taskTitle": "Diagnoses electronic vehicle management systems",
+      "subtask": "F-15.04 Tests system circuitry and components",
+      "question": "When testing a Hall effect sensor, what tool is most appropriate?",
+      "options": {
+        "A": "Compression tester.",
+        "B": "Oscilloscope or voltmeter to observe signal pattern.",
+        "C": "Torque wrench.",
+        "D": "Tire pressure gauge."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Compression tester is for engine cylinders.",
+        "B": "Tire gauge measures pressure, not electrical signals.",
+        "C": "Torque wrench is for fasteners.",
+        "D": "Oscilloscope shows on/off pattern as magnet passes sensor."
+      }
+    },
+    {
+      "questionNumber": 121,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "What is the first step before updating ECM software?",
+      "options": {
+        "A": "Disconnect the battery.",
+        "B": "Verify correct software version for the specific unit and back up existing programming.",
+        "C": "Start the engine.",
+        "D": "Remove the ECM from vehicle."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Wrong software can damage system; backup allows recovery if needed.",
+        "B": "Battery must remain connected for programming.",
+        "C": "Engine should be off during programming.",
+        "D": "ECM remains installed during software update."
+      }
+    },
+    {
+      "questionNumber": 122,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "What can happen if battery voltage drops during a software update?",
+      "options": {
+        "A": "Update completes faster.",
+        "B": "ECM can be corrupted and require replacement or recovery programming.",
+        "C": "Nothing, update continues normally.",
+        "D": "Improved performance."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Low voltage interrupts update process.",
+        "B": "Voltage drop causes problems, not improvements.",
+        "C": "Voltage loss will interrupt and potentially corrupt programming.",
+        "D": "Interrupted update can corrupt software, rendering ECM non-functional."
+      }
+    },
+    {
+      "questionNumber": 123,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "What tool is required to update vehicle management system software?",
+      "options": {
+        "A": "Standard wrench set.",
+        "B": "Manufacturer-specific diagnostic software and interface.",
+        "C": "Test light.",
+        "D": "Compression gauge."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Wrenches are mechanical tools, not for software updates.",
+        "B": "Test light cannot program electronic modules.",
+        "C": "Proper software and communication interface required for reprogramming.",
+        "D": "Compression gauge tests engine cylinders."
+      }
+    },
+    {
+      "questionNumber": 124,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "After completing a software update, what must be done?",
+      "options": {
+        "A": "Immediately disconnect power.",
+        "B": "Verify update success, clear DTCs if necessary, perform system initialization procedures.",
+        "C": "Nothing further required.",
+        "D": "Remove ECM for bench testing."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "ECM needs time to complete initialization.",
+        "B": "Post-update procedures are critical for proper operation.",
+        "C": "Verification and initialization ensure system operates properly with new software.",
+        "D": "ECM should remain installed; bench test is unnecessary."
+      }
+    },
+    {
+      "questionNumber": 125,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "Why might software updates be necessary on heavy equipment?",
+      "options": {
+        "A": "To fix known bugs, improve performance, or update emission calibrations.",
+        "B": "To increase fuel consumption.",
+        "C": "To reduce engine power unnecessarily.",
+        "D": "Purely cosmetic changes."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Updates aim to improve or maintain efficiency, not worsen it.",
+        "B": "Updates address issues, improve function, and maintain compliance.",
+        "C": "Updates optimize performance, not reduce it arbitrarily.",
+        "D": "Software updates provide functional improvements."
+      }
+    },
+    {
+      "questionNumber": 126,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "What precaution should be taken regarding electrical loads during software update?",
+      "options": {
+        "A": "Turn on all accessories to test.",
+        "B": "Turn off all unnecessary electrical loads and use battery charger if needed.",
+        "C": "Start the engine during update.",
+        "D": "Disconnect alternator."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Additional loads drain battery during programming.",
+        "B": "Minimizing loads and maintaining voltage prevents programming failure.",
+        "C": "Engine should not run during software update.",
+        "D": "Alternator should remain connected if engine were running, but engine is off."
+      }
+    },
+    {
+      "questionNumber": 127,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "What information must be recorded before performing software update?",
+      "options": {
+        "A": "Nothing needs recording.",
+        "B": "Current software version, calibration data, and unit serial number.",
+        "C": "Tire pressure only.",
+        "D": "Operator name."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Documentation is critical for tracking and troubleshooting.",
+        "B": "While operator info may be recorded, technical data is essential.",
+        "C": "Tire pressure is unrelated to software updates.",
+        "D": "Records allow verification of correct update and rollback if needed."
+      }
+    },
+    {
+      "questionNumber": 128,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "What might need to be reprogrammed after engine ECM software update?",
+      "options": {
+        "A": "Tire pressure sensors.",
+        "B": "Injector trim codes, sensor calibrations, or customer parameters.",
+        "C": "Radio presets.",
+        "D": "Nothing requires reprogramming."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Tire sensors are separate system.",
+        "B": "Many systems require recalibration after ECM update.",
+        "C": "Radio settings are separate entertainment system.",
+        "D": "Calibration data may be reset and require re-entry for proper operation."
+      }
+    },
+    {
+      "questionNumber": 129,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "What is the purpose of reading DTCs before software update?",
+      "options": {
+        "A": "DTCs are irrelevant to updates.",
+        "B": "To document existing faults and determine if update addresses them.",
+        "C": "To delete warranty coverage.",
+        "D": "To increase download speed."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "DTCs may indicate why update is needed or reveal hardware issues.",
+        "B": "DTCs have no effect on download speed.",
+        "C": "DTCs do not affect warranty.",
+        "D": "Documentation helps determine if update resolves issues or if hardware repair needed."
+      }
+    },
+    {
+      "questionNumber": 130,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "What should be done if software update fails partway through?",
+      "options": {
+        "A": "Remove ECM and discard.",
+        "B": "Attempt recovery programming or contact manufacturer technical support.",
+        "C": "Ignore the failure.",
+        "D": "Proceed with operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "ECM may be recoverable with proper procedures.",
+        "B": "Recovery procedures may restore functionality or manufacturer assistance needed.",
+        "C": "Failed update leaves ECM inoperable.",
+        "D": "Incomplete update prevents proper system operation."
+      }
+    },
+    {
+      "questionNumber": 131,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "What communication protocol is commonly used for heavy equipment ECM programming?",
+      "options": {
+        "A": "Bluetooth audio streaming.",
+        "B": "J1939 CAN bus or manufacturer proprietary protocol.",
+        "C": "AM/FM radio.",
+        "D": "Morse code."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Bluetooth audio is not used for ECM programming.",
+        "B": "Radio is not data communication protocol.",
+        "C": "J1939 and proprietary protocols enable ECM communication and programming.",
+        "D": "Morse code is not used in modern vehicle programming."
+      }
+    },
+    {
+      "questionNumber": 132,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.01 Updates component software",
+      "question": "Why must ignition be on during software update?",
+      "options": {
+        "A": "To play radio during wait time.",
+        "B": "To power ECM and communication circuits for programming.",
+        "C": "To run engine during update.",
+        "D": "Ignition should be off during updates."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Radio operation is not reason for ignition requirement.",
+        "B": "Ignition must be on to power control modules.",
+        "C": "Engine should be off, but ignition provides electrical power.",
+        "D": "ECM requires power to receive and process new programming."
+      }
+    },
+    {
+      "questionNumber": 133,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "When replacing an ECM, what must be programmed into the new unit?",
+      "options": {
+        "A": "Nothing, plug and play.",
+        "B": "Vehicle configuration, calibrations, and security parameters.",
+        "C": "Radio stations.",
+        "D": "Tire size only."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "New ECM requires programming to match vehicle specifications.",
+        "B": "Radio is separate system.",
+        "C": "Complete vehicle configuration must be loaded for proper operation.",
+        "D": "Many more parameters than tire size require programming."
+      }
+    },
+    {
+      "questionNumber": 134,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "What should be verified before replacing a sensor?",
+      "options": {
+        "A": "Sensor is actually faulty, not wiring or connector issues.",
+        "B": "Coolant level.",
+        "C": "Tire pressure.",
+        "D": "Radio works properly."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Wiring problems often misdiagnosed as sensor failure; verify actual cause.",
+        "B": "Coolant level is unrelated to sensor testing.",
+        "C": "Tire pressure is separate from electronic sensor diagnosis.",
+        "D": "Radio function is irrelevant to sensor replacement."
+      }
+    },
+    {
+      "questionNumber": 135,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "When replacing an electronic control module, what safety precaution is critical?",
+      "options": {
+        "A": "Replace with engine running.",
+        "B": "Disconnect battery and follow ESD protection procedures.",
+        "C": "Use maximum torque on mounting bolts.",
+        "D": "Submerge in cleaning solution first."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Engine must be off and power disconnected.",
+        "B": "Prevents electrical damage and protects sensitive electronics from static discharge.",
+        "C": "Over-torquing can crack ECM housing.",
+        "D": "ECM should never be submerged in liquid."
+      }
+    },
+    {
+      "questionNumber": 136,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "After replacing a throttle position sensor, what procedure is typically required?",
+      "options": {
+        "A": "No further action needed.",
+        "B": "Calibration or relearn procedure using scan tool.",
+        "C": "Replace ECM also.",
+        "D": "Change engine oil."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Calibration ensures ECM recognizes sensor positions accurately.",
+        "B": "ECM replacement is not necessary for sensor replacement.",
+        "C": "Sensor position must be learned by ECM for proper throttle response.",
+        "D": "Oil change is unrelated to TPS replacement."
+      }
+    },
+    {
+      "questionNumber": 137,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "What is the proper handling procedure for electronic control modules?",
+      "options": {
+        "A": "Handle roughly, they are robust.",
+        "B": "Use ESD protection, avoid extreme temperatures, prevent moisture exposure.",
+        "C": "Store in direct sunlight.",
+        "D": "Drop test before installation."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "ECMs contain sensitive electronics requiring careful handling.",
+        "B": "Dropping will damage electronic components.",
+        "C": "Sunlight creates heat and UV exposure that can damage ECM.",
+        "D": "Proper handling prevents static damage, thermal shock, and corrosion."
+      }
+    },
+    {
+      "questionNumber": 138,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "When replacing wiring harness connectors, what ensures reliable connection?",
+      "options": {
+        "A": "Force fit connectors without inspection.",
+        "B": "Clean terminals, ensure proper pin alignment, verify locking mechanisms engage.",
+        "C": "Apply excessive dielectric grease inside terminals.",
+        "D": "Use any available connector regardless of type."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Forcing can bend pins and damage connectors.",
+        "B": "Proper preparation and installation ensure good electrical connection.",
+        "C": "Excess grease inside terminals can insulate contact surfaces.",
+        "D": "Connector type must match electrical and environmental requirements."
+      }
+    },
+    {
+      "questionNumber": 139,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "What must be done after replacing an injector on an electronically controlled engine?",
+      "options": {
+        "A": "Nothing required.",
+        "B": "Program injector calibration codes into ECM.",
+        "C": "Replace ECM.",
+        "D": "Change all engine oil immediately."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Calibration codes must be entered for proper fuel delivery.",
+        "B": "ECM does not need replacement for injector change.",
+        "C": "Each injector has unique flow characteristics requiring ECM programming.",
+        "D": "While contamination should be addressed, immediate oil change isn't always required."
+      }
+    },
+    {
+      "questionNumber": 140,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "When replacing an ABS wheel speed sensor, what should be verified?",
+      "options": {
+        "A": "Oil level.",
+        "B": "Sensor air gap or tone ring condition, secure mounting, and proper wiring.",
+        "C": "Tire pressure only.",
+        "D": "Radio functionality."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper gap and clean tone ring ensure accurate speed signal generation.",
+        "B": "Oil level is unrelated to ABS sensor installation.",
+        "C": "Tire pressure alone does not verify sensor installation.",
+        "D": "Radio is separate system from ABS."
+      }
+    },
+    {
+      "questionNumber": 141,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "What is required when replacing a turbocharger actuator on electronically controlled systems?",
+      "options": {
+        "A": "No calibration needed.",
+        "B": "Actuator calibration or relearn procedure to set reference positions.",
+        "C": "Immediate engine removal.",
+        "D": "Replace all electronics."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Electronic actuators require calibration for proper boost control.",
+        "B": "ECM must learn actuator range for accurate turbo control.",
+        "C": "Engine removal is not needed for actuator calibration.",
+        "D": "Only actuator calibration is required."
+      }
+    },
+    {
+      "questionNumber": 142,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "When repairing wiring harness, what type of connectors should be used?",
+      "options": {
+        "A": "Wire nuts.",
+        "B": "Proper sealed automotive connectors rated for application.",
+        "C": "Household electrical tape only.",
+        "D": "Any random connector available."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Automotive-grade sealed connectors withstand vibration, moisture, and temperature.",
+        "B": "Wire nuts are not suitable for vehicle vibration and environmental exposure.",
+        "C": "Tape alone provides inadequate connection and protection.",
+        "D": "Connector must meet environmental and current requirements."
+      }
+    },
+    {
+      "questionNumber": 143,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "What should be checked after replacing any electronic sensor?",
+      "options": {
+        "A": "Tire tread depth.",
+        "B": "Verify sensor reading is within normal range and DTCs are clear.",
+        "C": "Coolant color.",
+        "D": "Wiper blade condition."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Confirms sensor operates properly and system recognizes it correctly.",
+        "B": "Tire tread is unrelated to sensor installation verification.",
+        "C": "Coolant condition is separate from electronic sensor verification.",
+        "D": "Wiper blades are unrelated to electronic sensor replacement."
+      }
+    },
+    {
+      "questionNumber": 144,
+      "block": "F",
+      "task": "F-16",
+      "taskTitle": "Repairs electronic vehicle management systems",
+      "subtask": "F-16.02 Repairs components",
+      "question": "When replacing a hydraulic system pressure sensor, what must be ensured?",
+      "options": {
+        "A": "Sensor thread type, pressure rating, and electrical connection match specifications.",
+        "B": "Sensor is any color.",
+        "C": "Sensor is cheapest available option.",
+        "D": "Installation without thread sealant."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper specifications prevent leaks, damage, and ensure accurate readings.",
+        "B": "Color is cosmetic; specifications are critical.",
+        "C": "Incorrect sensor can fail catastrophically or give wrong readings.",
+        "D": "Proper thread sealant prevents leaks in hydraulic systems."
+      }
+    }
+  ]
+}

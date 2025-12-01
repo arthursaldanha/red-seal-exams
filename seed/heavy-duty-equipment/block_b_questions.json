@@ -1,0 +1,2653 @@
+{
+  "block": "B",
+  "title": "Engines and Engine Support Systems",
+  "totalQuestions": 126,
+  "questions": [
+    {
+      "questionNumber": 67,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.01 Diagnoses base engine",
+      "question": "What is the most common cause of excessive blow-by in a diesel engine?",
+      "options": {
+        "A": "Worn piston rings or cylinder walls.",
+        "B": "Faulty injector spray pattern.",
+        "C": "Restricted air filter.",
+        "D": "Low coolant temperature."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Worn rings or cylinder walls allow combustion gases to escape past the piston into the crankcase.",
+        "B": "Faulty injectors affect combustion efficiency, not blow-by.",
+        "C": "Restricted air filters reduce power but don't directly cause blow-by.",
+        "D": "Low coolant temperature affects efficiency, not blow-by."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.01 Diagnoses base engine",
+      "question": "What tool is used to measure cylinder liner wear?",
+      "options": {
+        "A": "Micrometer.",
+        "B": "Dial bore gauge.",
+        "C": "Feeler gauge.",
+        "D": "Torque wrench."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Micrometers measure outside diameters, not internal bore wear.",
+        "B": "Dial bore gauges accurately measure internal diameter and wear patterns.",
+        "C": "Feeler gauges measure gap clearances, not bore diameter.",
+        "D": "Torque wrenches apply specific torque, not measure dimensions."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.01 Diagnoses base engine",
+      "question": "What indicates a cracked cylinder head during a pressure test?",
+      "options": {
+        "A": "Oil in the coolant.",
+        "B": "Bubbles in the coolant while pressurized.",
+        "C": "Low compression reading.",
+        "D": "Excessive fuel consumption."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil in coolant suggests head gasket failure, not necessarily a crack.",
+        "B": "Bubbles appearing in coolant during pressure testing indicate a crack allowing air passage.",
+        "C": "Low compression can result from valve or ring issues, not just cracks.",
+        "D": "Excessive fuel consumption relates to fuel system issues, not head cracks."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.01 Diagnoses base engine",
+      "question": "What is the correct procedure to check piston-to-cylinder wall clearance?",
+      "options": {
+        "A": "Measure cylinder bore and piston diameter, then calculate the difference.",
+        "B": "Use a feeler gauge between piston and cylinder.",
+        "C": "Check compression pressure with a gauge.",
+        "D": "Measure ring gap with the rings installed."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "The clearance is determined by measuring both components and calculating the difference.",
+        "B": "Feeler gauges cannot accurately measure this clearance with the piston installed.",
+        "C": "Compression testing checks sealing ability, not clearance.",
+        "D": "Ring gap measurement is separate from piston clearance."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.01 Diagnoses base engine",
+      "question": "What causes white smoke from the exhaust during engine warm-up?",
+      "options": {
+        "A": "Excessive oil consumption.",
+        "B": "Coolant entering the combustion chamber.",
+        "C": "Rich fuel mixture.",
+        "D": "Carbon buildup in cylinders."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil consumption produces blue smoke, not white.",
+        "B": "White smoke indicates coolant burning in the combustion chamber, often from head gasket failure.",
+        "C": "Rich mixture produces black smoke.",
+        "D": "Carbon buildup doesn't produce white smoke."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.01 Diagnoses base engine",
+      "question": "What does low compression in two adjacent cylinders typically indicate?",
+      "options": {
+        "A": "Worn piston rings in both cylinders.",
+        "B": "Blown head gasket between the cylinders.",
+        "C": "Faulty fuel injectors.",
+        "D": "Incorrect valve timing."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While possible, it's less likely than a gasket failure between adjacent cylinders.",
+        "B": "A blown head gasket between adjacent cylinders allows pressure loss in both.",
+        "C": "Injector issues don't affect compression readings.",
+        "D": "Valve timing affects all cylinders, not just adjacent ones."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.01 Diagnoses base engine",
+      "question": "What is the purpose of performing a cylinder leak-down test?",
+      "options": {
+        "A": "To measure fuel pressure in each cylinder.",
+        "B": "To identify where compression is being lost.",
+        "C": "To check ignition timing accuracy.",
+        "D": "To verify coolant flow through the block."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fuel pressure testing is done separately from leak-down tests.",
+        "B": "Leak-down tests identify whether compression loss is through valves, rings, or gaskets.",
+        "C": "Diesel engines don't use ignition timing in the same way.",
+        "D": "Coolant flow testing uses different methods."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.01 Diagnoses base engine",
+      "question": "What causes blue smoke from the exhaust?",
+      "options": {
+        "A": "Water in the fuel.",
+        "B": "Burning engine oil.",
+        "C": "Incomplete combustion.",
+        "D": "Coolant leak into cylinders."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Water in fuel causes white smoke and misfiring.",
+        "B": "Blue smoke indicates engine oil is burning in the combustion chamber.",
+        "C": "Incomplete combustion produces black smoke.",
+        "D": "Coolant leaks produce white smoke."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.01 Diagnoses base engine",
+      "question": "What is the most likely cause of excessive crankshaft end play?",
+      "options": {
+        "A": "Worn main bearings.",
+        "B": "Worn thrust bearings.",
+        "C": "Damaged connecting rod bearings.",
+        "D": "Loose flywheel bolts."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Main bearings control radial movement, not end play.",
+        "B": "Thrust bearings control axial (end-to-end) movement of the crankshaft.",
+        "C": "Rod bearings don't affect crankshaft end play.",
+        "D": "Flywheel bolts don't control crankshaft end play."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.01 Diagnoses base engine",
+      "question": "What diagnostic test confirms proper valve seating?",
+      "options": {
+        "A": "Compression test.",
+        "B": "Cylinder leak-down test.",
+        "C": "Vacuum test.",
+        "D": "Oil pressure test."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Compression tests show overall cylinder sealing but don't isolate valve issues.",
+        "B": "Leak-down tests identify air escaping through intake or exhaust valves.",
+        "C": "Vacuum tests show general engine condition, not specific valve seating.",
+        "D": "Oil pressure tests check lubrication system, not valve sealing."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.02 Diagnoses lubrication systems",
+      "question": "What is the most common cause of low engine oil pressure?",
+      "options": {
+        "A": "Faulty oil pressure sending unit.",
+        "B": "Worn oil pump or bearings.",
+        "C": "Overfilled oil level.",
+        "D": "Restricted oil filter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "A faulty sender shows false readings but doesn't cause actual low pressure.",
+        "B": "Worn pump or bearings reduce the system's ability to maintain pressure.",
+        "C": "Overfilled oil can cause aeration but typically doesn't reduce pressure significantly.",
+        "D": "Restricted filters trigger bypass valves, maintaining pressure."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.02 Diagnoses lubrication systems",
+      "question": "What indicates a failing oil pump?",
+      "options": {
+        "A": "Oil pressure drops at idle but normal at high RPM.",
+        "B": "Oil pressure is high at all engine speeds.",
+        "C": "Oil consumption increases significantly.",
+        "D": "Oil appears contaminated with fuel."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Worn oil pumps cannot maintain pressure at low speeds due to internal clearances.",
+        "B": "High pressure indicates a stuck pressure relief valve, not pump failure.",
+        "C": "Oil consumption relates to rings, seals, or valve guides, not the pump.",
+        "D": "Fuel contamination indicates injector or fuel system issues."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.02 Diagnoses lubrication systems",
+      "question": "What causes oil to appear foamy in the crankcase?",
+      "options": {
+        "A": "Coolant contamination.",
+        "B": "Fuel dilution.",
+        "C": "Air entrainment or aeration.",
+        "D": "Excessive carbon buildup."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Coolant contamination makes oil milky, not foamy.",
+        "B": "Fuel dilution thins oil but doesn't create foam.",
+        "C": "Air mixing with oil creates foam, often from low oil level or excessive blow-by.",
+        "D": "Carbon doesn't cause foaming."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.02 Diagnoses lubrication systems",
+      "question": "What is checked first when diagnosing high oil consumption?",
+      "options": {
+        "A": "Valve stem seals.",
+        "B": "Crankcase ventilation system.",
+        "C": "Piston rings.",
+        "D": "External leaks."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "While important, external leaks should be ruled out first as they're easier to diagnose.",
+        "B": "Crankcase ventilation issues cause pressure problems, not direct oil consumption.",
+        "C": "Ring issues require internal inspection, check external issues first.",
+        "D": "Always check for visible external leaks before disassembling the engine."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.02 Diagnoses lubrication systems",
+      "question": "What does oil analysis showing elevated silicon indicate?",
+      "options": {
+        "A": "Coolant contamination.",
+        "B": "Fuel dilution.",
+        "C": "Dirt ingestion through air intake.",
+        "D": "Bearing wear."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Coolant contamination shows as glycol or sodium in oil analysis.",
+        "B": "Fuel dilution is detected through viscosity changes, not silicon.",
+        "C": "Silicon indicates dirt (silica/sand) entering through compromised air filtration.",
+        "D": "Bearing wear shows as elevated iron, aluminum, or copper."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.02 Diagnoses lubrication systems",
+      "question": "What is the purpose of an oil cooler bypass valve?",
+      "options": {
+        "A": "To maintain oil pressure during cold starts.",
+        "B": "To prevent oil filter clogging.",
+        "C": "To regulate oil temperature.",
+        "D": "To increase oil flow to bearings."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Bypass valves allow oil to circulate when cold and thick, bypassing the cooler.",
+        "B": "Oil filters have their own bypass valves.",
+        "C": "Thermostats regulate temperature, not bypass valves.",
+        "D": "Oil flow is determined by pump capacity and pressure relief valves."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.02 Diagnoses lubrication systems",
+      "question": "What causes oil pressure to be too high?",
+      "options": {
+        "A": "Stuck open pressure relief valve.",
+        "B": "Worn oil pump.",
+        "C": "Stuck closed pressure relief valve.",
+        "D": "Diluted engine oil."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "An open relief valve would cause low pressure.",
+        "B": "Worn pumps reduce pressure, not increase it.",
+        "C": "A stuck closed relief valve prevents excess pressure from bleeding off.",
+        "D": "Diluted oil reduces viscosity and pressure."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.02 Diagnoses lubrication systems",
+      "question": "What is indicated by metal shavings found in the oil filter?",
+      "options": {
+        "A": "Normal engine wear.",
+        "B": "Excessive internal component wear or failure.",
+        "C": "Contaminated fuel.",
+        "D": "Coolant leak."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Small amounts of fine particles are normal, but shavings indicate a problem.",
+        "B": "Metal shavings suggest significant wear or component failure requiring investigation.",
+        "C": "Fuel contamination doesn't produce metal shavings.",
+        "D": "Coolant leaks don't create metal shavings."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.02 Diagnoses lubrication systems",
+      "question": "What type of oil filter is designed to remove the smallest particles?",
+      "options": {
+        "A": "Bypass filter.",
+        "B": "Full-flow filter.",
+        "C": "Centrifugal filter.",
+        "D": "Magnetic filter."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Bypass filters filter a small portion of oil through finer media, removing smaller particles.",
+        "B": "Full-flow filters process all oil but with less fine filtration to avoid restriction.",
+        "C": "Centrifugal filters use spinning action but are less effective for very fine particles.",
+        "D": "Magnetic filters only capture ferrous metal particles."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.02 Diagnoses lubrication systems",
+      "question": "What should be done if oil pressure gauge fluctuates rapidly?",
+      "options": {
+        "A": "Replace the oil pressure sensor immediately.",
+        "B": "Check for air in the oil system or low oil level.",
+        "C": "Increase engine idle speed.",
+        "D": "Change to a higher viscosity oil."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While sensor could be faulty, check oil level and system first.",
+        "B": "Fluctuation often indicates air in the system or insufficient oil level.",
+        "C": "Adjusting idle doesn't address the root cause.",
+        "D": "Changing viscosity doesn't solve air or level issues."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.03 Diagnoses cooling systems",
+      "question": "What is the most common cause of engine overheating?",
+      "options": {
+        "A": "Low coolant level.",
+        "B": "Faulty thermostat stuck open.",
+        "C": "Overcharged air conditioning system.",
+        "D": "Excessive oil pressure."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Low coolant level reduces heat transfer capacity, causing overheating.",
+        "B": "A thermostat stuck open causes overcooling, not overheating.",
+        "C": "AC system charge doesn't directly cause engine overheating.",
+        "D": "Oil pressure doesn't cause overheating."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.03 Diagnoses cooling systems",
+      "question": "What does a thermostat stuck in the closed position cause?",
+      "options": {
+        "A": "Engine overcooling.",
+        "B": "Engine overheating.",
+        "C": "Increased fuel economy.",
+        "D": "Low coolant pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Stuck closed prevents coolant flow, causing overheating not overcooling.",
+        "B": "Closed thermostat blocks coolant circulation to the radiator, causing overheating.",
+        "C": "Overheating reduces efficiency and fuel economy.",
+        "D": "Blocked flow can actually increase pressure in the block."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.03 Diagnoses cooling systems",
+      "question": "How is a radiator cap pressure tested?",
+      "options": {
+        "A": "Using a cooling system pressure tester.",
+        "B": "Using a vacuum gauge.",
+        "C": "Using a multimeter.",
+        "D": "Using a torque wrench."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "A pressure tester verifies the cap maintains proper system pressure.",
+        "B": "Vacuum gauges test intake systems, not radiator caps.",
+        "C": "Multimeters test electrical circuits.",
+        "D": "Torque wrenches apply rotational force, not test pressure."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.03 Diagnoses cooling systems",
+      "question": "What indicates a water pump bearing failure?",
+      "options": {
+        "A": "Low coolant level.",
+        "B": "Grinding noise from the pump and possible coolant leak.",
+        "C": "High coolant temperature.",
+        "D": "Bubbles in the coolant reservoir."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Low coolant can have many causes, not specific to bearing failure.",
+        "B": "Worn bearings produce noise and often cause seal failure with coolant leaking.",
+        "C": "High temperature has multiple causes, not specific to bearing failure.",
+        "D": "Bubbles typically indicate combustion gas leaks, not bearing failure."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.03 Diagnoses cooling systems",
+      "question": "What causes coolant to be forced out of the overflow tank?",
+      "options": {
+        "A": "Thermostat stuck open.",
+        "B": "Low coolant level.",
+        "C": "Combustion gases entering the cooling system.",
+        "D": "Faulty temperature sensor."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Stuck open thermostat causes overcooling, not overflow.",
+        "B": "Low coolant doesn't cause overflow.",
+        "C": "Combustion gases from head gasket failure pressurize the system, forcing coolant out.",
+        "D": "Sensor issues affect readings, not physical coolant expulsion."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.03 Diagnoses cooling systems",
+      "question": "What tool is used to detect combustion gases in the cooling system?",
+      "options": {
+        "A": "Refractometer.",
+        "B": "Block tester with chemical indicator.",
+        "C": "Infrared thermometer.",
+        "D": "Compression gauge."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Refractometers test coolant concentration, not combustion gases.",
+        "B": "Block testers use chemical fluid that changes color when exposed to combustion gases.",
+        "C": "Infrared thermometers measure temperature, not gas content.",
+        "D": "Compression gauges test cylinder pressure, not coolant contamination."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.03 Diagnoses cooling systems",
+      "question": "What is the purpose of coolant flow restrictors in the cooling system?",
+      "options": {
+        "A": "To reduce pump cavitation.",
+        "B": "To balance coolant flow between cylinders.",
+        "C": "To increase system pressure.",
+        "D": "To filter debris from coolant."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cavitation is prevented by proper pump design and adequate inlet pressure.",
+        "B": "Restrictors ensure even coolant distribution, preventing hot spots.",
+        "C": "Pressure caps control system pressure, not restrictors.",
+        "D": "Filters remove debris, not restrictors."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.03 Diagnoses cooling systems",
+      "question": "What does cavitation damage in a cooling system indicate?",
+      "options": {
+        "A": "Improper coolant mixture.",
+        "B": "Air bubbles collapsing against metal surfaces.",
+        "C": "Chemical corrosion from old coolant.",
+        "D": "Excessive system pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Improper mixture affects freeze protection and corrosion, not cavitation.",
+        "B": "Cavitation occurs when vapor bubbles form and collapse, eroding metal surfaces.",
+        "C": "Chemical corrosion appears different from cavitation pitting.",
+        "D": "Excessive pressure doesn't cause cavitation damage."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.03 Diagnoses cooling systems",
+      "question": "What is the correct coolant-to-water ratio for most heavy equipment in moderate climates?",
+      "options": {
+        "A": "30/70 (coolant/water).",
+        "B": "50/50 (coolant/water).",
+        "C": "70/30 (coolant/water).",
+        "D": "100% coolant, no water."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "30/70 provides inadequate freeze and boil-over protection.",
+        "B": "50/50 provides optimal protection and heat transfer for most conditions.",
+        "C": "Too much coolant reduces heat transfer efficiency.",
+        "D": "Pure coolant has poor heat transfer and can cause overheating."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.03 Diagnoses cooling systems",
+      "question": "What causes electrolysis in a cooling system?",
+      "options": {
+        "A": "Using distilled water instead of treated water.",
+        "B": "Electrical current flowing through the coolant.",
+        "C": "Mixing different types of antifreeze.",
+        "D": "Operating at excessively high temperatures."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Distilled water is preferred to reduce mineral deposits.",
+        "B": "Stray electrical currents cause electrolysis, corroding metal components.",
+        "C": "Mixing coolants causes chemical reactions but not electrolysis.",
+        "D": "High temperature causes different cooling system problems."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What does excessive black smoke from the exhaust indicate?",
+      "options": {
+        "A": "Air filter restriction.",
+        "B": "Coolant leak into combustion chamber.",
+        "C": "Rich fuel mixture or incomplete combustion.",
+        "D": "Low compression."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Restricted air intake contributes to black smoke but isn't the primary indicator.",
+        "B": "Coolant leaks produce white smoke.",
+        "C": "Black smoke indicates excess fuel that isn't being completely burned.",
+        "D": "Low compression typically reduces power but doesn't specifically cause black smoke."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What is the purpose of an air intake restriction indicator?",
+      "options": {
+        "A": "To measure turbocharger boost pressure.",
+        "B": "To warn when the air filter is clogged.",
+        "C": "To monitor exhaust backpressure.",
+        "D": "To regulate intake air temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Boost pressure gauges measure turbocharger output.",
+        "B": "Restriction indicators alert operators when air filter service is needed.",
+        "C": "Backpressure gauges monitor exhaust system restriction.",
+        "D": "Thermostats and sensors regulate temperature, not restriction indicators."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What causes turbocharger bearing failure?",
+      "options": {
+        "A": "Excessive exhaust restriction.",
+        "B": "Oil contamination or lack of lubrication.",
+        "C": "Low boost pressure.",
+        "D": "Cold engine operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Exhaust restriction affects performance but isn't the primary cause of bearing failure.",
+        "B": "Turbocharger bearings require clean oil and proper lubrication; failure occurs without it.",
+        "C": "Low boost is a symptom, not a cause of bearing failure.",
+        "D": "Cold operation isn't ideal but doesn't directly cause bearing failure."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What is the correct procedure before shutting down an engine with a turbocharger?",
+      "options": {
+        "A": "Immediately shut off the engine at full throttle.",
+        "B": "Allow the engine to idle for a few minutes to cool the turbocharger.",
+        "C": "Increase RPM briefly before shutdown.",
+        "D": "Disconnect the turbocharger oil supply line."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Immediate shutdown at high RPM can damage the turbocharger due to oil starvation.",
+        "B": "Idling allows the turbo to cool gradually with continued oil circulation.",
+        "C": "Increasing RPM before shutdown worsens thermal stress.",
+        "D": "Disconnecting oil supply would destroy the turbocharger."
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What indicates a leak in the intake system between the air filter and engine?",
+      "options": {
+        "A": "Increased fuel economy.",
+        "B": "Dirt accumulation on intake components downstream of filter.",
+        "C": "White exhaust smoke.",
+        "D": "High turbocharger boost pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Intake leaks reduce efficiency and fuel economy.",
+        "B": "Dirt past the filter indicates unfiltered air entering through a leak.",
+        "C": "White smoke indicates coolant burning, not intake leaks.",
+        "D": "Intake leaks typically reduce boost pressure."
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What does excessive exhaust backpressure cause?",
+      "options": {
+        "A": "Increased engine power.",
+        "B": "Reduced engine performance and possible turbocharger damage.",
+        "C": "Improved fuel economy.",
+        "D": "Lower exhaust temperatures."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Backpressure restricts exhaust flow, reducing power.",
+        "B": "Excessive backpressure reduces performance and can overheat/damage the turbocharger.",
+        "C": "Backpressure reduces efficiency and fuel economy.",
+        "D": "Restricted flow typically increases exhaust temperatures."
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What is the purpose of an intercooler in a turbocharged engine?",
+      "options": {
+        "A": "To cool engine oil.",
+        "B": "To cool compressed intake air from the turbocharger.",
+        "C": "To warm intake air in cold conditions.",
+        "D": "To filter exhaust gases."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil coolers cool engine oil, not intercoolers.",
+        "B": "Intercoolers (charge air coolers) cool compressed air, increasing density and power.",
+        "C": "Intake heaters warm air, not intercoolers which cool it.",
+        "D": "Exhaust filters (DPF) filter gases, not intercoolers."
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What causes a whistling noise from the turbocharger?",
+      "options": {
+        "A": "Loose exhaust manifold.",
+        "B": "Intake air leak or damaged compressor wheel.",
+        "C": "Stuck wastegate valve.",
+        "D": "Low oil pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Loose manifolds cause ticking or rumbling, not whistling.",
+        "B": "Air leaks or compressor wheel damage create whistling sounds.",
+        "C": "Stuck wastegate affects boost control but doesn't whistle.",
+        "D": "Low oil pressure causes bearing noise, not whistling."
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What should be inspected first when diagnosing low turbocharger boost pressure?",
+      "options": {
+        "A": "Turbocharger wastegate operation.",
+        "B": "Fuel injection timing.",
+        "C": "Cylinder compression.",
+        "D": "Cooling system thermostat."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "A stuck-open wastegate bleeds off boost pressure, preventing proper pressurization.",
+        "B": "Injection timing affects combustion but isn't the first boost pressure check.",
+        "C": "Compression issues affect power but check boost system components first.",
+        "D": "Thermostats don't affect boost pressure."
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What indicates a cracked exhaust manifold?",
+      "options": {
+        "A": "Ticking noise that increases with engine speed.",
+        "B": "Blue exhaust smoke.",
+        "C": "Low oil pressure.",
+        "D": "Poor fuel economy only."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Exhaust leaks from cracks create distinctive ticking sounds.",
+        "B": "Blue smoke indicates oil burning, not manifold cracks.",
+        "C": "Oil pressure isn't affected by exhaust manifold cracks.",
+        "D": "While fuel economy may suffer, ticking noise is the primary indicator."
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.04 Diagnoses intake and exhaust systems",
+      "question": "What is the function of a variable geometry turbocharger (VGT)?",
+      "options": {
+        "A": "To provide constant boost at all engine speeds.",
+        "B": "To adjust vane angles for optimal boost across RPM ranges.",
+        "C": "To eliminate the need for an intercooler.",
+        "D": "To reduce exhaust emissions by filtering gases."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "VGTs provide variable, not constant, boost based on conditions.",
+        "B": "VGTs adjust internal vanes to optimize boost throughout the engine's operating range.",
+        "C": "Intercoolers are still needed with VGTs.",
+        "D": "VGTs improve efficiency but don't filter emissions."
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "What is the most common cause of hard starting in a diesel engine?",
+      "options": {
+        "A": "Low fuel pressure or air in fuel system.",
+        "B": "Excessive fuel pressure.",
+        "C": "Overheated fuel.",
+        "D": "Clean fuel filters."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Low pressure or air prevents proper fuel delivery for starting.",
+        "B": "Excessive pressure typically doesn't prevent starting.",
+        "C": "Cold fuel, not hot, causes starting issues (gelling).",
+        "D": "Clean filters don't cause hard starting."
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "How is air removed from a diesel fuel system after filter replacement?",
+      "options": {
+        "A": "By running the engine at high RPM.",
+        "B": "By priming the system using the hand primer pump or bleeding procedure.",
+        "C": "By replacing the fuel pump.",
+        "D": "By draining the fuel tank."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Attempting to start with air in the system can damage components.",
+        "B": "Priming pumps or bleeding valves purge air from the fuel system.",
+        "C": "Replacing the pump doesn't remove air from lines.",
+        "D": "Draining the tank worsens the problem."
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "What causes white smoke during diesel engine operation (not just at startup)?",
+      "options": {
+        "A": "Faulty injectors causing incomplete combustion.",
+        "B": "Excessive oil consumption.",
+        "C": "Perfect combustion.",
+        "D": "Restricted air filter."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Continuous white smoke indicates unburned fuel from faulty injectors or low compression.",
+        "B": "Oil consumption produces blue smoke.",
+        "C": "Perfect combustion produces minimal visible smoke.",
+        "D": "Restricted air typically causes black smoke."
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "What tool measures fuel injector spray pattern quality?",
+      "options": {
+        "A": "Nozzle tester or injector test bench.",
+        "B": "Compression gauge.",
+        "C": "Vacuum gauge.",
+        "D": "Torque wrench."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Injector test benches evaluate spray pattern, opening pressure, and leakage.",
+        "B": "Compression gauges test cylinder sealing, not injectors.",
+        "C": "Vacuum gauges test intake systems.",
+        "D": "Torque wrenches apply fastener tension."
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "What indicates water contamination in diesel fuel?",
+      "options": {
+        "A": "Fuel appears cloudy or has visible water separation.",
+        "B": "Fuel is crystal clear.",
+        "C": "Fuel has a gasoline smell.",
+        "D": "Fuel is red in color."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water makes diesel appear cloudy or separates visibly at the bottom.",
+        "B": "Clear fuel indicates no water contamination.",
+        "C": "Diesel shouldn't smell like gasoline regardless of water content.",
+        "D": "Dyed fuel color doesn't indicate water contamination."
+      }
+    },
+    {
+      "questionNumber": 113,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "What is the purpose of a fuel injection pump timing advance mechanism?",
+      "options": {
+        "A": "To delay injection at high RPM.",
+        "B": "To advance injection timing as engine speed increases.",
+        "C": "To maintain constant injection timing.",
+        "D": "To reduce fuel pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Timing advances, not delays, with RPM increases.",
+        "B": "Advancing timing at higher RPM optimizes combustion for power and efficiency.",
+        "C": "Timing varies with speed for optimal performance.",
+        "D": "Advance mechanisms control timing, not pressure."
+      }
+    },
+    {
+      "questionNumber": 114,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "What causes fuel to gel in cold weather?",
+      "options": {
+        "A": "Water contamination.",
+        "B": "Paraffin wax crystals forming in diesel fuel.",
+        "C": "Excessive fuel pressure.",
+        "D": "Air in the fuel system."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Water freezes separately but doesn't cause gelling.",
+        "B": "Paraffin wax in diesel solidifies at low temperatures, causing gelling.",
+        "C": "Pressure doesn't affect gelling.",
+        "D": "Air causes running issues but not gelling."
+      }
+    },
+    {
+      "questionNumber": 115,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "What is the purpose of a fuel return line in a diesel injection system?",
+      "options": {
+        "A": "To supply fuel to injectors.",
+        "B": "To return excess fuel and purge air back to the tank.",
+        "C": "To increase fuel pressure.",
+        "D": "To filter fuel before injection."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Supply lines deliver fuel to injectors, not return lines.",
+        "B": "Return lines carry excess fuel and air bubbles back to the tank.",
+        "C": "Pumps increase pressure, not return lines.",
+        "D": "Filters clean fuel, not return lines."
+      }
+    },
+    {
+      "questionNumber": 116,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "What component controls fuel delivery in a common rail diesel system?",
+      "options": {
+        "A": "Mechanical injection pump.",
+        "B": "Electronic control unit (ECU) controlling injector pulse width.",
+        "C": "Carburetor.",
+        "D": "Distributor rotor."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Common rail systems use high-pressure pumps, but ECU controls injection.",
+        "B": "The ECU precisely controls when and how long injectors open.",
+        "C": "Diesel engines don't use carburetors.",
+        "D": "Distributors are used in some older injection systems, not common rail."
+      }
+    },
+    {
+      "questionNumber": 117,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "What causes black smoke and loss of power in a diesel engine?",
+      "options": {
+        "A": "Lean fuel mixture.",
+        "B": "Restricted air intake or over-fueling.",
+        "C": "Water in fuel.",
+        "D": "Low fuel pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lean mixtures cause white smoke and poor starting.",
+        "B": "Insufficient air or excess fuel causes incomplete combustion, producing black smoke.",
+        "C": "Water causes white smoke and misfiring.",
+        "D": "Low pressure causes hard starting and white smoke, not black."
+      }
+    },
+    {
+      "questionNumber": 118,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.05 Diagnoses fuel systems",
+      "question": "What is the cloud point of diesel fuel?",
+      "options": {
+        "A": "The temperature at which fuel vaporizes.",
+        "B": "The temperature at which wax crystals begin to form.",
+        "C": "The temperature at which fuel ignites.",
+        "D": "The pressure at which fuel atomizes."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Vaporization temperature is different from cloud point.",
+        "B": "Cloud point is when paraffin wax starts crystallizing, making fuel cloudy.",
+        "C": "Ignition temperature (flash point) is separate from cloud point.",
+        "D": "Cloud point is a temperature, not a pressure."
+      }
+    },
+    {
+      "questionNumber": 119,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.06 Diagnoses engine control systems",
+      "question": "What is the first step when diagnosing an illuminated check engine light?",
+      "options": {
+        "A": "Replace all sensors.",
+        "B": "Retrieve diagnostic trouble codes (DTCs) using a scan tool.",
+        "C": "Perform a compression test.",
+        "D": "Change engine oil."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Replacing parts without diagnosis wastes time and money.",
+        "B": "DTCs provide specific information about system faults for targeted diagnosis.",
+        "C": "Compression testing is for mechanical issues, not initial electronic diagnosis.",
+        "D": "Oil changes don't address check engine warnings."
+      }
+    },
+    {
+      "questionNumber": 120,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.06 Diagnoses engine control systems",
+      "question": "What does an engine coolant temperature sensor do?",
+      "options": {
+        "A": "Controls the thermostat directly.",
+        "B": "Sends temperature data to the ECU for fuel and timing adjustments.",
+        "C": "Measures oil temperature.",
+        "D": "Activates the cooling fan mechanically."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Thermostats operate mechanically or through separate controls.",
+        "B": "ECUs use temperature data to optimize fuel delivery, timing, and emissions.",
+        "C": "Separate sensors measure oil temperature.",
+        "D": "Fans are activated electrically by ECU or thermostatic switches."
+      }
+    },
+    {
+      "questionNumber": 121,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.06 Diagnoses engine control systems",
+      "question": "What causes intermittent stalling that sets no diagnostic codes?",
+      "options": {
+        "A": "Loose or corroded electrical connections.",
+        "B": "Properly functioning sensors.",
+        "C": "Brand new fuel filter.",
+        "D": "Correct fuel pressure."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Intermittent connections cause momentary faults that don't trigger stored codes.",
+        "B": "Functioning sensors don't cause stalling.",
+        "C": "New filters improve performance.",
+        "D": "Correct pressure supports proper operation."
+      }
+    },
+    {
+      "questionNumber": 122,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.06 Diagnoses engine control systems",
+      "question": "What is the purpose of the crankshaft position sensor?",
+      "options": {
+        "A": "To measure oil pressure.",
+        "B": "To provide engine speed and piston position data to the ECU.",
+        "C": "To control fuel pump speed.",
+        "D": "To monitor coolant temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil pressure sensors measure lubrication system pressure.",
+        "B": "Crankshaft sensors track engine position and speed for injection and timing control.",
+        "C": "Fuel pumps run at system-determined speeds based on multiple inputs.",
+        "D": "Temperature sensors monitor coolant, not crankshaft sensors."
+      }
+    },
+    {
+      "questionNumber": 123,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.06 Diagnoses engine control systems",
+      "question": "What component regulates boost pressure in an electronically controlled turbocharger?",
+      "options": {
+        "A": "Manual wastegate cable.",
+        "B": "ECU-controlled wastegate or variable geometry actuator.",
+        "C": "Mechanical governor.",
+        "D": "Throttle position sensor."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Modern systems use electronic control, not manual cables.",
+        "B": "ECUs adjust wastegate or VGT position for optimal boost.",
+        "C": "Governors control fuel delivery, not boost directly.",
+        "D": "TPS monitors throttle position but doesn't regulate boost."
+      }
+    },
+    {
+      "questionNumber": 124,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.06 Diagnoses engine control systems",
+      "question": "What does the manifold absolute pressure (MAP) sensor measure?",
+      "options": {
+        "A": "Atmospheric pressure only.",
+        "B": "Intake manifold vacuum or pressure.",
+        "C": "Exhaust backpressure.",
+        "D": "Fuel rail pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Barometric sensors measure atmospheric pressure separately.",
+        "B": "MAP sensors measure intake manifold pressure for fuel and timing calculations.",
+        "C": "Separate sensors monitor exhaust pressure.",
+        "D": "Fuel pressure sensors monitor injection systems."
+      }
+    },
+    {
+      "questionNumber": 125,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.06 Diagnoses engine control systems",
+      "question": "What is indicated by a stored pending diagnostic trouble code?",
+      "options": {
+        "A": "The fault has occurred multiple times and activated the warning light.",
+        "B": "The fault occurred once but hasn't repeated to confirm.",
+        "C": "The system is functioning perfectly.",
+        "D": "All sensors need replacement."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Confirmed codes trigger warning lights; pending codes don't yet.",
+        "B": "Pending codes indicate single occurrences awaiting confirmation before setting active codes.",
+        "C": "Pending codes indicate potential issues.",
+        "D": "Individual diagnosis determines which components need attention."
+      }
+    },
+    {
+      "questionNumber": 126,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.06 Diagnoses engine control systems",
+      "question": "How is a faulty engine control module (ECM) typically diagnosed?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Process of elimination after testing all sensors and circuits.",
+        "C": "Immediate replacement without testing.",
+        "D": "Checking oil level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "ECM diagnosis requires systematic electrical testing.",
+        "B": "ECMs are expensive; thorough testing of all other components is required first.",
+        "C": "Never replace ECMs without proper diagnosis.",
+        "D": "Oil level doesn't indicate ECM condition."
+      }
+    },
+    {
+      "questionNumber": 127,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.06 Diagnoses engine control systems",
+      "question": "What does limp mode (derate) indicate?",
+      "options": {
+        "A": "The engine is operating at peak performance.",
+        "B": "The ECU has detected a serious fault and limited engine power to prevent damage.",
+        "C": "The transmission is in neutral.",
+        "D": "The fuel tank is full."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Limp mode is a protective reduced-performance state.",
+        "B": "Derate mode protects the engine by limiting power when critical faults are detected.",
+        "C": "Transmission position doesn't trigger limp mode.",
+        "D": "Fuel level doesn't activate limp mode."
+      }
+    },
+    {
+      "questionNumber": 128,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.06 Diagnoses engine control systems",
+      "question": "What is the purpose of the intake air temperature (IAT) sensor?",
+      "options": {
+        "A": "To measure exhaust temperature.",
+        "B": "To provide air density information to the ECU for fuel calculations.",
+        "C": "To control the thermostat.",
+        "D": "To measure oil viscosity."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Exhaust temperature sensors monitor emissions systems.",
+        "B": "IAT sensors help ECUs adjust fuel delivery based on air density.",
+        "C": "Thermostats operate independently or through coolant temperature inputs.",
+        "D": "Viscosity isn't measured by sensors."
+      }
+    },
+    {
+      "questionNumber": 129,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.07 Diagnoses emission control systems",
+      "question": "What is the function of a diesel particulate filter (DPF)?",
+      "options": {
+        "A": "To filter intake air.",
+        "B": "To trap soot particles from exhaust gases.",
+        "C": "To cool exhaust gases.",
+        "D": "To increase engine power."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Air filters handle intake air, not DPFs.",
+        "B": "DPFs capture particulate matter to reduce emissions.",
+        "C": "While exhaust passes through DPFs, their primary purpose is filtration, not cooling.",
+        "D": "DPFs don't increase power; they may slightly reduce it."
+      }
+    },
+    {
+      "questionNumber": 130,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.07 Diagnoses emission control systems",
+      "question": "What is DPF regeneration?",
+      "options": {
+        "A": "Replacing the DPF filter element.",
+        "B": "Burning off accumulated soot at high temperatures.",
+        "C": "Cleaning the DPF with water.",
+        "D": "Removing the DPF from the vehicle."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Regeneration cleans the existing filter without replacement.",
+        "B": "Regeneration burns trapped soot at elevated temperatures to clear the filter.",
+        "C": "Water cleaning isn't used for DPF regeneration.",
+        "D": "Removal isn't regeneration and may be illegal."
+      }
+    },
+    {
+      "questionNumber": 131,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.07 Diagnoses emission control systems",
+      "question": "What causes frequent DPF regeneration cycles?",
+      "options": {
+        "A": "Highway driving at steady speeds.",
+        "B": "Excessive idling or short trip operation.",
+        "C": "Using ultra-low sulfur diesel.",
+        "D": "Proper exhaust temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Highway driving provides ideal conditions for passive regeneration.",
+        "B": "Low exhaust temperatures from idling/short trips prevent passive regeneration, causing buildup.",
+        "C": "Low-sulfur fuel is required and doesn't cause frequent regeneration.",
+        "D": "Proper temperature enables regeneration, not causes frequent cycles."
+      }
+    },
+    {
+      "questionNumber": 132,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.07 Diagnoses emission control systems",
+      "question": "What is the purpose of diesel exhaust fluid (DEF) in selective catalytic reduction (SCR) systems?",
+      "options": {
+        "A": "To increase fuel economy.",
+        "B": "To reduce nitrogen oxide (NOx) emissions.",
+        "C": "To lubricate the fuel pump.",
+        "D": "To clean the DPF."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "DEF's purpose is emission reduction, though efficiency may improve.",
+        "B": "DEF reacts with NOx in the SCR catalyst to convert it to harmless nitrogen and water.",
+        "C": "DEF is not a lubricant.",
+        "D": "DEF treats exhaust gases, not the DPF directly."
+      }
+    },
+    {
+      "questionNumber": 133,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.07 Diagnoses emission control systems",
+      "question": "What happens if DEF quality is compromised or the tank is empty?",
+      "options": {
+        "A": "The engine operates normally with no changes.",
+        "B": "The engine may derate or prevent restart to ensure compliance.",
+        "C": "Fuel economy increases significantly.",
+        "D": "The DPF regenerates more frequently."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Systems are designed to enforce DEF usage for emissions compliance.",
+        "B": "Modern systems derate power or prevent starting without proper DEF to meet regulations.",
+        "C": "Derating reduces performance and efficiency.",
+        "D": "DPF operation is separate from DEF system function."
+      }
+    },
+    {
+      "questionNumber": 134,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.07 Diagnoses emission control systems",
+      "question": "What sensor monitors exhaust backpressure in emission systems?",
+      "options": {
+        "A": "Oxygen sensor.",
+        "B": "Differential pressure sensor across the DPF.",
+        "C": "Coolant temperature sensor.",
+        "D": "Throttle position sensor."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oxygen sensors measure exhaust gas composition, not pressure.",
+        "B": "Differential pressure sensors measure restriction across the DPF to determine soot loading.",
+        "C": "Coolant sensors monitor engine temperature.",
+        "D": "Throttle sensors track accelerator position."
+      }
+    },
+    {
+      "questionNumber": 135,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.07 Diagnoses emission control systems",
+      "question": "What does a crankcase ventilation filter prevent?",
+      "options": {
+        "A": "Fuel contamination.",
+        "B": "Oil mist and vapors from entering the atmosphere.",
+        "C": "Coolant leaks.",
+        "D": "Excessive fuel consumption."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fuel filtration is handled by fuel filters.",
+        "B": "Crankcase filters capture oil vapors before recirculation or venting, reducing emissions.",
+        "C": "Coolant leaks aren't addressed by crankcase ventilation.",
+        "D": "Fuel consumption relates to injection and engine efficiency."
+      }
+    },
+    {
+      "questionNumber": 136,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.07 Diagnoses emission control systems",
+      "question": "What causes an exhaust temperature sensor fault code?",
+      "options": {
+        "A": "Failed sensor or wiring issues.",
+        "B": "Low oil pressure.",
+        "C": "High coolant level.",
+        "D": "Clean air filter."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Exhaust temp sensor codes result from sensor failure or electrical circuit problems.",
+        "B": "Oil pressure doesn't affect exhaust temperature sensors.",
+        "C": "Coolant level doesn't impact exhaust sensors.",
+        "D": "Air filter condition doesn't cause sensor faults."
+      }
+    },
+    {
+      "questionNumber": 137,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.07 Diagnoses emission control systems",
+      "question": "What is the purpose of exhaust gas recirculation (EGR)?",
+      "options": {
+        "A": "To increase engine power.",
+        "B": "To reduce combustion temperatures and NOx emissions.",
+        "C": "To improve fuel economy only.",
+        "D": "To increase turbocharger boost."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "EGR typically reduces power slightly.",
+        "B": "Recirculating exhaust reduces peak combustion temperatures, lowering NOx formation.",
+        "C": "While efficiency may improve, the primary purpose is emissions reduction.",
+        "D": "EGR doesn't directly affect boost pressure."
+      }
+    },
+    {
+      "questionNumber": 138,
+      "block": "B",
+      "task": "B-5",
+      "taskTitle": "Diagnoses engines and engine support systems",
+      "subtask": "B-5.07 Diagnoses emission control systems",
+      "question": "What indicates a clogged DPF?",
+      "options": {
+        "A": "Increased fuel economy.",
+        "B": "High differential pressure reading and possible derate/warning light.",
+        "C": "Blue exhaust smoke.",
+        "D": "Low engine oil pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Clogged DPFs reduce efficiency and fuel economy.",
+        "B": "Excessive backpressure from soot buildup triggers warnings and performance limits.",
+        "C": "Blue smoke indicates oil burning, not DPF issues.",
+        "D": "Oil pressure isn't directly affected by DPF condition."
+      }
+    },
+    {
+      "questionNumber": 139,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.01 Repairs base engines",
+      "question": "What is the correct procedure before removing cylinder heads?",
+      "options": {
+        "A": "Drain coolant and remove all connected components.",
+        "B": "Start the engine to warm it up.",
+        "C": "Add oil to cylinders.",
+        "D": "Remove the oil pan first."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Coolant must be drained and components (manifolds, injectors, etc.) removed for access.",
+        "B": "Engine should be cool before disassembly.",
+        "C": "Oil isn't added before head removal.",
+        "D": "Oil pan removal isn't required for cylinder head work."
+      }
+    },
+    {
+      "questionNumber": 140,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.01 Repairs base engines",
+      "question": "What is the proper method to check head gasket surface flatness?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Using a straightedge and feeler gauge.",
+        "C": "Using a micrometer.",
+        "D": "Using a torque wrench."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Warpage isn't always visible to the naked eye.",
+        "B": "A straightedge placed across the surface with feeler gauges measures deviations.",
+        "C": "Micrometers measure thickness, not flatness across a surface.",
+        "D": "Torque wrenches apply fastener tension."
+      }
+    },
+    {
+      "questionNumber": 141,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.01 Repairs base engines",
+      "question": "Why must cylinder head bolts be torqued in a specific sequence?",
+      "options": {
+        "A": "To save time during assembly.",
+        "B": "To ensure even clamping force and prevent warping.",
+        "C": "To make removal easier later.",
+        "D": "To reduce the number of bolts needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper sequence takes more time but ensures quality.",
+        "B": "Sequential torquing from center outward distributes clamping force evenly.",
+        "C": "Removal ease isn't the reason for torque sequence.",
+        "D": "All bolts must be installed regardless of sequence."
+      }
+    },
+    {
+      "questionNumber": 142,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.01 Repairs base engines",
+      "question": "When should torque-to-yield (TTY) head bolts be replaced?",
+      "options": {
+        "A": "Every other cylinder head removal.",
+        "B": "Every time they are removed.",
+        "C": "Only if visibly damaged.",
+        "D": "Never, they can be reused indefinitely."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "TTY bolts stretch permanently and must always be replaced.",
+        "B": "TTY bolts are designed for single use and lose clamping ability after removal.",
+        "C": "Damage isn't always visible; replacement is mandatory.",
+        "D": "Reusing TTY bolts risks gasket failure."
+      }
+    },
+    {
+      "questionNumber": 143,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.01 Repairs base engines",
+      "question": "What is the purpose of installing new piston rings in the correct orientation?",
+      "options": {
+        "A": "To ensure proper sealing and oil control.",
+        "B": "To make installation easier.",
+        "C": "Orientation doesn't matter.",
+        "D": "To increase ring lifespan by years."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Rings have specific top/bottom sides for optimal sealing and oil control.",
+        "B": "Correct orientation may actually be more difficult but is necessary.",
+        "C": "Incorrect orientation causes poor sealing and oil consumption.",
+        "D": "While proper installation helps longevity, the primary concern is immediate function."
+      }
+    },
+    {
+      "questionNumber": 144,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.01 Repairs base engines",
+      "question": "What must be verified before installing connecting rods?",
+      "options": {
+        "A": "That they're painted the correct color.",
+        "B": "That bearing clearances are within specification.",
+        "C": "That they're the heaviest available.",
+        "D": "That they're made of aluminum."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint color doesn't affect function.",
+        "B": "Proper bearing clearance prevents bearing failure and ensures adequate lubrication.",
+        "C": "Weight matching matters, but clearance is the critical specification.",
+        "D": "Connecting rods are typically steel or forged alloys, not aluminum."
+      }
+    },
+    {
+      "questionNumber": 145,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.01 Repairs base engines",
+      "question": "How is plastigage used during engine assembly?",
+      "options": {
+        "A": "To seal gaps between components.",
+        "B": "To measure bearing clearance by crushing.",
+        "C": "To lubricate bearings.",
+        "D": "To clean bearing surfaces."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Plastigage is a measuring tool, not a sealant.",
+        "B": "Plastigage is placed between bearing surfaces, torqued, then removed and measured.",
+        "C": "Oil lubricates bearings, not plastigage.",
+        "D": "Solvents clean surfaces, not plastigage."
+      }
+    },
+    {
+      "questionNumber": 146,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.01 Repairs base engines",
+      "question": "What indicates excessive cylinder liner wear?",
+      "options": {
+        "A": "The liner is perfectly smooth.",
+        "B": "Measurements show taper or out-of-round beyond specifications.",
+        "C": "The liner is the correct length.",
+        "D": "The liner is painted."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Some texture (crosshatch) is normal and necessary.",
+        "B": "Taper and out-of-round measurements indicate wear requiring liner replacement.",
+        "C": "Length doesn't indicate wear condition.",
+        "D": "Paint doesn't affect wear measurement."
+      }
+    },
+    {
+      "questionNumber": 147,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.02 Repairs lubrication systems",
+      "question": "What is the correct procedure to replace an oil pump?",
+      "options": {
+        "A": "Drain oil, remove pan, unbolt and replace pump, refill oil.",
+        "B": "Replace pump without draining oil.",
+        "C": "Only replace if completely broken.",
+        "D": "Clean the old pump and reinstall."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Oil must be drained, oil pan removed for access to pump mounting.",
+        "B": "Oil must be drained before opening the pan.",
+        "C": "Pumps should be replaced when worn beyond spec, not just when failed.",
+        "D": "Worn pumps must be replaced, not just cleaned."
+      }
+    },
+    {
+      "questionNumber": 148,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.02 Repairs lubrication systems",
+      "question": "Why should oil pressure relief valves be tested during oil system repairs?",
+      "options": {
+        "A": "They're decorative only.",
+        "B": "To ensure they open at the correct pressure to protect the system.",
+        "C": "They never fail.",
+        "D": "To make the engine louder."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Relief valves are critical safety components.",
+        "B": "Proper relief valve operation prevents excessive pressure that could damage seals and bearings.",
+        "C": "Valves can stick or wear, requiring testing and possible replacement.",
+        "D": "Relief valves don't affect engine noise."
+      }
+    },
+    {
+      "questionNumber": 149,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.02 Repairs lubrication systems",
+      "question": "What should be done when installing a new oil cooler?",
+      "options": {
+        "A": "Flush the cooling system and pressure test for leaks.",
+        "B": "Install without flushing.",
+        "C": "Reuse old coolant.",
+        "D": "Ignore pressure testing."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flushing removes debris and pressure testing ensures no leaks between oil and coolant.",
+        "B": "Flushing prevents contamination of the new cooler.",
+        "C": "Fresh coolant should be used after major repairs.",
+        "D": "Pressure testing verifies proper sealing."
+      }
+    },
+    {
+      "questionNumber": 150,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.02 Repairs lubrication systems",
+      "question": "Why must oil galleys be cleaned during engine overhaul?",
+      "options": {
+        "A": "For aesthetic purposes.",
+        "B": "To remove debris and sludge that could restrict oil flow.",
+        "C": "They never require cleaning.",
+        "D": "To make the engine heavier."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cleaning is functional, not cosmetic.",
+        "B": "Blocked galleys prevent proper lubrication, causing bearing and component failure.",
+        "C": "Galleys accumulate deposits and must be cleaned during overhaul.",
+        "D": "Cleaning doesn't affect engine weight."
+      }
+    },
+    {
+      "questionNumber": 151,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.02 Repairs lubrication systems",
+      "question": "What is replaced during oil pan gasket replacement?",
+      "options": {
+        "A": "Oil pan bolts if damaged, and always the gasket or seal.",
+        "B": "Nothing, reuse the old gasket.",
+        "C": "Only the oil.",
+        "D": "The entire oil pan every time."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Damaged bolts must be replaced, and gaskets are always replaced to prevent leaks.",
+        "B": "Reusing gaskets causes leaks.",
+        "C": "The gasket must be replaced, not just oil.",
+        "D": "Pans are only replaced if damaged."
+      }
+    },
+    {
+      "questionNumber": 152,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.02 Repairs lubrication systems",
+      "question": "How should oil filter mounting surfaces be prepared before installation?",
+      "options": {
+        "A": "Leave dirty for better grip.",
+        "B": "Clean thoroughly and lubricate the gasket with fresh oil.",
+        "C": "Roughen with sandpaper.",
+        "D": "Paint the surface."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dirty surfaces cause leaks.",
+        "B": "Clean surfaces and lubricated gaskets ensure proper sealing.",
+        "C": "Roughening damages sealing surfaces.",
+        "D": "Paint doesn't improve sealing."
+      }
+    },
+    {
+      "questionNumber": 153,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.02 Repairs lubrication systems",
+      "question": "Why are magnetic drain plugs used in some oil pans?",
+      "options": {
+        "A": "To heat the oil.",
+        "B": "To capture ferrous metal particles and indicate wear.",
+        "C": "To drain oil faster.",
+        "D": "For decorative purposes."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Drain plugs don't heat oil.",
+        "B": "Magnetic plugs trap metal particles, helping identify internal wear during oil changes.",
+        "C": "Magnetic property doesn't affect drain speed.",
+        "D": "They serve a diagnostic function."
+      }
+    },
+    {
+      "questionNumber": 154,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.02 Repairs lubrication systems",
+      "question": "What should be checked when replacing oil pressure sending units?",
+      "options": {
+        "A": "That the replacement matches the correct thread and pressure range.",
+        "B": "That it's painted red.",
+        "C": "That it's made of plastic.",
+        "D": "Nothing, they're all universal."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Incorrect thread or pressure range causes installation problems or inaccurate readings.",
+        "B": "Color doesn't affect function.",
+        "C": "Sending units are typically metal.",
+        "D": "Sending units vary by application."
+      }
+    },
+    {
+      "questionNumber": 155,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.03 Repairs cooling systems",
+      "question": "What must be done after replacing a water pump?",
+      "options": {
+        "A": "Fill with coolant, bleed air, check for leaks, and verify operation.",
+        "B": "Start engine immediately without adding coolant.",
+        "C": "Wait one week before adding coolant.",
+        "D": "Only check oil level."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper filling, air bleeding, and leak checking ensure system function.",
+        "B": "Running dry destroys the new pump.",
+        "C": "Coolant must be added immediately.",
+        "D": "Coolant level and system integrity must be verified."
+      }
+    },
+    {
+      "questionNumber": 156,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.03 Repairs cooling systems",
+      "question": "Why should cooling systems be pressure tested after repairs?",
+      "options": {
+        "A": "To verify there are no leaks before returning to service.",
+        "B": "To make the coolant warmer.",
+        "C": "To add pressure to the fuel system.",
+        "D": "Pressure testing isn't necessary."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure testing identifies leaks that may not be visible during static inspection.",
+        "B": "Pressure testing doesn't heat coolant.",
+        "C": "Cooling and fuel systems are separate.",
+        "D": "Pressure testing is a critical verification step."
+      }
+    },
+    {
+      "questionNumber": 157,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.03 Repairs cooling systems",
+      "question": "What is the proper procedure for replacing a thermostat?",
+      "options": {
+        "A": "Drain coolant, remove housing, replace thermostat and gasket, refill and bleed system.",
+        "B": "Replace without draining coolant.",
+        "C": "Only replace the housing.",
+        "D": "Thermostats never need replacement."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Coolant must be drained to prevent spillage and air must be bled after refilling.",
+        "B": "Working on cooling systems requires draining to avoid mess and air introduction.",
+        "C": "The thermostat itself must be replaced, not just the housing.",
+        "D": "Thermostats fail and require periodic replacement."
+      }
+    },
+    {
+      "questionNumber": 158,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.03 Repairs cooling systems",
+      "question": "How should radiator cores be cleaned during service?",
+      "options": {
+        "A": "Using high-pressure water or compressed air from the back to front.",
+        "B": "Never clean radiators.",
+        "C": "Using a hammer to knock debris loose.",
+        "D": "Painting over debris."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Back-to-front cleaning pushes debris out the way it entered without further embedding it.",
+        "B": "Radiators require periodic cleaning for proper airflow.",
+        "C": "Hammering damages delicate fins and tubes.",
+        "D": "Paint doesn't remove restrictions."
+      }
+    },
+    {
+      "questionNumber": 159,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.03 Repairs cooling systems",
+      "question": "Why must radiator caps be replaced if defective?",
+      "options": {
+        "A": "They maintain proper system pressure and prevent boil-over or collapse.",
+        "B": "They're purely decorative.",
+        "C": "To change coolant color.",
+        "D": "Caps never fail."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper cap function maintains pressure, raising boiling point and preventing hose collapse.",
+        "B": "Caps are critical functional components.",
+        "C": "Caps don't affect coolant color.",
+        "D": "Cap springs and seals wear over time."
+      }
+    },
+    {
+      "questionNumber": 160,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.03 Repairs cooling systems",
+      "question": "What procedure ensures proper coolant mixture after system service?",
+      "options": {
+        "A": "Mixing coolant and water to manufacturer's specifications before filling.",
+        "B": "Adding pure coolant only.",
+        "C": "Using plain water.",
+        "D": "Guessing the mixture ratio."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pre-mixing ensures proper freeze protection and heat transfer properties.",
+        "B": "Pure coolant reduces heat transfer efficiency.",
+        "C": "Plain water lacks freeze protection and corrosion inhibitors.",
+        "D": "Accurate measurement is required for proper protection."
+      }
+    },
+    {
+      "questionNumber": 161,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.03 Repairs cooling systems",
+      "question": "How should cooling system hoses be inspected?",
+      "options": {
+        "A": "Check for cracks, swelling, softness, and proper clamping.",
+        "B": "Visual inspection of color only.",
+        "C": "Hoses never need inspection.",
+        "D": "Only check if they leak."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Comprehensive inspection catches deterioration before failure occurs.",
+        "B": "Color doesn't indicate condition; physical inspection is necessary.",
+        "C": "Hoses deteriorate and require regular inspection.",
+        "D": "Preventive inspection prevents roadside failures."
+      }
+    },
+    {
+      "questionNumber": 162,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.03 Repairs cooling systems",
+      "question": "Why should coolant be tested with a refractometer or hydrometer?",
+      "options": {
+        "A": "To verify freeze protection and coolant concentration.",
+        "B": "To measure oil content.",
+        "C": "To check fuel quality.",
+        "D": "Testing isn't necessary."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "These tools measure coolant concentration to ensure adequate freeze and boil-over protection.",
+        "B": "Oil contamination requires different testing methods.",
+        "C": "Fuel testing uses different procedures.",
+        "D": "Coolant concentration testing is standard maintenance."
+      }
+    },
+    {
+      "questionNumber": 163,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.04 Repairs intake and exhaust systems",
+      "question": "What should be checked when replacing an exhaust manifold gasket?",
+      "options": {
+        "A": "That mounting surfaces are clean and flat, and fasteners are in good condition.",
+        "B": "Only the gasket color.",
+        "C": "Nothing, just install quickly.",
+        "D": "Gaskets don't need replacement."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Clean, flat surfaces and good fasteners ensure proper sealing without leaks.",
+        "B": "Color doesn't ensure sealing.",
+        "C": "Proper surface preparation is critical.",
+        "D": "Gaskets compress and require replacement during service."
+      }
+    },
+    {
+      "questionNumber": 164,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.04 Repairs intake and exhaust systems",
+      "question": "How should turbocharger oil feed lines be installed?",
+      "options": {
+        "A": "Without kinks or restrictions, using new gaskets/seals.",
+        "B": "Bent as tightly as possible.",
+        "C": "Reuse old, hardened gaskets.",
+        "D": "Oil feed isn't important."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Unrestricted oil flow with proper sealing prevents turbocharger bearing failure.",
+        "B": "Kinks restrict oil flow, causing bearing damage.",
+        "C": "Old gaskets leak and must be replaced.",
+        "D": "Oil feed is critical for turbocharger longevity."
+      }
+    },
+    {
+      "questionNumber": 165,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.04 Repairs intake and exhaust systems",
+      "question": "What must be verified after turbocharger replacement?",
+      "options": {
+        "A": "That oil and coolant lines are connected, system is leak-free, and turbo spins freely.",
+        "B": "Nothing, just start immediately.",
+        "C": "Only check fuel level.",
+        "D": "Turbos don't need verification."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Verifying connections and pre-lubrication ensures proper operation and prevents damage.",
+        "B": "Starting without verification can destroy the new turbocharger.",
+        "C": "Fuel level doesn't verify turbocharger installation.",
+        "D": "Turbocharger installation requires thorough verification."
+      }
+    },
+    {
+      "questionNumber": 166,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.04 Repairs intake and exhaust systems",
+      "question": "How should air filter housings be cleaned?",
+      "options": {
+        "A": "Remove all debris, wash with appropriate cleaner, and dry thoroughly.",
+        "B": "Leave dirt inside.",
+        "C": "Just shake it out.",
+        "D": "Filters never need housing cleaning."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Thorough cleaning prevents contamination of new filters.",
+        "B": "Leaving dirt allows it to bypass new filters.",
+        "C": "Shaking doesn't remove all contamination.",
+        "D": "Housings accumulate debris requiring cleaning."
+      }
+    },
+    {
+      "questionNumber": 167,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.04 Repairs intake and exhaust systems",
+      "question": "Why should intercooler cores be checked for damage during service?",
+      "options": {
+        "A": "Damage reduces boost pressure and causes performance loss.",
+        "B": "Appearance only matters.",
+        "C": "Intercoolers never fail.",
+        "D": "To increase weight."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Leaking or damaged intercoolers allow boost pressure loss and reduce engine performance.",
+        "B": "Functional integrity matters more than appearance.",
+        "C": "Intercoolers can be damaged by debris or corrosion.",
+        "D": "Damage doesn't benefit the system."
+      }
+    },
+    {
+      "questionNumber": 168,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.04 Repairs intake and exhaust systems",
+      "question": "What is the proper torque procedure for exhaust manifold fasteners?",
+      "options": {
+        "A": "Follow manufacturer's torque specifications and sequence.",
+        "B": "Tighten as hard as possible.",
+        "C": "Hand-tighten only.",
+        "D": "Torque isn't important."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper torque and sequence prevent warping and ensure sealing.",
+        "B": "Over-torquing breaks fasteners or warps manifolds.",
+        "C": "Insufficient torque causes exhaust leaks.",
+        "D": "Correct torque is critical for sealing and component integrity."
+      }
+    },
+    {
+      "questionNumber": 169,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.04 Repairs intake and exhaust systems",
+      "question": "How should intake manifold bolts be installed?",
+      "options": {
+        "A": "Clean threads, apply appropriate sealant if specified, torque in sequence.",
+        "B": "Install dry and tighten randomly.",
+        "C": "Use excessive threadlocker on all bolts.",
+        "D": "Hand-tighten only."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper preparation and torquing ensure leak-free, properly secured installation.",
+        "B": "Random tightening can warp manifolds and cause leaks.",
+        "C": "Excessive threadlocker makes future service difficult; follow specs.",
+        "D": "Proper torque is required for sealing and security."
+      }
+    },
+    {
+      "questionNumber": 170,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.04 Repairs intake and exhaust systems",
+      "question": "What should be inspected on intake and exhaust clamps during service?",
+      "options": {
+        "A": "Check for cracks, proper tightness, and corrosion.",
+        "B": "Only look at color.",
+        "C": "Clamps never need inspection.",
+        "D": "Just spray with oil."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Damaged or loose clamps cause leaks affecting performance and emissions.",
+        "B": "Functional inspection is necessary, not just visual appearance.",
+        "C": "Clamps corrode and loosen, requiring inspection.",
+        "D": "Oil spray doesn't repair damage or verify tightness."
+      }
+    },
+    {
+      "questionNumber": 171,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.05 Repairs fuel systems",
+      "question": "What is the correct procedure for replacing fuel filters?",
+      "options": {
+        "A": "Relieve pressure, remove old filter, install new filter, prime system and check for leaks.",
+        "B": "Just swap filters without priming.",
+        "C": "Never replace filters.",
+        "D": "Reuse old filters."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper procedure prevents air introduction and verifies system integrity.",
+        "B": "Failing to prime introduces air, causing hard starting or no-start.",
+        "C": "Filters require regular replacement.",
+        "D": "Contaminated filters must be replaced."
+      }
+    },
+    {
+      "questionNumber": 172,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.05 Repairs fuel systems",
+      "question": "Why must fuel injectors be installed at the correct torque?",
+      "options": {
+        "A": "To ensure proper sealing and prevent combustion gas leakage.",
+        "B": "Torque doesn't matter.",
+        "C": "To make removal harder.",
+        "D": "For appearance only."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper torque seals injectors, preventing dangerous combustion gas leaks.",
+        "B": "Incorrect torque causes leaks or damaged threads.",
+        "C": "Proper torque ensures function, not difficulty of removal.",
+        "D": "Torque is critical for safety and function."
+      }
+    },
+    {
+      "questionNumber": 173,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.05 Repairs fuel systems",
+      "question": "What should be replaced when servicing fuel injection pumps?",
+      "options": {
+        "A": "All seals, O-rings, and filters per manufacturer specifications.",
+        "B": "Nothing, just clean externally.",
+        "C": "Only if broken.",
+        "D": "Pumps never need service."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Replacing seals and filters prevents leaks and contamination.",
+        "B": "Internal components require replacement during overhaul.",
+        "C": "Preventive seal replacement prevents failures.",
+        "D": "Pumps require periodic service."
+      }
+    },
+    {
+      "questionNumber": 174,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.05 Repairs fuel systems",
+      "question": "How should fuel lines be routed during replacement?",
+      "options": {
+        "A": "Away from heat sources, without kinks, with proper support clips.",
+        "B": "Directly against exhaust manifolds.",
+        "C": "With sharp bends for shorter runs.",
+        "D": "Routing doesn't matter."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper routing prevents heat damage, leaks from vibration, and flow restrictions.",
+        "B": "Heat causes fuel vaporization and line degradation.",
+        "C": "Sharp bends restrict flow and stress lines.",
+        "D": "Improper routing causes failures and safety hazards."
+      }
+    },
+    {
+      "questionNumber": 175,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.05 Repairs fuel systems",
+      "question": "Why must water separators be drained regularly?",
+      "options": {
+        "A": "To remove collected water before it enters the fuel system.",
+        "B": "They're decorative only.",
+        "C": "To add weight to the machine.",
+        "D": "Water doesn't harm fuel systems."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Water causes injector damage, corrosion, and microbial growth if not removed.",
+        "B": "Water separators are functional components.",
+        "C": "Draining reduces weight slightly.",
+        "D": "Water severely damages fuel injection components."
+      }
+    },
+    {
+      "questionNumber": 176,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.05 Repairs fuel systems",
+      "question": "What preparation is necessary before installing new injectors?",
+      "options": {
+        "A": "Clean injector bores, install new seals/washers, lubricate O-rings.",
+        "B": "Install directly without cleaning.",
+        "C": "Reuse all old seals.",
+        "D": "No preparation needed."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper preparation ensures sealing and prevents carbon buildup from interfering.",
+        "B": "Dirty bores prevent proper seating and cause leaks.",
+        "C": "Old seals leak and must be replaced.",
+        "D": "Thorough preparation is essential for reliable operation."
+      }
+    },
+    {
+      "questionNumber": 177,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.05 Repairs fuel systems",
+      "question": "How should fuel system components be handled to prevent contamination?",
+      "options": {
+        "A": "Use clean tools, cap all openings immediately, work in clean environment.",
+        "B": "Leave openings exposed.",
+        "C": "Use dirty tools.",
+        "D": "Contamination isn't a concern."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Fuel injection systems are sensitive to contamination that causes wear and failure.",
+        "B": "Exposed openings allow dirt entry.",
+        "C": "Dirty tools introduce contaminants.",
+        "D": "Even small particles damage precision fuel components."
+      }
+    },
+    {
+      "questionNumber": 178,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.05 Repairs fuel systems",
+      "question": "What indicates the need for fuel injection timing adjustment?",
+      "options": {
+        "A": "Hard starting, excessive smoke, or poor performance after pump replacement.",
+        "B": "Perfect engine operation.",
+        "C": "Brand new pump installation never needs adjustment.",
+        "D": "Timing never changes."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Improper timing causes these symptoms and requires adjustment per specifications.",
+        "B": "Perfect operation suggests correct timing.",
+        "C": "New pumps often require initial timing setup.",
+        "D": "Timing must be verified and adjusted during major service."
+      }
+    },
+    {
+      "questionNumber": 179,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.06 Repairs engine control systems",
+      "question": "What precautions prevent damage when working on electronic control systems?",
+      "options": {
+        "A": "Disconnect batteries, avoid static discharge, use proper tools.",
+        "B": "Work with power connected.",
+        "C": "Use welding equipment nearby.",
+        "D": "No precautions needed."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "These precautions prevent electrical damage to sensitive electronic components.",
+        "B": "Power should be disconnected to prevent shorts and damage.",
+        "C": "Welding current can destroy electronic modules.",
+        "D": "Electronics require careful handling."
+      }
+    },
+    {
+      "questionNumber": 180,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.06 Repairs engine control systems",
+      "question": "How should wiring harness repairs be performed?",
+      "options": {
+        "A": "Use proper connectors, solder and heat-shrink or crimp properly, route away from heat.",
+        "B": "Twist wires together and use electrical tape.",
+        "C": "Leave damaged wires as-is.",
+        "D": "Cut wires extra short."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Professional repairs ensure reliable connections resistant to vibration and environmental factors.",
+        "B": "Tape joints corrode and fail in mobile equipment.",
+        "C": "Damaged wiring causes unreliable operation.",
+        "D": "Adequate length is necessary for proper routing and service."
+      }
+    },
+    {
+      "questionNumber": 181,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.06 Repairs engine control systems",
+      "question": "What must be done after replacing an engine control module (ECM)?",
+      "options": {
+        "A": "Program/configure the ECM with proper software and parameters.",
+        "B": "Just plug it in and start.",
+        "C": "ECMs work without programming.",
+        "D": "Return machine to owner immediately."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "ECMs require programming with engine-specific parameters to function properly.",
+        "B": "Unprogrammed ECMs won't operate correctly.",
+        "C": "Modern ECMs require configuration.",
+        "D": "Vehicle won't operate properly without ECM programming."
+      }
+    },
+    {
+      "questionNumber": 182,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.06 Repairs engine control systems",
+      "question": "How should sensor connectors be cleaned?",
+      "options": {
+        "A": "Use electrical contact cleaner and ensure connectors are dry before reconnecting.",
+        "B": "Use water and soap.",
+        "C": "Leave dirty.",
+        "D": "Use gasoline to clean."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Contact cleaner removes corrosion without leaving residue that affects conductivity.",
+        "B": "Water causes corrosion in electrical connections.",
+        "C": "Dirty connectors cause resistance and false signals.",
+        "D": "Gasoline leaves residue and is a fire hazard."
+      }
+    },
+    {
+      "questionNumber": 183,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.06 Repairs engine control systems",
+      "question": "Why should diagnostic trouble codes be cleared after repairs?",
+      "options": {
+        "A": "To verify the repair was successful and the fault doesn't return.",
+        "B": "To hide problems from customers.",
+        "C": "Codes clear themselves automatically.",
+        "D": "Clearing isn't necessary."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Clearing codes and test-driving confirms the repair resolved the issue.",
+        "B": "Clearing codes is for verification, not concealment.",
+        "C": "Codes remain stored until cleared or specific conditions are met.",
+        "D": "Clearing and verifying is standard repair procedure."
+      }
+    },
+    {
+      "questionNumber": 184,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.06 Repairs engine control systems",
+      "question": "What should be verified after replacing sensors?",
+      "options": {
+        "A": "That sensor values read correctly and no new fault codes appear.",
+        "B": "Nothing, just install and finish.",
+        "C": "Only check oil level.",
+        "D": "Sensors don't need verification."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Verifying readings and codes ensures proper sensor operation and installation.",
+        "B": "Verification prevents comebacks from incorrect installation.",
+        "C": "Sensor function must be verified.",
+        "D": "Sensor verification is critical for proper engine operation."
+      }
+    },
+    {
+      "questionNumber": 185,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.06 Repairs engine control systems",
+      "question": "How should engine control system software updates be performed?",
+      "options": {
+        "A": "Follow manufacturer procedures, ensure stable power supply, don't interrupt process.",
+        "B": "Turn power off during update.",
+        "C": "Updates aren't needed.",
+        "D": "Guess at the process."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper procedures and stable power prevent ECM corruption during updates.",
+        "B": "Interrupting updates can permanently damage the ECM.",
+        "C": "Updates fix bugs and improve performance.",
+        "D": "Manufacturer procedures must be followed precisely."
+      }
+    },
+    {
+      "questionNumber": 186,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.07 Repairs emission control systems",
+      "question": "What is the proper procedure for DPF replacement?",
+      "options": {
+        "A": "Remove carefully, install new DPF with proper gaskets, clear fault codes, perform regeneration.",
+        "B": "Just unbolt and replace.",
+        "C": "DPFs never need replacement.",
+        "D": "Leave old gaskets in place."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper installation and system reset ensure optimal emission system function.",
+        "B": "Gasket replacement and system reset are required.",
+        "C": "DPFs eventually clog beyond cleaning and require replacement.",
+        "D": "Old gaskets leak, causing emission and performance issues."
+      }
+    },
+    {
+      "questionNumber": 187,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.07 Repairs emission control systems",
+      "question": "How should DEF injectors be serviced?",
+      "options": {
+        "A": "Clean with DEF or distilled water, replace if clogged or damaged, never use other solvents.",
+        "B": "Use diesel fuel to clean.",
+        "C": "Never service DEF injectors.",
+        "D": "Use compressed air only."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper cleaning fluids prevent contamination; other chemicals damage components.",
+        "B": "Diesel contaminates DEF system and causes failures.",
+        "C": "Injectors require periodic service or replacement.",
+        "D": "Compressed air doesn't dissolve crystallized urea deposits."
+      }
+    },
+    {
+      "questionNumber": 188,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.07 Repairs emission control systems",
+      "question": "What precautions are necessary when handling DEF?",
+      "options": {
+        "A": "Avoid contamination, don't mix with other fluids, store properly to prevent freezing/overheating.",
+        "B": "Mix DEF with diesel fuel.",
+        "C": "Store in hot sunlight.",
+        "D": "No precautions needed."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "DEF is sensitive to contamination and temperature extremes that reduce effectiveness.",
+        "B": "Mixing DEF with diesel destroys both systems.",
+        "C": "Heat degrades DEF quality.",
+        "D": "Improper handling causes system failures and expensive repairs."
+      }
+    },
+    {
+      "questionNumber": 189,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.07 Repairs emission control systems",
+      "question": "How should EGR valves be cleaned?",
+      "options": {
+        "A": "Remove carbon buildup using appropriate cleaners or media blasting, inspect for damage.",
+        "B": "Leave carbon in place.",
+        "C": "Use a hammer to knock carbon off.",
+        "D": "EGR valves are self-cleaning."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Removing carbon restores proper valve operation and airflow.",
+        "B": "Carbon prevents proper valve movement.",
+        "C": "Hammering damages valve components.",
+        "D": "EGR valves accumulate carbon requiring manual cleaning."
+      }
+    },
+    {
+      "questionNumber": 190,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.07 Repairs emission control systems",
+      "question": "What should be inspected on EGR coolers during service?",
+      "options": {
+        "A": "Check for internal leaks, blockages, and external damage.",
+        "B": "Only check external appearance.",
+        "C": "EGR coolers never fail.",
+        "D": "Just clean the outside."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "EGR coolers can develop internal leaks between exhaust and coolant or become blocked.",
+        "B": "Internal condition is critical.",
+        "C": "EGR coolers fail from corrosion and thermal stress.",
+        "D": "External cleaning doesn't verify internal integrity."
+      }
+    },
+    {
+      "questionNumber": 191,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.07 Repairs emission control systems",
+      "question": "How should differential pressure sensors be replaced?",
+      "options": {
+        "A": "Install with clean connections, verify hose routing, calibrate/reset system as required.",
+        "B": "Just plug in without checking connections.",
+        "C": "Sensors last forever.",
+        "D": "Installation doesn't matter."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper installation ensures accurate DPF monitoring and system function.",
+        "B": "Dirty connections cause false readings.",
+        "C": "Sensors fail and require replacement.",
+        "D": "Proper installation is critical for emission system monitoring."
+      }
+    },
+    {
+      "questionNumber": 192,
+      "block": "B",
+      "task": "B-6",
+      "taskTitle": "Repairs engines and engine support systems",
+      "subtask": "B-6.07 Repairs emission control systems",
+      "question": "Why must emission control system repairs be documented?",
+      "options": {
+        "A": "For warranty claims, regulatory compliance, and service history tracking.",
+        "B": "Documentation isn't necessary.",
+        "C": "To confuse future technicians.",
+        "D": "Only for appearance."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper documentation supports warranty, meets legal requirements, and aids future diagnosis.",
+        "B": "Documentation is legally required and professionally important.",
+        "C": "Documentation helps, not hinders, future service.",
+        "D": "Documentation serves critical business and legal functions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,2695 @@
+{
+  "block": "A",
+  "blockTitle": "Performs Common Occupational Skills",
+  "totalQuestions": 128,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Maintains safe work environment",
+      "question": "What is the primary purpose of conducting a job hazard assessment before starting plumbing work?",
+      "options": {
+        "A": "To determine the project timeline",
+        "B": "To identify potential hazards and implement control measures",
+        "C": "To calculate material costs",
+        "D": "To assign work duties to team members"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While project timelines are important, they are not the primary focus of a job hazard assessment, which specifically targets safety concerns.",
+        "B": "A job hazard assessment systematically identifies workplace hazards and establishes appropriate control measures to prevent incidents and injuries before work begins.",
+        "C": "Material cost calculations are part of project estimation, not safety assessments conducted through job hazard analysis.",
+        "D": "Work duty assignments are administrative tasks, whereas job hazard assessments focus on identifying and controlling safety risks."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Maintains safe work environment",
+      "question": "When working in a confined space, what is the minimum acceptable oxygen level according to most safety regulations?",
+      "options": {
+        "A": "16.5%",
+        "B": "18.0%",
+        "C": "19.5%",
+        "D": "21.0%"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "16.5% oxygen is dangerously low and would cause immediate health effects including impaired judgment and rapid fatigue.",
+        "B": "18.0% oxygen is still below the safe minimum threshold and would present significant health risks to workers.",
+        "C": "19.5% is the minimum acceptable oxygen level for confined space entry according to most occupational health and safety regulations.",
+        "D": "While 21.0% represents normal atmospheric oxygen levels, the minimum safe level is slightly lower at 19.5%."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Maintains safe work environment",
+      "question": "What is the recommended minimum clearance distance from overhead power lines when working with metal pipes or ladders?",
+      "options": {
+        "A": "1 meter (3 feet)",
+        "B": "3 meters (10 feet)",
+        "C": "5 meters (16 feet)",
+        "D": "10 meters (33 feet)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "1 meter is insufficient clearance and presents a serious electrocution hazard when working near overhead power lines.",
+        "B": "A minimum clearance of 3 meters (10 feet) is typically required when working with conductive materials near overhead power lines to prevent electrical contact.",
+        "C": "While 5 meters provides extra safety margin, it exceeds the standard minimum requirement and may not be practical in all situations.",
+        "D": "10 meters is excessive for standard voltage lines and would unnecessarily restrict work areas beyond safety requirements."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Maintains safe work environment",
+      "question": "Which gas poses the greatest immediate danger in sewer and drainage work due to its toxicity and ability to cause rapid unconsciousness?",
+      "options": {
+        "A": "Carbon monoxide",
+        "B": "Methane",
+        "C": "Hydrogen sulfide",
+        "D": "Carbon dioxide"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Carbon monoxide is dangerous but typically not the primary concern in sewer environments where hydrogen sulfide is more prevalent.",
+        "B": "Methane is primarily a flammability and asphyxiation hazard but does not have the immediate toxic effects of hydrogen sulfide.",
+        "C": "Hydrogen sulfide (H2S) is extremely toxic, can cause rapid unconsciousness at high concentrations, and is commonly found in sewer and drainage systems.",
+        "D": "Carbon dioxide is an asphyxiant but does not have the acute toxic properties of hydrogen sulfide at similar concentrations."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Maintains safe work environment",
+      "question": "What is the maximum recommended noise exposure limit for an 8-hour work shift without hearing protection?",
+      "options": {
+        "A": "75 dBA",
+        "B": "85 dBA",
+        "C": "95 dBA",
+        "D": "105 dBA"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "75 dBA is below the regulatory threshold and would not require mandatory hearing protection for an 8-hour exposure.",
+        "B": "85 dBA is the standard occupational exposure limit for an 8-hour time-weighted average, beyond which hearing protection is required.",
+        "C": "95 dBA exceeds safe limits and would require hearing protection with reduced exposure time (typically 4 hours maximum).",
+        "D": "105 dBA is dangerously high and would permit only 1 hour of exposure even with hearing protection."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Maintains safe work environment",
+      "question": "When is atmospheric testing required before entering a confined space?",
+      "options": {
+        "A": "Only when visible hazards are present",
+        "B": "Only if workers report unusual odors",
+        "C": "Before each entry and continuously during occupation",
+        "D": "Once per day at the start of the shift"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Many atmospheric hazards are invisible and odorless, making visual assessment inadequate for determining safe entry conditions.",
+        "B": "Relying on odor detection is unreliable as many toxic gases are odorless or cause olfactory fatigue.",
+        "C": "Atmospheric testing must be conducted before each entry and monitored continuously as conditions can change rapidly within confined spaces.",
+        "D": "Once-daily testing is insufficient as atmospheric conditions in confined spaces can deteriorate quickly due to work activities or external factors."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Maintains safe work environment",
+      "question": "What is the primary hazard when hot work is performed near polyvinyl chloride (PVC) piping?",
+      "options": {
+        "A": "Pipe expansion causing joint failure",
+        "B": "Release of toxic chlorine and phosgene gases",
+        "C": "Increased fire spread due to combustibility",
+        "D": "Structural collapse from heat damage"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While thermal expansion can occur, the immediate danger from heating PVC is the toxic gas release, not mechanical failure.",
+        "B": "When PVC is heated, it releases highly toxic gases including hydrogen chloride and potentially phosgene, posing serious respiratory hazards.",
+        "C": "PVC is flame-retardant and does not readily support combustion, though it will decompose and release toxic fumes when exposed to flame.",
+        "D": "Structural collapse is not the primary concern with PVC exposure to heat; toxic gas generation occurs well before structural failure."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.01 Maintains safe work environment",
+      "question": "According to WHMIS regulations, what must be available at the worksite for all hazardous materials?",
+      "options": {
+        "A": "Original manufacturer's containers only",
+        "B": "Safety Data Sheets (SDS) and proper labeling",
+        "C": "Personal protective equipment for all workers",
+        "D": "Designated storage areas with ventilation"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While original containers are preferred, the critical requirement is access to SDS and proper labeling of all hazardous materials.",
+        "B": "WHMIS requires readily accessible Safety Data Sheets and proper product labeling for all hazardous materials at the worksite.",
+        "C": "PPE is necessary but is a control measure rather than the documentation requirement specified by WHMIS regulations.",
+        "D": "Proper storage is important but WHMIS primarily mandates information availability through SDS and labeling systems."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What is the primary reason for wearing cut-resistant gloves when working with copper tubing?",
+      "options": {
+        "A": "To prevent thermal burns from hot pipes",
+        "B": "To protect against sharp edges and burrs after cutting",
+        "C": "To improve grip on smooth surfaces",
+        "D": "To prevent chemical exposure from flux"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While thermal protection is important during soldering, cut-resistant gloves are specifically designed for sharp edge protection, not heat resistance.",
+        "B": "Cut-resistant gloves protect hands from lacerations caused by sharp edges and burrs that form when copper tubing is cut.",
+        "C": "Grip enhancement is a secondary benefit, but the primary purpose of cut-resistant gloves is protection from sharp edges and cutting hazards.",
+        "D": "Chemical-resistant gloves, not cut-resistant gloves, are appropriate for flux and chemical exposure protection during soldering operations."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What class of hard hat is required when working near energized electrical equipment?",
+      "options": {
+        "A": "Class G (General)",
+        "B": "Class E (Electrical)",
+        "C": "Class C (Conductive)",
+        "D": "Any CSA-approved hard hat"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Class G hard hats provide limited voltage protection (2,200 volts) and are not sufficient for electrical work environments.",
+        "B": "Class E hard hats are specifically designed to reduce exposure to high voltage conductors, providing protection up to 20,000 volts.",
+        "C": "Class C hard hats offer no electrical protection and are used where electrical hazards are not present.",
+        "D": "Not all CSA-approved hard hats provide electrical protection; the specific Class E designation is required for electrical hazard environments."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "When should safety glasses with side shields be replaced?",
+      "options": {
+        "A": "Only when the lenses are broken",
+        "B": "Every six months regardless of condition",
+        "C": "When scratched, pitted, or visibility is impaired",
+        "D": "When the frame becomes loose"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Waiting until lenses break is unsafe; damaged lenses that impair vision should be replaced immediately even if intact.",
+        "B": "While regular replacement is good practice, the actual trigger for replacement should be based on condition affecting protection or visibility.",
+        "C": "Safety glasses should be replaced when scratches, pitting, or other damage impairs visibility or compromises their protective function.",
+        "D": "Loose frames should be repaired or replaced, but lens condition affecting vision is the primary replacement criterion."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What type of respiratory protection is required when working with airborne asbestos fibers?",
+      "options": {
+        "A": "Cloth dust mask",
+        "B": "N95 particulate respirator",
+        "C": "Half-face respirator with P100 filters",
+        "D": "Full-face supplied air respirator"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Cloth dust masks provide no protection against asbestos fibers and should never be used in contaminated environments.",
+        "B": "N95 respirators are insufficient for asbestos work, which requires higher levels of protection due to the extreme health hazards.",
+        "C": "While P100 filters offer high filtration efficiency, full-face supplied air provides the highest level of protection required for asbestos work.",
+        "D": "Full-face supplied air respirators provide the highest level of respiratory protection and are required for working with asbestos fibers."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What is the maximum free fall distance allowed when using a personal fall arrest system?",
+      "options": {
+        "A": "1.5 meters (5 feet)",
+        "B": "1.8 meters (6 feet)",
+        "C": "2.4 meters (8 feet)",
+        "D": "3.0 meters (10 feet)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While 1.5 meters is conservative and safe, the regulatory maximum allowable free fall distance is slightly greater.",
+        "B": "The maximum allowable free fall distance when using a personal fall arrest system is 1.8 meters (6 feet) according to most safety standards.",
+        "C": "2.4 meters exceeds the safe free fall limit and would result in excessive fall arrest forces potentially causing injury.",
+        "D": "3.0 meters far exceeds regulatory limits and would create dangerous impact forces during fall arrest."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What shade number welding lens is typically required for gas welding operations using oxygen and acetylene?",
+      "options": {
+        "A": "Shade 3 to 4",
+        "B": "Shade 4 to 5",
+        "C": "Shade 5 to 6",
+        "D": "Shade 10 to 12"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Shade 3 to 4 is too light for welding operations and would allow harmful radiation exposure to the eyes.",
+        "B": "Shade 4 to 5 is insufficient for gas welding and would not provide adequate protection against infrared and ultraviolet radiation.",
+        "C": "Shade 5 to 6 lenses provide appropriate protection for gas welding operations with oxygen-acetylene equipment.",
+        "D": "Shade 10 to 12 is designed for arc welding at high amperages and would be excessively dark for gas welding operations."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "When working overhead, what additional PPE should be worn beyond standard safety glasses?",
+      "options": {
+        "A": "Hearing protection",
+        "B": "Face shield over safety glasses",
+        "C": "Dust mask",
+        "D": "Neck gaiter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hearing protection is important in noisy environments but does not provide additional protection for overhead work hazards.",
+        "B": "A face shield worn over safety glasses provides full face protection from falling debris, sparks, and materials when working overhead.",
+        "C": "Dust masks protect respiratory systems but do not provide the facial and eye protection needed for overhead work.",
+        "D": "Neck gaiters offer limited protection and are not standard PPE for overhead work requiring comprehensive face and eye protection."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.02 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What is the inspection requirement for fall protection equipment before each use?",
+      "options": {
+        "A": "Visual inspection only",
+        "B": "Visual and tactile inspection for damage",
+        "C": "Inspection only if previously dropped",
+        "D": "Monthly inspection by supervisor"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual inspection alone may miss internal damage or wear that can be detected through tactile examination.",
+        "B": "Both visual and tactile inspections are required before each use to detect cuts, abrasions, wear, and damage that could compromise safety.",
+        "C": "Pre-use inspection is required every time regardless of prior incidents, as damage can occur through normal use and environmental factors.",
+        "D": "While periodic formal inspections are important, users must inspect fall protection equipment before each individual use."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out procedures",
+      "question": "What is the primary purpose of a lock-out/tag-out procedure?",
+      "options": {
+        "A": "To prevent theft of tools and equipment",
+        "B": "To control access to restricted work areas",
+        "C": "To prevent unexpected energization during maintenance",
+        "D": "To track equipment maintenance schedules"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Security and theft prevention are not the purpose of lock-out/tag-out procedures, which focus on energy isolation.",
+        "B": "While access control is a side effect, the primary purpose is to prevent energy release, not general area access control.",
+        "C": "Lock-out/tag-out procedures prevent unexpected energization, startup, or release of stored energy during servicing and maintenance activities.",
+        "D": "Maintenance scheduling is an administrative function separate from the safety purpose of energy isolation procedures."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out procedures",
+      "question": "When multiple workers are servicing equipment, what lock-out procedure must be followed?",
+      "options": {
+        "A": "The supervisor's lock is sufficient for the crew",
+        "B": "Each worker must apply their own personal lock",
+        "C": "Only the lead tradesperson needs to lock out",
+        "D": "A single lock with multiple keys is acceptable"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "A supervisor's lock does not protect individual workers who must ensure their own safety through personal lock application.",
+        "B": "Each worker must apply their own personal lock to ensure they maintain control of their safety and the energy cannot be restored while they work.",
+        "C": "All workers exposed to the hazard must apply personal locks, not just the lead tradesperson or supervisor.",
+        "D": "Shared keys defeat the purpose of personal lock-out, which ensures each worker controls when energy can be restored."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out procedures",
+      "question": "What must be verified after applying lock-out devices but before beginning work?",
+      "options": {
+        "A": "That all workers have reported to the job site",
+        "B": "That equipment is at ambient temperature",
+        "C": "That the equipment cannot be operated or energized",
+        "D": "That a rescue plan has been documented"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Worker attendance is an administrative matter separate from verifying effective energy isolation after lock-out.",
+        "B": "While temperature considerations may be important for some tasks, verifying energy isolation is the critical lock-out verification step.",
+        "C": "After applying locks, workers must verify through testing that equipment cannot be operated or energized before beginning work.",
+        "D": "Rescue plans are important for confined spaces but are not the verification step required after applying lock-out devices."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out procedures",
+      "question": "What information must be included on a lock-out tag?",
+      "options": {
+        "A": "Equipment model and serial number only",
+        "B": "Date and estimated completion time only",
+        "C": "Worker name, date, and reason for lock-out",
+        "D": "Supervisor approval signature"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Equipment identification is useful but insufficient; tags must identify who applied the lock and why to prevent unauthorized removal.",
+        "B": "While date and time are important, the tag must also identify the worker and reason to establish accountability and communication.",
+        "C": "Lock-out tags must include the worker's name, date, and reason for lock-out to establish accountability and prevent unauthorized removal.",
+        "D": "Supervisor approval is not required on lock-out tags, as individual workers are responsible for their own lock-out/tag-out."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out procedures",
+      "question": "What types of energy must be controlled during lock-out procedures?",
+      "options": {
+        "A": "Electrical energy only",
+        "B": "Electrical and mechanical energy only",
+        "C": "All hazardous energy sources including stored energy",
+        "D": "Only energy sources directly connected to equipment"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Limiting lock-out to electrical energy ignores pneumatic, hydraulic, thermal, and other hazardous energy sources.",
+        "B": "Focusing only on electrical and mechanical energy overlooks hydraulic, pneumatic, thermal, chemical, and gravitational hazards.",
+        "C": "All forms of hazardous energy must be controlled, including electrical, mechanical, hydraulic, pneumatic, thermal, chemical, and stored energy.",
+        "D": "Stored energy in capacitors, springs, pressurized lines, and elevated components must also be controlled, not just direct connections."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out procedures",
+      "question": "When can a lock be removed from lock-out equipment?",
+      "options": {
+        "A": "When the shift ends",
+        "B": "When the supervisor authorizes it",
+        "C": "Only by the worker who installed it after work is complete",
+        "D": "When other workers need to use the equipment"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Shift changes do not automatically permit lock removal; the worker who installed the lock maintains responsibility until completion.",
+        "B": "Supervisors cannot remove another worker's personal lock; only the installing worker can remove their own lock.",
+        "C": "Only the worker who installed the lock can remove it, and only after their work is completed and it is safe to re-energize.",
+        "D": "Equipment availability for others does not override the safety requirement that only the installing worker removes their lock."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out procedures",
+      "question": "What is the correct procedure for locking out a water supply system before maintenance?",
+      "options": {
+        "A": "Close the valve and attach a lock to the handle",
+        "B": "Drain the system and post warning signs",
+        "C": "Close and lock the valve, drain residual pressure, then verify isolation",
+        "D": "Close the valve and remove the handle"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Locking the valve without draining residual pressure leaves stored energy that could cause injury during maintenance.",
+        "B": "Warning signs alone do not physically prevent valve operation and do not control stored energy in the system.",
+        "C": "Proper lock-out requires closing and locking the valve, draining residual pressure and contents, then verifying complete isolation.",
+        "D": "Removing the handle without proper lock-out and pressure relief does not adequately control the energy source."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Performs safety-related functions",
+      "subtask": "A-1.03 Performs lock-out and tag-out procedures",
+      "question": "What should be done if a lock-out device cannot be directly attached to an energy isolation point?",
+      "options": {
+        "A": "Use tags only without locks",
+        "B": "Have a supervisor monitor the isolation point",
+        "C": "Use a lockable isolation device or blocking mechanism",
+        "D": "Proceed without lock-out if area is secured"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Tags alone are warning devices and do not provide physical prevention of energy release required by lock-out procedures.",
+        "B": "Human monitoring is unreliable and does not provide the physical prevention of energy release that lock-out devices ensure.",
+        "C": "When direct attachment is impossible, a lockable isolation device, blocking mechanism, or adapter must be used to achieve physical lock-out.",
+        "D": "Lock-out cannot be bypassed regardless of security measures; physical energy isolation must be achieved and locked."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.01 Uses common tools and equipment",
+      "question": "What is the proper technique for using a pipe wrench to prevent damage to the pipe?",
+      "options": {
+        "A": "Apply force on the push stroke with jaw facing the direction of turn",
+        "B": "Apply force on the pull stroke with jaw facing away from the direction of turn",
+        "C": "Apply force on the pull stroke with jaw facing the direction of turn",
+        "D": "Use maximum force regardless of jaw direction"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Pushing on a pipe wrench reduces control and can cause the wrench to slip, potentially damaging the pipe and causing injury.",
+        "B": "Having the jaw face away from the turn direction prevents proper gripping and can damage the pipe surface through slippage.",
+        "C": "Pull the wrench with the jaw facing the direction of turn to maximize gripping power and control while minimizing pipe damage.",
+        "D": "Excessive force without proper technique can crush thin-walled pipes or damage fittings regardless of jaw positioning."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.01 Uses common tools and equipment",
+      "question": "When should a tubing cutter's cutting wheel be replaced?",
+      "options": {
+        "A": "After every use",
+        "B": "When it becomes dull or damaged",
+        "C": "Every six months",
+        "D": "When the rollers wear out"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cutting wheels are durable and do not require replacement after every use, only when performance degrades.",
+        "B": "The cutting wheel should be replaced when it becomes dull or damaged, as this affects cut quality and can deform tubing.",
+        "C": "Time-based replacement is less effective than condition-based replacement, as usage frequency varies significantly between applications.",
+        "D": "While roller condition is important, the cutting wheel's sharpness directly affects cut quality and requires more frequent monitoring and replacement."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.01 Uses common tools and equipment",
+      "question": "What is the primary advantage of using a reciprocating saw with a bi-metal blade for cutting cast iron pipe?",
+      "options": {
+        "A": "Faster cutting speed than other methods",
+        "B": "Produces smoother cut edges",
+        "C": "Blade flexibility combined with hardness for durability",
+        "D": "Lower noise levels during operation"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While reciprocating saws are efficient, the primary advantage of bi-metal blades is their durability, not necessarily speed.",
+        "B": "Reciprocating saws typically produce rougher cuts than specialized pipe cutters or band saws; smoothness is not their main advantage.",
+        "C": "Bi-metal blades combine a flexible backing with hardened cutting teeth, providing both durability and resistance to breakage in tough materials like cast iron.",
+        "D": "Reciprocating saws are generally noisy tools; noise reduction is not a characteristic benefit of bi-metal blades."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.01 Uses common tools and equipment",
+      "question": "Why is it important to deburr pipe after cutting?",
+      "options": {
+        "A": "To improve the appearance of the installation",
+        "B": "To prevent flow restriction and ensure proper sealing",
+        "C": "To reduce the weight of the pipe",
+        "D": "To make threading easier"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While deburring improves appearance, the primary functional reason is to prevent flow issues and ensure proper joint sealing.",
+        "B": "Deburring removes sharp edges that can restrict flow, cause turbulence, damage seals, and prevent proper fitting engagement.",
+        "C": "Weight reduction from deburring is negligible and not a functional consideration in pipe preparation.",
+        "D": "While deburring may slightly facilitate threading, the critical reasons are flow performance and seal integrity in all joint types."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.01 Uses common tools and equipment",
+      "question": "What is the correct procedure for using a propane torch to sweat copper fittings?",
+      "options": {
+        "A": "Heat the solder directly until it melts onto the joint",
+        "B": "Heat the pipe only, avoiding the fitting",
+        "C": "Heat the fitting and pipe evenly, allowing heat to melt the solder",
+        "D": "Heat the fitting only until solder flows"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Heating solder directly results in poor joint quality, as the solder will not properly bond without sufficient base metal temperature.",
+        "B": "Heating only the pipe creates uneven temperature distribution and prevents proper capillary action throughout the joint.",
+        "C": "Uniform heating of both fitting and pipe allows the metal to reach optimal temperature for solder to flow evenly through capillary action.",
+        "D": "Heating only the fitting while the pipe remains cooler prevents complete solder penetration and creates a weak joint."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.01 Uses common tools and equipment",
+      "question": "What safety feature must be checked before operating a powder-actuated fastening tool?",
+      "options": {
+        "A": "The color of the powder charge",
+        "B": "The shield guard and trigger safety mechanism",
+        "C": "The length of the fastener only",
+        "D": "The ambient temperature"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While charge selection is important for proper fastening, the safety mechanisms are the critical pre-operation inspection items.",
+        "B": "The shield guard and trigger safety must be verified functional before use to prevent accidental discharge and ensure operator protection.",
+        "C": "Fastener length is important for application but does not constitute the primary safety feature verification required before operation.",
+        "D": "Temperature affects tool performance but is not a safety feature requiring inspection before each use."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.01 Uses common tools and equipment",
+      "question": "When using a hole saw to penetrate a framed wall, what precaution prevents damage to hidden services?",
+      "options": {
+        "A": "Use maximum drill speed for clean cuts",
+        "B": "Locate and mark all concealed utilities before drilling",
+        "C": "Drill from both sides to prevent breakout",
+        "D": "Use the largest available hole saw"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "High drill speed does not prevent striking hidden services; proper investigation and marking are required before drilling.",
+        "B": "Using utility locators, drawings, and visual inspection to identify and mark concealed wiring and piping before drilling prevents damage and hazards.",
+        "C": "Drilling from both sides prevents wood tearout but does not address the hazard of striking hidden electrical or plumbing services.",
+        "D": "Hole saw size selection is based on application requirements, not safety, and does not prevent striking concealed services."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.01 Uses common tools and equipment",
+      "question": "What is the proper way to store a hand reamer after use?",
+      "options": {
+        "A": "Leave it in the pipe vise for next use",
+        "B": "Clean, oil lightly, and store in protective case",
+        "C": "Hang it on an open rack with other tools",
+        "D": "Wrap it in cloth and store in a toolbox"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Leaving reamers in vises exposes cutting edges to damage and accelerates corrosion from environmental exposure.",
+        "B": "Reamers should be cleaned of debris, lightly oiled to prevent corrosion, and stored in protective cases to preserve cutting edge integrity.",
+        "C": "Open rack storage exposes precision cutting edges to impacts from other tools and environmental contamination.",
+        "D": "While cloth provides some protection, proper storage requires protective cases to prevent edge damage and moisture control through oiling."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "What is the maximum safe working height for a type IA step ladder?",
+      "options": {
+        "A": "The top step",
+        "B": "Two steps from the top",
+        "C": "Three steps from the top",
+        "D": "Any step is acceptable"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Standing on the top step or platform eliminates necessary handholds and creates instability, significantly increasing fall risk.",
+        "B": "The top two steps should not be used as working platforms to maintain three points of contact and proper balance.",
+        "C": "The restriction applies to the top two steps, not three; working from the third step from the top is generally acceptable on most ladders.",
+        "D": "Ladder height restrictions exist specifically to prevent falls; not all steps provide safe working positions."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "What is the correct angle for positioning an extension ladder against a wall?",
+      "options": {
+        "A": "45 degrees",
+        "B": "60 degrees",
+        "C": "75 degrees (4:1 ratio)",
+        "D": "85 degrees"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "45 degrees is too shallow, placing excessive horizontal load on the ladder and reducing stability against sliding.",
+        "B": "60 degrees, while safer than 45, still does not provide the optimal balance of stability and climbing safety.",
+        "C": "A 75-degree angle (4:1 ratio - one unit out for every four units up) provides optimal stability and safe climbing angle.",
+        "D": "85 degrees is too steep, creating instability and risk of the ladder tipping backwards when climbed."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "When is it acceptable to move a scaffold while workers are on the platform?",
+      "options": {
+        "A": "When moving short distances under 3 meters",
+        "B": "When workers are seated on the platform",
+        "C": "Never, unless specifically designed as mobile equipment",
+        "D": "When a spotter guides the movement"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Distance is irrelevant; moving any scaffold with workers on it creates serious fall and crushing hazards regardless of distance.",
+        "B": "Seated workers are still at risk from scaffold movement, tipping, or collision with obstacles during relocation.",
+        "C": "Workers must dismount before scaffold relocation unless the scaffold is specifically engineered and designated as mobile equipment with proper controls.",
+        "D": "Spotters can guide movement safely but do not eliminate the fundamental hazard of workers riding on scaffolds during relocation."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "What is the minimum width requirement for a scaffold working platform?",
+      "options": {
+        "A": "30 cm (12 inches)",
+        "B": "46 cm (18 inches)",
+        "C": "61 cm (24 inches)",
+        "D": "91 cm (36 inches)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "30 cm is insufficient width to provide stable footing and safe material handling on scaffold platforms.",
+        "B": "The minimum scaffold working platform width is 46 cm (18 inches) to ensure adequate workspace and stability for workers.",
+        "C": "While 61 cm provides additional safety margin, it exceeds the minimum regulatory requirement for platform width.",
+        "D": "91 cm is much wider than required and, while providing excellent workspace, is not the minimum standard."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "What must be installed on scaffolds when the platform is more than 3 meters above grade?",
+      "options": {
+        "A": "Warning signs only",
+        "B": "Toe boards only",
+        "C": "Guardrails, mid-rails, and toe boards",
+        "D": "Personal fall arrest anchor points"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Warning signs provide awareness but do not physically prevent falls; positive barriers are required at height.",
+        "B": "Toe boards alone prevent tools from falling but do not protect workers from falling off the platform.",
+        "C": "Complete fall protection requires guardrails (top and mid-rails) to prevent worker falls and toe boards to prevent tools/materials from falling.",
+        "D": "While fall arrest systems may be required in some situations, the primary protection is guardrail systems, not personal anchors."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "How often must scaffolding be inspected during use?",
+      "options": {
+        "A": "Once at the beginning of the project",
+        "B": "Daily before each shift",
+        "C": "Weekly by a supervisor",
+        "D": "After severe weather or when damage is suspected"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Single initial inspection is insufficient as scaffolds can deteriorate or be damaged during use, requiring ongoing verification.",
+        "B": "Scaffolding must be inspected daily before each work shift by a competent person to identify any defects or hazards.",
+        "C": "Weekly inspections are insufficient frequency; daily pre-shift inspection is required to catch problems before they cause incidents.",
+        "D": "While post-weather inspections are necessary, they supplement rather than replace the requirement for daily pre-shift inspections."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "What is the maximum vertical distance between ladder rungs for safe climbing?",
+      "options": {
+        "A": "25 cm (10 inches)",
+        "B": "30 cm (12 inches)",
+        "C": "38 cm (15 inches)",
+        "D": "46 cm (18 inches)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "25 cm spacing, while providing easy climbing, is closer than standard and would result in unnecessary rungs and weight.",
+        "B": "Maximum rung spacing of 30 cm (12 inches) ensures comfortable, safe climbing while maintaining structural efficiency.",
+        "C": "38 cm spacing is too wide and would create awkward climbing motion, increasing fatigue and fall risk.",
+        "D": "46 cm spacing is excessive and would be extremely difficult and dangerous to climb, particularly when carrying tools or materials."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.02 Uses access equipment",
+      "question": "When using an articulating boom lift, what must be verified before elevating the platform?",
+      "options": {
+        "A": "Wind speed is below 15 km/h",
+        "B": "All workers are wearing harnesses attached to platform anchor",
+        "C": "The platform load does not exceed equipment capacity",
+        "D": "A spotter is positioned at ground level"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While wind limits exist, 15 km/h is too low; typical limits are higher, and harness use is the most critical safety requirement.",
+        "B": "Workers must wear fall protection harnesses attached to designated platform anchor points before elevating boom lifts.",
+        "C": "While load capacity verification is important, it should be done before loading, and harness use is the critical elevation safety step.",
+        "D": "Spotters assist with positioning but are not required for all boom lift operations; harness use is the mandatory safety requirement."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting, lifting and positioning equipment",
+      "question": "What is the minimum safety factor for wire rope slings used in construction?",
+      "options": {
+        "A": "2:1",
+        "B": "3:1",
+        "C": "5:1",
+        "D": "10:1"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "A 2:1 safety factor provides insufficient margin for variables like shock loading, wear, and environmental degradation.",
+        "B": "3:1 is below the required safety factor for rigging applications and would not provide adequate protection against failure.",
+        "C": "Wire rope slings require a minimum 5:1 safety factor, meaning the sling must be rated at five times the maximum anticipated load.",
+        "D": "While 10:1 provides exceptional safety margin, it exceeds the required standard and would necessitate oversized, impractical equipment."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting, lifting and positioning equipment",
+      "question": "What defect requires immediate removal of a synthetic sling from service?",
+      "options": {
+        "A": "Minor discoloration from UV exposure",
+        "B": "Visible cuts, tears, or abraded areas exposing core yarns",
+        "C": "Slight stiffness from cold weather",
+        "D": "Tag is faded but still readable"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Minor discoloration indicates UV exposure but does not necessarily compromise strength; visible damage to load-bearing material is the critical factor.",
+        "B": "Any cuts, tears, or abrasion exposing core yarns compromises sling integrity and requires immediate removal from service.",
+        "C": "Temporary stiffness from cold weather is normal and reversible; structural damage, not environmental effects, requires removal.",
+        "D": "While tags should be legible, faded but readable tags do not compromise sling strength; physical damage to the sling itself is the removal criterion."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting, lifting and positioning equipment",
+      "question": "When using a chain hoist, what indicates the load capacity has been exceeded?",
+      "options": {
+        "A": "The chain makes noise during operation",
+        "B": "The load begins to lift but the hoist will not continue",
+        "C": "The operator must pull harder on the chain",
+        "D": "The load is lifted more slowly than usual"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Some operational noise is normal; overload is indicated by the hoist's inability to continue lifting, not noise level.",
+        "B": "When a load exceeds capacity, the chain hoist's overload protection prevents continued operation, causing the hoist to stop lifting.",
+        "C": "Properly functioning chain hoists have consistent pull force; excessive effort may indicate mechanical problems but not necessarily overload.",
+        "D": "Lift speed variations can result from mechanical issues or technique; the definitive overload indicator is the hoist stopping under load."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting, lifting and positioning equipment",
+      "question": "What is the proper hand signal for stopping a crane operation?",
+      "options": {
+        "A": "Arm extended horizontally, palm down, moving side to side",
+        "B": "Both arms extended overhead with palms facing forward",
+        "C": "Arm extended with palm down, moving up and down",
+        "D": "Closed fist held at shoulder height"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "The stop signal is the arm extended horizontally with palm down, moving side to side, clearly indicating cessation of all motion.",
+        "B": "Arms overhead typically signal emergency stop or attention, but the standard stop signal uses a different arm position and motion.",
+        "C": "Palm down moving up and down resembles the dog everything signal for lowering the load, not stopping.",
+        "D": "A closed fist is not a standard crane signal; stop requires the distinctive horizontal sweeping motion for clear communication."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting, lifting and positioning equipment",
+      "question": "What is the effect on sling capacity when the sling angle decreases from 90° to 45°?",
+      "options": {
+        "A": "Capacity increases by approximately 30%",
+        "B": "Capacity remains unchanged",
+        "C": "Capacity decreases by approximately 30%",
+        "D": "Capacity decreases by approximately 50%"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Decreasing sling angle always reduces capacity by increasing tension in each leg; capacity cannot increase with smaller angles.",
+        "B": "Sling capacity is highly dependent on angle; as angle decreases, tension in slings increases, reducing safe working capacity.",
+        "C": "When sling angle decreases from 90° to 45°, the capacity decreases by approximately 30% due to increased leg tension.",
+        "D": "50% capacity reduction occurs at even more acute angles (around 30°); the reduction from 90° to 45° is closer to 30%."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting, lifting and positioning equipment",
+      "question": "What is the maximum recommended sling angle from horizontal to maintain adequate capacity?",
+      "options": {
+        "A": "15 degrees",
+        "B": "30 degrees",
+        "C": "45 degrees",
+        "D": "60 degrees"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "15 degrees from horizontal creates extreme tension in slings, dramatically reducing capacity and creating unsafe conditions.",
+        "B": "30 degrees from horizontal significantly reduces sling capacity and is below the recommended safe minimum angle.",
+        "C": "45 degrees provides better capacity than smaller angles but still represents borderline safe rigging practice for most applications.",
+        "D": "60 degrees from horizontal (30 degrees from vertical) is the recommended maximum angle to maintain adequate sling capacity and safety."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting, lifting and positioning equipment",
+      "question": "Why should edge protection be used when lifting with synthetic slings?",
+      "options": {
+        "A": "To prevent UV damage to the sling material",
+        "B": "To protect sharp edges on the load from being damaged",
+        "C": "To prevent cuts and abrasion damage to the sling",
+        "D": "To make the load more visible to the operator"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Edge protection primarily addresses mechanical damage; UV protection requires different measures like protective sleeves or storage practices.",
+        "B": "Edge protection preserves the sling, not the load; protecting the load edges is a separate concern addressed through different means.",
+        "C": "Edge protection prevents sharp corners and edges on loads from cutting or abrading synthetic slings, which are vulnerable to such damage.",
+        "D": "Visibility enhancement is not the purpose of edge protection; it specifically prevents mechanical damage to slings from sharp load features."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.03 Uses rigging, hoisting, lifting and positioning equipment",
+      "question": "What must be done before attempting to lift a load of unknown weight?",
+      "options": {
+        "A": "Attempt the lift and observe the equipment response",
+        "B": "Estimate the weight based on similar loads",
+        "C": "Determine the actual weight through calculation or weighing",
+        "D": "Use maximum capacity rigging equipment"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Test lifting unknown loads is dangerous and can result in equipment failure, load drop, or injury if capacity is exceeded.",
+        "B": "Estimation introduces unacceptable risk as similar-appearing loads may have vastly different weights due to material composition or hidden contents.",
+        "C": "Loads of unknown weight must be calculated based on materials and dimensions or weighed before lifting to select appropriate equipment.",
+        "D": "Using maximum capacity equipment without knowing load weight may still result in overload and does not satisfy the requirement to know the load."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.04 Rigs loads for cranes",
+      "question": "Where should the hook be positioned relative to a load's center of gravity when rigging?",
+      "options": {
+        "A": "At the geometric center of the load",
+        "B": "Directly above the center of gravity",
+        "C": "Slightly forward of center to aid in movement",
+        "D": "At the strongest point of the load"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "The geometric center may not align with the center of gravity if weight is distributed unevenly within the load.",
+        "B": "The hook must be positioned directly above the center of gravity to maintain load stability and prevent tipping or swinging during lift.",
+        "C": "Offsetting the hook creates imbalance, causing the load to swing or tip when lifted, creating serious safety hazards.",
+        "D": "Structural strength is important for rigging point selection, but the hook position must align with center of gravity for stability."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.04 Rigs loads for cranes",
+      "question": "What is the purpose of tag lines when lifting loads with a crane?",
+      "options": {
+        "A": "To increase the load capacity of the rigging",
+        "B": "To control load rotation and position during movement",
+        "C": "To provide backup support if primary rigging fails",
+        "D": "To measure the lifting height"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tag lines are control devices that do not contribute to load capacity and should never be loaded beyond hand tension.",
+        "B": "Tag lines allow ground personnel to control load orientation and position safely during crane movements without direct contact with the load.",
+        "C": "Tag lines are not designed as backup support and lack the strength to catch falling loads; they serve only as control guides.",
+        "D": "Height measurement is not the function of tag lines; they provide directional control to prevent uncontrolled spinning or swinging."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.04 Rigs loads for cranes",
+      "question": "What precaution must be taken when rigging loads with protruding parts?",
+      "options": {
+        "A": "Use only wire rope slings",
+        "B": "Secure loose parts to prevent shifting during lift",
+        "C": "Lift more slowly than standard loads",
+        "D": "Use double the normal number of rigging points"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sling type selection depends on multiple factors; securing protruding parts is independent of whether wire or synthetic slings are used.",
+        "B": "Protruding parts must be secured to prevent shifting, which could change the center of gravity and destabilize the load during lifting.",
+        "C": "While careful lifting is appropriate, reduced speed alone does not prevent problems caused by unsecured protruding components.",
+        "D": "Additional rigging points may be beneficial but don't address the specific hazard of loose protruding parts shifting during the lift."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.04 Rigs loads for cranes",
+      "question": "When should a test lift be performed?",
+      "options": {
+        "A": "Only when lifting maximum capacity loads",
+        "B": "When lifting critical, heavy, or unusually shaped loads",
+        "C": "Once per day at the start of operations",
+        "D": "Only when required by the site supervisor"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Test lifts are important for challenging lifts regardless of whether they approach maximum capacity.",
+        "B": "Test lifts verify rigging, balance, and clearances for critical, heavy, or complex loads before committing to the full lift.",
+        "C": "Test lifts are specific to individual challenging lifts, not a routine daily procedure performed once regardless of subsequent lifts.",
+        "D": "Test lifts are a best practice for difficult lifts and should be performed based on load characteristics, not only when directed."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.04 Rigs loads for cranes",
+      "question": "What is the maximum distance a load should be lifted off the ground during a test lift?",
+      "options": {
+        "A": "5-10 cm (2-4 inches)",
+        "B": "30 cm (12 inches)",
+        "C": "1 meter (3 feet)",
+        "D": "As high as needed to verify clearances"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Test lifts should raise the load just 5-10 cm (2-4 inches) to verify rigging and balance while minimizing consequences if problems occur.",
+        "B": "30 cm is unnecessarily high for a test lift and increases risk if rigging problems or imbalance are discovered.",
+        "C": "1 meter greatly exceeds the safe test lift height and defeats the purpose of minimal-height verification.",
+        "D": "Full clearance verification should occur after successful test lift and rigging verification at minimal height."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.04 Rigs loads for cranes",
+      "question": "What must be verified about crane capacity before planning a lift?",
+      "options": {
+        "A": "Only the maximum rated capacity of the crane",
+        "B": "The capacity at the specific radius and configuration being used",
+        "C": "The capacity with boom fully extended",
+        "D": "The capacity listed on the crane's data plate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Maximum capacity only applies under optimal conditions; actual capacity varies significantly with boom position and configuration.",
+        "B": "Crane capacity varies with boom angle, extension, and radius; the capacity at the specific working configuration must be verified.",
+        "C": "Fully extended capacity is typically the minimum, but the actual working configuration determines the available capacity for the lift.",
+        "D": "Data plate capacity is the maximum under ideal conditions; load charts must be consulted for capacity at actual working configurations."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.04 Rigs loads for cranes",
+      "question": "What is the minimum clearance required when operating cranes near electrical power lines?",
+      "options": {
+        "A": "1 meter (3 feet)",
+        "B": "3 meters (10 feet)",
+        "C": "Varies based on power line voltage",
+        "D": "6 meters (20 feet) for all voltages"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "1 meter is insufficient for any voltage level and would create extreme electrocution risk.",
+        "B": "While 3 meters may be adequate for lower voltages, higher voltage lines require greater clearances.",
+        "C": "Required clearance distances increase with power line voltage; specific minimum distances are mandated for each voltage range.",
+        "D": "While 6 meters provides safety margin for many voltages, it may be excessive for lower voltages or insufficient for extra-high voltages."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.04 Rigs loads for cranes",
+      "question": "Why must personnel never work directly under suspended loads?",
+      "options": {
+        "A": "It obstructs the crane operator's view",
+        "B": "It prevents proper tag line operation",
+        "C": "To avoid being struck if rigging fails or load falls",
+        "D": "It interferes with load positioning"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Visibility is important but not the primary safety reason for the prohibition against working under suspended loads.",
+        "B": "Tag lines can be operated effectively from positions not directly under the load.",
+        "C": "No one should be under suspended loads to prevent fatalities or serious injuries in the event of rigging failure or load release.",
+        "D": "Load positioning can be accomplished from safe positions away from the suspended load path."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.05 Uses welding equipment",
+      "question": "What is the correct color coding for oxygen cylinders?",
+      "options": {
+        "A": "Red with yellow markings",
+        "B": "Green with white markings",
+        "C": "Black with yellow markings",
+        "D": "Yellow with black markings"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Red cylinders typically contain flammable gases like acetylene, not oxygen.",
+        "B": "Oxygen cylinders are color-coded green with white markings for clear identification and safety.",
+        "C": "Black cylinders may contain nitrogen or other inert gases, not oxygen used for welding.",
+        "D": "Yellow cylinders often contain chlorine or other hazardous gases, not oxygen."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.05 Uses welding equipment",
+      "question": "What safety device prevents flashback in an oxy-acetylene welding system?",
+      "options": {
+        "A": "Pressure regulator",
+        "B": "Flashback arrestor",
+        "C": "Check valve",
+        "D": "Flow meter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pressure regulators control gas pressure but do not prevent reverse flow or flame propagation into supply lines.",
+        "B": "Flashback arrestors contain flame front propagation and prevent explosions by stopping flashback from reaching fuel cylinders.",
+        "C": "Check valves prevent reverse flow but do not extinguish flames; they work with arrestors but are not the primary flashback protection.",
+        "D": "Flow meters measure gas flow rates but provide no protection against flashback or flame propagation."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.05 Uses welding equipment",
+      "question": "What is the maximum safe working pressure for an acetylene regulator?",
+      "options": {
+        "A": "15 psi (103 kPa)",
+        "B": "30 psi (207 kPa)",
+        "C": "50 psi (345 kPa)",
+        "D": "100 psi (690 kPa)"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Acetylene becomes unstable and explosive above 15 psi (103 kPa); regulators must never exceed this pressure.",
+        "B": "30 psi far exceeds the safe limit for acetylene and creates serious explosion risk due to gas instability.",
+        "C": "50 psi is extremely dangerous for acetylene, which spontaneously decomposes at pressures above 15 psi.",
+        "D": "100 psi would cause immediate and violent decomposition of acetylene, creating extreme explosion hazard."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.05 Uses welding equipment",
+      "question": "Why must welding cylinders be stored upright and secured?",
+      "options": {
+        "A": "To facilitate easier transport",
+        "B": "To prevent valve damage and cylinder tipping",
+        "C": "To minimize storage space requirements",
+        "D": "To improve gas flow quality"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While upright storage may aid transport, the primary safety reasons are valve protection and tip-over prevention.",
+        "B": "Upright secured storage prevents valve damage from impacts and prevents cylinders from tipping or falling, which could cause valve breakage and dangerous gas release.",
+        "C": "Space efficiency is a minor benefit; the critical reasons for upright secured storage are safety-related.",
+        "D": "Gas flow quality is unaffected by storage position; safety concerns regarding valve damage and stability are the primary considerations."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.05 Uses welding equipment",
+      "question": "What should be done if a gas cylinder valve is difficult to open?",
+      "options": {
+        "A": "Use a larger wrench or pipe for more leverage",
+        "B": "Heat the valve to expand the metal",
+        "C": "Tag the cylinder as defective and return it",
+        "D": "Apply lubricant to the valve threads"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Excessive force can damage valves, creating leaks or complete valve failure; difficult valves indicate a problem requiring attention.",
+        "B": "Heating pressurized cylinders is extremely dangerous and can cause explosion due to pressure increase.",
+        "C": "Difficult-to-operate valves indicate defects or damage; the cylinder should be tagged and returned to the supplier for inspection.",
+        "D": "Lubricants can react with gases (especially oxygen) causing fires or explosions; valves should never be lubricated."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.06 Uses soldering and brazing equipment",
+      "question": "What is the primary difference between soldering and brazing?",
+      "options": {
+        "A": "The type of flux used",
+        "B": "The operating temperature and filler metal melting point",
+        "C": "The base metals being joined",
+        "D": "The heat source used"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While different fluxes may be used, the defining distinction is the temperature range and filler metal melting point.",
+        "B": "Soldering uses filler metals melting below 450°C (842°F), while brazing uses filler metals melting above 450°C, creating stronger joints.",
+        "C": "Both processes can join similar base metals; the temperature and filler metal melting point distinguish the processes.",
+        "D": "Various heat sources can be used for both processes; temperature range and filler material define the distinction."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.06 Uses soldering and brazing equipment",
+      "question": "Why must surfaces be clean before soldering or brazing?",
+      "options": {
+        "A": "To improve the appearance of the finished joint",
+        "B": "To prevent contamination of the filler metal",
+        "C": "To ensure proper filler metal flow and bonding",
+        "D": "To protect the torch tip from damage"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While cleanliness affects appearance, the critical reason is metallurgical bonding and filler metal flow.",
+        "B": "Filler metal contamination is a concern, but the primary issue is preventing oxidation and contamination at the joint interface.",
+        "C": "Oxides, oils, and contaminants prevent proper wetting, filler metal flow, and metallurgical bonding, resulting in weak or failed joints.",
+        "D": "Torch tip protection is unrelated to base metal cleanliness; proper joint preparation ensures bond quality."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-2.06 Uses soldering and brazing equipment",
+      "question": "What is the purpose of flux in soldering and brazing operations?",
+      "options": {
+        "A": "To increase the melting point of the filler metal",
+        "B": "To remove and prevent oxide formation on surfaces",
+        "C": "To cool the joint after bonding",
+        "D": "To increase joint strength"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Flux lowers the surface tension and cleans surfaces; it does not affect filler metal melting point.",
+        "B": "Flux chemically removes existing oxides and prevents new oxidation during heating, allowing proper filler metal bonding.",
+        "C": "Flux functions during heating to promote bonding; cooling is a separate process not involving flux action.",
+        "D": "Flux enables bonding by preventing oxidation but does not directly increase mechanical joint strength beyond ensuring proper bond formation."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Organizes project tasks and procedures",
+      "question": "What is the primary purpose of reviewing job specifications before starting work?",
+      "options": {
+        "A": "To determine project profitability",
+        "B": "To understand scope, requirements, and standards to be met",
+        "C": "To identify potential change orders",
+        "D": "To calculate material waste"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Profitability analysis is a management concern; tradespeople review specifications to understand technical requirements and work scope.",
+        "B": "Reviewing specifications ensures understanding of project scope, technical requirements, standards, and quality expectations before starting work.",
+        "C": "While specification review may reveal change order opportunities, the primary purpose is understanding the contracted scope and requirements.",
+        "D": "Material waste estimation may follow specification review but is not the primary reason for examining project specifications."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Organizes project tasks and procedures",
+      "question": "What is the most effective way to sequence plumbing installation tasks?",
+      "options": {
+        "A": "Complete all underground work first, then move to above-ground systems",
+        "B": "Install fixtures first, then rough-in piping",
+        "C": "Work from the most accessible areas to least accessible",
+        "D": "Follow the construction schedule regardless of efficiency"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Underground and concealed work must be completed before structural closing and finish work, preventing costly access problems later.",
+        "B": "Fixtures are installed last, after rough-in piping and inspection, as they are vulnerable to damage during construction.",
+        "C": "While accessibility is a consideration, the primary sequencing driver is the construction sequence from concealed to exposed work.",
+        "D": "While coordinating with the schedule is important, efficient task sequencing within schedule constraints optimizes productivity."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Organizes project tasks and procedures",
+      "question": "When should coordination with other trades occur during a project?",
+      "options": {
+        "A": "Only when conflicts arise",
+        "B": "At project completion during final inspection",
+        "C": "Continuously throughout the project",
+        "D": "During the rough-in phase only"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Waiting for conflicts is reactive and costly; proactive coordination prevents problems rather than resolving them after occurrence.",
+        "B": "Final coordination is too late to prevent conflicts and will result in costly rework and delays.",
+        "C": "Continuous coordination with other trades throughout the project prevents conflicts, improves efficiency, and ensures integrated system installation.",
+        "D": "While rough-in coordination is critical, coordination is necessary during all phases from layout through completion and commissioning."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Organizes project tasks and procedures",
+      "question": "What factor should be prioritized when planning the sequence of multiple installations?",
+      "options": {
+        "A": "Installing the most expensive systems first",
+        "B": "Dependencies between systems and construction phases",
+        "C": "Personal preference of the lead plumber",
+        "D": "The order materials arrive at the job site"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cost is not a sequencing driver; technical dependencies and construction logic determine optimal installation sequence.",
+        "B": "System dependencies and construction phase requirements (rough-in before closing, underground before concrete) drive proper sequencing.",
+        "C": "Personal preference is less important than technical requirements, dependencies, and construction sequence logic.",
+        "D": "While material availability affects scheduling, technical dependencies and construction sequence should drive the installation order."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Organizes project tasks and procedures",
+      "question": "What information should be communicated during a pre-construction meeting?",
+      "options": {
+        "A": "Individual worker qualifications only",
+        "B": "Project scope, schedule, coordination requirements, and safety",
+        "C": "Material costs and budget details",
+        "D": "Equipment maintenance schedules"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worker qualifications are verified during hiring; pre-construction meetings focus on project-specific information and coordination.",
+        "B": "Pre-construction meetings establish scope understanding, schedule milestones, coordination protocols, and safety requirements for all trades.",
+        "C": "Detailed budget information is typically not shared at trade-level meetings; the focus is on technical and coordination requirements.",
+        "D": "Equipment maintenance is an ongoing operational matter, not a primary pre-construction meeting topic."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Organizes project tasks and procedures",
+      "question": "Why is it important to identify critical path activities in plumbing projects?",
+      "options": {
+        "A": "To determine which work costs the most",
+        "B": "To focus resources on tasks that affect project completion date",
+        "C": "To identify work that requires the most skilled workers",
+        "D": "To calculate total project duration"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cost is not the defining factor for critical path; schedule impact determines which activities are critical.",
+        "B": "Critical path activities directly affect project completion; delays in these tasks delay the entire project, requiring prioritization.",
+        "C": "While critical work may require skilled workers, criticality is defined by schedule impact, not skill requirements.",
+        "D": "Project duration is determined by the critical path, but identifying critical activities allows focus on preventing delays to that path."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Organizes project tasks and procedures",
+      "question": "What should be done when project specifications conflict with applicable codes?",
+      "options": {
+        "A": "Follow the specifications as written",
+        "B": "Follow the code requirements automatically",
+        "C": "Notify the designer and request clarification",
+        "D": "Use whichever is less expensive"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Following specifications that violate codes creates legal liability and unsafe conditions; conflicts must be resolved before proceeding.",
+        "B": "While codes establish minimums, specifications may have legitimate technical reasons that need clarification through proper channels.",
+        "C": "Conflicts between specifications and codes must be brought to the designer's attention for proper resolution through official channels.",
+        "D": "Cost is never the appropriate factor for resolving code-specification conflicts; safety and compliance requirements determine the resolution."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Organizes project tasks and procedures",
+      "question": "What is the benefit of creating a detailed work plan before starting installation?",
+      "options": {
+        "A": "It satisfies administrative requirements only",
+        "B": "It identifies resource needs, sequences, and potential conflicts",
+        "C": "It eliminates the need for supervision",
+        "D": "It guarantees project completion on time"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While documentation may be required, work plans primarily provide practical benefits in execution efficiency and problem prevention.",
+        "B": "Detailed planning identifies material and labor needs, optimal sequences, coordination points, and potential problems before they occur.",
+        "C": "Planning does not eliminate supervision needs; oversight remains necessary to ensure plans are executed correctly and to address unforeseen issues.",
+        "D": "Planning improves schedule reliability but cannot guarantee on-time completion due to variables beyond the planner's control."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "What is the most important factor when selecting a materials storage location on a job site?",
+      "options": {
+        "A": "Proximity to the site entrance",
+        "B": "Protection from weather and theft while maintaining accessibility",
+        "C": "Distance from the main work area",
+        "D": "Availability of electrical power"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Entrance proximity may facilitate deliveries but is secondary to protecting materials and ensuring work area access.",
+        "B": "Storage locations must protect materials from damage and theft while allowing efficient access when needed for installation.",
+        "C": "Excessive distance from work areas reduces productivity; storage should balance protection with convenient access.",
+        "D": "Electrical power is rarely a factor in material storage location selection unless specific equipment requires power."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "How should copper tubing be stored to prevent damage?",
+      "options": {
+        "A": "Standing vertically against a wall",
+        "B": "Lying flat on level supports with weight distributed",
+        "C": "Coiled and stacked without support",
+        "D": "Hung from single-point suspensions"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Vertical storage against walls can cause bending and damage at the base from the weight of tubing above.",
+        "B": "Copper tubing should be stored horizontally on level, evenly spaced supports to prevent bending, kinking, or deformation.",
+        "C": "Coiled tubing must be supported to prevent deformation; stacking without support causes damage to lower coils.",
+        "D": "Single-point hanging causes bending and permanent deformation; multiple support points are necessary for rigid tubing."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "What method ensures accurate tracking of material usage on large projects?",
+      "options": {
+        "A": "Visual estimation at project end",
+        "B": "Recording materials as they are installed or consumed",
+        "C": "Counting remaining materials after completion",
+        "D": "Relying on delivery receipts only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual estimation is inaccurate and does not provide the documentation needed for cost control and project analysis.",
+        "B": "Real-time recording of material usage as work progresses provides accurate tracking for cost control and future estimating.",
+        "C": "Counting remaining materials identifies unused items but does not account for waste, scrap, or materials incorporated into the work.",
+        "D": "Delivery receipts show purchased quantities but not actual consumption, waste, or project-specific usage patterns."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "Why should different types of piping materials be stored separately?",
+      "options": {
+        "A": "To prevent theft of expensive materials",
+        "B": "To avoid contamination and facilitate identification",
+        "C": "To comply with fire code requirements",
+        "D": "To simplify inventory counting"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While security is important, the primary reasons for separation are contamination prevention and identification efficiency.",
+        "B": "Separating materials prevents contamination (especially critical for potable water piping), enables quick identification, and reduces installation errors.",
+        "C": "Fire codes address storage safety but do not typically mandate separation by material type; the reasons are more practical.",
+        "D": "While separation may simplify inventory, the critical reasons are contamination prevention and proper material identification."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "What is the recommended practice for storing threaded pipe fittings?",
+      "options": {
+        "A": "In mixed bins to save space",
+        "B": "Separated by size and type in labeled containers",
+        "C": "In the original shipping boxes regardless of usage",
+        "D": "Scattered near the work area for convenience"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Mixed storage makes selection difficult, slows work, and increases the risk of using incorrect fittings.",
+        "B": "Organizing fittings by size and type in labeled containers enables quick identification, reduces errors, and improves productivity.",
+        "C": "While original packaging protects unused fittings, practical job site storage requires organizing by size and type for efficient access.",
+        "D": "Scattered storage leads to loss, damage, contamination, and difficulty locating needed fittings during installation."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "When should materials be ordered to optimize project efficiency?",
+      "options": {
+        "A": "All materials at project start to ensure availability",
+        "B": "Just-in-time to match installation schedule and minimize storage",
+        "C": "Weekly orders regardless of usage rate",
+        "D": "When storage space becomes available"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ordering all materials upfront requires extensive storage space, increases damage risk, and ties up capital unnecessarily.",
+        "B": "Just-in-time ordering balances material availability with storage constraints, reduces handling and damage, and improves cash flow.",
+        "C": "Fixed schedule ordering ignores actual project needs and installation pace, potentially creating shortages or excess inventory.",
+        "D": "Storage availability should not drive ordering; installation schedule and material lead times should determine order timing."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "What precaution should be taken when storing fixtures before installation?",
+      "options": {
+        "A": "Remove all packaging immediately for inspection",
+        "B": "Keep fixtures in protective packaging in a secure, clean area",
+        "C": "Store fixtures in the areas where they will be installed",
+        "D": "Stack fixtures to maximize space efficiency"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Early unpacking exposes fixtures to damage; packaging should remain until just before installation.",
+        "B": "Fixtures should remain in protective packaging and be stored in secure, clean locations to prevent damage, theft, and contamination until installation.",
+        "C": "Storing fixtures in final locations exposes them to construction damage; centralized secure storage is preferred until installation.",
+        "D": "Stacking can damage fixtures; proper storage maintains packaging and uses appropriate stacking limits or individual placement."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Organizes materials and supplies",
+      "question": "Why is it important to inspect materials upon delivery?",
+      "options": {
+        "A": "To satisfy insurance requirements",
+        "B": "To verify quantities, identify damage, and confirm specifications",
+        "C": "To provide work for apprentices",
+        "D": "To delay payment to suppliers"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While insurance may benefit from documentation, the primary purpose is identifying problems while carriers and suppliers can still address them.",
+        "B": "Immediate inspection verifies correct quantities, identifies shipping damage, and confirms materials match specifications before signing delivery documents.",
+        "C": "Inspection is a critical quality control function, not a make-work activity for training purposes.",
+        "D": "Inspection timing is driven by the need to identify problems promptly, not to delay payments to suppliers."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Uses documentation",
+      "question": "What is the primary purpose of as-built drawings?",
+      "options": {
+        "A": "To satisfy code officials at permit closeout",
+        "B": "To document actual installed conditions differing from original plans",
+        "C": "To replace original contract drawings",
+        "D": "To provide marketing materials for the contractor"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While code officials may review as-builts, their primary purpose is creating accurate records of installed systems for future reference.",
+        "B": "As-built drawings document field changes, actual routing, and final installation details that differ from original design drawings.",
+        "C": "As-built drawings supplement, not replace, original drawings by showing how installation differs from design intent.",
+        "D": "As-builts are technical records for building owners and future contractors, not marketing tools."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Uses documentation",
+      "question": "When should changes to the original installation be marked on drawings?",
+      "options": {
+        "A": "At the end of the project during final documentation",
+        "B": "As changes occur during installation",
+        "C": "Only if requested by the building owner",
+        "D": "After inspection and approval"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Delaying documentation until project end results in forgotten details and inaccurate as-built records.",
+        "B": "Changes should be documented as they occur to ensure accuracy and completeness of as-built records while details are fresh.",
+        "C": "Documentation is a professional obligation and project requirement, not optional based on owner requests.",
+        "D": "While inspection may verify changes, documentation should occur when changes are made to ensure complete records."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Uses documentation",
+      "question": "What information must be included on material submittal documents?",
+      "options": {
+        "A": "Supplier pricing and discounts",
+        "B": "Product specifications, certifications, and compliance data",
+        "C": "Installation crew assignments",
+        "D": "Competitor product comparisons"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pricing information is separate from technical submittals, which focus on specification compliance and product characteristics.",
+        "B": "Submittals must include technical specifications, performance data, certifications, and documentation proving specification and code compliance.",
+        "C": "Crew assignments are scheduling matters separate from material submittal technical documentation.",
+        "D": "Submittals demonstrate that proposed materials meet requirements, not how they compare to competitors' products."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Uses documentation",
+      "question": "Why are shop drawings prepared for complex installations?",
+      "options": {
+        "A": "To provide decorative illustrations for owners",
+        "B": "To show detailed fabrication and installation information not in contract drawings",
+        "C": "To replace manufacturer's installation instructions",
+        "D": "To calculate project costs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Shop drawings are technical working documents providing fabrication detail, not decorative presentation materials.",
+        "B": "Shop drawings provide detailed fabrication, assembly, and installation information specific to the project that general contract drawings don't show.",
+        "C": "Shop drawings supplement rather than replace manufacturer instructions, showing project-specific application details.",
+        "D": "Cost estimation uses different documents; shop drawings focus on technical details needed for fabrication and installation."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Uses documentation",
+      "question": "What is the purpose of maintaining a daily log or report on construction projects?",
+      "options": {
+        "A": "To track worker break times",
+        "B": "To document work performed, conditions, and issues for project record",
+        "C": "To provide busy work for site supervision",
+        "D": "To calculate overtime payments"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While time tracking may be included, daily logs serve broader documentation purposes beyond break time tracking.",
+        "B": "Daily logs create legal records of work progress, site conditions, problems, delays, and decisions for future reference and dispute resolution.",
+        "C": "Daily logs are essential project documentation, not administrative busy work, providing critical protection and information.",
+        "D": "Payroll information may be derived from logs, but their primary purpose is documenting work activities and site conditions."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Uses documentation",
+      "question": "When reviewing plumbing plans, what should be verified first?",
+      "options": {
+        "A": "The architect's signature",
+        "B": "Drawing scale and revision date to ensure current version",
+        "C": "The sheet size and paper quality",
+        "D": "Color coding schemes"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While signature verification confirms approval, checking scale and revision ensures you're working from current, correct information.",
+        "B": "Verifying drawing scale and revision date ensures work proceeds from current, accurate plans, preventing costly errors from outdated information.",
+        "C": "Sheet size and paper quality are irrelevant to technical content; scale and current revision status are critical.",
+        "D": "Color coding is useful but secondary to confirming you have the current revision of the plans."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Uses documentation",
+      "question": "What must be documented when field changes are authorized during installation?",
+      "options": {
+        "A": "Only the materials used",
+        "B": "The change details, authorization, date, and reasons",
+        "C": "The workers involved in the change",
+        "D": "The weather conditions during the change"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Material documentation is insufficient; complete change orders require detail on what changed, why, who authorized it, and when.",
+        "B": "Complete change documentation includes the change description, authorization source, date, reasons, and impact for legal and technical records.",
+        "C": "While crew information may be recorded, the critical documentation is the change itself, authorization, and justification.",
+        "D": "Weather may be noted in daily logs but is rarely relevant to field change documentation unless it caused the need for change."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Uses documentation",
+      "question": "Why must manufacturers' installation instructions be followed?",
+      "options": {
+        "A": "To maintain product warranties and ensure proper performance",
+        "B": "To generate additional work for the project",
+        "C": "To satisfy supplier marketing requirements",
+        "D": "To make installation take longer"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Following manufacturer instructions ensures proper function, prevents damage, maintains warranties, and may be required for code compliance.",
+        "B": "Instructions are provided for proper installation, not to artificially extend project duration or create extra work.",
+        "C": "Instructions are technical requirements for proper installation, not marketing tools or unnecessary supplier demands.",
+        "D": "Proper installation procedures may take appropriate time but are never intended to unnecessarily extend installation duration."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.01 Plans layout for piping systems",
+      "question": "What is the primary consideration when planning pipe routing in a building?",
+      "options": {
+        "A": "Aesthetics and appearance",
+        "B": "Shortest possible run regardless of obstacles",
+        "C": "Code compliance, function, and coordination with other systems",
+        "D": "Minimizing the number of fittings"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While appearance matters, especially in exposed locations, functionality and code compliance take precedence in routing decisions.",
+        "B": "Shortest runs are desirable but must accommodate structural members, other systems, and code requirements like slope and accessibility.",
+        "C": "Piping layout must meet code requirements, maintain proper function (slope, pressure), and coordinate with structural and other building systems.",
+        "D": "Minimizing fittings reduces cost and pressure loss but cannot compromise code compliance, function, or coordination with other trades."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.01 Plans layout for piping systems",
+      "question": "What information is essential when planning underground piping layout?",
+      "options": {
+        "A": "Surface landscaping plans only",
+        "B": "Existing underground utilities, bedding requirements, and slope",
+        "C": "Above-grade building features",
+        "D": "Future building expansion plans"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Surface features are secondary; underground utility locations, proper bedding, and required drainage slope are critical.",
+        "B": "Underground layout requires locating existing utilities to avoid conflicts, ensuring proper bedding for pipe support, and maintaining code-required slope.",
+        "C": "While connection points to buildings matter, the critical planning factors are underground conditions, utilities, and installation requirements.",
+        "D": "Future expansion may influence routing decisions but existing utility locations and immediate installation requirements are primary."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.01 Plans layout for piping systems",
+      "question": "Why is it important to coordinate piping layout with HVAC ductwork?",
+      "options": {
+        "A": "To prevent costly conflicts and ensure both systems fit in available space",
+        "B": "To combine both systems into single chases",
+        "C": "To ensure identical routing for both systems",
+        "D": "To allow plumbing installation to begin first"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Coordination prevents spatial conflicts, eliminates rework, and ensures all systems fit within available space with proper clearances.",
+        "B": "While systems may share chases, coordination is about preventing conflicts, not combining systems into single runs.",
+        "C": "Piping and ductwork have different routing needs and rarely follow identical paths; coordination prevents interference, not creates identical routing.",
+        "D": "Installation sequencing may result from coordination but is not its primary purpose; preventing conflicts is the key benefit."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.01 Plans layout for piping systems",
+      "question": "What slope is typically required for drainage piping?",
+      "options": {
+        "A": "1/8 inch per foot (1%)",
+        "B": "1/4 inch per foot (2%)",
+        "C": "1/2 inch per foot (4%)",
+        "D": "1 inch per foot (8%)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "1/8 inch per foot is below the minimum required slope for drainage piping and will not provide adequate flow velocity.",
+        "B": "The typical minimum slope for drainage piping is 1/4 inch per foot (2%) to maintain proper flow velocity and prevent solids deposition.",
+        "C": "1/2 inch per foot exceeds minimum requirements and, while acceptable, uses more vertical space than necessary.",
+        "D": "1 inch per foot is excessive for most drainage applications and consumes unnecessary vertical space."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.01 Plans layout for piping systems",
+      "question": "When planning piping in finished spaces, what accessibility consideration is most important?",
+      "options": {
+        "A": "Hiding all piping completely within walls",
+        "B": "Ensuring access for future maintenance and repairs",
+        "C": "Using only decorative piping materials",
+        "D": "Avoiding any exposed piping"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Complete concealment may be desirable aesthetically but must not prevent necessary access for repairs and maintenance.",
+        "B": "Layout must provide access panels, removable sections, or exposure at key points to allow future maintenance without destructive removal.",
+        "C": "Material selection affects appearance but accessibility for maintenance is the more critical functional planning consideration.",
+        "D": "Some exposure may be necessary or acceptable; the key is planning access for maintenance, whether piping is exposed or concealed."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.02 Calculates tube, tubing and pipe lengths",
+      "question": "When calculating pipe length for a threaded connection, what must be added to the face-to-face dimension?",
+      "options": {
+        "A": "Thread length only",
+        "B": "Thread engagement length at each end",
+        "C": "Pipe wall thickness",
+        "D": "Fitting outside diameter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Total thread length must be accounted for, but specifically the portion that engages into fittings at each connection point.",
+        "B": "Thread engagement length (typically 1/2 to 3/4 inch per connection) must be added to center-to-center or face-to-face measurements.",
+        "C": "Wall thickness is already included in the pipe outside diameter and not separately added in length calculations.",
+        "D": "Fitting outside diameter is irrelevant to calculating pipe length; thread engagement into the fitting interior is the critical dimension."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.02 Calculates tube, tubing and pipe lengths",
+      "question": "How is the developed length of a pipe run calculated?",
+      "options": {
+        "A": "Straight-line distance between endpoints",
+        "B": "Sum of all straight sections plus centerline lengths through fittings",
+        "C": "Measured from outside to outside of end fittings",
+        "D": "Straight sections only, excluding fittings"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Straight-line distance ignores changes of direction and fitting dimensions, underestimating actual pipe required.",
+        "B": "Developed length sums all straight sections and includes the centerline distances through elbows, tees, and other fittings.",
+        "C": "Outside-to-outside measurement includes fitting body dimensions beyond where pipe actually extends, overestimating pipe length needed.",
+        "D": "Excluding fittings ignores significant length through changes of direction, resulting in substantial underestimation of required pipe."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.02 Calculates tube, tubing and pipe lengths",
+      "question": "What is the purpose of a take-off dimension in pipe fitting?",
+      "options": {
+        "A": "To determine fitting weight",
+        "B": "To calculate the distance from the fitting center to the end of the pipe",
+        "C": "To measure fitting wall thickness",
+        "D": "To determine thread pitch"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Take-off dimensions relate to length calculations for pipe cutting, not fitting weight determination.",
+        "B": "Take-off is the distance from the fitting center to where the pipe ends, used to calculate precise pipe lengths for assemblies.",
+        "C": "Wall thickness is a separate specification; take-off dimensions help calculate pipe lengths in relation to fitting centers.",
+        "D": "Thread pitch is a threading specification unrelated to the length calculation purpose of take-off dimensions."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.02 Calculates tube, tubing and pipe lengths",
+      "question": "When measuring for copper tubing with solder fittings, what allowance must be made?",
+      "options": {
+        "A": "No allowance is necessary",
+        "B": "Fitting socket depth at each connection",
+        "C": "Twice the tubing diameter",
+        "D": "One inch per fitting"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Allowance for socket depth is essential; without it, assemblies will not align correctly when tubing is fully inserted.",
+        "B": "Socket depth (typically 1/2 to 5/8 inch for copper fittings) must be added to center-to-center measurements for proper fit.",
+        "C": "Allowance is based on actual socket depth, not tubing diameter, which varies independently from fitting socket dimensions.",
+        "D": "Socket depth varies by fitting size and type; a fixed one-inch allowance would be incorrect for most applications."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.02 Calculates tube, tubing and pipe lengths",
+      "question": "Why is it important to account for thermal expansion when calculating pipe lengths?",
+      "options": {
+        "A": "To determine insulation thickness needed",
+        "B": "To allow for dimensional changes preventing stress and damage",
+        "C": "To calculate heat loss in the system",
+        "D": "To size expansion tanks"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Insulation thickness relates to energy efficiency, not the need to accommodate dimensional changes from temperature variations.",
+        "B": "Pipes expand and contract with temperature changes; failing to accommodate this movement causes stress, joint failure, or system damage.",
+        "C": "Heat loss calculations use different parameters; expansion consideration addresses mechanical stress from dimensional changes.",
+        "D": "Expansion tanks compensate for system volume changes, while pipe expansion considerations address mechanical stress from length changes."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.03 Installs piping supports",
+      "question": "What is the maximum allowable support spacing for 3/4-inch copper tubing installed horizontally?",
+      "options": {
+        "A": "1.2 meters (4 feet)",
+        "B": "1.8 meters (6 feet)",
+        "C": "2.4 meters (8 feet)",
+        "D": "3.0 meters (10 feet)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "1.2 meters is conservative but closer spacing than required provides no additional benefit for 3/4-inch tubing.",
+        "B": "Maximum support spacing for 3/4-inch horizontal copper tubing is 1.8 meters (6 feet) to prevent sagging and maintain alignment.",
+        "C": "2.4 meters exceeds code requirements and will result in sagging and potential joint stress in 3/4-inch tubing.",
+        "D": "3.0 meters is far too wide for any copper tubing size and will cause severe sagging and system damage."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.03 Installs piping supports",
+      "question": "Where must piping supports be located in addition to regular spacing intervals?",
+      "options": {
+        "A": "At building corners only",
+        "B": "At changes of direction, valves, and heavy components",
+        "C": "Only where specified on drawings",
+        "D": "At every joint regardless of location"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Building corners are arbitrary locations; supports are required at mechanical load points like fittings and equipment.",
+        "B": "Additional supports are required at direction changes, valves, and heavy equipment to prevent stress concentration and support added weight.",
+        "C": "While drawings indicate major supports, code requires additional supports at specific functional locations beyond what may be shown.",
+        "D": "Supporting every joint is excessive and unnecessary; supports are needed at load concentration points and per spacing requirements."
+      }
+    },
+    {
+      "questionNumber": 101,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.03 Installs piping supports",
+      "question": "What type of support must be used for vertical piping?",
+      "options": {
+        "A": "Standard horizontal hangers spaced closer together",
+        "B": "Riser clamps at each floor level or maximum code spacing",
+        "C": "Wire supports from overhead structure",
+        "D": "No supports needed for vertical runs"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Horizontal hangers are designed for vertical loads from horizontal pipes and do not properly support vertical pipe weight.",
+        "B": "Vertical piping requires riser clamps at each floor penetration and at code-specified maximum intervals to carry the pipe weight.",
+        "C": "Wire supports are inadequate for vertical pipe loads and do not prevent pipe slippage or provide required rigid support.",
+        "D": "Vertical piping requires support to prevent cumulative weight from causing joint failure or material elongation."
+      }
+    },
+    {
+      "questionNumber": 102,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.03 Installs piping supports",
+      "question": "Why should pipe supports allow for thermal movement?",
+      "options": {
+        "A": "To reduce installation time",
+        "B": "To prevent noise from expansion and contraction",
+        "C": "To prevent binding, stress, and joint failure from thermal expansion",
+        "D": "To meet aesthetic requirements"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Installation time is unrelated to thermal movement accommodation, which addresses long-term system performance.",
+        "B": "While expansion can cause noise, the critical issue is preventing mechanical stress and damage from restrained thermal movement.",
+        "C": "Supports must allow longitudinal movement to prevent binding, stress buildup, and potential joint or pipe failure from thermal expansion/contraction.",
+        "D": "Thermal movement accommodation is a functional requirement, not an aesthetic consideration."
+      }
+    },
+    {
+      "questionNumber": 103,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.03 Installs piping supports",
+      "question": "What must be installed between piping and metal supports to prevent galvanic corrosion?",
+      "options": {
+        "A": "Grease or oil coating",
+        "B": "Insulating material or appropriate isolation",
+        "C": "Extra support clamps",
+        "D": "Thicker pipe walls"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Grease or oil provides no protection against galvanic corrosion, which requires electrical isolation between dissimilar metals.",
+        "B": "Insulating materials or dielectric isolation prevent galvanic corrosion between dissimilar metals like copper pipe and steel supports.",
+        "C": "Additional clamps increase contact area, potentially worsening galvanic corrosion rather than preventing it.",
+        "D": "Pipe wall thickness does not prevent galvanic corrosion at the pipe-support interface where dissimilar metals contact."
+      }
+    },
+    {
+      "questionNumber": 104,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.04 Installs piping sleeves",
+      "question": "What is the primary purpose of installing sleeves through structural members?",
+      "options": {
+        "A": "To improve aesthetic appearance",
+        "B": "To protect piping from damage and allow for movement and replacement",
+        "C": "To reduce pipe support requirements",
+        "D": "To increase pipe flow capacity"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Appearance is not a factor for concealed sleeves; their purpose is protection and functional access.",
+        "B": "Sleeves protect piping from abrasion and damage while allowing thermal movement, insulation installation, and future pipe replacement.",
+        "C": "Sleeves do not reduce support needs; piping still requires proper support independent of sleeve installation.",
+        "D": "Sleeves protect piping but do not affect internal flow capacity, which is determined by pipe size and condition."
+      }
+    },
+    {
+      "questionNumber": 105,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.04 Installs piping sleeves",
+      "question": "How much larger than the pipe should a sleeve typically be?",
+      "options": {
+        "A": "Exactly the same size as the pipe",
+        "B": "1/2 inch to 1 inch larger in diameter",
+        "C": "2 to 3 pipe sizes larger",
+        "D": "As large as the structural opening allows"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Same-size sleeves provide no clearance for movement, insulation, or replacement, defeating the sleeve's purpose.",
+        "B": "1/2 to 1 inch may be insufficient for insulation, movement allowance, and future replacement access.",
+        "C": "Sleeves typically should be 2 to 3 pipe sizes larger to accommodate insulation, allow movement, and facilitate future replacement.",
+        "D": "Excessively large sleeves waste material, create difficult-to-seal openings, and may compromise structural integrity unnecessarily."
+      }
+    },
+    {
+      "questionNumber": 106,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.04 Installs piping sleeves",
+      "question": "What must be done after installing piping through a fire-rated wall?",
+      "options": {
+        "A": "Paint the pipe red for identification",
+        "B": "Seal the sleeve opening with approved firestopping material",
+        "C": "Install additional supports on both sides",
+        "D": "Label the wall as having piping penetrations"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color coding is not a fire protection measure; proper firestopping is required to maintain fire rating.",
+        "B": "Fire-rated assemblies must be sealed with tested and approved firestopping systems to restore the fire resistance rating.",
+        "C": "While adequate support is necessary, firestopping the penetration is the specific requirement for maintaining fire resistance ratings.",
+        "D": "Labeling may be required but does not restore fire rating; proper firestopping of the penetration is essential."
+      }
+    },
+    {
+      "questionNumber": 107,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.04 Installs piping sleeves",
+      "question": "When should sleeves be installed in concrete or masonry construction?",
+      "options": {
+        "A": "After the concrete has cured",
+        "B": "Before pouring concrete or laying masonry",
+        "C": "During the finishing stage",
+        "D": "After piping has been installed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Installing sleeves after concrete curing requires expensive core drilling and may compromise structural integrity.",
+        "B": "Sleeves must be installed before concrete is poured or masonry is laid to avoid costly drilling and potential structural damage.",
+        "C": "Finishing stage is too late; sleeves must be in place during structural work to avoid requiring later core drilling.",
+        "D": "Sleeves must be installed first to receive piping; installing pipe before sleeves is impossible in solid concrete or masonry."
+      }
+    },
+    {
+      "questionNumber": 108,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.04 Installs piping sleeves",
+      "question": "What special consideration is required for sleeves in exterior walls?",
+      "options": {
+        "A": "Use larger sleeves than for interior walls",
+        "B": "Install waterproofing and flashing to prevent water infiltration",
+        "C": "Use only PVC sleeves regardless of pipe type",
+        "D": "Eliminate sleeves to reduce thermal bridging"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Size requirements are based on pipe and insulation needs, not whether the wall is exterior; weatherproofing is the critical difference.",
+        "B": "Exterior wall penetrations require waterproofing and flashing to prevent water infiltration while maintaining building envelope integrity.",
+        "C": "Sleeve material should be compatible with the piping and environment; PVC is not universally appropriate for all applications.",
+        "D": "Sleeves are necessary for protection regardless of location; thermal bridging is managed through insulation, not by eliminating sleeves."
+      }
+    },
+    {
+      "questionNumber": 109,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.05 Commissions systems",
+      "question": "What is the first step in commissioning a new plumbing system?",
+      "options": {
+        "A": "Turn on all fixtures and observe operation",
+        "B": "Verify system completion and conduct visual inspection for defects",
+        "C": "Pressure test the system at maximum pressure",
+        "D": "Fill the system with water immediately"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Operating fixtures without prior inspection and testing risks damage and wastes time if defects exist.",
+        "B": "Visual inspection verifies work completion, identifies obvious defects, and ensures readiness for testing before energizing the system.",
+        "C": "Pressure testing is an important step but should follow visual inspection to identify obvious defects first.",
+        "D": "Filling systems without inspection and testing can damage components and obscure leak locations if defects exist."
+      }
+    },
+    {
+      "questionNumber": 110,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.05 Commissions systems",
+      "question": "What must be done before pressure testing a water distribution system?",
+      "options": {
+        "A": "Install all fixtures",
+        "B": "Flush the system thoroughly to remove debris",
+        "C": "Paint all exposed piping",
+        "D": "Install permanent supports"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fixtures are typically installed after successful testing to prevent damage; test plugs can substitute during testing.",
+        "B": "Flushing removes installation debris that could damage components, clog strainers, or interfere with proper testing.",
+        "C": "Painting is a finishing activity separate from testing; it does not affect test validity or system readiness.",
+        "D": "Supports should already be installed during construction; they are not specifically a pre-test activity."
+      }
+    },
+    {
+      "questionNumber": 111,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.05 Commissions systems",
+      "question": "What test pressure is typically required for water distribution piping systems?",
+      "options": {
+        "A": "System working pressure",
+        "B": "1.5 times the working pressure",
+        "C": "50 psi regardless of working pressure",
+        "D": "Maximum pump pressure"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Working pressure testing is insufficient to verify adequate safety margin and system integrity under stress conditions.",
+        "B": "Test pressure is typically 1.5 times working pressure (or code minimum) to verify system integrity with adequate safety margin.",
+        "C": "Fixed pressure ignores actual working pressure; testing must relate to system design pressure for meaningful verification.",
+        "D": "Maximum pump pressure may exceed necessary test pressure and could damage components not designed for such pressure."
+      }
+    },
+    {
+      "questionNumber": 112,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.05 Commissions systems",
+      "question": "How long should pressure be maintained during a standard water system pressure test?",
+      "options": {
+        "A": "15 minutes minimum",
+        "B": "1 hour minimum",
+        "C": "4 hours minimum",
+        "D": "24 hours"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "15 minutes is insufficient; small leaks may not become apparent in such a short test period.",
+        "B": "Minimum test duration is typically one hour at specified pressure to allow small leaks to become apparent.",
+        "C": "While longer testing provides additional confidence, one hour is the typical minimum code requirement.",
+        "D": "24-hour testing is excessive for most applications; standard testing requires a minimum of one hour."
+      }
+    },
+    {
+      "questionNumber": 113,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.05 Commissions systems",
+      "question": "What should be done if a pressure drop occurs during system testing?",
+      "options": {
+        "A": "Accept minor pressure drops as normal",
+        "B": "Locate and repair leaks, then retest",
+        "C": "Increase the test pressure to compensate",
+        "D": "Shorten the test duration"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Any pressure drop during testing indicates leakage requiring repair; no pressure loss is acceptable during proper testing.",
+        "B": "Pressure drops indicate leaks that must be located, repaired, and retested to verify system integrity.",
+        "C": "Increasing pressure does not fix leaks and may cause additional damage; leaks must be found and repaired.",
+        "D": "Reducing test duration does not address leaks; proper procedure requires finding and repairing all leaks, then retesting."
+      }
+    },
+    {
+      "questionNumber": 114,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.06 Protects piping systems, equipment and structure from damage",
+      "question": "What is the primary method of protecting piping during cold weather?",
+      "options": {
+        "A": "Running water continuously through pipes",
+        "B": "Proper insulation and heat tracing where needed",
+        "C": "Draining systems completely",
+        "D": "Increasing system pressure"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Running water continuously wastes water and is unreliable if flow stops; proper insulation is the primary protection method.",
+        "B": "Insulation prevents heat loss, and heat tracing provides supplemental heating for pipes in freezing conditions or unheated spaces.",
+        "C": "While draining protects seasonal systems, active systems require insulation and heating to maintain service during cold weather.",
+        "D": "Increased pressure does not prevent freezing and may worsen damage when frozen water expands."
+      }
+    },
+    {
+      "questionNumber": 115,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.06 Protects piping systems, equipment and structure from damage",
+      "question": "How should pipes passing through structural members be protected?",
+      "options": {
+        "A": "Pack tightly against the structural members",
+        "B": "Install sleeves with adequate clearance and seal penetrations",
+        "C": "Wrap with tape at the penetration point",
+        "D": "Use flexible pipe through all penetrations"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tight packing restricts thermal movement, causes abrasion, and prevents future replacement or insulation installation.",
+        "B": "Sleeves provide clearance to prevent abrasion and binding while allowing penetration sealing for fire, sound, and pest control.",
+        "C": "Tape provides no structural protection and will deteriorate; proper sleeves and firestopping are required.",
+        "D": "Pipe type selection is based on application requirements; sleeves are needed regardless of pipe flexibility."
+      }
+    },
+    {
+      "questionNumber": 116,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.06 Protects piping systems, equipment and structure from damage",
+      "question": "What protection is required for piping in high-traffic areas?",
+      "options": {
+        "A": "Painting in bright colors",
+        "B": "Physical guards or barriers to prevent impact damage",
+        "C": "Additional support hangers",
+        "D": "Higher grade piping materials"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Paint provides visibility but no physical protection against impact from vehicles, equipment, or foot traffic.",
+        "B": "Bollards, guards, or barriers prevent physical impact damage to piping from vehicles, equipment, and foot traffic.",
+        "C": "Additional supports prevent sagging but do not protect against lateral impact from traffic or equipment.",
+        "D": "Material upgrades may improve durability but physical barriers are the appropriate protection against impact damage."
+      }
+    },
+    {
+      "questionNumber": 117,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.06 Protects piping systems, equipment and structure from damage",
+      "question": "Why must expansion joints be protected from damage?",
+      "options": {
+        "A": "They are expensive components",
+        "B": "They are critical for preventing system stress and failure",
+        "C": "Building codes require protected expansion joints",
+        "D": "They improve system appearance"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While cost is a consideration, the critical issue is their essential function in preventing system damage from thermal expansion.",
+        "B": "Expansion joints accommodate thermal movement; damage prevents proper function, causing system stress, leaks, and potential failure.",
+        "C": "Codes may require expansion joints, but protection is driven by their critical function, not just code compliance.",
+        "D": "Appearance is not the reason for protection; functional integrity of these critical components is the concern."
+      }
+    },
+    {
+      "questionNumber": 118,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.06 Protects piping systems, equipment and structure from damage",
+      "question": "What precaution prevents water hammer damage in piping systems?",
+      "options": {
+        "A": "Using larger pipe sizes throughout",
+        "B": "Installing water hammer arrestors at quick-closing valves",
+        "C": "Increasing system pressure",
+        "D": "Eliminating all branch lines"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Larger pipes may reduce velocity but do not eliminate pressure surges; arrestors are needed to absorb surge energy.",
+        "B": "Water hammer arrestors absorb pressure surges from quick-closing valves, preventing damage to pipes, fittings, and fixtures.",
+        "C": "Increased pressure worsens water hammer effects; pressure reduction and surge suppression are appropriate controls.",
+        "D": "System configuration should meet functional needs; water hammer is controlled through arrestors, not by eliminating branches."
+      }
+    },
+    {
+      "questionNumber": 119,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.07 Coordinates excavation and backfilling of trenches",
+      "question": "What is the minimum safe trench width for installing underground piping?",
+      "options": {
+        "A": "Exactly the outside diameter of the pipe",
+        "B": "Pipe diameter plus minimum 12 inches (30 cm) of working space",
+        "C": "Any width that allows pipe placement",
+        "D": "Width determined by excavation equipment only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Trenches exactly matching pipe diameter prevent proper bedding, inspection, jointing, and worker safety.",
+        "B": "Minimum trench width is pipe diameter plus adequate working clearance (typically 12 inches) for proper installation and worker safety.",
+        "C": "Adequate width ensures worker safety, proper bedding, joint assembly, and inspection; minimum widths prevent unsafe conditions.",
+        "D": "Equipment capabilities influence excavation but do not determine safe minimum width, which is driven by installation and safety needs."
+      }
+    },
+    {
+      "questionNumber": 120,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.07 Coordinates excavation and backfilling of trenches",
+      "question": "What must be verified before workers enter an excavation deeper than 1.2 meters (4 feet)?",
+      "options": {
+        "A": "Atmospheric testing for hazardous gases",
+        "B": "Proper shoring, sloping, or shielding is in place",
+        "C": "Ladder access is provided",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Atmospheric testing is critical but not the only requirement; proper protective systems and egress must also be verified.",
+        "B": "Protective systems prevent cave-ins but atmospheric hazards and egress access are also required safety elements.",
+        "C": "Ladder access is essential but does not address cave-in protection or atmospheric hazards.",
+        "D": "Deep excavations require cave-in protection, atmospheric testing, and egress access all to be verified before entry."
+      }
+    },
+    {
+      "questionNumber": 121,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.07 Coordinates excavation and backfilling of trenches",
+      "question": "What type of bedding material is typically required under underground piping?",
+      "options": {
+        "A": "Native soil as excavated",
+        "B": "Graded crushed stone or approved granular material",
+        "C": "Concrete in all cases",
+        "D": "Compacted clay"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Native soil may contain rocks, debris, or unsuitable material that can damage pipes; specified bedding is required.",
+        "B": "Graded crushed stone or approved granular material provides uniform support, drainage, and protection from point loads.",
+        "C": "Concrete bedding is only required in specific situations; granular bedding is standard for most underground piping.",
+        "D": "Clay retains water and provides poor drainage; free-draining granular material is preferred for pipe bedding."
+      }
+    },
+    {
+      "questionNumber": 122,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.07 Coordinates excavation and backfilling of trenches",
+      "question": "What is the purpose of compacting backfill material in layers?",
+      "options": {
+        "A": "To speed up the backfilling process",
+        "B": "To prevent settlement and maintain pipe grade and alignment",
+        "C": "To reduce the amount of backfill material needed",
+        "D": "To improve soil appearance"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Layered compaction takes more time than bulk backfilling but is necessary for proper support and settlement prevention.",
+        "B": "Proper compaction in layers prevents settlement that would disturb pipe grade, create depressions, and potentially damage piping.",
+        "C": "Compaction increases density but does not reduce volume; the same amount of material is needed regardless of compaction method.",
+        "D": "Appearance is not relevant for buried backfill; structural support and settlement prevention are the critical concerns."
+      }
+    },
+    {
+      "questionNumber": 123,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.07 Coordinates excavation and backfilling of trenches",
+      "question": "When should underground piping be tested and inspected?",
+      "options": {
+        "A": "After complete backfilling",
+        "B": "Before backfilling while piping remains visible and accessible",
+        "C": "Several months after installation",
+        "D": "Only if problems are suspected"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Testing after backfilling prevents leak location and repair without costly re-excavation; testing must occur while piping is exposed.",
+        "B": "Testing and inspection before backfilling allows visible leak detection, repair, and verification while piping remains accessible.",
+        "C": "Delayed testing risks undiscovered leaks causing damage and requires expensive excavation for repairs discovered after backfilling.",
+        "D": "Testing is mandatory, not optional; proactive testing before backfilling prevents costly future repairs and damage."
+      }
+    },
+    {
+      "questionNumber": 124,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.08 Installs fire stopping devices and materials",
+      "question": "What is the primary purpose of firestopping penetrations through fire-rated assemblies?",
+      "options": {
+        "A": "To prevent pipe vibration transmission",
+        "B": "To maintain the fire resistance rating of the assembly",
+        "C": "To provide acoustic isolation",
+        "D": "To prevent pest infiltration"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Vibration isolation is a separate concern; firestopping specifically addresses fire spread and smoke migration.",
+        "B": "Firestopping restores the fire resistance rating of walls and floors compromised by piping penetrations, preventing fire and smoke spread.",
+        "C": "While some firestop systems provide acoustic benefits, their primary purpose is fire and smoke containment.",
+        "D": "Pest control is a separate issue; firestopping focuses on maintaining fire resistance ratings and preventing smoke migration."
+      }
+    },
+    {
+      "questionNumber": 125,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.08 Installs fire stopping devices and materials",
+      "question": "What must be verified before installing firestopping materials?",
+      "options": {
+        "A": "That the system is listed and approved for the specific application",
+        "B": "That the material is the least expensive option",
+        "C": "That the material matches the color of the surrounding structure",
+        "D": "That installation can be completed quickly"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Firestop systems must be tested and listed for the specific penetration configuration, pipe type, and fire rating to ensure effectiveness.",
+        "B": "Cost cannot compromise life safety; approved systems meeting performance requirements must be used regardless of cost.",
+        "C": "Color is irrelevant for concealed firestopping; fire resistance performance is the critical requirement.",
+        "D": "Installation speed is secondary to using properly listed and tested systems that will perform as required."
+      }
+    },
+    {
+      "questionNumber": 126,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-5.01 Uses communication techniques",
+      "question": "What is the most effective method for communicating complex technical information to non-technical personnel?",
+      "options": {
+        "A": "Using detailed technical terminology",
+        "B": "Providing written specifications only",
+        "C": "Using clear language, visual aids, and confirming understanding",
+        "D": "Assuming they will ask questions if confused"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Technical jargon confuses non-technical audiences; clear language appropriate to the audience's knowledge level is essential.",
+        "B": "Written specifications alone may not be understood; combining multiple communication methods improves comprehension.",
+        "C": "Effective communication uses audience-appropriate language, visual aids for clarity, and verification of understanding through feedback.",
+        "D": "Assuming understanding without confirmation creates miscommunication; active verification of comprehension is necessary."
+      }
+    },
+    {
+      "questionNumber": 127,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-5.01 Uses communication techniques",
+      "question": "Why is active listening important in workplace communication?",
+      "options": {
+        "A": "To appear interested while planning your response",
+        "B": "To fully understand others' perspectives, identify issues, and prevent errors",
+        "C": "To occupy time during meetings",
+        "D": "To avoid having to read written communications"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Active listening requires genuine attention to understand, not performing interest while mentally preparing responses.",
+        "B": "Active listening ensures understanding of others' concerns, identifies potential problems early, and prevents miscommunication that leads to errors.",
+        "C": "Active listening is a purposeful skill for effective communication, not a time-filling activity.",
+        "D": "Written communications serve different purposes; listening skills enhance but do not replace written documentation."
+      }
+    },
+    {
+      "questionNumber": 128,
+      "block": "A",
+      "task": "A-5",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-5.02 Uses mentoring techniques",
+      "question": "What is the primary goal of mentoring apprentices in the plumbing trade?",
+      "options": {
+        "A": "To reduce the mentor's workload",
+        "B": "To develop competent, safe, professional tradespeople",
+        "C": "To demonstrate the mentor's superiority",
+        "D": "To complete projects faster"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While mentees eventually contribute more, mentoring initially requires time investment; workload reduction is not the primary goal.",
+        "B": "Mentoring develops skilled, safety-conscious professionals who maintain trade standards and ensure future workforce quality.",
+        "C": "Mentoring is about developing others, not demonstrating superiority; effective mentors focus on apprentice growth.",
+        "D": "While trained apprentices improve efficiency long-term, skill development and safety are the primary mentoring objectives."
+      }
+    }
+  ]
+}

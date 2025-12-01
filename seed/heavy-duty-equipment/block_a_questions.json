@@ -1,0 +1,1393 @@
+{
+  "block": "A",
+  "blockTitle": "Common Occupational Skills",
+  "totalQuestions": 66,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.01 Maintains tools and equipment",
+      "question": "What is the correct procedure for storing precision measuring tools?",
+      "options": {
+        "A": "Store in a clean, dry toolbox with protective cases.",
+        "B": "Leave them on the workbench after use.",
+        "C": "Store them in a bucket with other hand tools.",
+        "D": "Hang them on a pegboard exposed to the elements."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Precision tools require protection from moisture, dust, and impact to maintain accuracy.",
+        "B": "Leaving tools exposed risks damage and contamination.",
+        "C": "Mixing with other tools causes damage to precision surfaces.",
+        "D": "Exposure to weather causes rust and calibration loss."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.01 Maintains tools and equipment",
+      "question": "How often should hydraulic jacks be inspected?",
+      "options": {
+        "A": "Only when they fail.",
+        "B": "Before each use and during scheduled maintenance intervals.",
+        "C": "Once per year regardless of usage.",
+        "D": "Never, they are maintenance-free."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Waiting for failure is unsafe and can cause accidents.",
+        "B": "Pre-use inspection catches defects before they cause injury or equipment damage.",
+        "C": "Heavily used jacks require more frequent inspection.",
+        "D": "All lifting equipment requires regular inspection."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.01 Maintains tools and equipment",
+      "question": "What indicates that a hand tool should be removed from service?",
+      "options": {
+        "A": "It looks slightly used.",
+        "B": "It's a different brand than others.",
+        "C": "It shows cracks, mushroomed heads, or excessive wear.",
+        "D": "It's more than one year old."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Normal wear doesn't require removal if tool is safe.",
+        "B": "Brand doesn't affect safety if tool is in good condition.",
+        "C": "Damaged tools are unsafe and can cause injury or failed work.",
+        "D": "Age alone doesn't determine serviceability; condition does."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.01 Maintains tools and equipment",
+      "question": "What is the proper way to clean air tools after use?",
+      "options": {
+        "A": "Submerge in water.",
+        "B": "Add a few drops of air tool oil through the air inlet.",
+        "C": "Never clean air tools.",
+        "D": "Use gasoline to flush internal parts."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Water causes rust and damage to internal components.",
+        "B": "Air tool oil lubricates and protects internal parts from rust.",
+        "C": "Air tools require lubrication to prevent wear and corrosion.",
+        "D": "Gasoline is dangerous and doesn't provide proper lubrication."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.02 Uses hoisting and lifting equipment",
+      "question": "What is the correct procedure before using a chain hoist to lift an engine block?",
+      "options": {
+        "A": "Inspect the hoist for damage and verify load rating.",
+        "B": "Lubricate the chain after the lift.",
+        "C": "Secure the chain by tying a knot for extra grip.",
+        "D": "Test the hoist by lifting maximum load immediately."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Always inspect and confirm the hoist's capacity before use.",
+        "B": "Lubrication should be done during maintenance, not before use.",
+        "C": "Tying knots weakens the chain and is unsafe.",
+        "D": "Never test at maximum load; start with a light load check."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.02 Uses hoisting and lifting equipment",
+      "question": "What is the maximum angle from vertical that lifting slings should be used at?",
+      "options": {
+        "A": "90 degrees.",
+        "B": "60 degrees.",
+        "C": "45 degrees.",
+        "D": "30 degrees."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "90 degrees creates excessive horizontal force on slings.",
+        "B": "Most manufacturers specify 60 degrees maximum to prevent overloading.",
+        "C": "While safer, 45 degrees is more conservative than the standard limit.",
+        "D": "This is overly restrictive for most applications."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.02 Uses hoisting and lifting equipment",
+      "question": "When using a crane or hoist, what must be ensured about the load?",
+      "options": {
+        "A": "The load should swing freely during transport.",
+        "B": "The load is balanced and secured before lifting.",
+        "C": "The load exceeds the rated capacity for testing.",
+        "D": "The load is lifted as quickly as possible."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Loads should be controlled, not swinging freely.",
+        "B": "Unbalanced or unsecured loads can shift and cause accidents.",
+        "C": "Exceeding capacity is dangerous and damages equipment.",
+        "D": "Lifts should be smooth and controlled, not rushed."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.02 Uses hoisting and lifting equipment",
+      "question": "What must be verified on a wire rope sling before use?",
+      "options": {
+        "A": "That it's painted the correct color.",
+        "B": "That it has no broken wires, kinks, or excessive wear.",
+        "C": "That it's the cheapest option available.",
+        "D": "That it's never been used before."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color doesn't indicate safety or capacity.",
+        "B": "Damaged wire rope can fail suddenly, causing serious injury or death.",
+        "C": "Cost doesn't determine safety or suitability.",
+        "D": "Properly maintained used slings are acceptable if in good condition."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.03 Operates access equipment",
+      "question": "What is the first safety check when using a scissor lift?",
+      "options": {
+        "A": "Check that the lift is on firm, level ground.",
+        "B": "Raise the platform to maximum height immediately.",
+        "C": "Remove all safety railings for easier access.",
+        "D": "Operate without reviewing controls."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Unstable ground can cause the lift to tip over.",
+        "B": "Pre-operational checks must be completed before raising.",
+        "C": "Removing safety railings creates a fall hazard.",
+        "D": "Familiarization with controls prevents accidents."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.03 Operates access equipment",
+      "question": "What is required when working from an elevated work platform?",
+      "options": {
+        "A": "Wearing a properly anchored fall arrest system.",
+        "B": "Standing on the guardrails for extra reach.",
+        "C": "Overloading the platform to save trips.",
+        "D": "Working alone without communication."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Fall protection prevents serious injury or death from falls.",
+        "B": "Standing on guardrails is extremely dangerous and violates safety rules.",
+        "C": "Overloading exceeds capacity and can cause platform failure.",
+        "D": "Communication and monitoring are important safety practices."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.03 Operates access equipment",
+      "question": "Before moving an aerial work platform, what should be verified?",
+      "options": {
+        "A": "That the platform is fully lowered or at safe travel height per manufacturer specs.",
+        "B": "That the platform is at maximum height.",
+        "C": "That workers are standing on the edge.",
+        "D": "That the ground is muddy."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Traveling with platform elevated increases tip-over risk; follow manufacturer guidelines.",
+        "B": "Maximum height during travel is extremely dangerous.",
+        "C": "Workers should be properly positioned inside railings.",
+        "D": "Muddy ground is unstable and should be avoided."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What PPE is required when grinding metal?",
+      "options": {
+        "A": "Safety glasses or face shield, hearing protection, and appropriate gloves.",
+        "B": "Only sunglasses.",
+        "C": "No PPE is needed for grinding.",
+        "D": "Rain gear."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Grinding produces sparks, debris, and noise requiring comprehensive protection.",
+        "B": "Sunglasses don't provide adequate impact protection.",
+        "C": "Grinding without PPE causes serious eye and hearing injuries.",
+        "D": "Rain gear doesn't protect against grinding hazards."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "When should safety boots with steel toes be worn?",
+      "options": {
+        "A": "Only when carrying heavy objects.",
+        "B": "At all times in the shop and field when working on heavy equipment.",
+        "C": "Never, they're uncomfortable.",
+        "D": "Only on Fridays."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Foot hazards exist from dropped parts, rolling equipment, and crushing hazards constantly.",
+        "B": "Heavy equipment work environments have constant foot injury risks requiring protection.",
+        "C": "Comfort doesn't override safety requirements.",
+        "D": "Protection is required whenever hazards are present."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What type of respirator is required when working with spray paint or chemicals?",
+      "options": {
+        "A": "Dust mask.",
+        "B": "Appropriate respirator rated for organic vapors or chemicals being used.",
+        "C": "No respiratory protection needed.",
+        "D": "Cloth bandana."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dust masks don't filter vapors or fumes.",
+        "B": "Chemical-rated respirators protect against toxic vapors and fumes.",
+        "C": "Chemical exposure without protection causes serious health problems.",
+        "D": "Cloth provides no protection against chemical vapors."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What indicates that hearing protection should be worn?",
+      "options": {
+        "A": "When noise levels require shouting to communicate.",
+        "B": "Only during music concerts.",
+        "C": "When working in silence.",
+        "D": "Hearing protection is never necessary."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "If you must raise your voice to be heard, noise levels are likely above 85 dBA and require protection.",
+        "B": "Workplace noise hazards require protection, not just recreational exposure.",
+        "C": "Silent environments don't require hearing protection.",
+        "D": "Prolonged noise exposure causes permanent hearing loss."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "When must high-visibility clothing be worn?",
+      "options": {
+        "A": "When working near moving equipment or in areas with vehicle traffic.",
+        "B": "Only at night.",
+        "C": "Never in the shop.",
+        "D": "Only when requested by supervisor."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "High-visibility clothing ensures operators can see workers, preventing accidents.",
+        "B": "Visibility is important during all lighting conditions with traffic hazards.",
+        "C": "Shops often have moving equipment requiring visibility.",
+        "D": "Workers should recognize hazards and wear appropriate PPE proactively."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "How should welding helmets be maintained?",
+      "options": {
+        "A": "Keep lenses clean, check auto-darkening function, replace damaged parts.",
+        "B": "Never clean the lens.",
+        "C": "Use any damaged helmet available.",
+        "D": "Store in direct sunlight."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper maintenance ensures clear vision and eye protection from arc radiation.",
+        "B": "Dirty lenses reduce visibility and work quality.",
+        "C": "Damaged helmets don't provide adequate protection.",
+        "D": "Sunlight can damage auto-darkening sensors."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses personal protective equipment (PPE) and safety equipment",
+      "question": "What should be done with damaged or worn PPE?",
+      "options": {
+        "A": "Continue using it until completely destroyed.",
+        "B": "Remove from service and replace immediately.",
+        "C": "Give it to a newer worker.",
+        "D": "Store it for emergency use."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Damaged PPE doesn't provide adequate protection.",
+        "B": "Compromised PPE should be removed and replaced to ensure worker safety.",
+        "C": "Damaged equipment is unsafe for anyone.",
+        "D": "Damaged PPE won't provide protection in emergencies."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.01 Maintains fluids",
+      "question": "How often should hydraulic fluid levels be checked?",
+      "options": {
+        "A": "Once per year.",
+        "B": "Daily or before each shift, and after any service.",
+        "C": "Only when the machine stops working.",
+        "D": "Never, fluid levels are automatic."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Annual checks are insufficient for fluid that can leak or be consumed.",
+        "B": "Daily checks catch leaks early and prevent damage from low fluid levels.",
+        "C": "Waiting for failure causes expensive damage.",
+        "D": "Fluid levels require manual checking and maintenance."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.01 Maintains fluids",
+      "question": "What indicates that coolant should be replaced?",
+      "options": {
+        "A": "Discoloration, contamination, or when test strips show depleted additives.",
+        "B": "When it's still clear and clean.",
+        "C": "Coolant never needs replacement.",
+        "D": "Only if it smells bad."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Degraded coolant loses corrosion protection and heat transfer properties.",
+        "B": "Appearance alone doesn't indicate chemical condition.",
+        "C": "Coolant additives deplete over time requiring replacement.",
+        "D": "Smell is not a reliable indicator of coolant condition."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.01 Maintains fluids",
+      "question": "What is the correct procedure for disposing of used engine oil?",
+      "options": {
+        "A": "Pour it on the ground.",
+        "B": "Mix it with other chemicals and discard.",
+        "C": "Store in approved containers and recycle through authorized waste oil collection.",
+        "D": "Burn it in a barrel."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Illegal and environmentally harmful.",
+        "B": "Mixing creates hazardous waste disposal problems.",
+        "C": "Proper disposal protects environment and complies with regulations.",
+        "D": "Burning used oil creates toxic emissions and is usually illegal."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.01 Maintains fluids",
+      "question": "When adding hydraulic fluid to a system, what must be verified?",
+      "options": {
+        "A": "That it's the correct type and specification for the system.",
+        "B": "That it's the cheapest available.",
+        "C": "That it's any color of fluid.",
+        "D": "That it's water-based."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Wrong fluid types cause seal damage, poor performance, and system failure.",
+        "B": "Cost doesn't indicate suitability or quality.",
+        "C": "Color doesn't determine compatibility.",
+        "D": "Most hydraulic systems use petroleum or synthetic oil-based fluids."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.02 Services fasteners, sealing devices, adhesives and gaskets",
+      "question": "What is the purpose of using a torque wrench on critical fasteners?",
+      "options": {
+        "A": "To ensure fasteners are tightened to manufacturer's specifications.",
+        "B": "To make fasteners easier to remove.",
+        "C": "To break fasteners intentionally.",
+        "D": "Torque specifications don't matter."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper torque prevents both under-tightening (loosening) and over-tightening (breaking).",
+        "B": "Torque wrenches ensure proper tightness, not ease of removal.",
+        "C": "Proper torque prevents breaking.",
+        "D": "Incorrect torque causes joint failure or component damage."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.02 Services fasteners, sealing devices, adhesives and gaskets",
+      "question": "When should threadlocker be applied to fasteners?",
+      "options": {
+        "A": "On all fasteners regardless of application.",
+        "B": "When specified by manufacturer to prevent vibration loosening.",
+        "C": "Never use threadlocker.",
+        "D": "Only on plastic parts."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Threadlocker isn't always necessary or appropriate.",
+        "B": "Threadlocker prevents loosening in vibration-prone applications when specified.",
+        "C": "Threadlocker is necessary for many critical fasteners.",
+        "D": "Threadlocker is primarily used on metal fasteners."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.02 Services fasteners, sealing devices, adhesives and gaskets",
+      "question": "What indicates a fastener should be replaced rather than reused?",
+      "options": {
+        "A": "The fastener is slightly dirty.",
+        "B": "The fastener shows thread damage, stretching, or is a torque-to-yield type.",
+        "C": "The fastener is metric.",
+        "D": "All fasteners can be reused indefinitely."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dirt can be cleaned; it doesn't require replacement.",
+        "B": "Damaged or TTY fasteners don't provide reliable clamping force.",
+        "C": "Metric vs. imperial doesn't determine reusability.",
+        "D": "Many fasteners are designed for single use or have limited reuse."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.02 Services fasteners, sealing devices, adhesives and gaskets",
+      "question": "How should gasket surfaces be prepared before installation?",
+      "options": {
+        "A": "Leave old gasket material in place.",
+        "B": "Clean thoroughly, removing all old gasket material and checking for flatness.",
+        "C": "Roughen with a wire wheel.",
+        "D": "Apply excessive amounts of sealant to fill gaps."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Old gasket material prevents proper sealing.",
+        "B": "Clean, flat surfaces ensure proper gasket compression and sealing.",
+        "C": "Rough surfaces damage gaskets and create leak paths.",
+        "D": "Excessive sealant can block passages and doesn't compensate for poor surface prep."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.03 Services hoses, tubing, piping and fittings",
+      "question": "What indicates a hydraulic hose should be replaced?",
+      "options": {
+        "A": "The hose is a different color than when new.",
+        "B": "Visible cracks, bulging, leaks, or abraded outer cover.",
+        "C": "The hose is more than one day old.",
+        "D": "Hoses never need replacement."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color change alone doesn't indicate failure.",
+        "B": "These conditions indicate hose deterioration that will lead to failure.",
+        "C": "Age isn't the only factor; condition determines replacement need.",
+        "D": "Hoses degrade and require periodic replacement."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.03 Services hoses, tubing, piping and fittings",
+      "question": "How should hydraulic fittings be tightened?",
+      "options": {
+        "A": "As tight as possible using a pipe wrench.",
+        "B": "Hand-tight only.",
+        "C": "Follow manufacturer torque specifications or wrench flat recommendations.",
+        "D": "Until the fitting breaks."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Over-tightening damages fittings and can crack components.",
+        "B": "Hand-tight typically doesn't provide adequate sealing.",
+        "C": "Proper tightening ensures sealing without damage.",
+        "D": "Breaking fittings causes leaks and requires replacement."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.03 Services hoses, tubing, piping and fittings",
+      "question": "What is the correct procedure when installing new hydraulic hoses?",
+      "options": {
+        "A": "Install with tight bends and twists to save space.",
+        "B": "Route to avoid sharp bends, heat sources, and abrasion points; secure properly.",
+        "C": "Let hoses hang loosely without support.",
+        "D": "Cut hoses to random lengths."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sharp bends and twists restrict flow and damage hoses.",
+        "B": "Proper routing and support maximize hose life and prevent failure.",
+        "C": "Unsupported hoses abrade and fail prematurely.",
+        "D": "Hoses must be cut to proper length for application."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.03 Services hoses, tubing, piping and fittings",
+      "question": "Why must hydraulic systems be depressurized before disconnecting hoses?",
+      "options": {
+        "A": "To make the job take longer.",
+        "B": "To prevent high-pressure fluid injection injuries and oil spray.",
+        "C": "Depressurization isn't necessary.",
+        "D": "To drain all fluid from the system."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Depressurization is for safety, not time management.",
+        "B": "Hydraulic injection injuries are severe and pressurized oil spray is dangerous.",
+        "C": "Working on pressurized systems is extremely dangerous.",
+        "D": "Depressurization doesn't drain the system, just relieves pressure."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.04 Services bearings and seals",
+      "question": "What is the correct method to install a press-fit bearing?",
+      "options": {
+        "A": "Hammer directly on the bearing.",
+        "B": "Use a press or driver that applies force to the bearing race being installed.",
+        "C": "Heat the bearing with a torch until red hot.",
+        "D": "Tap it in with a chisel."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hammering damages bearing races and balls/rollers.",
+        "B": "Proper tools distribute force correctly without bearing damage.",
+        "C": "Excessive heat destroys bearing metallurgy and seals.",
+        "D": "Chisels damage bearings and don't provide even force."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.04 Services bearings and seals",
+      "question": "How should new seals be installed?",
+      "options": {
+        "A": "Lubricate with appropriate lubricant and install using proper seal driver or press.",
+        "B": "Install dry and hammer in place.",
+        "C": "Reuse old seals to save money.",
+        "D": "Install inside-out."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Lubrication prevents installation damage and proper tools ensure square, even seating.",
+        "B": "Dry installation damages seals and hammering can cock them crooked.",
+        "C": "Old seals don't seal properly and will leak.",
+        "D": "Incorrect orientation causes immediate leakage."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.04 Services bearings and seals",
+      "question": "What indicates bearing failure?",
+      "options": {
+        "A": "Smooth, quiet operation.",
+        "B": "Unusual noise, excessive heat, or rough rotation.",
+        "C": "The bearing is properly lubricated.",
+        "D": "Normal operating temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Smooth, quiet operation indicates good condition.",
+        "B": "These symptoms indicate bearing wear or damage requiring replacement.",
+        "C": "Proper lubrication is normal maintenance, not a failure indicator.",
+        "D": "Normal temperature suggests proper operation."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.04 Services bearings and seals",
+      "question": "Why should bearings be inspected for contamination?",
+      "options": {
+        "A": "Contamination doesn't affect bearings.",
+        "B": "Dirt and debris cause premature wear and failure.",
+        "C": "For cosmetic purposes only.",
+        "D": "Bearings are self-cleaning."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Contamination is a primary cause of bearing failure.",
+        "B": "Contaminants act as abrasives, rapidly destroying bearing surfaces.",
+        "C": "Inspection is functional, not cosmetic.",
+        "D": "Bearings require clean lubrication to function properly."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.05 Services safety features",
+      "question": "How often should safety guards and shields be inspected?",
+      "options": {
+        "A": "Before each use and during regular maintenance intervals.",
+        "B": "Only when they fall off.",
+        "C": "Once when equipment is new.",
+        "D": "Safety guards don't need inspection."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular inspection ensures guards protect operators from moving parts and hazards.",
+        "B": "Waiting for failure defeats the purpose of safety devices.",
+        "C": "Guards can be damaged during operation and require ongoing inspection.",
+        "D": "Damaged or missing guards create serious injury hazards."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.05 Services safety features",
+      "question": "What should be done if a safety interlock is malfunctioning?",
+      "options": {
+        "A": "Bypass it to keep working.",
+        "B": "Tag the equipment out of service and repair immediately.",
+        "C": "Ignore it if the machine still runs.",
+        "D": "Remove the interlock permanently."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bypassing safety devices is dangerous and often illegal.",
+        "B": "Interlocks prevent operation in unsafe conditions; they must be functional.",
+        "C": "Interlocks are critical safety devices regardless of whether machine runs.",
+        "D": "Removing safety devices creates liability and endangers operators."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.05 Services safety features",
+      "question": "What must be verified on backup alarms and warning lights?",
+      "options": {
+        "A": "That they're disconnected for quiet operation.",
+        "B": "That they function properly and are audible/visible in the work environment.",
+        "C": "That they're painted a different color.",
+        "D": "Warning devices aren't necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Disabling warning devices creates serious safety hazards.",
+        "B": "Functional warnings protect nearby workers from equipment hazards.",
+        "C": "Function matters more than appearance.",
+        "D": "Warning devices are required safety features."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.06 Performs scheduled maintenance procedures",
+      "question": "Why is scheduled maintenance important?",
+      "options": {
+        "A": "It's not important; only fix things when they break.",
+        "B": "It prevents breakdowns, extends equipment life, and maintains safety.",
+        "C": "To make the equipment look cleaner.",
+        "D": "To keep mechanics busy."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Reactive maintenance is more expensive and causes unplanned downtime.",
+        "B": "Preventive maintenance is cost-effective and improves reliability and safety.",
+        "C": "Appearance is a minor benefit, not the primary purpose.",
+        "D": "Maintenance prevents failures, not just creates work."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.06 Performs scheduled maintenance procedures",
+      "question": "What information is found in an equipment service manual?",
+      "options": {
+        "A": "Maintenance intervals, specifications, and procedures.",
+        "B": "Only the equipment serial number.",
+        "C": "Recipes for cooking.",
+        "D": "Service manuals aren't useful."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Service manuals provide essential information for proper maintenance.",
+        "B": "Manuals contain comprehensive technical information.",
+        "C": "Service manuals are technical documents.",
+        "D": "Manuals are critical references for proper service."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.06 Performs scheduled maintenance procedures",
+      "question": "What should be recorded after completing scheduled maintenance?",
+      "options": {
+        "A": "Nothing; documentation isn't necessary.",
+        "B": "Date, hours, services performed, parts replaced, and technician signature.",
+        "C": "Only the date.",
+        "D": "Maintenance doesn't need recording."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Documentation tracks maintenance history and supports warranty claims.",
+        "B": "Comprehensive records enable proper scheduling and troubleshooting.",
+        "C": "Detailed information is needed for effective maintenance tracking.",
+        "D": "Records are legally required for many applications and essential for fleet management."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.07 Identifies operational faults",
+      "question": "What is the first step when diagnosing an operational fault?",
+      "options": {
+        "A": "Replace random parts until it works.",
+        "B": "Gather information about symptoms and when the problem occurs.",
+        "C": "Ignore the problem.",
+        "D": "Blame the operator."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Random replacement wastes time and money.",
+        "B": "Systematic diagnosis starts with understanding the problem and conditions.",
+        "C": "Ignoring faults leads to equipment damage and safety issues.",
+        "D": "Focus should be on finding and fixing the root cause."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.07 Identifies operational faults",
+      "question": "What diagnostic approach helps isolate hydraulic system faults?",
+      "options": {
+        "A": "Check fluid level, then test pressure, flow, and temperature systematically.",
+        "B": "Immediately replace the most expensive component.",
+        "C": "Add more fluid without checking.",
+        "D": "Diagnosis isn't necessary."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Systematic testing from simple to complex isolates problems efficiently.",
+        "B": "Expensive parts shouldn't be replaced without proper diagnosis.",
+        "C": "Adding fluid doesn't identify the root cause of problems.",
+        "D": "Proper diagnosis prevents unnecessary repairs and downtime."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.08 Performs operational check-out",
+      "question": "What should be verified during an operational checkout after repairs?",
+      "options": {
+        "A": "That the repair fixed the problem and no new issues were created.",
+        "B": "Nothing; just return equipment to service.",
+        "C": "Only check if the engine starts.",
+        "D": "Operational checkout isn't necessary."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Thorough checkout ensures repairs were successful and safe operation is restored.",
+        "B": "Returning equipment without verification risks safety and creates comebacks.",
+        "C": "Comprehensive functional testing is required beyond just starting.",
+        "D": "Checkout is a critical quality control step."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs general maintenance and inspections",
+      "subtask": "A-2.08 Performs operational check-out",
+      "question": "What should be tested during a hydraulic system operational checkout?",
+      "options": {
+        "A": "All functions for proper operation, speed, and no leaks.",
+        "B": "Only test one function.",
+        "C": "Don't test anything.",
+        "D": "Just look at the machine."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Comprehensive testing ensures all systems work properly after service.",
+        "B": "All functions must be verified for complete checkout.",
+        "C": "Testing is essential to verify repairs.",
+        "D": "Visual inspection alone doesn't confirm functional operation."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Uses documentation and reference materials",
+      "question": "What is the purpose of wiring diagrams?",
+      "options": {
+        "A": "To show electrical circuits, connections, and component locations.",
+        "B": "Decoration for the shop wall.",
+        "C": "They have no practical use.",
+        "D": "To confuse technicians."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Wiring diagrams are essential for electrical diagnosis and repair.",
+        "B": "Diagrams are functional tools, not decorations.",
+        "C": "Diagrams are critical for complex electrical work.",
+        "D": "Proper diagrams clarify systems when understood correctly."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Uses documentation and reference materials",
+      "question": "Where should specifications for torque values be found?",
+      "options": {
+        "A": "Guess based on experience.",
+        "B": "In the manufacturer's service manual or technical specifications.",
+        "C": "Torque values are all the same.",
+        "D": "Ask random people."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Guessing can result in broken fasteners or inadequate clamping.",
+        "B": "Manufacturer specifications ensure proper fastener tightening.",
+        "C": "Torque values vary significantly by application and fastener size.",
+        "D": "Reliable specifications come from manufacturer documentation."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.01 Uses documentation and reference materials",
+      "question": "What information do hydraulic schematics provide?",
+      "options": {
+        "A": "Component symbols, flow paths, and system operation.",
+        "B": "Paint colors only.",
+        "C": "Nothing useful.",
+        "D": "Recipe for hydraulic fluid."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Schematics show how hydraulic systems function and aid in troubleshooting.",
+        "B": "Schematics contain technical information, not cosmetic details.",
+        "C": "Schematics are essential diagnostic tools.",
+        "D": "Schematics show system design, not fluid formulas."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Completes documentation",
+      "question": "Why must work orders be completed accurately?",
+      "options": {
+        "A": "For billing, warranty tracking, and maintenance history.",
+        "B": "Work orders aren't important.",
+        "C": "To create extra paperwork.",
+        "D": "Only supervisors need to know what was done."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Accurate documentation supports business operations and equipment management.",
+        "B": "Work orders are critical business and technical documents.",
+        "C": "Documentation serves essential purposes, not busywork.",
+        "D": "Comprehensive records benefit multiple stakeholders."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.02 Completes documentation",
+      "question": "What should be recorded on parts requisition forms?",
+      "options": {
+        "A": "Part numbers, descriptions, quantities, and equipment information.",
+        "B": "Random numbers.",
+        "C": "Nothing specific.",
+        "D": "Parts don't need documentation."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Detailed information ensures correct parts are ordered and tracked.",
+        "B": "Accurate information is essential for parts management.",
+        "C": "Specific details prevent ordering errors.",
+        "D": "Parts tracking supports inventory and cost control."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Communicates with others",
+      "question": "What is the best way to communicate technical information to operators?",
+      "options": {
+        "A": "Use clear, simple language avoiding unnecessary jargon.",
+        "B": "Use only complex technical terms.",
+        "C": "Don't communicate with operators.",
+        "D": "Yell at them."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Clear communication ensures operators understand equipment status and requirements.",
+        "B": "Excessive jargon confuses non-technical personnel.",
+        "C": "Communication prevents misunderstandings and improves safety.",
+        "D": "Professional, respectful communication is essential."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.03 Communicates with others",
+      "question": "When should safety concerns be reported?",
+      "options": {
+        "A": "Immediately when identified.",
+        "B": "At the end of the year.",
+        "C": "Never report safety issues.",
+        "D": "Only if someone gets injured."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Prompt reporting prevents accidents and demonstrates professional responsibility.",
+        "B": "Delays allow hazards to persist and potentially cause injuries.",
+        "C": "Reporting safety issues is a professional and often legal obligation.",
+        "D": "Prevention is the goal; don't wait for injuries."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.04 Prepares job action plan",
+      "question": "What should be included in a job action plan?",
+      "options": {
+        "A": "Required tools, parts, safety procedures, and estimated time.",
+        "B": "Nothing; just start working.",
+        "C": "Only the job number.",
+        "D": "Planning wastes time."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Comprehensive planning improves efficiency and ensures resources are available.",
+        "B": "Lack of planning leads to delays and incomplete work.",
+        "C": "Detailed planning information is needed.",
+        "D": "Planning saves time by preventing interruptions and rework."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.04 Prepares job action plan",
+      "question": "Why should job sequences be considered during planning?",
+      "options": {
+        "A": "To ensure logical work flow and prevent having to redo steps.",
+        "B": "Sequence doesn't matter.",
+        "C": "Always start with the hardest task.",
+        "D": "Random order is best."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sequencing prevents blocking access and improves efficiency.",
+        "B": "Poor sequence causes rework and extends job time.",
+        "C": "Logical sequence, not difficulty, should guide task order.",
+        "D": "Planned sequence is more efficient than random approach."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.05 Maintains safe work environment",
+      "question": "How should spilled fluids be handled in the work area?",
+      "options": {
+        "A": "Leave them for someone else to clean.",
+        "B": "Clean immediately using appropriate absorbent materials.",
+        "C": "Cover with a mat and ignore.",
+        "D": "Spills aren't a concern."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Leaving spills creates slip hazards and shows lack of professionalism.",
+        "B": "Immediate cleanup prevents injuries and environmental contamination.",
+        "C": "Covering doesn't eliminate the hazard.",
+        "D": "Spills are serious slip and environmental hazards."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.05 Maintains safe work environment",
+      "question": "What should be done with tools and parts during work?",
+      "options": {
+        "A": "Organize and place in designated areas to prevent trip hazards.",
+        "B": "Scatter randomly around the work area.",
+        "C": "Leave on the floor in walkways.",
+        "D": "Throw them across the shop."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Organization prevents injuries, damage, and lost tools.",
+        "B": "Scattered items create hazards and inefficiency.",
+        "C": "Walkway obstructions cause trips and falls.",
+        "D": "Throwing tools is dangerous and damages equipment."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Organizes work",
+      "subtask": "A-3.05 Maintains safe work environment",
+      "question": "When must fire extinguishers be accessible?",
+      "options": {
+        "A": "Only during fire drills.",
+        "B": "At all times, with clear access paths and proper signage.",
+        "C": "Fire extinguishers can be blocked.",
+        "D": "They're just decorative."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Extinguishers must be accessible for actual emergencies.",
+        "B": "Clear access to extinguishers can save lives and property.",
+        "C": "Blocking extinguishers is a serious safety violation.",
+        "D": "Extinguishers are critical emergency equipment."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.01 Heats materials",
+      "question": "What safety precautions are necessary when using a cutting torch?",
+      "options": {
+        "A": "Check for leaks, ensure proper ventilation, and keep fire extinguisher nearby.",
+        "B": "No precautions needed.",
+        "C": "Work in enclosed spaces without ventilation.",
+        "D": "Ignore gas cylinder labels."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Torch work involves fire, explosive gases, and fumes requiring comprehensive safety measures.",
+        "B": "Torch work has multiple serious hazards requiring precautions.",
+        "C": "Enclosed spaces trap fumes and increase fire risk.",
+        "D": "Cylinder labels contain critical safety information."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.01 Heats materials",
+      "question": "Why should heat be applied carefully when removing seized fasteners?",
+      "options": {
+        "A": "To prevent damaging nearby components and causing fires.",
+        "B": "Heat doesn't help with seized fasteners.",
+        "C": "Apply maximum heat to everything.",
+        "D": "Careful application doesn't matter."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Controlled heat application loosens fasteners without collateral damage.",
+        "B": "Controlled heating expands metal and often breaks corrosion bonds.",
+        "C": "Excessive or misdirected heat damages components and creates hazards.",
+        "D": "Careless heating causes damage and safety issues."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.02 Cools materials",
+      "question": "What is the purpose of quenching heated metal parts?",
+      "options": {
+        "A": "To harden the metal or speed cooling depending on material and method.",
+        "B": "Quenching serves no purpose.",
+        "C": "To make the metal softer always.",
+        "D": "Just for fun."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Quenching affects metallurgy; rapid cooling can harden steel while controlled cooling tempers it.",
+        "B": "Quenching significantly affects material properties.",
+        "C": "Quenching effects depend on material and cooling rate.",
+        "D": "Quenching is a deliberate metallurgical process."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.03 Cuts materials",
+      "question": "What PPE is required when using a cut-off saw or grinder?",
+      "options": {
+        "A": "Face shield or safety glasses, hearing protection, and gloves.",
+        "B": "No PPE needed.",
+        "C": "Only a hat.",
+        "D": "Sunglasses only."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Cutting produces sparks, debris, and noise requiring comprehensive protection.",
+        "B": "Cutting operations have multiple hazards requiring PPE.",
+        "C": "Hats don't protect against cutting hazards.",
+        "D": "Sunglasses don't provide adequate impact protection."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.03 Cuts materials",
+      "question": "What must be verified before cutting into a hydraulic component?",
+      "options": {
+        "A": "That the system is completely depressurized and drained.",
+        "B": "Nothing; just cut immediately.",
+        "C": "That pressure is at maximum.",
+        "D": "Verification isn't necessary."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Cutting pressurized components causes dangerous oil spray and injection injuries.",
+        "B": "Cutting without verification is extremely dangerous.",
+        "C": "Maximum pressure makes cutting catastrophically dangerous.",
+        "D": "Verification is critical for safety."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.04 Welds materials",
+      "question": "What must be done before welding on equipment with electronic components?",
+      "options": {
+        "A": "Disconnect battery cables and isolate sensitive electronic modules.",
+        "B": "Weld directly without precautions.",
+        "C": "Leave all systems connected.",
+        "D": "Electronics aren't affected by welding."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Welding current can damage electronic control modules and components.",
+        "B": "Welding without protection destroys expensive electronics.",
+        "C": "Connected systems are vulnerable to electrical damage.",
+        "D": "Electronics are very sensitive to welding currents."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.04 Welds materials",
+      "question": "What ventilation is required when welding?",
+      "options": {
+        "A": "Adequate ventilation or fume extraction to prevent inhaling welding fumes.",
+        "B": "No ventilation needed.",
+        "C": "Weld in sealed, enclosed spaces.",
+        "D": "Fumes are harmless."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Welding fumes contain toxic metals and gases requiring proper ventilation.",
+        "B": "Welding fumes cause serious respiratory problems.",
+        "C": "Sealed spaces concentrate dangerous fumes.",
+        "D": "Welding fumes are health hazards requiring protection."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.05 Cleans parts and materials",
+      "question": "What is the proper way to clean parts before assembly?",
+      "options": {
+        "A": "Use appropriate solvent, clean thoroughly, and dry completely.",
+        "B": "Leave dirt and grease on parts.",
+        "C": "Use gasoline exclusively.",
+        "D": "Cleaning isn't necessary."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Clean, dry parts ensure proper assembly and prevent contamination.",
+        "B": "Contaminated parts cause premature wear and failure.",
+        "C": "Gasoline is dangerous; proper solvents should be used.",
+        "D": "Cleanliness is critical for precision assemblies."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.05 Cleans parts and materials",
+      "question": "How should parts washers be maintained?",
+      "options": {
+        "A": "Change solvent regularly, clean filters, and ensure proper operation.",
+        "B": "Never change the solvent.",
+        "C": "Remove safety features.",
+        "D": "Parts washers don't need maintenance."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Clean solvent and functional equipment ensure effective parts cleaning.",
+        "B": "Contaminated solvent loses cleaning effectiveness.",
+        "C": "Safety features prevent fires and injuries.",
+        "D": "Regular maintenance ensures parts washer effectiveness and safety."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Performs routine trade activities",
+      "subtask": "A-4.05 Cleans parts and materials",
+      "question": "What safety precautions apply when using cleaning solvents?",
+      "options": {
+        "A": "Use in ventilated areas, wear appropriate PPE, and follow product safety data sheets.",
+        "B": "No precautions needed.",
+        "C": "Use in enclosed spaces without ventilation.",
+        "D": "Ignore safety labels."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Solvents can be toxic, flammable, or skin irritants requiring proper handling.",
+        "B": "Solvents have multiple health and safety hazards.",
+        "C": "Enclosed spaces trap vapors creating health and fire hazards.",
+        "D": "Safety labels contain critical hazard and handling information."
+      }
+    }
+  ]
+}

@@ -7,8 +7,6 @@ export const authClient = createAuthClient({
   plugins: [
     adminClient(),
     emailOTPClient(),
-    stripeClient({
-      subscription: true,
-    }),
+    stripeClient(), // Apenas para criar customer, sem subscription
   ],
 });

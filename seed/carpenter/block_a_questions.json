@@ -1,0 +1,2024 @@
+{
+  "block": "A",
+  "blockTitle": "Performs Common Occupational Skills",
+  "blockDescription": "Uses and maintains tools, equipment and PPE, following safety procedures and basic job-site practices",
+  "totalQuestions": 96,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.01 Uses hand, power and pneumatic tools",
+      "question": "What is the primary safety concern when using a pneumatic nail gun on a construction site?",
+      "options": {
+        "A": "Battery life depletion",
+        "B": "Air compressor noise levels",
+        "C": "Accidental discharge when not aimed at work surface",
+        "D": "Weight of the tool causing fatigue"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Pneumatic tools do not use batteries; they operate on compressed air, making battery life irrelevant.",
+        "B": "While noise is a concern requiring hearing protection, it is not the primary safety hazard specific to nail gun operation.",
+        "C": "Accidental discharge is the most serious safety risk with pneumatic nail guns, potentially causing severe injuries. Tools must always be pointed at the work surface and trigger discipline maintained.",
+        "D": "Though ergonomics matter, the immediate danger of unintended fastener discharge poses greater risk than tool weight."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.01 Uses hand, power and pneumatic tools",
+      "question": "When using a circular saw to make a plunge cut, what is the proper technique?",
+      "options": {
+        "A": "Start the saw with the blade touching the material",
+        "B": "Retract the lower guard, position the front of the base plate on the work, then lower the spinning blade into the cut",
+        "C": "Use the highest speed setting available",
+        "D": "Remove the lower guard permanently for better visibility"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Starting a saw with the blade in contact with material can cause kickback and loss of control, creating a dangerous situation.",
+        "B": "For plunge cuts, the guard is retracted, the base plate is firmly positioned, and the running blade is carefully lowered into the material while maintaining control.",
+        "C": "Speed setting should match the material being cut; highest speed is not always appropriate and doesn't address plunge cut technique.",
+        "D": "Removing safety guards permanently violates safety regulations and exposes operators to severe injury risk."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.01 Uses hand, power and pneumatic tools",
+      "question": "What is the recommended air pressure for most pneumatic framing nailers?",
+      "options": {
+        "A": "50-70 PSI",
+        "B": "70-120 PSI",
+        "C": "120-150 PSI",
+        "D": "150-200 PSI"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This pressure is too low for most framing nailers and would result in insufficient driving force for fasteners.",
+        "B": "Most pneumatic framing nailers operate optimally between 70-120 PSI, providing adequate driving power while preventing over-penetration and material damage.",
+        "C": "This pressure range is excessive for standard framing work and may cause fastener over-penetration or tool damage.",
+        "D": "Such high pressure far exceeds manufacturer specifications and creates safety hazards including tool failure and fastener blow-through."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.01 Uses hand, power and pneumatic tools",
+      "question": "When using a reciprocating saw for demolition work, which blade type is most appropriate for cutting through nails embedded in wood?",
+      "options": {
+        "A": "Fine-tooth wood blade",
+        "B": "Carbide-tipped demolition blade",
+        "C": "High-speed steel metal cutting blade",
+        "D": "Diamond grit blade"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fine-tooth wood blades will dull quickly or break when encountering nails and are not designed for demolition applications.",
+        "B": "Carbide-tipped demolition blades are specifically designed to cut through wood containing nails, screws, and other embedded metal fasteners without damage.",
+        "C": "While metal cutting blades can cut nails, they cut wood inefficiently and are not optimized for demolition work with mixed materials.",
+        "D": "Diamond grit blades are designed for masonry and tile, not for general demolition or wood with embedded fasteners."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.01 Uses hand, power and pneumatic tools",
+      "question": "What is the purpose of the anti-kickback feature on a table saw blade guard?",
+      "options": {
+        "A": "To increase cutting speed",
+        "B": "To prevent the workpiece from being thrown back toward the operator",
+        "C": "To reduce blade dulling",
+        "D": "To eliminate the need for a riving knife"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Anti-kickback devices are safety features and do not increase cutting speed; they may actually slightly reduce feed rate.",
+        "B": "Anti-kickback pawls grip the workpiece and prevent it from being violently thrown backward if the blade binds, protecting the operator from serious injury.",
+        "C": "This feature has no effect on blade sharpness or longevity; it is purely a safety mechanism.",
+        "D": "Both anti-kickback pawls and riving knives serve complementary safety functions and should be used together, not as replacements for each other."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.02 Uses stationary tools",
+      "question": "When operating a table saw, what is the maximum distance the blade should extend above the workpiece?",
+      "options": {
+        "A": "3 mm (1/8 in.)",
+        "B": "6 mm (1/4 in.)",
+        "C": "One full tooth height",
+        "D": "As high as possible for maximum cutting power"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This extension is insufficient and may cause burning, inefficient cutting, and increased kickback risk.",
+        "B": "While closer to correct, this measurement doesn't account for varying tooth heights on different blades.",
+        "C": "The blade should extend approximately one full tooth height above the workpiece, providing efficient cutting while minimizing exposed blade and reducing kickback potential.",
+        "D": "Excessive blade exposure increases danger from accidental contact and does not improve cutting performance."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.02 Uses stationary tools",
+      "question": "What is the primary purpose of a featherboard when using a table saw?",
+      "options": {
+        "A": "To measure board thickness",
+        "B": "To hold the workpiece firmly against the fence and table during cutting",
+        "C": "To collect sawdust",
+        "D": "To support long workpieces"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Featherboards are not measuring devices; they are safety and accuracy aids during cutting operations.",
+        "B": "Featherboards apply consistent pressure to hold material against the fence and table, preventing lifting and sideways movement for safer, more accurate cuts.",
+        "C": "While featherboards may be near dust collection areas, their purpose is workpiece control, not dust management.",
+        "D": "Outfeed tables or roller stands support long pieces; featherboards provide lateral and downward pressure for control."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.02 Uses stationary tools",
+      "question": "When using a radial arm saw, in which direction should the blade rotation pull the material?",
+      "options": {
+        "A": "Away from the fence",
+        "B": "Toward the fence",
+        "C": "Upward from the table",
+        "D": "Direction doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "This direction would pull the workpiece away from the fence, causing dangerous movement and inaccurate cuts.",
+        "B": "The blade should rotate so it pulls the workpiece toward the fence, holding it securely during the cut and preventing workpiece movement.",
+        "C": "Upward rotation would lift the workpiece off the table, creating a highly dangerous condition.",
+        "D": "Blade rotation direction is critical for safety and must always pull material toward the fence and down to the table."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.02 Uses stationary tools",
+      "question": "What is the recommended minimum distance to keep hands from a jointer cutterhead during operation?",
+      "options": {
+        "A": "50 mm (2 in.)",
+        "B": "100 mm (4 in.)",
+        "C": "150 mm (6 in.)",
+        "D": "300 mm (12 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This distance is dangerously close to the cutterhead and provides inadequate safety margin.",
+        "B": "While better than 50 mm, this distance is still too close for safe jointer operation.",
+        "C": "Hands should be kept at least 150 mm (6 in.) from the cutterhead, and push blocks or push sticks should be used when working closer.",
+        "D": "While this would be very safe, it's impractical for many operations and exceeds typical safety requirements."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.02 Uses stationary tools",
+      "question": "When cutting sheet materials on a panel saw, what safety feature is most important?",
+      "options": {
+        "A": "Blade depth adjustment",
+        "B": "Vertical sliding carriage with proper panel support",
+        "C": "Variable speed control",
+        "D": "Laser guide system"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While important, blade depth is a standard feature on many saws and not unique to panel saw safety.",
+        "B": "The vertical sliding carriage with adequate panel support prevents large sheets from tipping or binding, which is the primary safety concern when cutting full sheets.",
+        "C": "Most panel saws operate at fixed speeds appropriate for sheet goods; variable speed is not a primary safety feature.",
+        "D": "Laser guides improve accuracy but are not safety features; proper material support prevents dangerous situations."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.03 Uses powder-actuated tools",
+      "question": "What color-coded power level is typically used for fastening to concrete?",
+      "options": {
+        "A": "Grey (lowest power)",
+        "B": "Yellow (medium-low power)",
+        "C": "Purple (medium-high power)",
+        "D": "Red (highest power)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Grey loads are the weakest and typically used for soft materials like wood or drywall, insufficient for concrete.",
+        "B": "Yellow loads are low-medium power, generally inadequate for driving fasteners into concrete effectively.",
+        "C": "Purple loads (medium-high power) are commonly used for concrete applications, providing sufficient force without excessive power that could cause spalling.",
+        "D": "Red loads are maximum power and typically reserved for the hardest materials or thickest base materials; purple is more common for standard concrete."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.03 Uses powder-actuated tools",
+      "question": "What is the minimum distance from an edge when using powder-actuated fasteners in concrete?",
+      "options": {
+        "A": "25 mm (1 in.)",
+        "B": "50 mm (2 in.)",
+        "C": "75 mm (3 in.)",
+        "D": "100 mm (4 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This distance is far too close and would likely cause concrete spalling or cracking.",
+        "B": "While better, 50 mm is still insufficient to prevent edge breakout in most concrete applications.",
+        "C": "A minimum of 75 mm (3 in.) from edges is required to prevent concrete spalling and ensure proper fastener holding power.",
+        "D": "While this would provide extra safety margin, 100 mm exceeds the typical minimum requirement."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.03 Uses powder-actuated tools",
+      "question": "What should be done if a powder-actuated tool fails to fire?",
+      "options": {
+        "A": "Immediately inspect the tool",
+        "B": "Wait 30 seconds before removing the load",
+        "C": "Shake the tool vigorously",
+        "D": "Try firing again immediately"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Immediate inspection is dangerous as there may be a delayed ignition; proper waiting time must be observed.",
+        "B": "Wait at least 30 seconds with the tool pointed at the work surface before removing the load, as delayed ignition can occur.",
+        "C": "Shaking the tool could trigger a delayed ignition and cause serious injury; the tool must remain pointed at work surface.",
+        "D": "Attempting to fire again immediately is dangerous and against safety protocols; the waiting period must be observed first."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.03 Uses powder-actuated tools",
+      "question": "What type of eye protection is required when operating powder-actuated tools?",
+      "options": {
+        "A": "Regular prescription glasses",
+        "B": "Safety glasses with side shields",
+        "C": "Face shield only",
+        "D": "Face shield over safety glasses"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Regular glasses provide no impact protection and are completely inadequate for this application.",
+        "B": "Safety glasses alone don't provide sufficient protection from potential fragmentation and ricochets from powder-actuated tools.",
+        "C": "A face shield alone can allow fragments to enter from below or sides; it must be used with safety glasses.",
+        "D": "Both a face shield and safety glasses are required to provide complete protection from the high-velocity projectiles and fragments generated by powder-actuated tools."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses lifting, rigging and hoisting equipment",
+      "question": "What is the minimum safe working load factor for fiber rope used in lifting operations?",
+      "options": {
+        "A": "3:1",
+        "B": "5:1",
+        "C": "7:1",
+        "D": "10:1"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "A 3:1 safety factor is insufficient for lifting operations and does not meet regulatory requirements.",
+        "B": "Fiber rope used for lifting must have a minimum safety factor of 5:1, meaning the rope's breaking strength must be at least five times the maximum expected load.",
+        "C": "While a higher safety factor provides extra margin, 7:1 exceeds the minimum requirement.",
+        "D": "A 10:1 factor is unnecessarily high for fiber rope in lifting applications and may result in using oversized, impractical rope."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses lifting, rigging and hoisting equipment",
+      "question": "When using a choker hitch, how is the load capacity affected compared to a vertical hitch?",
+      "options": {
+        "A": "Increased by 25%",
+        "B": "No change",
+        "C": "Reduced by approximately 25%",
+        "D": "Reduced by approximately 50%"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "A choker hitch does not increase capacity; the angle and friction actually reduce the effective strength.",
+        "B": "The choker configuration creates stress concentrations and bending that significantly reduce capacity.",
+        "C": "A choker hitch typically reduces the load capacity to about 75% of the vertical hitch rating due to the sharp bend and friction at the choke point.",
+        "D": "While choker hitches do reduce capacity, a 50% reduction is too severe; the typical reduction is closer to 25%."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses lifting, rigging and hoisting equipment",
+      "question": "What is the maximum angle from vertical for each leg in a two-leg bridle sling to maintain rated capacity?",
+      "options": {
+        "A": "15 degrees",
+        "B": "30 degrees",
+        "C": "45 degrees",
+        "D": "60 degrees"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "While 15 degrees would be very safe, it's unnecessarily restrictive and not the standard maximum.",
+        "B": "30 degrees is well within safe limits but is not the maximum allowable angle.",
+        "C": "45 degrees is approaching the limit but is not the standard maximum angle specified.",
+        "D": "A maximum angle of 60 degrees from vertical (or 120 degrees included angle between legs) is the standard limit to maintain rated capacity in bridle sling configurations."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses lifting, rigging and hoisting equipment",
+      "question": "What condition requires a synthetic web sling to be removed from service?",
+      "options": {
+        "A": "Light surface dirt",
+        "B": "Mild discoloration from sun exposure",
+        "C": "Cuts or tears in the webbing",
+        "D": "Slightly faded identification tag"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Light surface dirt can be cleaned and does not compromise sling integrity or require removal from service.",
+        "B": "Minor discoloration alone is not sufficient cause for removal unless accompanied by material degradation.",
+        "C": "Any cuts, tears, snags, or broken stitching in synthetic webbing compromises strength and requires immediate removal from service.",
+        "D": "While tags should be legible, a faded tag doesn't affect sling integrity; it may need replacement but doesn't require removing the sling if otherwise serviceable."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.04 Uses lifting, rigging and hoisting equipment",
+      "question": "When hand signals are used for crane operations, what does a clenched fist signal indicate?",
+      "options": {
+        "A": "Raise the load",
+        "B": "Lower the load",
+        "C": "Stop",
+        "D": "Emergency stop"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Raising is typically signaled by pointing upward with index finger and rotating hand; a fist is not the raise signal.",
+        "B": "Lowering is signaled by pointing downward with index finger and rotating hand, not with a clenched fist.",
+        "C": "A clenched fist held stationary is the standard hand signal for 'stop' in crane operations, indicating all motion should cease.",
+        "D": "Emergency stop is typically signaled by rapidly moving extended arms; a clenched fist indicates a normal stop."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.05 Uses layout instruments and equipment",
+      "question": "What is the primary advantage of using a laser level over a builder's level for foundation layout?",
+      "options": {
+        "A": "Lower cost",
+        "B": "Better accuracy in windy conditions",
+        "C": "Ability to work alone without a rod person",
+        "D": "Greater range"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Laser levels are typically more expensive than traditional builder's levels, not less costly.",
+        "B": "Wind doesn't significantly affect either instrument's accuracy when properly set up on stable tripods.",
+        "C": "Laser levels project a visible reference line or plane, allowing one person to work independently without needing someone to hold a level rod.",
+        "D": "Quality builder's levels can match or exceed laser level range depending on conditions and models."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.05 Uses layout instruments and equipment",
+      "question": "When using the 3-4-5 method to establish a square corner, what is the diagonal measurement?",
+      "options": {
+        "A": "4 units",
+        "B": "5 units",
+        "C": "7 units",
+        "D": "12 units"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Four units is one leg of the triangle, not the diagonal (hypotenuse).",
+        "B": "In the 3-4-5 triangle method, the diagonal (hypotenuse) measures 5 units when the two perpendicular sides measure 3 and 4 units, proving a 90-degree angle.",
+        "C": "Seven units is the sum of 3+4 but not the diagonal measurement; it doesn't represent the hypotenuse.",
+        "D": "Twelve units is the triangle's perimeter (3+4+5), not the diagonal measurement."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.05 Uses layout instruments and equipment",
+      "question": "What is the proper way to hold a level rod when taking elevation readings?",
+      "options": {
+        "A": "Lean it against your body for stability",
+        "B": "Hold it plumb using the rod level or by eye",
+        "C": "Tilt it slightly toward the instrument",
+        "D": "Rest it on the ground and step away"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Leaning the rod against the body causes it to tilt from plumb, resulting in inaccurate readings.",
+        "B": "The rod must be held perfectly plumb (vertical) using an attached rod level or by carefully checking by eye to ensure accurate elevation measurements.",
+        "C": "Any tilt from vertical creates errors in readings; the rod must be precisely plumb.",
+        "D": "The rod person must hold and control the rod during readings; stepping away would prevent proper plumbing and reading verification."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.05 Uses layout instruments and equipment",
+      "question": "When setting up an optical level, what should be done after leveling the instrument?",
+      "options": {
+        "A": "Begin taking readings immediately",
+        "B": "Focus the eyepiece to your vision",
+        "C": "Check that the bubble remains centered when rotated 360 degrees",
+        "D": "Adjust the tripod height"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Additional verification is needed before taking readings to ensure the instrument is properly leveled.",
+        "B": "While eyepiece focus is important, verifying level accuracy across all positions is the critical next step after initial leveling.",
+        "C": "After leveling, rotate the instrument 360 degrees to verify the bubble stays centered in all positions, confirming proper adjustment before taking measurements.",
+        "D": "Tripod height should be set before leveling the instrument, not after."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.05 Uses layout instruments and equipment",
+      "question": "What is the purpose of a turning point when running levels over long distances?",
+      "options": {
+        "A": "To mark corners in the layout",
+        "B": "To relocate the instrument and continue the level run",
+        "C": "To check level accuracy",
+        "D": "To establish property boundaries"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Turning points are not related to marking corners; they're used for elevation transfers over distance.",
+        "B": "A turning point is a stable intermediate point used to transfer elevation when the level must be moved to continue measuring beyond the instrument's visible range.",
+        "C": "While accuracy can be verified during the process, turning points primarily serve to extend the level run beyond single setup range.",
+        "D": "Property boundaries are established through surveying, not by turning points in level runs."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.06 Uses tack welding equipment",
+      "question": "What is the primary purpose of tack welding in carpentry applications?",
+      "options": {
+        "A": "Creating permanent structural connections",
+        "B": "Temporarily holding steel components in position before final fastening",
+        "C": "Cutting metal materials",
+        "D": "Heating metal for bending"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While tack welds do join materials, their primary carpentry purpose is temporary positioning rather than permanent structural connection.",
+        "B": "Carpenters use tack welding to temporarily secure steel plates, brackets, or embedments in forms or structures before concrete pour or permanent fastening.",
+        "C": "Cutting requires different equipment such as torch cutting or plasma cutting, not tack welding.",
+        "D": "While welding generates heat, tack welding is for joining, not for controlled heating for forming operations."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.06 Uses tack welding equipment",
+      "question": "What amperage range is typically used for tack welding with 1/8 inch (3.2 mm) electrodes?",
+      "options": {
+        "A": "20-40 amps",
+        "B": "50-80 amps",
+        "C": "90-120 amps",
+        "D": "150-200 amps"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "This amperage is far too low for 1/8 inch electrodes and would result in poor arc stability and weak welds.",
+        "B": "While higher, this range is still insufficient for proper penetration with 1/8 inch electrodes.",
+        "C": "90-120 amps is the typical range for 1/8 inch electrodes, providing adequate penetration for tack welds without excessive heat input.",
+        "D": "This amperage is too high for 1/8 inch electrodes and would cause burn-through and excessive spatter."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.06 Uses tack welding equipment",
+      "question": "What safety equipment is required when performing tack welding operations?",
+      "options": {
+        "A": "Safety glasses only",
+        "B": "Welding helmet with proper shade lens, leather gloves, and protective clothing",
+        "C": "Face shield and cotton gloves",
+        "D": "Hard hat and safety glasses"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Safety glasses provide no protection from welding arc radiation and are completely inadequate.",
+        "B": "Proper arc welding PPE includes a helmet with shade 10-14 lens, leather welding gloves, flame-resistant clothing, and leather boots to protect from arc radiation, sparks, and spatter.",
+        "C": "Face shields don't provide adequate arc radiation protection, and cotton gloves offer insufficient heat and spark protection.",
+        "D": "This PPE is inadequate for welding; specific welding protection is required for eye, face, hand, and body protection."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.06 Uses tack welding equipment",
+      "question": "When tack welding steel embedments in concrete forms, what is a key consideration?",
+      "options": {
+        "A": "Welds must penetrate through the form material",
+        "B": "Tack welds must be easily removable after concrete sets",
+        "C": "Tacks should be strong enough to resist concrete pressure but small enough to grind off if needed",
+        "D": "Maximum weld size for maximum strength"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Welds should never penetrate through forms; this would damage the form and create unwanted marks in concrete.",
+        "B": "Tack welds are meant to be permanent or grindable, not easily removable; they secure embedments during the pour.",
+        "C": "Tack welds must be strong enough to hold embedments during concrete placement but small enough to grind flush if they'll be visible in the finished work.",
+        "D": "Maximum weld size wastes time and materials and may cause warping or burn-through on thin materials."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.07 Uses torch cutting equipment",
+      "question": "What is the correct order of valves to open when lighting an oxy-fuel cutting torch?",
+      "options": {
+        "A": "Open oxygen first, then acetylene",
+        "B": "Open acetylene first, then oxygen",
+        "C": "Open both simultaneously",
+        "D": "Open cutting oxygen first, then preheat oxygen, then acetylene"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Opening oxygen first creates a dangerous situation and won't produce a flame for lighting.",
+        "B": "Acetylene is opened first to establish fuel flow, lit immediately, then oxygen is added gradually to achieve the proper neutral or slightly carburizing flame.",
+        "C": "Opening valves simultaneously makes it difficult to control ignition and achieve proper flame adjustment.",
+        "D": "This sequence is incorrect; fuel (acetylene) must be flowing and lit before introducing oxygen."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.07 Uses torch cutting equipment",
+      "question": "What indicates a neutral flame on an oxy-acetylene cutting torch?",
+      "options": {
+        "A": "Long white feather extending from inner cone",
+        "B": "Short blue inner cone with no feather",
+        "C": "Bright white inner cone with slight feather",
+        "D": "Hissing sound with yellow flame"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "A white feather indicates excess acetylene (carburizing flame), not a neutral flame.",
+        "B": "A neutral flame has a distinct, short, bright blue inner cone with no acetylene feather, indicating proper oxygen-to-fuel ratio for most cutting operations.",
+        "C": "Any visible feather indicates excess acetylene; a neutral flame has none.",
+        "D": "A hissing yellow flame indicates improper adjustment and dangerous operating conditions."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.07 Uses torch cutting equipment",
+      "question": "What is the minimum safe distance to store acetylene and oxygen cylinders apart?",
+      "options": {
+        "A": "1 m (3 ft.)",
+        "B": "3 m (10 ft.)",
+        "C": "6 m (20 ft.) or separated by fire-resistant barrier",
+        "D": "12 m (40 ft.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "One meter is far too close and violates safety regulations for cylinder storage separation.",
+        "B": "While better than 1 meter, 3 meters is still insufficient for proper fuel and oxidizer separation.",
+        "C": "Oxygen and fuel gas cylinders must be separated by at least 6 m (20 ft.) or by a fire-resistant barrier at least 1.5 m (5 ft.) high to prevent fire spread.",
+        "D": "While this exceeds requirements and would be safe, it's unnecessarily large and impractical for most work sites."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "A",
+      "task": "A-1",
+      "taskTitle": "Uses and maintains tools and equipment",
+      "subtask": "A-1.07 Uses torch cutting equipment",
+      "question": "What should be done if a flashback occurs during torch cutting operations?",
+      "options": {
+        "A": "Increase oxygen flow immediately",
+        "B": "Immediately close both cylinder valves, then torch valves",
+        "C": "Continue working and adjust the flame",
+        "D": "Close the acetylene torch valve only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Increasing oxygen during flashback would worsen the situation and could cause explosion.",
+        "B": "During flashback, immediately close cylinder valves (acetylene first, then oxygen), then torch valves, let equipment cool, check for damage, and determine cause before resuming.",
+        "C": "Continuing to work during flashback is extremely dangerous and could result in equipment failure or explosion.",
+        "D": "Closing only one valve is insufficient; both gases must be shut off at cylinders to stop the flashback completely."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "What class of hard hat provides the highest level of electrical protection?",
+      "options": {
+        "A": "Class A (Type I)",
+        "B": "Class B (Type I)",
+        "C": "Class C",
+        "D": "Class E (Type II)"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Class A (now called Class E Type I) provides protection up to 2,200 volts but Type II offers superior impact protection.",
+        "B": "Class B is an outdated designation; modern standards use Class E for electrical protection.",
+        "C": "Class C hard hats provide no electrical protection; they're for general impact only.",
+        "D": "Class E (Electrical) Type II hard hats provide the highest protection, rated for 20,000 volts with superior impact protection from top and sides."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "At what noise level does hearing protection become mandatory on a construction site?",
+      "options": {
+        "A": "75 dBA",
+        "B": "85 dBA",
+        "C": "95 dBA",
+        "D": "105 dBA"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "75 dBA is below the threshold requiring mandatory protection, though voluntary protection is advisable.",
+        "B": "Hearing protection is required when noise levels reach or exceed 85 dBA for 8-hour time-weighted average exposure.",
+        "C": "At 95 dBA, damage occurs more rapidly and exposure time limits are much shorter; protection should have been used well before this level.",
+        "D": "105 dBA causes rapid hearing damage; waiting until this level to use protection would violate regulations and cause injury."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "What is the maximum free fall distance allowed for a personal fall arrest system?",
+      "options": {
+        "A": "1.2 m (4 ft.)",
+        "B": "1.8 m (6 ft.)",
+        "C": "2.4 m (8 ft.)",
+        "D": "3.0 m (10 ft.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While limiting fall to 1.2 m would be safer, the regulatory maximum is higher.",
+        "B": "Personal fall arrest systems must limit free fall distance to a maximum of 1.8 m (6 ft.) to prevent injury from deceleration forces.",
+        "C": "2.4 m exceeds the safe limit and would subject the worker to dangerous deceleration forces.",
+        "D": "3.0 m is far too great and would likely result in serious injury even with proper fall arrest equipment."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "What does ANSI Z87.1 marking on safety glasses indicate?",
+      "options": {
+        "A": "UV protection only",
+        "B": "Prescription lens compatibility",
+        "C": "Meets impact resistance standards",
+        "D": "Anti-fog coating"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While many Z87.1 glasses include UV protection, the marking specifically indicates impact resistance, not UV features.",
+        "B": "Prescription compatibility is a separate feature; Z87.1 relates to impact protection standards.",
+        "C": "ANSI Z87.1 marking certifies that the eyewear meets American National Standards Institute impact resistance requirements for occupational use.",
+        "D": "Anti-fog coating is an optional feature not indicated by the Z87.1 marking, which certifies impact protection."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "When must steel-toed safety boots be worn on a construction site?",
+      "options": {
+        "A": "Only when operating heavy equipment",
+        "B": "Only when requested by supervisor",
+        "C": "At all times in construction areas",
+        "D": "Only when carrying heavy materials"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Steel-toed boots are required continuously in construction zones, not just during equipment operation.",
+        "B": "Steel-toed boots are a regulatory requirement in construction areas, not optional based on supervisor discretion.",
+        "C": "CSA-approved steel-toed safety footwear must be worn at all times in construction work areas to protect against crushing and puncture hazards.",
+        "D": "The requirement is continuous regardless of specific tasks being performed; foot protection is always necessary."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "What is the proper fit for a full-body safety harness?",
+      "options": {
+        "A": "Loose enough to be comfortable for all-day wear",
+        "B": "Snug with maximum one fist of slack at chest strap",
+        "C": "Tight enough that breathing is slightly restricted",
+        "D": "Adjusted to manufacturer's average settings"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Loose harnesses can fail to arrest falls properly and may allow the wearer to slip through during deceleration.",
+        "B": "Harnesses should fit snugly with straps adjusted so there's no more than one fist width of slack, ensuring proper load distribution during a fall without being uncomfortably tight.",
+        "C": "Over-tightening restricts movement and breathing unnecessarily; proper fit is snug but not constricting.",
+        "D": "All harnesses must be individually fitted to each user; factory settings are starting points only and must be adjusted."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "What type of respirator is required for work in environments with less than 19.5% oxygen?",
+      "options": {
+        "A": "N95 dust mask",
+        "B": "Half-face air-purifying respirator",
+        "C": "Full-face air-purifying respirator",
+        "D": "Supplied-air respirator or SCBA"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Dust masks only filter particles and cannot increase oxygen levels in oxygen-deficient atmospheres.",
+        "B": "Air-purifying respirators filter ambient air and cannot function properly in oxygen-deficient environments.",
+        "C": "Full-face air-purifying respirators still rely on ambient air and are ineffective when oxygen levels are deficient.",
+        "D": "In oxygen-deficient atmospheres (below 19.5%), only supplied-air respirators or self-contained breathing apparatus (SCBA) that provide independent air supply are acceptable."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "How often must fall protection equipment be inspected?",
+      "options": {
+        "A": "Monthly",
+        "B": "Before each use",
+        "C": "Annually",
+        "D": "Only after a fall event"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Monthly inspections are insufficient; equipment must be checked more frequently to catch developing issues.",
+        "B": "Fall protection equipment including harnesses, lanyards, and lifelines must be inspected before each use to identify wear, damage, or defects that could cause failure.",
+        "C": "Annual inspection is far too infrequent; critical safety equipment needs pre-use verification.",
+        "D": "Waiting until after a fall to inspect equipment is dangerous; prevention requires inspection before every use."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "What lens shade number is recommended for oxy-fuel cutting operations?",
+      "options": {
+        "A": "Shade 3-4",
+        "B": "Shade 5-6",
+        "C": "Shade 10-12",
+        "D": "Shade 14"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Oxy-fuel cutting typically requires shade 3-4 lenses, which provide adequate protection from the cutting flame's brightness without over-darkening.",
+        "B": "Shade 5-6 is darker than necessary for cutting and may make it difficult to see the work properly.",
+        "C": "Shade 10-12 is for arc welding operations and would be far too dark for oxy-fuel cutting.",
+        "D": "Shade 14 is for very high-amperage arc welding and would make oxy-fuel cutting work nearly impossible to see."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "When working with preservative-treated lumber, what additional PPE is recommended?",
+      "options": {
+        "A": "No additional PPE beyond standard requirements",
+        "B": "Gloves and dust mask when cutting",
+        "C": "Full face shield only",
+        "D": "Rubber apron"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Treated lumber contains chemicals that require additional protection beyond standard carpentry PPE.",
+        "B": "Working with treated lumber requires gloves to prevent skin contact with preservatives and a dust mask when cutting to avoid inhaling sawdust containing chemicals.",
+        "C": "A face shield alone doesn't protect against chemical contact or dust inhalation from treated wood.",
+        "D": "A rubber apron is unnecessary for carpentry work with treated lumber; gloves and respiratory protection are the key additions."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "What does the 'D-ring' on a safety harness connect to?",
+      "options": {
+        "A": "Tool belt",
+        "B": "Lanyard or lifeline",
+        "C": "Leg straps",
+        "D": "Chest strap"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tool belts have separate attachment systems; the D-ring is specifically for fall protection connections.",
+        "B": "The dorsal (back) D-ring on a full-body harness is the primary attachment point for lanyards, lifelines, or self-retracting devices in fall arrest systems.",
+        "C": "Leg straps are part of the harness structure and have their own buckles; they don't connect to D-rings.",
+        "D": "Chest straps have separate fasteners; the D-ring is for external fall protection connections."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.01 Uses PPE and safety equipment",
+      "question": "What is the minimum dielectric rating for gloves when working near energized electrical equipment?",
+      "options": {
+        "A": "Class 00 (500V)",
+        "B": "Class 0 (1,000V)",
+        "C": "Class 1 (7,500V)",
+        "D": "Depends on voltage present"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Class 00 may be insufficient depending on the voltage; rating must match or exceed the electrical hazard.",
+        "B": "Class 0 gloves work for some applications but may be inadequate for higher voltage situations.",
+        "C": "Class 1 exceeds requirements for lower voltages and may be unnecessarily restrictive for routine work.",
+        "D": "Electrical glove class must be selected based on the maximum voltage that will be encountered, with appropriate safety margin above the working voltage."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "What is the minimum height at which fall protection is required in most jurisdictions?",
+      "options": {
+        "A": "1.8 m (6 ft.)",
+        "B": "2.4 m (8 ft.)",
+        "C": "3.0 m (10 ft.)",
+        "D": "3.7 m (12 ft.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "1.8 m is below the typical threshold, though some specific work situations may require protection at this height.",
+        "B": "2.4 m is still below the standard requirement in most construction jurisdictions.",
+        "C": "Most jurisdictions require fall protection when working at heights of 3.0 m (10 ft.) or greater, though specific situations may require it at lower heights.",
+        "D": "3.7 m is above the typical threshold; waiting this high increases unnecessary risk."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "What is the maximum spacing for guardrails on elevated work platforms?",
+      "options": {
+        "A": "Top rail at 900-1070 mm, mid-rail at 450-600 mm",
+        "B": "Top rail at 1000 mm, mid-rail at 500 mm exactly",
+        "C": "Top rail at 1200 mm, mid-rail at 600 mm",
+        "D": "Top rail at 42 inches, no mid-rail required"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Standard guardrail systems require top rails at 900-1070 mm (36-42 in.) height with mid-rails at approximately half that height (450-600 mm) to prevent falls.",
+        "B": "While these measurements fall within acceptable ranges, they're too specific; regulations provide acceptable ranges, not exact measurements.",
+        "C": "1200 mm is too high for the top rail and exceeds standard specifications for effective fall prevention.",
+        "D": "Mid-rails are required to prevent workers from slipping under or through the guardrail system."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "What is the minimum illumination level required for general construction work areas?",
+      "options": {
+        "A": "5 lux (0.5 foot-candles)",
+        "B": "50 lux (5 foot-candles)",
+        "C": "200 lux (20 foot-candles)",
+        "D": "500 lux (50 foot-candles)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "5 lux is far too dim for safe construction work and would create hazardous conditions.",
+        "B": "General construction areas require minimum illumination of 50 lux (5 foot-candles), with higher levels needed for detailed work.",
+        "C": "200 lux exceeds minimum requirements for general areas, though it may be appropriate for detail work.",
+        "D": "500 lux is excessive for general construction and more appropriate for precision tasks or inspection work."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "How should extension cords be protected when crossing walkways or work areas?",
+      "options": {
+        "A": "Tape them down with duct tape",
+        "B": "Cover with plywood sheets",
+        "C": "Use cord protectors or ramps designed for the purpose",
+        "D": "Hang them overhead"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Duct tape provides insufficient protection from damage and creates tripping hazards when it loosens.",
+        "B": "Plywood can protect cords from damage but creates tripping hazards and doesn't provide proper strain relief.",
+        "C": "Purpose-made cord protectors or ramps provide proper protection from damage, prevent tripping hazards, and allow safe passage over cords.",
+        "D": "While overhead routing eliminates floor hazards, it's not always practical and creates hazards from cords falling or being pulled down."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "What is the required minimum distance to maintain from unguarded edges when not using fall protection?",
+      "options": {
+        "A": "1.0 m (3 ft.)",
+        "B": "2.0 m (6 ft.)",
+        "C": "3.0 m (10 ft.)",
+        "D": "Fall protection is always required near edges"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "1.0 m is too close to unguarded edges and doesn't provide adequate safety margin.",
+        "B": "Workers must maintain at least 2.0 m (6 ft.) from unguarded edges when not using fall protection systems, though local regulations may vary.",
+        "C": "While 3.0 m provides extra safety, it exceeds typical regulatory requirements and may be impractical.",
+        "D": "Though fall protection is safest, a specified safe distance is recognized when protection isn't feasible."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "What is the maximum allowable slope for a ramp used for material transport without cleats?",
+      "options": {
+        "A": "1:6 (16.7%)",
+        "B": "1:4 (25%)",
+        "C": "1:3 (33%)",
+        "D": "1:2 (50%)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "1:6 is a very gentle slope, safer than required but may be impractical due to length needed.",
+        "B": "1:4 is a reasonable slope but slightly steeper than maximum allowable without cleats.",
+        "C": "Ramps without cleats may have a maximum slope of 1:3 (33% grade); steeper ramps require cleats or steps for safe traction.",
+        "D": "1:2 is far too steep for safe use without cleats and would create serious safety hazards."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "What does a red tag on equipment indicate?",
+      "options": {
+        "A": "Equipment is new and ready for use",
+        "B": "Equipment requires routine maintenance",
+        "C": "Equipment is defective and must not be used",
+        "D": "Equipment is reserved for specific workers"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Red tags indicate problems or restrictions, never clearance for use; new equipment wouldn't be tagged red.",
+        "B": "Routine maintenance is typically indicated by yellow tags or maintenance stickers, not red danger tags.",
+        "C": "Red danger tags indicate equipment is unsafe, defective, or out of service and must not be used until repaired and the tag is removed by authorized personnel.",
+        "D": "Equipment assignment uses different methods; red tags are exclusively for safety lockout/tagout purposes."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "What is the minimum clear width required for construction site walkways?",
+      "options": {
+        "A": "450 mm (18 in.)",
+        "B": "600 mm (24 in.)",
+        "C": "750 mm (30 in.)",
+        "D": "900 mm (36 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "450 mm is too narrow for safe passage, especially when carrying materials or tools.",
+        "B": "Walkways must be at least 600 mm (24 in.) wide to allow safe passage, though wider is preferable for material handling.",
+        "C": "750 mm is wider than minimum required, though it provides better clearance for busy areas.",
+        "D": "900 mm exceeds minimum requirements but may be appropriate for high-traffic or material transport routes."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "How far must combustible materials be kept from welding or cutting operations?",
+      "options": {
+        "A": "3 m (10 ft.)",
+        "B": "6 m (20 ft.)",
+        "C": "10 m (35 ft.)",
+        "D": "15 m (50 ft.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "3 meters is far too close; sparks and hot metal can travel much farther than this distance.",
+        "B": "6 meters provides some protection but is still insufficient for many welding and cutting operations.",
+        "C": "Combustible materials must be kept at least 10 m (35 ft.) from welding or cutting operations, or protected by fire-resistant barriers if distance cannot be maintained.",
+        "D": "While 15 meters would be very safe, it exceeds regulatory requirements and may be impractical."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "What action should be taken before beginning excavation work?",
+      "options": {
+        "A": "Begin digging and watch for utility lines",
+        "B": "Contact utility location service and wait for clearance",
+        "C": "Check site plans only",
+        "D": "Probe the ground with a metal rod"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Beginning excavation without locating utilities is extremely dangerous and can cause injury, death, or major service disruptions.",
+        "B": "Before any excavation, contact the local one-call utility location service, wait for all utilities to be marked, and obtain clearance before proceeding.",
+        "C": "Site plans may be outdated or inaccurate; physical location of actual utilities by qualified personnel is required.",
+        "D": "Probing can damage utilities, especially gas or electrical lines, and is not a substitute for professional utility location."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "At what depth does an excavation require protective systems against cave-ins?",
+      "options": {
+        "A": "0.6 m (2 ft.)",
+        "B": "1.2 m (4 ft.)",
+        "C": "1.8 m (6 ft.)",
+        "D": "2.4 m (8 ft.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While 0.6 m excavations should be monitored, protective systems aren't typically required at this shallow depth.",
+        "B": "Excavations 1.2 m (4 ft.) or deeper require protective systems such as shoring, sloping, or shielding to protect workers from cave-ins.",
+        "C": "Waiting until 1.8 m to install protection exposes workers to unnecessary danger in deeper unprotected excavations.",
+        "D": "2.4 m is far too deep to work without protection; serious injury or death could easily occur in a cave-in."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "A",
+      "task": "A-2",
+      "taskTitle": "Performs safety-related activities",
+      "subtask": "A-2.02 Maintains safe work environment",
+      "question": "How should materials be stored on scaffolding platforms?",
+      "options": {
+        "A": "Stack as high as needed for the job",
+        "B": "Keep materials and tools below toeboard height when possible",
+        "C": "Store on one end of the platform only",
+        "D": "Hang materials over the edge for easy access"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "High stacking can overload scaffolds, block walkways, and create tipping hazards.",
+        "B": "Materials should be kept low and distributed evenly, ideally below toeboard height to minimize falling object hazards and maintain platform stability.",
+        "C": "Concentrating materials on one end can create unbalanced loading and tip hazards.",
+        "D": "Materials extending over edges create falling object hazards and violate safety requirements."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.01 Uses stationary access equipment",
+      "question": "What is the maximum height-to-base width ratio for a mobile scaffold tower?",
+      "options": {
+        "A": "2:1",
+        "B": "3:1",
+        "C": "4:1",
+        "D": "5:1"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "2:1 is overly conservative and would result in unnecessarily wide bases for typical heights.",
+        "B": "3:1 is safer than 4:1 but more restrictive than standard requirements for mobile towers.",
+        "C": "Mobile scaffold towers typically have a maximum height-to-base ratio of 4:1 to prevent tipping, though outriggers can allow greater heights.",
+        "D": "5:1 is too tall for the base width and creates an unstable, dangerous structure prone to tipping."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.01 Uses stationary access equipment",
+      "question": "What is the required overlap when extending an extension ladder?",
+      "options": {
+        "A": "At least 3 rungs",
+        "B": "At least 0.9 m (3 ft.)",
+        "C": "Based on extended length: up to 11 m requires 0.9 m; 11-15 m requires 1.2 m; over 15 m requires 1.5 m",
+        "D": "Entire fly section must overlap base section"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Counting rungs is unreliable since rung spacing varies; specific length measurements are required.",
+        "B": "0.9 m is correct for shorter extensions but insufficient for longer ladders.",
+        "C": "Overlap requirements increase with length: up to 11 m requires 0.9 m overlap; 11-15 m requires 1.2 m; over 15 m requires 1.5 m minimum overlap.",
+        "D": "Full overlap would defeat the purpose of an extension ladder and is impractical."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.01 Uses stationary access equipment",
+      "question": "What is the proper angle for setting up an extension ladder?",
+      "options": {
+        "A": "60 degrees from ground",
+        "B": "75 degrees from ground (4:1 ratio)",
+        "C": "80 degrees from ground",
+        "D": "90 degrees (vertical)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "60 degrees is too shallow, reducing reach height and creating instability.",
+        "B": "Ladders should be set at approximately 75 degrees from ground (4:1 ratio - base 1 unit out for every 4 units up) for optimal stability and safety.",
+        "C": "80 degrees is too steep, creating risk of backward tipping and difficulty climbing.",
+        "D": "Vertical placement is extremely dangerous and will cause the ladder to fall backward."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.01 Uses stationary access equipment",
+      "question": "How far must a ladder extend above the landing platform?",
+      "options": {
+        "A": "Level with platform",
+        "B": "At least 0.6 m (2 ft.)",
+        "C": "At least 0.9 m (3 ft.)",
+        "D": "At least 1.2 m (4 ft.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "A ladder level with the platform provides no handhold for safe mounting/dismounting.",
+        "B": "0.6 m provides insufficient handhold for safe transfer on and off the ladder.",
+        "C": "Ladders must extend at least 0.9 m (3 ft.) above the landing to provide secure handholds during mounting and dismounting.",
+        "D": "While 1.2 m provides extra safety, it exceeds minimum requirements."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.01 Uses stationary access equipment",
+      "question": "What is the maximum vertical distance between landing platforms on a fixed ladder?",
+      "options": {
+        "A": "6 m (20 ft.)",
+        "B": "9 m (30 ft.)",
+        "C": "12 m (40 ft.)",
+        "D": "No limit if caged"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "6 meters is more frequent than required, though additional landings improve safety.",
+        "B": "Fixed ladders require landing platforms at maximum intervals of 9 m (30 ft.) to prevent fatigue and provide rest points.",
+        "C": "12 meters exceeds safe climbing distance without a rest platform.",
+        "D": "Even caged ladders require landing platforms at specified intervals; cages don't eliminate the need for platforms."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.01 Uses stationary access equipment",
+      "question": "What is the minimum width for a fixed access ladder?",
+      "options": {
+        "A": "300 mm (12 in.)",
+        "B": "400 mm (16 in.)",
+        "C": "500 mm (20 in.)",
+        "D": "600 mm (24 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "300 mm is too narrow for safe foot placement and comfortable climbing.",
+        "B": "Fixed ladders must be at least 400 mm (16 in.) wide between side rails to allow safe climbing.",
+        "C": "500 mm is wider than minimum required, though it provides better comfort and safety.",
+        "D": "600 mm exceeds requirements for standard fixed ladders."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.02 Uses mobile access equipment",
+      "question": "Before moving a mobile scaffold tower, what must be verified?",
+      "options": {
+        "A": "That materials are secured to prevent falling",
+        "B": "That all personnel are off the platform",
+        "C": "That the path is clear and level",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "While securing materials is critical, other factors are equally important for safe movement.",
+        "B": "Clearing personnel is essential but not the only consideration before moving a tower.",
+        "C": "A clear, level path is necessary but other conditions must also be verified.",
+        "D": "Before moving a mobile scaffold, verify all personnel are off the tower, materials are secured or removed, the path is clear and level, and outriggers/stabilizers are retracted."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.02 Uses mobile access equipment",
+      "question": "What is the maximum safe load capacity typically indicated for mobile scaffold platforms?",
+      "options": {
+        "A": "Light duty: 25 lbs/ft²",
+        "B": "Medium duty: 50 lbs/ft²",
+        "C": "Heavy duty: 75 lbs/ft²",
+        "D": "Depends on manufacturer specifications"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "25 lbs/ft² (light duty) is a common rating but not universal to all mobile scaffolds.",
+        "B": "50 lbs/ft² (medium duty) is another common rating but varies by equipment design.",
+        "C": "75 lbs/ft² (heavy duty) is available but not standard for all mobile equipment.",
+        "D": "Load capacity varies by manufacturer and model; always consult the equipment's rating plate or manual for specific load limits."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.02 Uses mobile access equipment",
+      "question": "What size wheels are typically required on mobile scaffold towers?",
+      "options": {
+        "A": "At least 50 mm (2 in.) diameter",
+        "B": "At least 100 mm (4 in.) diameter",
+        "C": "At least 125 mm (5 in.) diameter",
+        "D": "At least 200 mm (8 in.) diameter"
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "50 mm wheels are far too small for scaffold towers and would create instability.",
+        "B": "100 mm wheels are still too small for safe, stable mobile scaffold operation.",
+        "C": "125 mm wheels are borderline but generally below the standard for scaffold towers.",
+        "D": "Mobile scaffold towers typically require wheels of at least 200 mm (8 in.) diameter to provide stability and smooth movement over irregular surfaces."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.02 Uses mobile access equipment",
+      "question": "When must wheel locks be engaged on a mobile scaffold?",
+      "options": {
+        "A": "Only at the end of the work day",
+        "B": "When workers are on the platform",
+        "C": "Only on slopes",
+        "D": "When not actively moving the tower"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Locking only at day's end is dangerous; towers must be locked whenever workers are aboard.",
+        "B": "Wheel locks must be engaged whenever workers are on the platform to prevent unintended movement that could cause falls or injuries.",
+        "C": "While critical on slopes, locks are required whenever the tower is occupied, regardless of ground conditions.",
+        "D": "This is partially correct but not specific enough; the critical factor is when workers are on the platform."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.02 Uses mobile access equipment",
+      "question": "What is the maximum slope on which a mobile scaffold tower can be safely used?",
+      "options": {
+        "A": "Level ground only",
+        "B": "Up to 2% grade",
+        "C": "Up to 5% grade",
+        "D": "Up to 10% grade"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Mobile scaffold towers must be used on level, firm surfaces only to prevent tipping; even slight slopes create dangerous instability.",
+        "B": "Even a 2% grade creates tipping risk on mobile towers and is not acceptable.",
+        "C": "5% grade is far too steep for mobile scaffold safety.",
+        "D": "10% grade would create extreme tipping hazard and is never acceptable for mobile scaffolds."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.02 Uses mobile access equipment",
+      "question": "What should be done if a mobile aerial work platform (boom lift) is operated on an incline?",
+      "options": {
+        "A": "Proceed normally",
+        "B": "Drive only with boom lowered",
+        "C": "Reduce speed and follow manufacturer's slope guidelines",
+        "D": "Never operate on any incline"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Operating normally on slopes ignores stability concerns and manufacturer guidelines.",
+        "B": "While lowering the boom helps, specific manufacturer slope limits and procedures must still be followed.",
+        "C": "When operating boom lifts on slopes, reduce speed, follow manufacturer's maximum slope ratings, keep boom lowered when traveling, and drive up/down slopes rather than across.",
+        "D": "Some inclines are within equipment capabilities if manufacturer guidelines are followed; total prohibition is overly restrictive."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.03 Erects/dismantles scaffolding",
+      "question": "Who is qualified to erect and dismantle scaffolding?",
+      "options": {
+        "A": "Any construction worker",
+        "B": "Workers with specific scaffold erection training",
+        "C": "Only certified engineers",
+        "D": "Supervisors only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "General construction workers without specific scaffold training should not erect or dismantle scaffolding.",
+        "B": "Only workers who have received specific training in scaffold erection, inspection, and safety should perform these tasks.",
+        "C": "While engineers may design scaffold systems, trained workers typically perform the actual erection.",
+        "D": "Supervisors must oversee the work but don't need to perform it personally if trained workers are available."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.03 Erects/dismantles scaffolding",
+      "question": "What is the minimum platform width for a scaffold work platform?",
+      "options": {
+        "A": "300 mm (12 in.)",
+        "B": "450 mm (18 in.)",
+        "C": "500 mm (20 in.)",
+        "D": "600 mm (24 in.)"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "300 mm is too narrow for safe working platforms and doesn't meet regulatory requirements.",
+        "B": "Scaffold work platforms must be at least 450 mm (18 in.) wide to provide adequate working space and safety.",
+        "C": "While 500 mm provides extra space, it exceeds the minimum requirement.",
+        "D": "600 mm is wider than required, though it offers better working conditions."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.03 Erects/dismantles scaffolding",
+      "question": "What is the maximum gap allowed between scaffold planks?",
+      "options": {
+        "A": "6 mm (1/4 in.)",
+        "B": "13 mm (1/2 in.)",
+        "C": "25 mm (1 in.)",
+        "D": "50 mm (2 in.)"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While minimal gaps are best, requiring 6 mm is impractical with typical lumber tolerances.",
+        "B": "13 mm is tighter than required, though better for safety.",
+        "C": "Maximum gap between scaffold planks is 25 mm (1 in.) to prevent tools or materials from falling through while allowing for normal lumber variations.",
+        "D": "50 mm gaps are too large and create falling object hazards and potential foot entrapment."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.03 Erects/dismantles scaffolding",
+      "question": "How far can scaffold planks extend beyond their support?",
+      "options": {
+        "A": "No overhang allowed",
+        "B": "Maximum 150 mm (6 in.)",
+        "C": "Maximum 300 mm (12 in.)",
+        "D": "Up to 1/4 of plank length"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Some overhang is acceptable and practical; zero overhang is unnecessarily restrictive.",
+        "B": "Scaffold planks may extend maximum 150 mm (6 in.) beyond their support to allow for connections while preventing excessive overhang that could tip.",
+        "C": "300 mm is excessive and creates tipping hazards when stepped on.",
+        "D": "Allowing 1/4 of plank length would permit dangerous overhangs on longer planks."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.03 Erects/dismantles scaffolding",
+      "question": "At what height must scaffolds be tied to the building structure?",
+      "options": {
+        "A": "Every 3 m (10 ft.) vertically",
+        "B": "Every 4 m (13 ft.) vertically and 6 m (20 ft.) horizontally",
+        "C": "Every 6 m (20 ft.) both vertically and horizontally",
+        "D": "Only at top of scaffold"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While 3 m is safe, it's more frequent than typically required.",
+        "B": "Scaffolds should be tied to the structure at maximum intervals of 4 m (13 ft.) vertically and 6 m (20 ft.) horizontally to ensure stability.",
+        "C": "6 m vertical spacing is too great and doesn't provide adequate stability.",
+        "D": "Tying only at the top is extremely dangerous and provides no intermediate support against tipping."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.03 Erects/dismantles scaffolding",
+      "question": "What is the purpose of mud sills or base plates under scaffold standards?",
+      "options": {
+        "A": "To elevate the scaffold",
+        "B": "To distribute load and prevent sinking",
+        "C": "To make scaffold easier to move",
+        "D": "To protect ground surface"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While they may slightly elevate standards, the primary purpose is load distribution, not elevation.",
+        "B": "Mud sills or base plates distribute scaffold loads over a larger area, preventing standards from sinking into soft ground and maintaining level stability.",
+        "C": "Base plates actually anchor scaffolds in place; they don't facilitate movement.",
+        "D": "While they may protect surfaces, the critical function is preventing dangerous settling and maintaining scaffold stability."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.04 Modifies scaffolding",
+      "question": "Who can authorize modifications to an existing scaffold system?",
+      "options": {
+        "A": "Any scaffold user who sees a need",
+        "B": "The site supervisor",
+        "C": "A competent person or qualified engineer",
+        "D": "The scaffold manufacturer only"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Users cannot make unauthorized modifications, as this could compromise scaffold safety.",
+        "B": "While supervisors have authority, modifications require specific technical competence to ensure safety.",
+        "C": "Only a competent person with scaffold expertise or a qualified engineer can approve modifications to ensure they don't compromise structural integrity or safety.",
+        "D": "While manufacturer input is valuable, on-site competent persons or engineers can authorize field modifications."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.04 Modifies scaffolding",
+      "question": "What must be done before modifying a scaffold that's in use?",
+      "options": {
+        "A": "Post a notice of modification",
+        "B": "Clear all workers from the scaffold",
+        "C": "Obtain supervisor approval",
+        "D": "Document the existing configuration"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While communication is important, immediate worker safety requires evacuation before modifications begin.",
+        "B": "All workers must be cleared from the scaffold before any modifications to prevent injuries from structural changes or falling materials during the modification process.",
+        "C": "Approval should be obtained before starting, but immediate worker safety requires evacuation first.",
+        "D": "Documentation is good practice but worker evacuation takes priority for safety."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.04 Modifies scaffolding",
+      "question": "When can components from different scaffold manufacturers be mixed?",
+      "options": {
+        "A": "Never - all components must be from same manufacturer",
+        "B": "When they appear to fit together",
+        "C": "Only when approved by competent person and components are compatible",
+        "D": "Whenever necessary to complete the scaffold"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "While using same-manufacturer components is ideal, compatible components from different sources may be acceptable with proper verification.",
+        "B": "Visual appearance of fit is insufficient; components must be verified compatible and approved.",
+        "C": "Mixing components from different manufacturers requires verification of compatibility and approval by a competent person to ensure structural integrity and safety.",
+        "D": "Necessity doesn't override safety requirements; compatibility must still be verified and approved."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.04 Modifies scaffolding",
+      "question": "What must be done after scaffold modifications are completed?",
+      "options": {
+        "A": "Resume work immediately",
+        "B": "Inspect and tag the scaffold before use",
+        "C": "Document the changes only",
+        "D": "Wait 24 hours before use"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Immediate resumption without inspection could expose workers to unsafe conditions created during modification.",
+        "B": "After modifications, a competent person must inspect the scaffold and tag it as safe before allowing workers to use it again.",
+        "C": "Documentation alone doesn't verify safety; physical inspection is required before resuming use.",
+        "D": "No waiting period is required if proper inspection confirms the scaffold is safe."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.04 Modifies scaffolding",
+      "question": "When removing braces from a scaffold to allow access, what must be done?",
+      "options": {
+        "A": "Replace with stronger braces elsewhere",
+        "B": "Install temporary supports and replace braces immediately after access",
+        "C": "Remove braces permanently if access is regularly needed",
+        "D": "No special measures needed for temporary removal"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Simply adding braces elsewhere doesn't address the specific structural need of the removed braces.",
+        "B": "Temporary removal of braces requires alternative support measures and braces must be replaced immediately after access to maintain structural stability.",
+        "C": "Permanent removal of braces compromises scaffold stability and requires engineering review and alternative stabilization.",
+        "D": "Even temporary brace removal affects structural integrity and requires specific safety measures."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "A",
+      "task": "A-3",
+      "taskTitle": "Builds and uses temporary access structures",
+      "subtask": "A-3.04 Modifies scaffolding",
+      "question": "What load consideration is critical when modifying scaffolds to support additional materials?",
+      "options": {
+        "A": "Material weight only",
+        "B": "Total dead load, live load, and dynamic forces",
+        "C": "Worker weight only",
+        "D": "Manufacturer's maximum rating for original configuration"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Material weight alone ignores worker loads, equipment, and dynamic forces from work activities.",
+        "B": "Modified scaffolds must account for combined dead loads (materials), live loads (workers and equipment), and dynamic forces to ensure they don't exceed structural capacity.",
+        "C": "Worker weight is only one component; materials, equipment, and dynamic forces must also be considered.",
+        "D": "Original ratings may not apply to modified configurations; new engineering analysis may be required."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.01 Uses communication techniques",
+      "question": "What is the most important communication tool when coordinating work with crane operators?",
+      "options": {
+        "A": "Shouting clearly",
+        "B": "Standardized hand signals",
+        "C": "Two-way radios",
+        "D": "Written notes"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Shouting is unreliable on noisy construction sites and can lead to dangerous misunderstandings.",
+        "B": "Standardized hand signals provide clear, unambiguous communication that works despite noise and distance, essential for safe crane operations.",
+        "C": "While radios are useful, hand signals are the primary standard method that works when radios fail or in situations where visual communication is clearer.",
+        "D": "Written notes are impractical for real-time coordination of moving crane loads."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.01 Uses communication techniques",
+      "question": "What should be included in a daily toolbox talk?",
+      "options": {
+        "A": "Yesterday's production numbers",
+        "B": "Specific hazards and safety procedures for the day's work",
+        "C": "General safety rules only",
+        "D": "Personnel schedules"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While production may be discussed, the primary purpose of toolbox talks is safety communication.",
+        "B": "Effective toolbox talks address specific hazards workers will encounter that day, relevant safety procedures, and lessons learned from recent incidents.",
+        "C": "General rules alone don't address specific daily hazards; talks must be relevant to current work.",
+        "D": "Scheduling is administrative and better handled separately from safety-focused toolbox talks."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.01 Uses communication techniques",
+      "question": "How should safety concerns be reported on a construction site?",
+      "options": {
+        "A": "Wait until the end of shift meeting",
+        "B": "Report immediately to supervisor or safety officer",
+        "C": "Handle personally without reporting",
+        "D": "Only report if someone is injured"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Waiting to report safety concerns allows hazards to persist and potentially cause injuries.",
+        "B": "Safety concerns should be reported immediately to supervisors or safety officers so hazards can be addressed before injuries occur.",
+        "C": "Individual workers may not have authority or resources to properly address all safety concerns.",
+        "D": "Waiting for an injury defeats the purpose of hazard prevention; concerns should be reported before incidents occur."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.01 Uses communication techniques",
+      "question": "What is the purpose of a job hazard analysis (JHA)?",
+      "options": {
+        "A": "To assign blame for accidents",
+        "B": "To identify task-specific hazards and controls before work begins",
+        "C": "To evaluate worker performance",
+        "D": "To satisfy regulatory paperwork requirements"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "JHAs are preventive tools, not blame-assignment mechanisms for past incidents.",
+        "B": "Job hazard analyses systematically identify potential hazards in specific tasks and establish appropriate controls before work starts, preventing injuries.",
+        "C": "JHAs focus on task hazards, not individual worker performance evaluation.",
+        "D": "While JHAs may fulfill requirements, their real purpose is preventing injuries through hazard identification."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.01 Uses communication techniques",
+      "question": "When working in areas with language barriers, what is the most effective communication approach?",
+      "options": {
+        "A": "Speak slower and louder",
+        "B": "Use visual aids, demonstrations, and multilingual signage",
+        "C": "Avoid assigning complex tasks",
+        "D": "Require all workers to speak English"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Speaking louder doesn't overcome language barriers and may come across as disrespectful.",
+        "B": "Visual communication through diagrams, physical demonstrations, color coding, and multilingual signs transcends language barriers effectively.",
+        "C": "Limiting tasks based on language rather than ability is discriminatory and wastes skilled workers.",
+        "D": "Language requirements may exclude qualified workers; effective communication tools can bridge language gaps."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.01 Uses communication techniques",
+      "question": "What is 'active listening' in workplace communication?",
+      "options": {
+        "A": "Waiting for the other person to finish talking",
+        "B": "Formulating your response while others speak",
+        "C": "Fully concentrating, understanding, and providing feedback to confirm understanding",
+        "D": "Interrupting to show engagement"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Simply waiting to talk isn't active listening; true engagement requires concentration and understanding.",
+        "B": "Focusing on your response instead of the speaker's message means you're not truly listening.",
+        "C": "Active listening involves full attention to the speaker, processing the message, and confirming understanding through feedback like paraphrasing or asking clarifying questions.",
+        "D": "Interrupting generally disrupts communication rather than demonstrating engagement."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.01 Uses communication techniques",
+      "question": "What documentation should accompany materials delivered to a job site?",
+      "options": {
+        "A": "No documentation needed if materials look correct",
+        "B": "Delivery receipt only",
+        "C": "Packing slip, safety data sheets (SDS), and certifications as required",
+        "D": "Invoice only"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Visual inspection alone is insufficient; proper documentation ensures materials meet specifications and safety requirements.",
+        "B": "Delivery receipts confirm arrival but don't provide specifications, safety information, or quality certifications.",
+        "C": "Material deliveries should include packing slips for verification, SDS for hazardous materials, and relevant certifications or test reports for engineered products.",
+        "D": "Invoices are for billing; they don't provide the technical and safety information needed on site."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.01 Uses communication techniques",
+      "question": "How should conflicts between crew members be addressed?",
+      "options": {
+        "A": "Ignore them until they escalate",
+        "B": "Address promptly and privately with involved parties",
+        "C": "Publicly reprimand all involved",
+        "D": "Separate workers permanently"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ignoring conflicts allows them to worsen and affect productivity and safety.",
+        "B": "Address conflicts promptly through private discussion with involved parties to understand issues, find solutions, and prevent disruption to work and safety.",
+        "C": "Public reprimands can embarrass workers and escalate conflicts rather than resolving them.",
+        "D": "Permanent separation may be premature; most conflicts can be resolved through proper communication."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.02 Uses mentoring techniques",
+      "question": "What is the primary goal of mentoring apprentice carpenters?",
+      "options": {
+        "A": "To have someone to delegate unwanted tasks to",
+        "B": "To develop skilled, safe, and professional tradespeople",
+        "C": "To reduce journeyperson workload",
+        "D": "To comply with apprenticeship program requirements"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Using apprentices only for undesirable tasks wastes learning opportunities and isn't true mentoring.",
+        "B": "Effective mentoring develops apprentices' technical skills, safety awareness, professionalism, and problem-solving abilities to become competent journeypersons.",
+        "C": "While apprentices contribute to work, mentoring's purpose is their development, not just reducing others' workload.",
+        "D": "Meeting requirements is a side benefit; the real goal is developing capable, safe tradespeople."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.02 Uses mentoring techniques",
+      "question": "What teaching method is most effective for demonstrating carpentry techniques?",
+      "options": {
+        "A": "Verbal instructions only",
+        "B": "Show and tell: demonstrate, explain, then have apprentice practice with guidance",
+        "C": "Have apprentice figure it out independently",
+        "D": "Provide written instructions only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verbal instructions alone don't provide the visual and kinesthetic learning necessary for physical skills.",
+        "B": "The 'show and tell' method - demonstrating technique, explaining key points, then supervised practice with feedback - is most effective for teaching physical skills.",
+        "C": "Independent discovery without guidance wastes time and may teach incorrect or unsafe methods.",
+        "D": "Written instructions help but can't replace physical demonstration for hands-on carpentry skills."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.02 Uses mentoring techniques",
+      "question": "How should mistakes made by apprentices be addressed?",
+      "options": {
+        "A": "Publicly criticize to prevent others from making same mistake",
+        "B": "Ignore minor mistakes to build confidence",
+        "C": "Use as learning opportunities with constructive feedback and correction",
+        "D": "Redo work yourself without explanation"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Public criticism damages confidence and creates hostile learning environment without teaching effectively.",
+        "B": "Ignoring mistakes allows improper techniques to become habits and doesn't promote learning.",
+        "C": "Mistakes are valuable learning opportunities; address them constructively by explaining what went wrong, why it matters, and how to do it correctly.",
+        "D": "Redoing work without explanation teaches nothing and wastes a learning opportunity."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.02 Uses mentoring techniques",
+      "question": "What responsibility does a journeyperson have regarding apprentice safety?",
+      "options": {
+        "A": "Apprentices are responsible for their own safety",
+        "B": "Ensure apprentices understand hazards and safe work procedures before assigning tasks",
+        "C": "Safety training is the employer's responsibility only",
+        "D": "Allow apprentices to learn from their safety mistakes"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While everyone shares safety responsibility, journeypersons must ensure apprentices are properly trained and supervised.",
+        "B": "Journeypersons must verify apprentices understand hazards and safe procedures before assigning work, and provide supervision appropriate to experience level.",
+        "C": "While employers provide formal training, on-the-job mentors must reinforce and ensure proper application of safety practices.",
+        "D": "Learning from safety mistakes means someone gets hurt; proper mentoring prevents injuries through proactive training."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.02 Uses mentoring techniques",
+      "question": "How can mentors help apprentices develop problem-solving skills?",
+      "options": {
+        "A": "Always provide the solution immediately",
+        "B": "Ask guiding questions to help apprentices think through problems",
+        "C": "Let apprentices struggle without any guidance",
+        "D": "Solve problems yourself without involving apprentices"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Always providing solutions prevents apprentices from developing their own problem-solving abilities.",
+        "B": "Ask questions like 'What do you think caused this?' or 'What are your options?' to guide apprentices through problem-solving processes while providing support.",
+        "C": "Leaving apprentices to struggle without guidance wastes time and may lead to incorrect solutions or unsafe practices.",
+        "D": "Excluding apprentices from problem-solving denies them opportunities to develop critical thinking skills."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.02 Uses mentoring techniques",
+      "question": "What is an effective way to build apprentice confidence?",
+      "options": {
+        "A": "Assign tasks beyond their current ability",
+        "B": "Provide progressively challenging tasks with support, recognizing improvement",
+        "C": "Give only simple repetitive tasks",
+        "D": "Compare them unfavorably to other apprentices"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tasks too far beyond ability level cause frustration and failure, damaging confidence rather than building it.",
+        "B": "Gradually increasing task difficulty while providing appropriate support and recognizing progress builds competence and confidence sustainably.",
+        "C": "Only simple tasks don't challenge apprentices or demonstrate trust in their developing abilities.",
+        "D": "Negative comparisons damage morale and create competition rather than collaborative learning environment."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.02 Uses mentoring techniques",
+      "question": "How should a mentor respond when an apprentice asks why specific procedures are required?",
+      "options": {
+        "A": "Tell them not to question procedures",
+        "B": "Explain the reasoning and consequences of not following procedures",
+        "C": "Tell them to look it up themselves",
+        "D": "Say 'because I said so'"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Discouraging questions stifles learning and prevents understanding of important safety and quality reasons.",
+        "B": "Explaining why procedures exist helps apprentices understand their importance, remember them better, and apply them appropriately in varying situations.",
+        "C": "While research has value, mentors should provide context and explanation to reinforce learning.",
+        "D": "This response provides no learning value and may breed resentment rather than understanding."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "A",
+      "task": "A-4",
+      "taskTitle": "Uses communication and mentoring techniques",
+      "subtask": "A-4.02 Uses mentoring techniques",
+      "question": "What is important when providing feedback to apprentices?",
+      "options": {
+        "A": "Focus only on what they did wrong",
+        "B": "Provide feedback immediately, be specific, and balance correction with recognition of what was done well",
+        "C": "Wait until performance review time",
+        "D": "Only give feedback when serious problems occur"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Only negative feedback demoralizes apprentices; effective feedback includes recognition of strengths along with areas for improvement.",
+        "B": "Timely, specific feedback that acknowledges both strengths and areas for improvement is most effective for learning and maintaining motivation.",
+        "C": "Delayed feedback is less effective; apprentices benefit from immediate feedback while the work is fresh in their minds.",
+        "D": "Regular feedback on both good and poor performance promotes continuous improvement rather than crisis management."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1687 @@
+{
+  "block": "G",
+  "blockTitle": "Specialized Systems",
+  "totalQuestions": 80,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.01 Plans layout and sizes piping and components for process piping systems",
+      "question": "What is the primary consideration when sizing process piping?",
+      "options": {
+        "A": "Color of pipe only",
+        "B": "Flow rate, pressure drop, and fluid characteristics",
+        "C": "Random selection",
+        "D": "Building height only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pipe color is for identification, not sizing; proper sizing requires engineering calculations considering flow and pressure.",
+        "B": "Process pipe sizing must consider flow requirements, allowable pressure drop, and fluid properties like viscosity and temperature.",
+        "C": "Random sizing causes inadequate flow or excessive pressure drop; engineering calculations ensure proper performance.",
+        "D": "While elevation affects static pressure, pipe sizing primarily depends on flow rate, pressure drop, and fluid properties."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.01 Plans layout and sizes piping and components for process piping systems",
+      "question": "Why must process piping materials be compatible with the fluid being conveyed?",
+      "options": {
+        "A": "Incompatible materials cause corrosion, contamination, or failure",
+        "B": "All materials are compatible",
+        "C": "Compatibility doesn't matter",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Material compatibility prevents chemical reactions, corrosion, and contamination ensuring safe reliable operation.",
+        "B": "Materials vary in chemical resistance; improper selection causes premature failure or product contamination.",
+        "C": "Compatibility is critical for system integrity; incompatible materials fail prematurely or contaminate products.",
+        "D": "Compatibility serves functional and safety purposes; it ensures system integrity, not appearance."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.01 Plans layout and sizes piping and components for process piping systems",
+      "question": "What determines the required pressure rating for process piping?",
+      "options": {
+        "A": "Maximum operating pressure plus safety margin",
+        "B": "Any rating works",
+        "C": "Atmospheric only",
+        "D": "Random selection"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure rating must exceed maximum operating pressure with safety margin preventing failures from pressure surges.",
+        "B": "Inadequate pressure rating causes catastrophic failures; proper rating ensures safe operation.",
+        "C": "Many processes operate above atmospheric; proper rating must accommodate operating pressure.",
+        "D": "Pressure rating requires calculation based on operating conditions; random selection risks failures."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.01 Plans layout and sizes piping and components for process piping systems",
+      "question": "How should expansion and contraction be accommodated in process piping?",
+      "options": {
+        "A": "Ignore completely",
+        "B": "Rigid restraint everywhere",
+        "C": "Using expansion loops, joints, or flexible connections allowing movement",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Thermal expansion creates significant stress; accommodation prevents pipe and connection failures.",
+        "B": "Rigid restraint prevents necessary movement causing stress failures; flexibility is required.",
+        "C": "Various methods accommodate thermal expansion preventing stress damage while maintaining system integrity.",
+        "D": "Expansion accommodation serves structural integrity; it prevents stress failures, not appearance."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.01 Plans layout and sizes piping and components for process piping systems",
+      "question": "Why must process piping be properly sloped?",
+      "options": {
+        "A": "To enable complete drainage and prevent fluid accumulation",
+        "B": "Slope is not necessary",
+        "C": "Level is always required",
+        "D": "Random slope acceptable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper slope enables complete drainage during shutdown and prevents low-point accumulation causing contamination or freezing.",
+        "B": "Slope facilitates drainage and prevents accumulation; proper grading is essential for maintenance.",
+        "C": "Level piping can trap fluids preventing complete drainage; proper slope enables draining.",
+        "D": "Slope direction and magnitude must be specified; proper grading ensures complete drainage."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.01 Plans layout and sizes piping and components for process piping systems",
+      "question": "What is the purpose of isolation valves in process systems?",
+      "options": {
+        "A": "To enable equipment service without draining entire system",
+        "B": "Only for decoration",
+        "C": "Isolation is not needed",
+        "D": "To permanently block flow"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Strategic isolation valves enable equipment removal for service minimizing production disruption and fluid loss.",
+        "B": "Isolation valves serve functional maintenance purposes; they enable efficient service, not decoration.",
+        "C": "Isolation valves enable efficient maintenance; proper placement minimizes downtime and fluid loss.",
+        "D": "Isolation valves enable temporary isolation for service; systems normally operate with valves open."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.01 Plans layout and sizes piping and components for process piping systems",
+      "question": "How should process piping be routed?",
+      "options": {
+        "A": "To minimize pressure drop, enable drainage, and facilitate maintenance",
+        "B": "Random routing",
+        "C": "Maximum complexity always",
+        "D": "Routing doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper routing minimizes friction losses, enables maintenance access, and facilitates drainage.",
+        "B": "Systematic routing optimizes performance and serviceability; random placement creates problems.",
+        "C": "Unnecessary complexity increases pressure drop and cost; efficient routing optimizes performance.",
+        "D": "Routing affects pressure drop, drainage, and maintenance; proper planning is essential."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.01 Plans layout and sizes piping and components for process piping systems",
+      "question": "Why must process systems include pressure relief protection?",
+      "options": {
+        "A": "To prevent dangerous overpressure protecting equipment and personnel",
+        "B": "Relief is not needed",
+        "C": "Only for appearance",
+        "D": "To increase pressure"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure relief prevents catastrophic failures from overpressure protecting equipment and ensuring personnel safety.",
+        "B": "Relief protection is mandatory for safety; overpressure can cause catastrophic failures.",
+        "C": "Relief devices serve critical safety functions; they protect equipment and personnel, not appearance.",
+        "D": "Relief devices limit maximum pressure; they protect against excessive pressure, not increase it."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.02 Installs piping for process piping systems",
+      "question": "How should stainless steel process piping be joined?",
+      "options": {
+        "A": "Using orbital welding or sanitary fittings maintaining cleanliness",
+        "B": "Tape only",
+        "C": "Random methods",
+        "D": "No joining needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper joining methods create clean smooth joints preventing contamination and enabling sanitation.",
+        "B": "Tape cannot create pressure-tight joints for process systems; proper welding or mechanical fittings required.",
+        "C": "Specific joining methods ensure proper sanitation; appropriate techniques prevent contamination.",
+        "D": "Joints are essential for system assembly; proper methods ensure leak-free contamination-free operation."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.02 Installs piping for process piping systems",
+      "question": "Why must process piping be properly supported?",
+      "options": {
+        "A": "To prevent sagging, maintain alignment, and accommodate expansion",
+        "B": "No support needed",
+        "C": "Random placement",
+        "D": "Support is not important"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper support prevents sagging and misalignment while allowing thermal expansion movement.",
+        "B": "Support is essential preventing sagging from weight and contents; proper spacing prevents failures.",
+        "C": "Support spacing follows specifications; systematic placement ensures adequate support.",
+        "D": "Support is critical for alignment and stress prevention; proper installation ensures system integrity."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.02 Installs piping for process piping systems",
+      "question": "What prevents contamination during piping installation?",
+      "options": {
+        "A": "Proper cleaning, capping open ends, and maintaining cleanliness during installation",
+        "B": "Contamination is acceptable",
+        "C": "No precautions needed",
+        "D": "Dirt improves operation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Cleanliness during installation prevents contamination ensuring product quality and equipment protection.",
+        "B": "Contamination affects product quality and damages equipment; prevention is essential.",
+        "C": "Contamination prevention protects products and equipment; proper procedures maintain cleanliness.",
+        "D": "Contamination damages equipment and affects products; cleanliness ensures proper operation."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.02 Installs piping for process piping systems",
+      "question": "How should pipe identification be applied?",
+      "options": {
+        "A": "Using color coding, labels, and flow arrows per standards",
+        "B": "Identification is not needed",
+        "C": "Random markings",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper identification enables safe operation and maintenance by clearly indicating contents and flow direction.",
+        "B": "Identification is required for safety; proper marking enables safe maintenance and emergency response.",
+        "C": "Identification follows standards; proper marking communicates contents and hazards clearly.",
+        "D": "Identification serves safety and functional purposes; it prevents errors, not merely decoration."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.02 Installs piping for process piping systems",
+      "question": "Why must welding procedures be qualified?",
+      "options": {
+        "A": "To ensure weld quality meeting strength and safety requirements",
+        "B": "Qualification is not needed",
+        "C": "Any welding works",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Procedure qualification verifies welding produces sound joints meeting code requirements for strength and safety.",
+        "B": "Qualification ensures weld quality; proper procedures prevent failures from defective welds.",
+        "C": "Proper procedures are essential for quality; unqualified welding causes failures.",
+        "D": "Qualification ensures structural integrity and safety; it's not aesthetic consideration."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.02 Installs piping for process piping systems",
+      "question": "How should penetrations through walls be sealed?",
+      "options": {
+        "A": "With approved fire-rated materials maintaining fire protection and allowing movement",
+        "B": "No sealing needed",
+        "C": "Any material works",
+        "D": "To rigidly restrain pipe"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper sealing maintains fire ratings while accommodating pipe thermal expansion through flexible materials.",
+        "B": "Penetration sealing is required for fire protection; proper installation maintains building safety.",
+        "C": "Fire-rated materials are required; proper products maintain fire protection during emergencies.",
+        "D": "Sealing accommodates pipe movement while closing openings; rigid restraint prevents necessary expansion."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.02 Installs piping for process piping systems",
+      "question": "Why must pipe threads be properly applied?",
+      "options": {
+        "A": "To ensure leak-tight connections preventing fluid loss and contamination",
+        "B": "Threads don't matter",
+        "C": "Any thread works",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper threading creates leak-tight sealing surfaces; correct application prevents leaks and system failures.",
+        "B": "Thread quality directly affects seal quality; proper threading prevents leaks.",
+        "C": "Threads must meet standards; improper threading causes leaks and failures.",
+        "D": "Threading serves functional sealing; proper threads ensure leak-free operation, not appearance."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.02 Installs piping for process piping systems",
+      "question": "How should process piping be insulated?",
+      "options": {
+        "A": "Based on temperature control, energy conservation, and personnel protection requirements",
+        "B": "Insulation is not needed",
+        "C": "Random application",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Insulation selection considers temperature maintenance, energy efficiency, and burn protection meeting process requirements.",
+        "B": "Insulation serves multiple functions; proper application provides temperature control and safety.",
+        "C": "Insulation type and thickness must match requirements; proper selection ensures effectiveness.",
+        "D": "Insulation serves functional purposes including energy efficiency and safety, not merely appearance."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.03 Installs components for process piping systems",
+      "question": "How should process valves be installed?",
+      "options": {
+        "A": "With proper orientation, support, and accessibility for operation and maintenance",
+        "B": "Random installation",
+        "C": "Upside down always",
+        "D": "Orientation doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper valve installation ensures correct operation, adequate support, and maintenance accessibility.",
+        "B": "Valve installation follows specifications; proper orientation ensures correct operation.",
+        "C": "Specific orientation is required for proper operation; inverted installation may prevent function.",
+        "D": "Orientation affects operation and serviceability; proper installation ensures valve function."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.03 Installs components for process piping systems",
+      "question": "Why must strainers be installed upstream of equipment?",
+      "options": {
+        "A": "To protect equipment from debris damage by filtering particles",
+        "B": "Strainers are not needed",
+        "C": "Downstream is better",
+        "D": "Random location"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Upstream strainer installation protects expensive equipment from debris damage by removing particles.",
+        "B": "Strainers protect equipment from debris; proper installation prevents expensive damage.",
+        "C": "Strainers must be upstream providing protection; downstream placement provides no equipment protection.",
+        "D": "Strainer location is critical for protection; upstream placement ensures equipment protection."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.03 Installs components for process piping systems",
+      "question": "How should pressure gauges be protected?",
+      "options": {
+        "A": "Using isolating valves, snubbers, or diaphragm seals preventing damage",
+        "B": "No protection needed",
+        "C": "Direct connection always",
+        "D": "Protection is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper protection enables gauge removal, dampens pulsation, and isolates corrosive fluids extending gauge life.",
+        "B": "Gauge protection extends life and enables service; proper installation ensures accuracy.",
+        "C": "Direct connection risks gauge damage from pulsation or corrosion; protection extends life.",
+        "D": "Protection extends gauge life; proper installation ensures accurate long-term operation."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.03 Installs components for process piping systems",
+      "question": "Why must flow direction be observed for components?",
+      "options": {
+        "A": "Many components operate correctly only in proper flow direction",
+        "B": "Direction doesn't matter",
+        "C": "All components are bidirectional",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Check valves, strainers, and control valves are directional; correct installation ensures proper operation.",
+        "B": "Many components require specific flow direction; attention to arrows ensures proper function.",
+        "C": "While some components work either direction, many require correct orientation for proper operation.",
+        "D": "Flow direction serves functional purposes ensuring proper operation; it's not aesthetic consideration."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.03 Installs components for process piping systems",
+      "question": "How should relief valves be installed?",
+      "options": {
+        "A": "Vertically, properly supported, with discharge piping as specified",
+        "B": "Random orientation",
+        "C": "No discharge piping needed",
+        "D": "Horizontal only"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Vertical installation ensures proper operation while discharge piping safely directs relieved fluids away from personnel.",
+        "B": "Relief valve orientation follows specifications; proper installation ensures reliable operation.",
+        "C": "Discharge piping is essential for safety; proper routing protects personnel from relieved fluids.",
+        "D": "Vertical installation is typically required for proper operation; horizontal may prevent function."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.03 Installs components for process piping systems",
+      "question": "Why must expansion joints be properly guided?",
+      "options": {
+        "A": "To control movement direction preventing misalignment and damage",
+        "B": "Guides are not needed",
+        "C": "Random movement is acceptable",
+        "D": "To prevent all movement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper guides control expansion direction preventing joint damage and maintaining system alignment.",
+        "B": "Guides are essential for controlling movement; proper installation prevents joint damage.",
+        "C": "Uncontrolled movement damages joints; guides ensure proper directional expansion.",
+        "D": "Guides control movement direction, not prevent it; proper guiding enables safe expansion."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.03 Installs components for process piping systems",
+      "question": "How should instrumentation be installed?",
+      "options": {
+        "A": "Per manufacturer specifications ensuring proper measurement and accessibility",
+        "B": "Random installation",
+        "C": "Instrumentation is not used",
+        "D": "Any location works"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper instrumentation installation ensures accurate measurements and enables calibration and maintenance.",
+        "B": "Instrument installation follows specifications; proper location ensures accurate measurements.",
+        "C": "Instrumentation is essential for process monitoring and control in most systems.",
+        "D": "Instrument location affects measurement accuracy; proper positioning ensures correct readings."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.03 Installs components for process piping systems",
+      "question": "Why must pump suction piping be properly designed?",
+      "options": {
+        "A": "To prevent cavitation and ensure adequate NPSH maintaining pump performance",
+        "B": "Suction design doesn't matter",
+        "C": "Any configuration works",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper suction piping prevents cavitation damage ensuring reliable pump operation and long life.",
+        "B": "Suction design critically affects pump operation; proper design prevents cavitation and performance problems.",
+        "C": "Specific suction configurations prevent problems; proper design ensures adequate pump performance.",
+        "D": "Suction design serves functional purposes preventing cavitation; it's not aesthetic consideration."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.04 Tests process piping systems",
+      "question": "What pressure should process piping be tested at?",
+      "options": {
+        "A": "1.5 times design pressure or per code requirements",
+        "B": "Design pressure only",
+        "C": "No testing needed",
+        "D": "Maximum possible pressure"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Elevated test pressure stresses system revealing defects before operation without damaging properly installed components.",
+        "B": "Working pressure testing provides inadequate stress; elevated pressure reveals marginal connections.",
+        "C": "Pressure testing is mandatory verifying system integrity before operation.",
+        "D": "Excessive pressure damages components; specified test pressure provides adequate stress without damage."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.04 Tests process piping systems",
+      "question": "How should leak testing be performed?",
+      "options": {
+        "A": "Using appropriate fluid under controlled conditions with systematic inspection",
+        "B": "Testing is not done",
+        "C": "Visual only",
+        "D": "Random checking"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Systematic leak testing under proper conditions reveals all leaks before system operation.",
+        "B": "Leak testing is essential verifying system integrity; proper testing prevents operational failures.",
+        "C": "Visual inspection alone misses small leaks; systematic pressure testing reveals all defects.",
+        "D": "Systematic inspection is necessary; random checking misses defects requiring comprehensive testing."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.04 Tests process piping systems",
+      "question": "Why must test fluids be compatible with system materials?",
+      "options": {
+        "A": "To prevent material damage or contamination during testing",
+        "B": "Any fluid works",
+        "C": "Compatibility doesn't matter",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Compatible test fluids prevent material damage and avoid contamination ensuring proper test results.",
+        "B": "Incompatible test fluids can damage materials; proper selection prevents problems.",
+        "C": "Test fluid compatibility prevents damage and contamination; proper selection is essential.",
+        "D": "Compatibility serves functional material protection; it prevents damage, not aesthetic issues."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.04 Tests process piping systems",
+      "question": "How should test results be documented?",
+      "options": {
+        "A": "Recording pressures, duration, repairs, and acceptance criteria verification",
+        "B": "No documentation needed",
+        "C": "Verbal only",
+        "D": "Documentation is optional"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete test records prove system integrity and provide essential reference for future service.",
+        "B": "Test documentation is required for verification; records prove compliance and provide maintenance reference.",
+        "C": "Written records provide permanent proof; verbal documentation is inadequate for verification.",
+        "D": "Test documentation is mandatory proving system integrity and enabling future troubleshooting."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.04 Tests process piping systems",
+      "question": "What verifies proper valve operation?",
+      "options": {
+        "A": "Cycling valves under pressure and verifying full travel and proper sealing",
+        "B": "Valves cannot be tested",
+        "C": "Visual only",
+        "D": "Testing is not done"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Operational testing under pressure verifies valve function and sealing before system commissioning.",
+        "B": "Valve operation is testable through cycling; testing verifies proper function.",
+        "C": "Visual inspection cannot verify internal operation; functional testing confirms proper operation.",
+        "D": "Valve testing ensures proper operation; verification confirms correct function before service."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.04 Tests process piping systems",
+      "question": "Why should systems be flushed before operation?",
+      "options": {
+        "A": "To remove debris, welding slag, and contaminants protecting equipment",
+        "B": "Flushing is not needed",
+        "C": "Debris is beneficial",
+        "D": "To add contaminants"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flushing removes installation debris protecting equipment from damage and preventing contamination.",
+        "B": "Flushing is essential removing debris; clean systems protect equipment and ensure proper operation.",
+        "C": "Debris damages equipment and contaminates products; flushing removes unwanted material.",
+        "D": "Flushing removes contaminants; the purpose is system cleaning, not adding debris."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.04 Tests process piping systems",
+      "question": "How should instrument calibration be verified?",
+      "options": {
+        "A": "Using calibrated reference standards and documented procedures",
+        "B": "Calibration is not needed",
+        "C": "Visual estimation only",
+        "D": "Instruments are always accurate"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper calibration verification ensures accurate measurements using traceable reference standards.",
+        "B": "Calibration verification ensures measurement accuracy; proper checking confirms correct readings.",
+        "C": "Visual estimation cannot verify accuracy; comparison to standards confirms proper calibration.",
+        "D": "Instruments drift over time; calibration verification ensures continued accuracy."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.04 Tests process piping systems",
+      "question": "What verifies proper relief valve operation?",
+      "options": {
+        "A": "Testing at set pressure verifying opening and reseating",
+        "B": "Relief valves cannot be tested",
+        "C": "Visual only",
+        "D": "Testing is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper testing verifies relief valve opens at correct pressure and reseats properly ensuring safety protection.",
+        "B": "Relief valves are testable; proper testing verifies safety protection function.",
+        "C": "Visual inspection cannot verify set pressure; functional testing confirms proper operation.",
+        "D": "Proper testing verifies safety protection; testing ensures correct relief valve operation."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.05 Services process piping systems",
+      "question": "What causes process piping corrosion?",
+      "options": {
+        "A": "Chemical attack, galvanic action, or erosion from fluid properties",
+        "B": "Corrosion never occurs",
+        "C": "Corrosion is beneficial",
+        "D": "All materials are immune"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various mechanisms cause corrosion; proper material selection and monitoring prevent premature failures.",
+        "B": "All materials corrode under certain conditions; proper selection and monitoring extend life.",
+        "C": "Corrosion weakens piping causing failures; prevention extends system life.",
+        "D": "No material is universally corrosion-resistant; proper selection matches materials to service."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.05 Services process piping systems",
+      "question": "How should leaks be repaired?",
+      "options": {
+        "A": "By proper isolation, repair method selection, and pressure testing before return to service",
+        "B": "Leaks are acceptable",
+        "C": "Tape only",
+        "D": "Ignore completely"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper repair procedures ensure safe effective repair and verify integrity before system restart.",
+        "B": "Leaks waste materials and create hazards; proper repair maintains system integrity.",
+        "C": "Tape provides temporary fixes at best; proper repair methods ensure reliable leak elimination.",
+        "D": "Leaks worsen without repair; proper attention prevents escalation to major failures."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.05 Services process piping systems",
+      "question": "Why must process systems be cleaned periodically?",
+      "options": {
+        "A": "To remove deposits maintaining efficiency and preventing contamination",
+        "B": "Cleaning is not needed",
+        "C": "Deposits are beneficial",
+        "D": "Systems are self-cleaning"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Periodic cleaning removes deposits maintaining system efficiency and preventing product contamination.",
+        "B": "Deposits accumulate reducing efficiency; cleaning maintains proper system operation.",
+        "C": "Deposits reduce flow and efficiency; removal maintains proper system performance.",
+        "D": "Process systems accumulate deposits; periodic cleaning maintains efficiency and product quality."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.05 Services process piping systems",
+      "question": "How should valve maintenance be performed?",
+      "options": {
+        "A": "Through inspection, packing adjustment, and component replacement as needed",
+        "B": "Valves never need service",
+        "C": "Maintenance is harmful",
+        "D": "Valves are maintenance-free"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular valve maintenance ensures proper operation through inspection and component service.",
+        "B": "Valves require periodic maintenance; attention extends life and maintains operation.",
+        "C": "Proper maintenance extends valve life; service restores proper operation.",
+        "D": "All valves require periodic service; maintenance ensures continued proper operation."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.05 Services process piping systems",
+      "question": "What indicates system blockage?",
+      "options": {
+        "A": "Reduced flow, increased pressure drop, or inadequate process performance",
+        "B": "Blockages never occur",
+        "C": "Performance is always constant",
+        "D": "Blockages are undetectable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Various symptoms indicate blockage; diagnosis and cleaning restores proper flow and operation.",
+        "B": "Blockages develop from deposits or debris; monitoring reveals problems requiring cleaning.",
+        "C": "Performance degrades from blockages; symptoms indicate cleaning needs.",
+        "D": "Blockages produce clear symptoms through flow and pressure changes; detection enables cleaning."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.05 Services process piping systems",
+      "question": "Why should strainers be cleaned regularly?",
+      "options": {
+        "A": "To maintain flow and protect downstream equipment from debris",
+        "B": "Strainers never clog",
+        "C": "Cleaning is harmful",
+        "D": "Clogged is better"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular strainer cleaning maintains proper flow and continues equipment protection from debris damage.",
+        "B": "Strainers accumulate debris requiring cleaning; service maintains protection and flow.",
+        "C": "Cleaning maintains strainer function; service protects equipment and ensures proper flow.",
+        "D": "Clogged strainers restrict flow and may allow debris bypass; cleaning maintains protection."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.05 Services process piping systems",
+      "question": "How should insulation be maintained?",
+      "options": {
+        "A": "By inspecting for damage and repairing or replacing deteriorated sections",
+        "B": "Insulation is permanent",
+        "C": "Maintenance is not needed",
+        "D": "Damage is beneficial"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular inspection and repair maintains insulation effectiveness ensuring energy efficiency and safety.",
+        "B": "Insulation can be damaged or deteriorate; maintenance maintains effectiveness.",
+        "C": "Insulation inspection and repair maintains efficiency; attention ensures proper protection.",
+        "D": "Damaged insulation reduces effectiveness; repair restores proper thermal control and safety."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "G",
+      "task": "G-19",
+      "taskTitle": "Installs, tests and services process piping systems",
+      "subtask": "G-19.05 Services process piping systems",
+      "question": "Why should process systems be monitored?",
+      "options": {
+        "A": "To detect problems early enabling preventive maintenance and avoiding failures",
+        "B": "Monitoring is unnecessary",
+        "C": "Systems never change",
+        "D": "Monitoring is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular monitoring reveals developing problems enabling efficient preventive maintenance before failures.",
+        "B": "Monitoring identifies problems early; attention enables cost-effective preventive maintenance.",
+        "C": "Systems degrade with use; monitoring reveals changes enabling timely intervention.",
+        "D": "Monitoring maintains system health; observation enables maintenance before expensive failures."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.01 Plans layout and sizes piping, components and equipment for other specialized systems",
+      "question": "What factors determine medical gas pipe sizing?",
+      "options": {
+        "A": "Flow rate requirements, pressure drop limits, and simultaneous use factors",
+        "B": "Random sizing",
+        "C": "One size fits all",
+        "D": "Sizing is not important"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Medical gas sizing considers peak demand, allowable pressure drop, and diversity factors ensuring adequate supply.",
+        "B": "Medical gas sizing requires calculation; proper sizing ensures adequate emergency supply.",
+        "C": "Medical gas requirements vary widely; proper sizing ensures adequate life-safety supply.",
+        "D": "Proper sizing is critical for life safety; adequate supply must be ensured under all conditions."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.01 Plans layout and sizes piping, components and equipment for other specialized systems",
+      "question": "Why must compressed air systems include moisture removal?",
+      "options": {
+        "A": "To prevent corrosion, freezing, and equipment damage from water",
+        "B": "Moisture is beneficial",
+        "C": "Removal is not needed",
+        "D": "Air is always dry"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Moisture removal prevents corrosion, freezing, and damage to air tools and controls extending system life.",
+        "B": "Moisture causes corrosion and equipment problems; removal protects systems and tools.",
+        "C": "Moisture removal is essential for protection; proper drying prevents damage and ensures reliability.",
+        "D": "Compressed air always contains moisture; proper removal prevents problems and protects equipment."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.01 Plans layout and sizes piping, components and equipment for other specialized systems",
+      "question": "How should vacuum systems be designed?",
+      "options": {
+        "A": "To minimize leakage, maintain required vacuum level, and handle expected loads",
+        "B": "Random design",
+        "C": "Any configuration works",
+        "D": "Design doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper vacuum system design minimizes air infiltration while providing adequate capacity for all connected equipment.",
+        "B": "Vacuum system design requires specific considerations; proper engineering ensures adequate performance.",
+        "C": "Vacuum systems require tight construction; proper design maintains required vacuum levels.",
+        "D": "Design critically affects vacuum system performance; proper engineering ensures adequate operation."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.01 Plans layout and sizes piping, components and equipment for other specialized systems",
+      "question": "What determines fuel gas pipe sizing?",
+      "options": {
+        "A": "Gas type, heat demand, pressure drop, and simultaneous operation",
+        "B": "Random sizing",
+        "C": "One size works",
+        "D": "Sizing is irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Fuel gas sizing considers gas characteristics, appliance loads, and pressure drop ensuring adequate supply.",
+        "B": "Gas pipe sizing requires calculation; proper sizing ensures adequate fuel delivery.",
+        "C": "Gas requirements vary widely; proper sizing ensures adequate supply for all appliances.",
+        "D": "Proper sizing is essential for safety and performance; adequate supply must be ensured."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.01 Plans layout and sizes piping, components and equipment for other specialized systems",
+      "question": "Why must specialty gas systems include proper pressure regulation?",
+      "options": {
+        "A": "To maintain stable supply pressure protecting equipment and ensuring proper operation",
+        "B": "Regulation is not needed",
+        "C": "Any pressure works",
+        "D": "Pressure doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure regulation maintains stable supply protecting equipment and ensuring consistent process operation.",
+        "B": "Pressure regulation is essential for equipment protection; stable pressure ensures proper operation.",
+        "C": "Equipment requires specific pressures; proper regulation protects and ensures correct operation.",
+        "D": "Pressure critically affects operation and safety; proper regulation is essential."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.01 Plans layout and sizes piping, components and equipment for other specialized systems",
+      "question": "How should laboratory gas systems be designed?",
+      "options": {
+        "A": "With proper materials, pressure control, and safety shutoffs for each lab",
+        "B": "Random design",
+        "C": "No safety needed",
+        "D": "Design is not important"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Laboratory gas design includes compatible materials, pressure regulation, and emergency shutoffs ensuring safe operation.",
+        "B": "Lab gas design requires specific safety considerations; proper engineering ensures safe reliable supply.",
+        "C": "Safety features are essential in lab gas systems; proper design protects personnel and facilities.",
+        "D": "Design is critical for safety and reliability; proper engineering ensures safe gas delivery."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.01 Plans layout and sizes piping, components and equipment for other specialized systems",
+      "question": "What is required for nitrogen system design?",
+      "options": {
+        "A": "Proper sizing, pressure control, and oxygen monitoring in confined spaces",
+        "B": "Any design works",
+        "C": "No special requirements",
+        "D": "Design doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Nitrogen system design includes adequate capacity, pressure regulation, and asphyxiation hazard control.",
+        "B": "Nitrogen systems require specific design; proper engineering ensures adequate supply and safety.",
+        "C": "Nitrogen creates asphyxiation hazards; proper design includes safety considerations.",
+        "D": "Design affects safety and performance; proper engineering ensures safe adequate nitrogen supply."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.01 Plans layout and sizes piping, components and equipment for other specialized systems",
+      "question": "Why must pool piping be properly sized?",
+      "options": {
+        "A": "To provide adequate circulation for filtration and chemical distribution",
+        "B": "Random sizing acceptable",
+        "C": "One size fits all",
+        "D": "Sizing is irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pool piping sizing ensures adequate circulation for effective filtration and chemical mixing maintaining water quality.",
+        "B": "Pool pipe sizing requires calculation; proper sizing ensures effective water treatment.",
+        "C": "Pool requirements vary with size; proper sizing ensures adequate circulation.",
+        "D": "Proper sizing is essential for water quality; adequate circulation must be provided."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.02 Installs piping and components for other specialized systems",
+      "question": "How should medical gas piping be cleaned?",
+      "options": {
+        "A": "Using approved cleaning methods removing all contaminants before installation",
+        "B": "Cleaning is not needed",
+        "C": "Any method works",
+        "D": "Dirt is acceptable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Medical gas piping requires thorough cleaning removing all contaminants ensuring patient safety.",
+        "B": "Medical gas cleaning is mandatory; contamination creates patient hazards.",
+        "C": "Specific cleaning methods are required; proper procedures ensure contaminant removal.",
+        "D": "Contamination in medical gas creates patient hazards; proper cleaning is mandatory."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.02 Installs piping and components for other specialized systems",
+      "question": "Why must medical gas piping be properly identified?",
+      "options": {
+        "A": "To prevent cross-connections ensuring correct gas delivery to patients",
+        "B": "Identification is not needed",
+        "C": "Any color works",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper color coding and labeling prevents dangerous cross-connections ensuring patient safety.",
+        "B": "Identification is mandatory for safety; proper marking prevents life-threatening errors.",
+        "C": "Specific colors are required for each gas; proper identification prevents dangerous mistakes.",
+        "D": "Identification serves life-safety purposes; proper marking prevents fatal errors, not decoration."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.02 Installs piping and components for other specialized systems",
+      "question": "How should compressed air distribution be installed?",
+      "options": {
+        "A": "With proper slope for drainage and accessibility for moisture removal",
+        "B": "Level installation required",
+        "C": "Random routing",
+        "D": "Slope doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper slope enables condensate drainage to collection points protecting equipment from water damage.",
+        "B": "Slope is necessary for condensate drainage; level piping traps water causing problems.",
+        "C": "Systematic routing with proper slope ensures drainage; random placement traps condensate.",
+        "D": "Slope enables moisture removal; proper grading protects equipment from water damage."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.02 Installs piping and components for other specialized systems",
+      "question": "Why must vacuum piping be leak-tight?",
+      "options": {
+        "A": "Air leaks reduce vacuum level and increase pump load",
+        "B": "Leaks are acceptable",
+        "C": "Vacuum doesn't require sealing",
+        "D": "Leaks improve operation"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Air infiltration through leaks reduces vacuum level and increases energy consumption requiring tight construction.",
+        "B": "Vacuum system leaks reduce performance; proper sealing maintains vacuum level.",
+        "C": "Vacuum systems require very tight construction; leaks significantly degrade performance.",
+        "D": "Leaks reduce vacuum and waste energy; tight construction ensures proper operation."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.02 Installs piping and components for other specialized systems",
+      "question": "How should fuel gas piping be joined?",
+      "options": {
+        "A": "Using approved methods with proper materials and testing for leaks",
+        "B": "Any method works",
+        "C": "Tape only",
+        "D": "No joining needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Fuel gas joining requires approved methods and materials ensuring leak-tight safe connections.",
+        "B": "Specific joining methods are required for safety; approved techniques prevent gas leaks.",
+        "C": "Tape alone provides inadequate sealing; proper joining methods ensure gas-tight connections.",
+        "D": "Joints are essential for system assembly; proper methods ensure safe leak-tight construction."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.02 Installs piping and components for other specialized systems",
+      "question": "Why must specialty gas piping avoid contamination?",
+      "options": {
+        "A": "Contamination affects process quality and equipment operation",
+        "B": "Contamination is acceptable",
+        "C": "All gases are the same",
+        "D": "Purity doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Contamination in specialty gases affects process outcomes and can damage sensitive equipment.",
+        "B": "Specialty gas purity is critical; contamination affects processes and equipment.",
+        "C": "Different gases require specific purity levels; contamination prevention is essential.",
+        "D": "Gas purity critically affects processes; proper handling maintains required cleanliness."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.02 Installs piping and components for other specialized systems",
+      "question": "How should laboratory gas outlets be installed?",
+      "options": {
+        "A": "With proper identification, heights, and gas-specific fittings preventing cross-connection",
+        "B": "Random installation",
+        "C": "Any outlet works",
+        "D": "Installation doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper outlet installation with gas-specific connections prevents dangerous cross-connections ensuring safety.",
+        "B": "Lab gas outlet installation follows specifications; proper positioning and identification ensure safety.",
+        "C": "Gas-specific outlets prevent cross-connections; proper fittings ensure correct gas delivery.",
+        "D": "Installation affects safety and usability; proper placement and identification are essential."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.02 Installs piping and components for other specialized systems",
+      "question": "Why must pool piping resist chemical attack?",
+      "options": {
+        "A": "Pool chemicals are corrosive requiring resistant materials for durability",
+        "B": "Any material works",
+        "C": "Chemicals are not corrosive",
+        "D": "Resistance is not needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pool chemicals corrode many materials; proper material selection ensures long system life.",
+        "B": "Pool chemicals attack many materials; proper selection ensures durability.",
+        "C": "Pool chemicals are highly corrosive; resistant materials are essential for longevity.",
+        "D": "Chemical resistance is essential for durability; proper materials prevent premature failures."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.03 Installs equipment for other specialized systems",
+      "question": "How should medical gas sources be installed?",
+      "options": {
+        "A": "In dedicated rooms with proper ventilation, alarms, and emergency access",
+        "B": "Any location works",
+        "C": "Ventilation is not needed",
+        "D": "Random placement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Medical gas source rooms require ventilation, alarm monitoring, and emergency access ensuring safe reliable operation.",
+        "B": "Source location affects safety and reliability; dedicated rooms ensure proper protection.",
+        "C": "Ventilation prevents dangerous gas accumulation; proper airflow is essential for safety.",
+        "D": "Source placement must consider safety and access; proper location ensures reliable operation."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.03 Installs equipment for other specialized systems",
+      "question": "Why must compressors be properly sized?",
+      "options": {
+        "A": "To meet demand without excessive cycling or inadequate supply",
+        "B": "Any size works",
+        "C": "Largest always best",
+        "D": "Sizing doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper compressor sizing matches capacity to demand preventing short cycling or supply inadequacy.",
+        "B": "Compressor sizing must match demand; improper sizing causes operational problems.",
+        "C": "Oversized compressors cycle frequently reducing efficiency; proper sizing matches demand.",
+        "D": "Sizing affects efficiency and reliability; proper matching ensures adequate supply."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.03 Installs equipment for other specialized systems",
+      "question": "How should vacuum pumps be installed?",
+      "options": {
+        "A": "With proper support, vibration isolation, and exhaust discharge provisions",
+        "B": "Random installation",
+        "C": "No support needed",
+        "D": "Installation doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper vacuum pump installation includes adequate support, vibration control, and exhaust handling.",
+        "B": "Vacuum pump installation follows specifications; proper mounting ensures reliable operation.",
+        "C": "Pumps require proper support; adequate mounting prevents vibration problems.",
+        "D": "Installation affects operation and longevity; proper mounting ensures reliable performance."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.03 Installs equipment for other specialized systems",
+      "question": "Why must gas dryers be properly installed?",
+      "options": {
+        "A": "To ensure effective moisture removal and proper drainage",
+        "B": "Dryers are not needed",
+        "C": "Installation doesn't matter",
+        "D": "Random placement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper dryer installation ensures effective moisture removal and condensate drainage protecting systems.",
+        "B": "Gas dryers are essential for moisture removal; proper installation ensures effective drying.",
+        "C": "Installation affects dryer performance; proper mounting and drainage ensure effectiveness.",
+        "D": "Dryer placement affects condensate removal; proper installation ensures effective operation."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.03 Installs equipment for other specialized systems",
+      "question": "How should receivers and storage tanks be installed?",
+      "options": {
+        "A": "On adequate supports with proper drains, vents, and pressure relief",
+        "B": "No support needed",
+        "C": "Random placement",
+        "D": "Support doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper tank installation includes adequate support, drainage provisions, and safety devices.",
+        "B": "Tanks require substantial support; proper installation distributes weight to adequate structure.",
+        "C": "Tank placement must consider structural capacity and access; proper location ensures safety.",
+        "D": "Support is critical for safety; adequate structure prevents failures from weight."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.03 Installs equipment for other specialized systems",
+      "question": "Why must pool filtration equipment be accessible?",
+      "options": {
+        "A": "To enable maintenance, filter changes, and chemical addition",
+        "B": "Access is not important",
+        "C": "Bury equipment completely",
+        "D": "Only for appearance"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper access enables routine maintenance and filter replacement maintaining water quality.",
+        "B": "Equipment accessibility enables efficient maintenance; proper access prevents costly service.",
+        "C": "Concealed equipment prevents necessary maintenance; accessibility enables proper service.",
+        "D": "Accessibility serves functional maintenance purposes; proper access enables equipment service."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.03 Installs equipment for other specialized systems",
+      "question": "How should chemical feeders be installed?",
+      "options": {
+        "A": "With proper ventilation, containment, and safety provisions",
+        "B": "Any location works",
+        "C": "Ventilation is not needed",
+        "D": "Random placement"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Chemical feeder installation includes ventilation, spill containment, and safety equipment protecting personnel.",
+        "B": "Chemical feeder location affects safety; proper placement provides necessary protection.",
+        "C": "Ventilation prevents dangerous vapor accumulation; proper airflow ensures safe operation.",
+        "D": "Feeder placement must consider safety; proper location protects personnel from chemical hazards."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.03 Installs equipment for other specialized systems",
+      "question": "Why must alarm systems be properly installed?",
+      "options": {
+        "A": "To ensure reliable warning of system failures protecting safety",
+        "B": "Alarms are not needed",
+        "C": "Installation doesn't matter",
+        "D": "Alarms are optional"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper alarm installation ensures reliable failure detection enabling prompt response protecting safety.",
+        "B": "Alarms provide essential safety monitoring; proper installation ensures reliable warning.",
+        "C": "Installation affects alarm reliability; proper mounting and wiring ensure effective monitoring.",
+        "D": "Alarms are required for safety; proper installation ensures reliable system monitoring."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.04 Tests specialized systems",
+      "question": "How should medical gas systems be tested?",
+      "options": {
+        "A": "Following strict protocols including pressure, purity, and cross-connection testing",
+        "B": "Testing is not done",
+        "C": "Visual only",
+        "D": "Any test works"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Medical gas testing follows comprehensive protocols ensuring safety and purity before patient use.",
+        "B": "Medical gas testing is mandatory; comprehensive verification ensures patient safety.",
+        "C": "Visual inspection is inadequate; complete testing protocols verify system safety and purity.",
+        "D": "Specific test protocols are required; proper testing ensures medical gas system safety."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.04 Tests specialized systems",
+      "question": "What verifies compressed air system operation?",
+      "options": {
+        "A": "Pressure testing, leak detection, and moisture content verification",
+        "B": "Testing is not needed",
+        "C": "Visual only",
+        "D": "Operation cannot be verified"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Comprehensive testing verifies pressure delivery, system integrity, and effective moisture removal.",
+        "B": "Compressed air testing ensures proper operation; verification confirms adequate performance.",
+        "C": "Visual inspection cannot verify pressure or moisture; testing confirms proper system operation.",
+        "D": "System operation is verifiable through measurement; proper testing confirms adequate performance."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.04 Tests specialized systems",
+      "question": "How should vacuum system performance be verified?",
+      "options": {
+        "A": "By measuring vacuum level, leak testing, and flow capacity verification",
+        "B": "Verification is not done",
+        "C": "Visual only",
+        "D": "Performance cannot be tested"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Vacuum testing verifies level achievement, system tightness, and adequate capacity for connected equipment.",
+        "B": "Vacuum performance testing ensures proper operation; verification confirms adequate system function.",
+        "C": "Visual inspection cannot verify vacuum level; measurement confirms proper system performance.",
+        "D": "Vacuum performance is measurable; proper testing verifies adequate operation."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.04 Tests specialized systems",
+      "question": "Why must fuel gas systems be leak tested?",
+      "options": {
+        "A": "To prevent dangerous gas leaks ensuring safety before operation",
+        "B": "Leak testing is not needed",
+        "C": "Visual only sufficient",
+        "D": "Leaks are acceptable"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Thorough leak testing prevents dangerous gas accumulation ensuring safe system operation.",
+        "B": "Gas leak testing is mandatory for safety; proper testing prevents dangerous gas accumulation.",
+        "C": "Visual inspection cannot detect small gas leaks; pressure testing reveals all defects.",
+        "D": "Gas leaks create explosion hazards; proper testing ensures safe leak-free operation."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.04 Tests specialized systems",
+      "question": "How should specialty gas purity be verified?",
+      "options": {
+        "A": "Through gas analysis measuring contaminant levels against specifications",
+        "B": "Purity cannot be verified",
+        "C": "Visual only",
+        "D": "Testing is not needed"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Gas analysis verifies purity levels ensuring specialty gases meet process requirements.",
+        "B": "Gas purity is verifiable through analysis; testing ensures process requirements are met.",
+        "C": "Visual inspection cannot verify gas purity; chemical analysis confirms composition.",
+        "D": "Purity verification ensures process requirements; testing confirms adequate gas quality."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.04 Tests specialized systems",
+      "question": "What verifies proper alarm operation?",
+      "options": {
+        "A": "Functional testing simulating failures and verifying correct alarm response",
+        "B": "Alarms cannot be tested",
+        "C": "Visual only",
+        "D": "Testing is not done"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Alarm testing simulates failure conditions verifying proper detection and warning before reliance.",
+        "B": "Alarm operation is testable; proper verification ensures reliable failure detection.",
+        "C": "Visual inspection cannot verify alarm function; operational testing confirms proper response.",
+        "D": "Alarm testing ensures reliability; verification confirms proper failure detection and warning."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.04 Tests specialized systems",
+      "question": "How should pool circulation be verified?",
+      "options": {
+        "A": "By measuring flow rate and verifying proper turnover time",
+        "B": "Verification is not done",
+        "C": "Visual only",
+        "D": "Circulation cannot be tested"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Flow measurement verifies adequate circulation for effective filtration and chemical distribution.",
+        "B": "Circulation verification ensures water quality; testing confirms adequate flow for treatment.",
+        "C": "Visual inspection cannot quantify flow; measurement confirms adequate circulation rate.",
+        "D": "Circulation is measurable; proper testing verifies adequate flow for water quality."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.04 Tests specialized systems",
+      "question": "Why must system documentation be completed?",
+      "options": {
+        "A": "To provide operation reference and maintenance records meeting code requirements",
+        "B": "Documentation is not needed",
+        "C": "Verbal only sufficient",
+        "D": "Documentation is optional"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Complete documentation provides essential reference for operation, maintenance, and regulatory compliance.",
+        "B": "Documentation is required providing essential operational and maintenance reference.",
+        "C": "Written documentation provides permanent reference; verbal communication is inadequate.",
+        "D": "Documentation is mandatory meeting regulatory requirements and providing operational reference."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.05 Services specialized systems",
+      "question": "How often should medical gas systems be inspected?",
+      "options": {
+        "A": "According to code requirements with documented periodic verification",
+        "B": "Inspection is not needed",
+        "C": "Once is sufficient forever",
+        "D": "Random timing"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular medical gas inspections ensure continued safe operation meeting code requirements and protecting patients.",
+        "B": "Periodic inspection is mandatory; regular verification ensures continued safe medical gas operation.",
+        "C": "Initial inspection doesn't persist; regular verification maintains safe operation.",
+        "D": "Inspection timing is specified; regular verification ensures continued safe reliable operation."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.05 Services specialized systems",
+      "question": "What maintenance do compressors require?",
+      "options": {
+        "A": "Regular oil changes, filter replacement, and inspection of components",
+        "B": "No maintenance needed",
+        "C": "Maintenance is harmful",
+        "D": "Compressors are maintenance-free"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular compressor maintenance ensures reliable operation and extends equipment life through proper care.",
+        "B": "Compressors require regular maintenance; proper service ensures reliable operation.",
+        "C": "Proper maintenance extends compressor life; service maintains reliable operation.",
+        "D": "All compressors require regular maintenance; proper service ensures continued reliable operation."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.05 Services specialized systems",
+      "question": "How should vacuum pump oil be maintained?",
+      "options": {
+        "A": "Through regular changes per manufacturer schedule maintaining pump efficiency",
+        "B": "Oil changes are not needed",
+        "C": "Oil lasts forever",
+        "D": "Maintenance is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular oil changes maintain vacuum pump efficiency and extend equipment life through proper lubrication.",
+        "B": "Vacuum pump oil degrades; regular changes maintain proper operation.",
+        "C": "Oil deteriorates with use; regular replacement maintains pump efficiency and life.",
+        "D": "Proper oil maintenance extends pump life; regular changes ensure continued efficient operation."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.05 Services specialized systems",
+      "question": "Why must dryer desiccant be replaced?",
+      "options": {
+        "A": "Desiccant becomes saturated losing moisture removal effectiveness",
+        "B": "Desiccant lasts forever",
+        "C": "Replacement is not needed",
+        "D": "Replacement is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Desiccant saturation eliminates drying capacity; regular replacement maintains effective moisture removal.",
+        "B": "Desiccant capacity is finite; saturated material requires replacement for continued moisture removal.",
+        "C": "Desiccant replacement maintains drying effectiveness; fresh material ensures moisture removal.",
+        "D": "Timely replacement maintains dryer effectiveness; fresh desiccant ensures continued moisture removal."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.05 Services specialized systems",
+      "question": "How should gas cylinder manifolds be serviced?",
+      "options": {
+        "A": "Through regular inspection, leak testing, and component replacement",
+        "B": "Service is not needed",
+        "C": "Manifolds never fail",
+        "D": "Service is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular manifold service ensures reliable gas supply through inspection and component maintenance.",
+        "B": "Manifolds require regular service; maintenance ensures reliable gas delivery.",
+        "C": "Manifold components wear and fail; regular service maintains reliable operation.",
+        "D": "Proper service maintains manifold function; regular attention ensures reliable gas supply."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.05 Services specialized systems",
+      "question": "What indicates pool filter cleaning is needed?",
+      "options": {
+        "A": "Increased pressure drop or reduced flow indicating filter loading",
+        "B": "Filters never need cleaning",
+        "C": "Cleaning is not needed",
+        "D": "Pressure doesn't matter"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Pressure differential increase reveals filter loading; cleaning restores proper flow and filtration.",
+        "B": "Pool filters accumulate debris requiring cleaning; service maintains water quality.",
+        "C": "Regular filter cleaning maintains water quality; cleaning restores proper filtration.",
+        "D": "Pressure differential indicates filter condition; monitoring reveals cleaning needs."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.05 Services specialized systems",
+      "question": "How should chemical feeders be maintained?",
+      "options": {
+        "A": "Through cleaning, calibration, and component inspection preventing failures",
+        "B": "Maintenance is not needed",
+        "C": "Feeders are maintenance-free",
+        "D": "Service is harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Regular feeder maintenance ensures accurate chemical dosing through cleaning and calibration.",
+        "B": "Chemical feeders require regular maintenance; service ensures accurate chemical delivery.",
+        "C": "All feeders require periodic service; maintenance ensures accurate reliable operation.",
+        "D": "Proper maintenance ensures feeder accuracy; service maintains correct chemical dosing."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "G",
+      "task": "G-21",
+      "taskTitle": "Installs, tests and services other specialized systems",
+      "subtask": "G-21.05 Services specialized systems",
+      "question": "Why should system performance be documented?",
+      "options": {
+        "A": "To track trends, enable troubleshooting, and maintain compliance records",
+        "B": "Documentation is not needed",
+        "C": "Memory is sufficient",
+        "D": "Records are harmful"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Performance documentation provides essential trending, troubleshooting reference, and regulatory compliance proof.",
+        "B": "Documentation provides valuable reference for service and compliance; records are essential.",
+        "C": "Written records provide reliable trending; memory is inadequate for tracking system history.",
+        "D": "Documentation aids service and proves compliance; records enable effective system management."
+      }
+    }
+  ]
+}

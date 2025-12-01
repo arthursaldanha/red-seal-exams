@@ -1,0 +1,2527 @@
+{
+  "block": "E",
+  "title": "Steering, Suspension, Brake Systems, Wheel Assemblies and Undercarriage",
+  "totalQuestions": 120,
+  "questions": [
+    {
+      "questionNumber": 457,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "What causes hard steering in a hydraulic steering system?",
+      "options": {
+        "A": "Excessive pump pressure.",
+        "B": "Low fluid level, worn pump, or restriction in system.",
+        "C": "New steering components.",
+        "D": "Proper fluid level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "High pressure would make steering easier, not harder.",
+        "B": "These conditions reduce hydraulic assist requiring more steering effort.",
+        "C": "New components should improve steering feel.",
+        "D": "Proper level supports normal operation."
+      }
+    },
+    {
+      "questionNumber": 458,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "What indicates a failing steering pump?",
+      "options": {
+        "A": "Quiet operation.",
+        "B": "Whining noise, hard steering, or fluid leaks.",
+        "C": "Easy steering.",
+        "D": "Cold pump temperature."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Failed pumps typically make noise.",
+        "B": "Pump wear creates noise and reduces assist pressure.",
+        "C": "Easy steering indicates good pump function.",
+        "D": "Temperature doesn't primarily indicate pump failure."
+      }
+    },
+    {
+      "questionNumber": 459,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "What causes steering wheel free play?",
+      "options": {
+        "A": "New steering components.",
+        "B": "Worn steering gear, loose linkage, or worn tie rod ends.",
+        "C": "Proper adjustment.",
+        "D": "Tight steering box."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New components reduce free play.",
+        "B": "Wear in these components creates excessive clearance and free play.",
+        "C": "Proper adjustment minimizes free play.",
+        "D": "Tight steering doesn't cause free play."
+      }
+    },
+    {
+      "questionNumber": 460,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "How is steering system pressure tested?",
+      "options": {
+        "A": "By guessing.",
+        "B": "Install pressure gauge in system and test while turning steering wheel against stop.",
+        "C": "Visual inspection only.",
+        "D": "Pressure cannot be tested."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Accurate pressure measurement requires gauges.",
+        "B": "Pressure testing identifies pump output and relief valve settings.",
+        "C": "Pressure requires gauge measurement.",
+        "D": "Steering pressure is easily tested."
+      }
+    },
+    {
+      "questionNumber": 461,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "What indicates worn tie rod ends?",
+      "options": {
+        "A": "No play when checked.",
+        "B": "Excessive play, clicking noise, or uneven tire wear.",
+        "C": "Perfect alignment.",
+        "D": "New appearance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "No play indicates good condition.",
+        "B": "Wear creates play and allows steering misalignment causing tire wear.",
+        "C": "Worn ends prevent proper alignment.",
+        "D": "Appearance doesn't indicate internal wear."
+      }
+    },
+    {
+      "questionNumber": 462,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "What causes steering to drift or pull to one side?",
+      "options": {
+        "A": "Perfect alignment.",
+        "B": "Misalignment, uneven tire pressure, or brake drag.",
+        "C": "New tires.",
+        "D": "Proper tire inflation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect alignment prevents drift.",
+        "B": "These conditions create unequal forces causing directional pull.",
+        "C": "New tires should improve tracking.",
+        "D": "Proper inflation supports straight tracking."
+      }
+    },
+    {
+      "questionNumber": 463,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "How are steering cylinder seals diagnosed?",
+      "options": {
+        "A": "By machine age only.",
+        "B": "Check for external leaks and loss of steering assist.",
+        "C": "Seals cannot be checked.",
+        "D": "By steering wheel color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Age doesn't indicate current seal condition.",
+        "B": "Leaking seals show fluid traces and reduce hydraulic pressure.",
+        "C": "Seal condition is observable.",
+        "D": "Wheel color doesn't indicate seal condition."
+      }
+    },
+    {
+      "questionNumber": 464,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "What indicates a failing steering control valve?",
+      "options": {
+        "A": "Smooth steering response.",
+        "B": "Erratic steering, loss of assist, or fluid leaks.",
+        "C": "Perfect operation.",
+        "D": "Cold operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Smooth response indicates good valve function.",
+        "B": "Valve wear causes inconsistent pressure distribution and leakage.",
+        "C": "Perfect operation indicates proper valve function.",
+        "D": "Temperature doesn't primarily indicate valve condition."
+      }
+    },
+    {
+      "questionNumber": 465,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "What causes steering to bind or catch?",
+      "options": {
+        "A": "Proper lubrication.",
+        "B": "Damaged steering gear, bent linkage, or seized joints.",
+        "C": "New components.",
+        "D": "Clean fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper lubrication prevents binding.",
+        "B": "Mechanical damage prevents smooth movement.",
+        "C": "New components should move freely.",
+        "D": "Fluid cleanliness doesn't cause mechanical binding."
+      }
+    },
+    {
+      "questionNumber": 466,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "How is steering gear backlash measured?",
+      "options": {
+        "A": "Cannot be measured.",
+        "B": "Measure steering wheel movement before wheels begin to turn.",
+        "C": "By guess.",
+        "D": "By fluid level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Backlash is measurable.",
+        "B": "Measuring free play quantifies steering gear internal clearance.",
+        "C": "Accurate measurement is required.",
+        "D": "Fluid level doesn't indicate backlash."
+      }
+    },
+    {
+      "questionNumber": 467,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "What indicates contaminated steering fluid?",
+      "options": {
+        "A": "Clear appearance.",
+        "B": "Dark color, burnt smell, or metal particles.",
+        "C": "Fresh smell.",
+        "D": "Proper viscosity."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Clear fluid indicates good condition.",
+        "B": "Contamination indicates component wear or fluid breakdown.",
+        "C": "Fresh smell indicates good condition.",
+        "D": "Viscosity alone doesn't indicate contamination."
+      }
+    },
+    {
+      "questionNumber": 468,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "What causes steering shimmy or vibration?",
+      "options": {
+        "A": "Perfect balance.",
+        "B": "Loose steering components, worn bushings, or wheel imbalance.",
+        "C": "New tires.",
+        "D": "Proper alignment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect balance eliminates vibration.",
+        "B": "Looseness or imbalance creates oscillation transmitted to steering.",
+        "C": "New tires should reduce vibration.",
+        "D": "Proper alignment prevents vibration issues."
+      }
+    },
+    {
+      "questionNumber": 469,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.01 Diagnoses steering systems",
+      "question": "How are articulated steering systems diagnosed?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Check cylinder operation, pivot points, and hydraulic pressure.",
+        "C": "Cannot be diagnosed.",
+        "D": "By machine color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Functional testing is required.",
+        "B": "Comprehensive checks identify wear and hydraulic issues.",
+        "C": "Articulated systems are diagnosable.",
+        "D": "Color doesn't indicate steering condition."
+      }
+    },
+    {
+      "questionNumber": 470,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "What indicates worn suspension bushings?",
+      "options": {
+        "A": "Solid mounting.",
+        "B": "Excessive play, cracking, or separation from metal.",
+        "C": "New appearance.",
+        "D": "Quiet operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Solid mounting indicates good condition.",
+        "B": "Bushing wear allows excessive movement and creates noise.",
+        "C": "Appearance doesn't indicate internal degradation.",
+        "D": "Worn bushings make noise."
+      }
+    },
+    {
+      "questionNumber": 471,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "What causes rough ride quality?",
+      "options": {
+        "A": "Proper tire pressure.",
+        "B": "Worn shocks, broken springs, or excessive tire pressure.",
+        "C": "New suspension components.",
+        "D": "Correct alignment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper pressure supports good ride.",
+        "B": "These conditions prevent suspension from absorbing bumps effectively.",
+        "C": "New components improve ride quality.",
+        "D": "Alignment doesn't primarily affect ride harshness."
+      }
+    },
+    {
+      "questionNumber": 472,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "How are shock absorbers tested?",
+      "options": {
+        "A": "By color only.",
+        "B": "Check for leaks, bounce test, and verify dampening action.",
+        "C": "Shocks cannot be tested.",
+        "D": "By age only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color doesn't indicate shock function.",
+        "B": "These tests evaluate shock dampening effectiveness.",
+        "C": "Shock function is testable.",
+        "D": "Age doesn't indicate current performance."
+      }
+    },
+    {
+      "questionNumber": 473,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "What indicates a broken suspension spring?",
+      "options": {
+        "A": "Level ride height.",
+        "B": "Sagging on one corner, harsh ride, or visible break.",
+        "C": "Perfect operation.",
+        "D": "Quiet operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Level height indicates good spring condition.",
+        "B": "Broken springs lose support causing sagging and poor ride.",
+        "C": "Broken springs degrade ride quality.",
+        "D": "Broken springs often make noise."
+      }
+    },
+    {
+      "questionNumber": 474,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "What causes suspension noise during travel?",
+      "options": {
+        "A": "New bushings.",
+        "B": "Worn bushings, loose components, or dry pivot points.",
+        "C": "Proper lubrication.",
+        "D": "Tight mounting."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New bushings operate quietly.",
+        "B": "Wear and lack of lubrication create squeaks and clunks.",
+        "C": "Proper lubrication prevents noise.",
+        "D": "Tight mounting reduces noise."
+      }
+    },
+    {
+      "questionNumber": 475,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "How is hydro-pneumatic suspension pressure checked?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Use pressure gauge on accumulator charging valve.",
+        "C": "Pressure cannot be checked.",
+        "D": "By ride height only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pressure requires gauge measurement.",
+        "B": "Gauge reading verifies proper gas pre-charge in accumulators.",
+        "C": "Pressure is easily measured.",
+        "D": "Ride height is a symptom but doesn't show actual pressure."
+      }
+    },
+    {
+      "questionNumber": 476,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "What indicates worn suspension ball joints?",
+      "options": {
+        "A": "No play when checked.",
+        "B": "Excessive vertical or horizontal play, grease leakage.",
+        "C": "Tight fit.",
+        "D": "Smooth operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "No play indicates good condition.",
+        "B": "Ball joint wear creates dangerous play requiring replacement.",
+        "C": "Tight fit indicates proper condition.",
+        "D": "Smooth operation indicates good condition."
+      }
+    },
+    {
+      "questionNumber": 477,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "What causes uneven vehicle stance?",
+      "options": {
+        "A": "Equal spring rates.",
+        "B": "Broken spring, weak shock, or uneven load distribution.",
+        "C": "Level ground.",
+        "D": "New suspension."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Equal rates support level stance.",
+        "B": "Component failure or loading causes one corner to sag.",
+        "C": "Level ground allows proper stance evaluation.",
+        "D": "New suspension should provide level stance."
+      }
+    },
+    {
+      "questionNumber": 478,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "How are suspension air springs diagnosed?",
+      "options": {
+        "A": "Air springs cannot be diagnosed.",
+        "B": "Check for leaks, verify pressure, inspect for cracks or damage.",
+        "C": "By age only.",
+        "D": "Visual inspection from distance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Air springs are diagnosable.",
+        "B": "These checks identify leaks and structural damage.",
+        "C": "Age doesn't indicate current condition.",
+        "D": "Close inspection is necessary."
+      }
+    },
+    {
+      "questionNumber": 479,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "What indicates suspension travel is limited?",
+      "options": {
+        "A": "Full articulation.",
+        "B": "Bottoming out, harsh impacts, or damaged bump stops.",
+        "C": "Smooth ride.",
+        "D": "Quiet operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Full articulation indicates proper travel.",
+        "B": "Insufficient travel causes hard contact with stops and damage.",
+        "C": "Limited travel creates harsh ride.",
+        "D": "Limited travel often causes noise."
+      }
+    },
+    {
+      "questionNumber": 480,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "What causes suspension to sag over time?",
+      "options": {
+        "A": "New springs.",
+        "B": "Spring fatigue, worn shocks, or bushing deterioration.",
+        "C": "Proper maintenance.",
+        "D": "Correct ride height."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New springs restore ride height.",
+        "B": "Component wear allows gradual settling and sagging.",
+        "C": "Maintenance slows but doesn't prevent eventual wear.",
+        "D": "Correct height indicates good condition."
+      }
+    },
+    {
+      "questionNumber": 481,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "How is suspension alignment verified?",
+      "options": {
+        "A": "By guess.",
+        "B": "Use alignment equipment to measure camber, caster, and toe.",
+        "C": "Alignment cannot be checked.",
+        "D": "By tire brand."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise measurement is required.",
+        "B": "Alignment equipment provides accurate angle measurements.",
+        "C": "Alignment is precisely measurable.",
+        "D": "Tire brand doesn't indicate alignment."
+      }
+    },
+    {
+      "questionNumber": 482,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.02 Diagnoses suspension systems",
+      "question": "What diagnostic procedure identifies suspension geometry problems?",
+      "options": {
+        "A": "Visual inspection and measuring suspension angles and positions.",
+        "B": "Random inspection.",
+        "C": "Geometry cannot be checked.",
+        "D": "By paint color."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Measurement of angles and positioning identifies bent or damaged components.",
+        "B": "Systematic measurement is required.",
+        "C": "Geometry is measurable.",
+        "D": "Color doesn't indicate geometry."
+      }
+    },
+    {
+      "questionNumber": 483,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "For a properly adjusted air brake system, what is the correct angle between the slack adjuster arm and the brake chamber push rod?",
+      "options": {
+        "A": "60° when applied.",
+        "B": "60° when released.",
+        "C": "90° when applied.",
+        "D": "90° when released."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "60° doesn't provide optimal leverage.",
+        "B": "Measurement is taken when brakes are applied.",
+        "C": "90° provides maximum mechanical advantage when brakes are applied.",
+        "D": "Correct angle is measured during application, not release."
+      }
+    },
+    {
+      "questionNumber": 484,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "What causes spongy brake pedal feel?",
+      "options": {
+        "A": "Proper brake adjustment.",
+        "B": "Air in hydraulic system or low fluid level.",
+        "C": "New brake pads.",
+        "D": "Cold brake fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper adjustment provides firm pedal.",
+        "B": "Air compresses unlike fluid, creating soft pedal feel.",
+        "C": "New pads improve pedal feel after bedding.",
+        "D": "Temperature doesn't cause sponginess."
+      }
+    },
+    {
+      "questionNumber": 485,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "What indicates brake fluid contamination?",
+      "options": {
+        "A": "Clear appearance.",
+        "B": "Dark color, debris, or water absorption indicated by low boiling point.",
+        "C": "Fresh smell.",
+        "D": "Proper viscosity."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Clear fluid indicates good condition.",
+        "B": "Contamination degrades brake performance and causes component damage.",
+        "C": "Fresh smell indicates good condition.",
+        "D": "Viscosity alone doesn't indicate contamination."
+      }
+    },
+    {
+      "questionNumber": 486,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "What causes brake pull to one side?",
+      "options": {
+        "A": "Equal brake adjustment.",
+        "B": "Seized caliper, contaminated lining, or misadjusted brakes.",
+        "C": "New brake pads on both sides.",
+        "D": "Proper fluid level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Equal adjustment prevents pull.",
+        "B": "Unequal braking force causes directional pull.",
+        "C": "New pads both sides provide equal braking.",
+        "D": "Fluid level doesn't cause unequal braking."
+      }
+    },
+    {
+      "questionNumber": 487,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "How is brake rotor runout measured?",
+      "options": {
+        "A": "By guessing.",
+        "B": "Using dial indicator while rotating rotor.",
+        "C": "Runout cannot be measured.",
+        "D": "By rotor color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise measurement is required.",
+        "B": "Dial indicator accurately measures rotor wobble.",
+        "C": "Runout is easily measured.",
+        "D": "Color doesn't indicate runout."
+      }
+    },
+    {
+      "questionNumber": 488,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "What indicates worn brake pads or shoes?",
+      "options": {
+        "A": "Full material thickness.",
+        "B": "Low pedal, squealing noise, or material at minimum thickness.",
+        "C": "Perfect braking.",
+        "D": "Quiet operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Full thickness indicates good condition.",
+        "B": "Wear indicators and reduced material signal replacement need.",
+        "C": "Worn pads degrade braking performance.",
+        "D": "Worn pads often make noise."
+      }
+    },
+    {
+      "questionNumber": 489,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "What causes brake fade?",
+      "options": {
+        "A": "Cold brakes.",
+        "B": "Overheating from excessive use reducing friction.",
+        "C": "New brake pads.",
+        "D": "Proper adjustment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cold brakes provide normal performance.",
+        "B": "Excessive heat reduces friction material effectiveness.",
+        "C": "New pads improve braking.",
+        "D": "Proper adjustment ensures good performance."
+      }
+    },
+    {
+      "questionNumber": 490,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "How are brake calipers inspected?",
+      "options": {
+        "A": "Visual inspection only from distance.",
+        "B": "Check for leaks, piston movement, slide operation, and pad wear.",
+        "C": "Calipers cannot be inspected.",
+        "D": "By vehicle age."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Functional inspection is required.",
+        "B": "Comprehensive inspection identifies wear and malfunction.",
+        "C": "Calipers are easily inspected.",
+        "D": "Age doesn't indicate current condition."
+      }
+    },
+    {
+      "questionNumber": 491,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "What indicates air brake system leakage?",
+      "options": {
+        "A": "Steady pressure maintenance.",
+        "B": "Pressure drop exceeding limits with brakes applied or released.",
+        "C": "Perfect operation.",
+        "D": "Quiet air compressor."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Steady pressure indicates no leaks.",
+        "B": "Excessive pressure drop indicates leakage requiring repair.",
+        "C": "Leakage degrades system performance.",
+        "D": "Compressor noise doesn't indicate system leaks."
+      }
+    },
+    {
+      "questionNumber": 492,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "What causes brake pulsation during application?",
+      "options": {
+        "A": "Perfect rotor condition.",
+        "B": "Warped rotors, uneven lining wear, or loose components.",
+        "C": "New brake pads.",
+        "D": "Proper adjustment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect rotors provide smooth braking.",
+        "B": "Uneven surfaces create pulsing sensation through brake pedal.",
+        "C": "New pads don't cause pulsation.",
+        "D": "Proper adjustment prevents pulsation."
+      }
+    },
+    {
+      "questionNumber": 493,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "How is brake proportioning valve operation verified?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Measure pressure at front and rear during braking.",
+        "C": "Valves cannot be tested.",
+        "D": "By fluid color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Functional testing is required.",
+        "B": "Pressure measurement confirms valve properly distributes braking force.",
+        "C": "Valve function is testable.",
+        "D": "Fluid color doesn't indicate valve function."
+      }
+    },
+    {
+      "questionNumber": 494,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "What indicates parking brake adjustment is needed?",
+      "options": {
+        "A": "Full application with little lever travel.",
+        "B": "Excessive lever travel or inadequate holding force.",
+        "C": "Perfect operation.",
+        "D": "Strong holding power."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Minimal travel indicates proper adjustment.",
+        "B": "Excessive travel or weak holding indicates adjustment need.",
+        "C": "Perfect operation indicates good adjustment.",
+        "D": "Strong holding indicates proper adjustment."
+      }
+    },
+    {
+      "questionNumber": 495,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "What causes brake noise during application?",
+      "options": {
+        "A": "New quality pads.",
+        "B": "Glazed pads, worn hardware, or contamination.",
+        "C": "Proper lubrication.",
+        "D": "Clean rotors."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Quality pads operate quietly after bedding.",
+        "B": "These conditions create vibration and noise.",
+        "C": "Proper lubrication reduces noise.",
+        "D": "Clean rotors support quiet operation."
+      }
+    },
+    {
+      "questionNumber": 496,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.03 Diagnoses brake systems",
+      "question": "How is master cylinder condition diagnosed?",
+      "options": {
+        "A": "By age only.",
+        "B": "Check for external leaks, internal bypass, and pedal feel.",
+        "C": "Cannot be diagnosed.",
+        "D": "By paint condition."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Age doesn't indicate current condition.",
+        "B": "These checks identify seal wear and internal damage.",
+        "C": "Master cylinder is diagnosable.",
+        "D": "Paint doesn't indicate internal condition."
+      }
+    },
+    {
+      "questionNumber": 497,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "What causes wheel bearing failure?",
+      "options": {
+        "A": "Proper lubrication.",
+        "B": "Lack of lubrication, over-tightening, or contamination.",
+        "C": "Correct adjustment.",
+        "D": "Regular maintenance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper lubrication extends bearing life.",
+        "B": "These conditions accelerate bearing wear and cause failure.",
+        "C": "Correct adjustment promotes longevity.",
+        "D": "Maintenance prevents premature failure."
+      }
+    },
+    {
+      "questionNumber": 498,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "How are wheel bearings checked for wear?",
+      "options": {
+        "A": "By wheel color.",
+        "B": "Check for play, roughness, noise, or heat.",
+        "C": "Bearings cannot be checked.",
+        "D": "By tire pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color doesn't indicate bearing condition.",
+        "B": "These symptoms identify bearing wear requiring service.",
+        "C": "Bearing condition is easily checked.",
+        "D": "Tire pressure doesn't indicate bearing condition."
+      }
+    },
+    {
+      "questionNumber": 499,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "What indicates improper wheel bearing adjustment?",
+      "options": {
+        "A": "Smooth rotation without play.",
+        "B": "Excessive play or no rotation due to over-tightening.",
+        "C": "Cool hub temperature.",
+        "D": "Quiet operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Smooth rotation with minimal play indicates proper adjustment.",
+        "B": "Improper adjustment causes either looseness or binding.",
+        "C": "Cool temperature indicates proper adjustment.",
+        "D": "Quiet operation indicates good adjustment."
+      }
+    },
+    {
+      "questionNumber": 500,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "What causes uneven tire wear?",
+      "options": {
+        "A": "Perfect alignment.",
+        "B": "Misalignment, improper inflation, or worn suspension components.",
+        "C": "New tires.",
+        "D": "Proper rotation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect alignment promotes even wear.",
+        "B": "These conditions create abnormal contact patterns causing uneven wear.",
+        "C": "New tires should wear evenly.",
+        "D": "Proper rotation extends tire life."
+      }
+    },
+    {
+      "questionNumber": 501,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "How is wheel runout measured?",
+      "options": {
+        "A": "By guessing.",
+        "B": "Using dial indicator while rotating wheel.",
+        "C": "Runout cannot be measured.",
+        "D": "By wheel age."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise measurement is required.",
+        "B": "Dial indicator measures radial and lateral runout accurately.",
+        "C": "Runout is easily measured.",
+        "D": "Age doesn't indicate runout."
+      }
+    },
+    {
+      "questionNumber": 502,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "What indicates a bent wheel rim?",
+      "options": {
+        "A": "Perfect roundness.",
+        "B": "Visible deformation, vibration, or inability to hold air pressure.",
+        "C": "Smooth ride.",
+        "D": "Easy tire mounting."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Perfect roundness indicates good condition.",
+        "B": "Bent rims create multiple problems requiring replacement.",
+        "C": "Bent rims cause vibration.",
+        "D": "Bent rims make mounting difficult."
+      }
+    },
+    {
+      "questionNumber": 503,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "What causes wheel seal leakage?",
+      "options": {
+        "A": "New seal installation.",
+        "B": "Worn seal, damaged hub surface, or over-lubrication.",
+        "C": "Proper lubrication.",
+        "D": "Correct bearing adjustment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New seals prevent leakage.",
+        "B": "These conditions allow lubricant to escape from hub.",
+        "C": "Proper lubrication doesn't cause external leaks.",
+        "D": "Correct adjustment doesn't cause seal leakage."
+      }
+    },
+    {
+      "questionNumber": 504,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "How are wheel studs and nuts inspected?",
+      "options": {
+        "A": "Visual inspection only from distance.",
+        "B": "Check for damage, proper torque, and thread condition.",
+        "C": "Cannot be inspected.",
+        "D": "By wheel color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Close inspection is required.",
+        "B": "Damaged or loose fasteners create safety hazards.",
+        "C": "Fasteners are easily inspected.",
+        "D": "Color doesn't indicate fastener condition."
+      }
+    },
+    {
+      "questionNumber": 505,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "What indicates tire imbalance?",
+      "options": {
+        "A": "Smooth ride at all speeds.",
+        "B": "Vibration at specific speeds, uneven tread wear.",
+        "C": "Perfect vehicle handling.",
+        "D": "Quiet operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Smooth ride indicates good balance.",
+        "B": "Imbalance creates speed-related vibration and uneven wear.",
+        "C": "Imbalance degrades handling.",
+        "D": "Imbalance often creates noise."
+      }
+    },
+    {
+      "questionNumber": 506,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "What causes hub overheating?",
+      "options": {
+        "A": "Proper bearing adjustment.",
+        "B": "Over-tightened bearings, lack of lubrication, or brake drag.",
+        "C": "Cold weather operation.",
+        "D": "New bearings."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper adjustment maintains normal temperature.",
+        "B": "Excessive friction generates heat causing damage.",
+        "C": "Cold weather typically reduces operating temperature.",
+        "D": "New bearings should run cool."
+      }
+    },
+    {
+      "questionNumber": 507,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "How is tire sidewall damage assessed?",
+      "options": {
+        "A": "Damage doesn't matter.",
+        "B": "Inspect for cuts, bulges, or cord exposure requiring replacement.",
+        "C": "By tire age only.",
+        "D": "Visual inspection from distance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sidewall damage creates failure risk.",
+        "B": "Structural damage compromises tire integrity requiring replacement.",
+        "C": "Age doesn't indicate damage presence.",
+        "D": "Close inspection reveals critical damage."
+      }
+    },
+    {
+      "questionNumber": 508,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.04 Diagnoses wheel assemblies",
+      "question": "What diagnostic procedure identifies wheel bearing noise?",
+      "options": {
+        "A": "Listen for growling that changes with speed, intensifies in turns.",
+        "B": "Random inspection.",
+        "C": "Noise cannot be diagnosed.",
+        "D": "By paint color."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Bearing noise has characteristic sound and behavior patterns.",
+        "B": "Systematic diagnosis is required.",
+        "C": "Bearing noise is identifiable.",
+        "D": "Color doesn't indicate noise source."
+      }
+    },
+    {
+      "questionNumber": 509,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "What is the purpose of the crawler track recoil spring?",
+      "options": {
+        "A": "To maintain track tension.",
+        "B": "To maintain idler alignment.",
+        "C": "To absorb shock when track encounters obstacle.",
+        "D": "To absorb extra tension under load."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Recoil springs allow temporary tension increase, not maintain constant tension.",
+        "B": "Mounting brackets maintain idler alignment.",
+        "C": "Recoil springs cushion impact loads protecting undercarriage components.",
+        "D": "While they accommodate tension changes, shock absorption is primary function."
+      }
+    },
+    {
+      "questionNumber": 510,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "How should track roller wear be checked?",
+      "options": {
+        "A": "Compare flange height and width.",
+        "B": "Compare diameter to flange width.",
+        "C": "Measure flange width only.",
+        "D": "Measure diameter and flange height."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Diameter measurement is more critical than width comparison.",
+        "B": "Comparing different dimensions doesn't show actual wear.",
+        "C": "Diameter is primary wear indicator.",
+        "D": "Both measurements show wear and determine replacement need."
+      }
+    },
+    {
+      "questionNumber": 511,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "What indicates excessive track tension?",
+      "options": {
+        "A": "Loose, sagging track.",
+        "B": "Difficulty in adjusting, rapid wear, or power loss.",
+        "C": "Perfect operation.",
+        "D": "Easy track removal."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Excessive tension makes track tight, not loose.",
+        "B": "Over-tension increases friction causing wear and power loss.",
+        "C": "Excessive tension degrades performance.",
+        "D": "Over-tension makes removal difficult."
+      }
+    },
+    {
+      "questionNumber": 512,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "How are track shoes inspected for wear?",
+      "options": {
+        "A": "Visual inspection only from distance.",
+        "B": "Measure grouser height, check for cracks, and inspect mounting hardware.",
+        "C": "Shoes don't wear.",
+        "D": "By machine age."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Measurement is required for accurate assessment.",
+        "B": "Comprehensive inspection identifies replacement needs.",
+        "C": "Track shoes wear from ground contact.",
+        "D": "Age doesn't indicate current condition."
+      }
+    },
+    {
+      "questionNumber": 513,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "What causes undercarriage to make noise?",
+      "options": {
+        "A": "New components.",
+        "B": "Worn rollers, loose track, or damaged bearings.",
+        "C": "Proper lubrication.",
+        "D": "Correct track tension."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "New components operate quietly after break-in.",
+        "B": "Wear and looseness create characteristic undercarriage noises.",
+        "C": "Proper lubrication reduces noise.",
+        "D": "Correct tension supports quiet operation."
+      }
+    },
+    {
+      "questionNumber": 514,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "What indicates sprocket wear?",
+      "options": {
+        "A": "Sharp teeth.",
+        "B": "Rounded or hooked teeth, excessive play with track.",
+        "C": "New appearance.",
+        "D": "Perfect track engagement."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sharp teeth indicate good condition.",
+        "B": "Tooth wear allows poor engagement and track skipping.",
+        "C": "Appearance doesn't always show wear.",
+        "D": "Perfect engagement indicates good sprocket condition."
+      }
+    },
+    {
+      "questionNumber": 515,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "How is track sag measured?",
+      "options": {
+        "A": "Cannot be measured.",
+        "B": "Measure distance from track to ground or frame at midpoint between rollers.",
+        "C": "By guess.",
+        "D": "By track color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sag is easily measured.",
+        "B": "Measurement determines if tension adjustment is needed.",
+        "C": "Accurate measurement is required.",
+        "D": "Color doesn't indicate tension."
+      }
+    },
+    {
+      "questionNumber": 516,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "What causes idler wheel failure?",
+      "options": {
+        "A": "Proper track tension.",
+        "B": "Lack of lubrication, misalignment, or impact damage.",
+        "C": "New bearings.",
+        "D": "Regular maintenance."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper tension extends idler life.",
+        "B": "These conditions accelerate wear and cause failure.",
+        "C": "New bearings extend life.",
+        "D": "Maintenance prevents premature failure."
+      }
+    },
+    {
+      "questionNumber": 517,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "What indicates track link wear?",
+      "options": {
+        "A": "Tight pin fit.",
+        "B": "Elongated bushings, worn pins, or excessive pitch length.",
+        "C": "New appearance.",
+        "D": "Perfect alignment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tight fit indicates good condition.",
+        "B": "Link wear increases track length requiring adjustment or replacement.",
+        "C": "Appearance doesn't show internal wear.",
+        "D": "Perfect alignment indicates good condition."
+      }
+    },
+    {
+      "questionNumber": 518,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "How are carrier rollers diagnosed?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Check for play, roughness, leaking seals, and flange wear.",
+        "C": "Rollers cannot be diagnosed.",
+        "D": "By machine color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Functional inspection is required.",
+        "B": "Comprehensive inspection identifies wear and seal failure.",
+        "C": "Roller condition is easily checked.",
+        "D": "Color doesn't indicate roller condition."
+      }
+    },
+    {
+      "questionNumber": 519,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "What causes rapid undercarriage wear?",
+      "options": {
+        "A": "Proper maintenance.",
+        "B": "Abrasive conditions, improper tension, or lack of lubrication.",
+        "C": "New components.",
+        "D": "Correct alignment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Maintenance extends component life.",
+        "B": "These conditions accelerate wear requiring frequent replacement.",
+        "C": "New components last longer.",
+        "D": "Correct alignment reduces wear."
+      }
+    },
+    {
+      "questionNumber": 520,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "What indicates track frame damage?",
+      "options": {
+        "A": "Straight frame.",
+        "B": "Visible bending, cracks, or misalignment of components.",
+        "C": "Perfect track operation.",
+        "D": "New paint."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Straight frame indicates good condition.",
+        "B": "Frame damage affects alignment and creates accelerated wear.",
+        "C": "Damaged frames cause operational problems.",
+        "D": "Paint doesn't indicate structural integrity."
+      }
+    },
+    {
+      "questionNumber": 521,
+      "block": "E",
+      "task": "E-11",
+      "taskTitle": "Diagnoses steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-11.05 Diagnoses undercarriage systems",
+      "question": "How is undercarriage alignment verified?",
+      "options": {
+        "A": "Cannot be verified.",
+        "B": "Check track wear patterns, measure component positions, verify parallel operation.",
+        "C": "By guess.",
+        "D": "By paint color."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Alignment is verifiable.",
+        "B": "Systematic checks identify misalignment causing uneven wear.",
+        "C": "Precise measurement is required.",
+        "D": "Color doesn't indicate alignment."
+      }
+    },
+    {
+      "questionNumber": 522,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "How should steering cylinders be replaced?",
+      "options": {
+        "A": "Install without bleeding.",
+        "B": "Remove old cylinder, install new with proper orientation, bleed air, check operation.",
+        "C": "Leave air in system.",
+        "D": "Random installation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Air must be bled for proper operation.",
+        "B": "Complete installation and bleeding ensure proper steering function.",
+        "C": "Air causes spongy steering.",
+        "D": "Specific procedures are required."
+      }
+    },
+    {
+      "questionNumber": 523,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "What procedure applies when replacing tie rod ends?",
+      "options": {
+        "A": "Install without alignment check.",
+        "B": "Replace, torque to specification, and perform alignment.",
+        "C": "Hand-tight only.",
+        "D": "No torque needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Alignment is required after tie rod replacement.",
+        "B": "Proper installation and alignment ensure safe steering and tire wear.",
+        "C": "Proper torque is critical for safety.",
+        "D": "Torque specifications must be followed."
+      }
+    },
+    {
+      "questionNumber": 524,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "How should steering pump be replaced?",
+      "options": {
+        "A": "Install without priming.",
+        "B": "Install pump, fill reservoir, prime system, bleed air, check pressure.",
+        "C": "Leave system dry.",
+        "D": "No bleeding needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dry operation damages new pump.",
+        "B": "Proper installation and bleeding ensure pump longevity.",
+        "C": "Dry system destroys pump immediately.",
+        "D": "Air must be bled from system."
+      }
+    },
+    {
+      "questionNumber": 525,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "What must be adjusted after steering gear replacement?",
+      "options": {
+        "A": "Nothing needs adjustment.",
+        "B": "Backlash, preload, and alignment.",
+        "C": "Just install and operate.",
+        "D": "Only check fluid level."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper adjustments are critical.",
+        "B": "These adjustments ensure proper steering feel and response.",
+        "C": "Adjustments prevent premature wear.",
+        "D": "Multiple adjustments are required."
+      }
+    },
+    {
+      "questionNumber": 526,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "How should steering hoses be replaced?",
+      "options": {
+        "A": "Use any hose available.",
+        "B": "Use correct pressure-rated hose, route properly, torque fittings, check for leaks.",
+        "C": "Install with kinks.",
+        "D": "Leave loose fittings."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hoses must meet pressure specifications.",
+        "B": "Proper hose and installation ensure safe, leak-free operation.",
+        "C": "Kinks restrict flow and damage hoses.",
+        "D": "Loose fittings leak and cause loss of steering assist."
+      }
+    },
+    {
+      "questionNumber": 527,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "What procedure prevents contamination during steering system service?",
+      "options": {
+        "A": "Leave system open to air.",
+        "B": "Cap all openings, use clean fluid, work in clean area.",
+        "C": "Use dirty tools.",
+        "D": "No precautions needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Open systems allow contamination entry.",
+        "B": "Cleanliness prevents valve and pump damage.",
+        "C": "Dirty tools introduce contaminants.",
+        "D": "Contamination prevention is critical."
+      }
+    },
+    {
+      "questionNumber": 528,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "How should steering linkage be lubricated?",
+      "options": {
+        "A": "Never lubricate.",
+        "B": "Use appropriate grease at specified intervals and fittings.",
+        "C": "Use engine oil.",
+        "D": "Lubrication isn't necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lubrication is essential for linkage life.",
+        "B": "Proper lubrication prevents wear and binding.",
+        "C": "Grease provides better protection than oil.",
+        "D": "Regular lubrication extends component life."
+      }
+    },
+    {
+      "questionNumber": 529,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "What must be verified after steering system repairs?",
+      "options": {
+        "A": "Nothing needs verification.",
+        "B": "Proper operation, no leaks, correct fluid level, and alignment.",
+        "C": "Just start engine.",
+        "D": "Only visual inspection."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification ensures safe operation.",
+        "B": "Comprehensive checks confirm successful repair.",
+        "C": "Starting doesn't verify steering function.",
+        "D": "Functional testing is required."
+      }
+    },
+    {
+      "questionNumber": 530,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "How should steering column be serviced?",
+      "options": {
+        "A": "Leave worn bearings.",
+        "B": "Replace worn bearings, check for damage, lubricate as specified.",
+        "C": "No service needed.",
+        "D": "Visual inspection only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn bearings cause binding and noise.",
+        "B": "Proper service ensures smooth steering operation.",
+        "C": "Steering columns require periodic service.",
+        "D": "Functional inspection and service are required."
+      }
+    },
+    {
+      "questionNumber": 531,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "What safety procedure applies when working on steering systems?",
+      "options": {
+        "A": "No safety procedures needed.",
+        "B": "Relieve pressure, secure wheels, follow proper procedures.",
+        "C": "Work on pressurized systems.",
+        "D": "Safety isn't important."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Steering systems have safety hazards.",
+        "B": "Proper procedures prevent injuries during service.",
+        "C": "Pressurized systems are dangerous.",
+        "D": "Safety is critical when working on steering."
+      }
+    },
+    {
+      "questionNumber": 532,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.01 Repairs steering systems",
+      "question": "How should power steering fluid be changed?",
+      "options": {
+        "A": "Never change fluid.",
+        "B": "Drain system, flush if needed, refill with correct fluid, bleed air.",
+        "C": "Just top off.",
+        "D": "Use any fluid available."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fluid degrades and requires changing.",
+        "B": "Complete fluid change removes contaminants and ensures performance.",
+        "C": "Topping off doesn't remove contaminated fluid.",
+        "D": "Correct fluid type is critical."
+      }
+    },
+    {
+      "questionNumber": 533,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "How should suspension bushings be replaced?",
+      "options": {
+        "A": "Hammer into place.",
+        "B": "Press out old bushings, clean bores, press in new bushings with proper tools.",
+        "C": "Leave worn bushings.",
+        "D": "Force installation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hammering damages bushings and bores.",
+        "B": "Proper tools ensure correct installation without damage.",
+        "C": "Worn bushings cause handling and wear problems.",
+        "D": "Forcing causes misalignment."
+      }
+    },
+    {
+      "questionNumber": 534,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "What procedure applies when replacing shock absorbers?",
+      "options": {
+        "A": "Install without mounting hardware.",
+        "B": "Install with new mounting hardware, torque to specification, check operation.",
+        "C": "Reuse worn bushings.",
+        "D": "Hand-tight only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper hardware is required for secure mounting.",
+        "B": "New hardware and proper torque ensure safe installation.",
+        "C": "Worn bushings reduce shock effectiveness.",
+        "D": "Proper torque prevents loosening."
+      }
+    },
+    {
+      "questionNumber": 535,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "How should suspension springs be replaced?",
+      "options": {
+        "A": "Without spring compressor.",
+        "B": "Use proper spring compressor, relieve tension safely, install new spring.",
+        "C": "Force springs into place.",
+        "D": "No safety equipment needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Compressed springs are extremely dangerous without proper tools.",
+        "B": "Spring compressors prevent serious injuries during removal and installation.",
+        "C": "Forcing creates dangerous situation.",
+        "D": "Safety equipment is essential."
+      }
+    },
+    {
+      "questionNumber": 536,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "What must be done after suspension component replacement?",
+      "options": {
+        "A": "Nothing required.",
+        "B": "Perform alignment, torque all fasteners, road test.",
+        "C": "Just drive vehicle.",
+        "D": "Only visual inspection."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification ensures proper installation.",
+        "B": "Alignment and testing confirm successful repair.",
+        "C": "Alignment is required before operation.",
+        "D": "Functional verification is necessary."
+      }
+    },
+    {
+      "questionNumber": 537,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "How should ball joints be replaced?",
+      "options": {
+        "A": "Hammer into place.",
+        "B": "Use proper removal tools, press or bolt in new joint, torque to specification.",
+        "C": "Force installation.",
+        "D": "Leave loose."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hammering damages joints and mounting surfaces.",
+        "B": "Proper tools and procedures ensure safe, correct installation.",
+        "C": "Forcing causes misalignment.",
+        "D": "Loose ball joints are extremely dangerous."
+      }
+    },
+    {
+      "questionNumber": 538,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "What procedure applies to hydro-pneumatic suspension service?",
+      "options": {
+        "A": "Service while pressurized.",
+        "B": "Relieve pressure, service components, recharge to specification.",
+        "C": "Never relieve pressure.",
+        "D": "Random procedure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pressurized service is extremely dangerous.",
+        "B": "Pressure relief and proper recharging ensure safe service.",
+        "C": "Pressure must be relieved for safety.",
+        "D": "Specific procedures are required."
+      }
+    },
+    {
+      "questionNumber": 539,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "How should suspension fasteners be torqued?",
+      "options": {
+        "A": "Hand-tight only.",
+        "B": "Torque to manufacturer specifications with suspension loaded.",
+        "C": "As tight as possible.",
+        "D": "Random torque."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper torque is critical for safety.",
+        "B": "Loading suspension during torquing prevents bushing bind.",
+        "C": "Over-torquing damages components.",
+        "D": "Specific torque is required."
+      }
+    },
+    {
+      "questionNumber": 540,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "What lubrication is required for suspension components?",
+      "options": {
+        "A": "No lubrication needed.",
+        "B": "Grease fittings per schedule, lubricate pivot points as specified.",
+        "C": "Use engine oil only.",
+        "D": "Lubrication doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lubrication extends component life.",
+        "B": "Proper lubrication prevents wear and binding.",
+        "C": "Grease provides better protection for suspension.",
+        "D": "Lubrication is critical for longevity."
+      }
+    },
+    {
+      "questionNumber": 541,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "How should air suspension be serviced?",
+      "options": {
+        "A": "Service while inflated.",
+        "B": "Deflate system, inspect components, replace worn parts, inflate and test.",
+        "C": "Never deflate.",
+        "D": "Random service."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Inflated service is dangerous.",
+        "B": "Deflation allows safe inspection and service.",
+        "C": "Deflation is required for safety.",
+        "D": "Systematic service is required."
+      }
+    },
+    {
+      "questionNumber": 542,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "What must be checked after suspension repair?",
+      "options": {
+        "A": "Nothing needs checking.",
+        "B": "Ride height, alignment, all fastener torque, and operation.",
+        "C": "Just visual inspection.",
+        "D": "Only one component."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Comprehensive checks ensure proper repair.",
+        "B": "These verifications confirm safe and proper suspension function.",
+        "C": "Functional testing is required.",
+        "D": "All related components must be verified."
+      }
+    },
+    {
+      "questionNumber": 543,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.02 Repairs suspension systems",
+      "question": "How should stabilizer bars be serviced?",
+      "options": {
+        "A": "Leave worn bushings.",
+        "B": "Replace worn bushings and links, check for damage, lubricate as needed.",
+        "C": "No service required.",
+        "D": "Visual inspection only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn bushings reduce stabilizer effectiveness.",
+        "B": "Proper service ensures stabilizer reduces body roll.",
+        "C": "Stabilizer bars require periodic service.",
+        "D": "Functional inspection is necessary."
+      }
+    },
+    {
+      "questionNumber": 544,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "How should brake pads be replaced?",
+      "options": {
+        "A": "Install without cleaning.",
+        "B": "Clean caliper, install new pads with proper hardware, lubricate slide pins.",
+        "C": "Reuse old hardware.",
+        "D": "Skip lubrication."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cleaning ensures proper installation.",
+        "B": "Complete service ensures quiet, effective braking.",
+        "C": "Worn hardware causes noise and uneven wear.",
+        "D": "Lubrication prevents binding and noise."
+      }
+    },
+    {
+      "questionNumber": 545,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "What procedure applies when replacing brake rotors?",
+      "options": {
+        "A": "Install without cleaning.",
+        "B": "Clean hub, install rotor, torque fasteners, bed in new pads.",
+        "C": "Leave protective coating on rotor.",
+        "D": "No torque needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Cleaning prevents runout and noise.",
+        "B": "Proper installation and bedding ensure optimal braking.",
+        "C": "Protective coating must be removed before use.",
+        "D": "Proper torque prevents loosening."
+      }
+    },
+    {
+      "questionNumber": 546,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "How should brake calipers be rebuilt?",
+      "options": {
+        "A": "Reuse old seals.",
+        "B": "Disassemble, clean, replace all seals and boots, reassemble with brake fluid.",
+        "C": "Leave pistons dirty.",
+        "D": "Use grease on seals."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Old seals leak and cause failure.",
+        "B": "Complete rebuild with clean parts ensures proper operation.",
+        "C": "Dirty pistons damage new seals.",
+        "D": "Grease contaminates brake fluid and damages seals."
+      }
+    },
+    {
+      "questionNumber": 547,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "What must be done after brake hydraulic service?",
+      "options": {
+        "A": "Skip bleeding.",
+        "B": "Bleed all wheels, check fluid level, verify firm pedal before operation.",
+        "C": "Just add fluid.",
+        "D": "Bleeding isn't necessary."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bleeding is essential for proper operation.",
+        "B": "Complete bleeding removes air ensuring safe braking.",
+        "C": "Adding fluid doesn't remove trapped air.",
+        "D": "Air must be removed from system."
+      }
+    },
+    {
+      "questionNumber": 548,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "How should brake drums be serviced?",
+      "options": {
+        "A": "Leave worn drums.",
+        "B": "Measure for wear, resurface or replace if needed, clean thoroughly.",
+        "C": "Visual inspection only.",
+        "D": "Drums don't wear."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn drums reduce braking effectiveness.",
+        "B": "Proper service ensures effective brake contact and performance.",
+        "C": "Measurement is required.",
+        "D": "Drums wear and require periodic service."
+      }
+    },
+    {
+      "questionNumber": 549,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "What procedure applies to air brake chamber replacement?",
+      "options": {
+        "A": "Service while pressurized.",
+        "B": "Relieve air pressure, remove old chamber, install new, adjust slack adjuster.",
+        "C": "Leave pressurized.",
+        "D": "No adjustment needed."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pressurized chambers are dangerous.",
+        "B": "Pressure relief and proper adjustment ensure safe operation.",
+        "C": "Pressure must be relieved for safety.",
+        "D": "Slack adjuster requires adjustment after chamber replacement."
+      }
+    },
+    {
+      "questionNumber": 550,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "How should brake slack adjusters be serviced?",
+      "options": {
+        "A": "Leave out of adjustment.",
+        "B": "Adjust to achieve proper push rod travel, lubricate splines.",
+        "C": "No adjustment possible.",
+        "D": "Random adjustment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Improper adjustment reduces braking effectiveness.",
+        "B": "Proper adjustment and lubrication ensure optimal brake operation.",
+        "C": "Manual slack adjusters are adjustable.",
+        "D": "Specific adjustment procedure is required."
+      }
+    },
+    {
+      "questionNumber": 551,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "What safety procedure applies when working on brake systems?",
+      "options": {
+        "A": "No safety procedures needed.",
+        "B": "Use proper PPE, relieve pressure, follow procedures, test before operation.",
+        "C": "Work carelessly.",
+        "D": "Safety doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Brake systems have multiple hazards.",
+        "B": "Comprehensive safety ensures technician and vehicle operator safety.",
+        "C": "Careful work prevents injuries and ensures quality.",
+        "D": "Brake safety is critical."
+      }
+    },
+    {
+      "questionNumber": 552,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "How should brake fluid be changed?",
+      "options": {
+        "A": "Never change brake fluid.",
+        "B": "Drain old fluid, flush system, refill with correct fluid, bleed thoroughly.",
+        "C": "Just top off.",
+        "D": "Use any fluid."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fluid degrades and absorbs moisture.",
+        "B": "Complete fluid change removes moisture and contaminants.",
+        "C": "Topping off doesn't remove degraded fluid.",
+        "D": "Specific brake fluid type is required."
+      }
+    },
+    {
+      "questionNumber": 553,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "What must be verified after brake service?",
+      "options": {
+        "A": "Nothing needs verification.",
+        "B": "Firm pedal, proper operation, no leaks, no noise.",
+        "C": "Just visual inspection.",
+        "D": "Only pedal height."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification ensures safe brake operation.",
+        "B": "Comprehensive testing confirms successful repair.",
+        "C": "Functional testing is required.",
+        "D": "Multiple factors must be verified."
+      }
+    },
+    {
+      "questionNumber": 554,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.03 Repairs brake systems",
+      "question": "How should parking brake cables be replaced?",
+      "options": {
+        "A": "Leave worn cables.",
+        "B": "Route new cable properly, adjust for correct operation, verify release.",
+        "C": "Install without adjustment.",
+        "D": "Random routing."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn cables fail to hold vehicle.",
+        "B": "Proper routing and adjustment ensure effective parking brake.",
+        "C": "Adjustment is required for proper function.",
+        "D": "Correct routing prevents binding and wear."
+      }
+    },
+    {
+      "questionNumber": 555,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.04 Repairs wheel assemblies",
+      "question": "How should wheel bearings be replaced?",
+      "options": {
+        "A": "Hammer into place.",
+        "B": "Press out old bearing, clean hub, press in new bearing, adjust properly.",
+        "C": "Force installation.",
+        "D": "Leave loose."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hammering damages bearings and races.",
+        "B": "Proper tools and procedures ensure correct installation.",
+        "C": "Forcing causes damage.",
+        "D": "Proper adjustment is critical for bearing life."
+      }
+    },
+    {
+      "questionNumber": 556,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.04 Repairs wheel assemblies",
+      "question": "What procedure applies to wheel bearing adjustment?",
+      "options": {
+        "A": "Tighten to maximum.",
+        "B": "Tighten to specification, back off, set to proper preload, secure lock.",
+        "C": "Hand-tight only.",
+        "D": "Random adjustment."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Over-tightening causes premature bearing failure.",
+        "B": "Proper procedure ensures bearing longevity and performance.",
+        "C": "Hand-tight doesn't provide proper preload.",
+        "D": "Specific adjustment procedure is required."
+      }
+    },
+    {
+      "questionNumber": 557,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.04 Repairs wheel assemblies",
+      "question": "How should wheel seals be installed?",
+      "options": {
+        "A": "Install dry.",
+        "B": "Lubricate seal lip, use seal driver, install to proper depth.",
+        "C": "Hammer into place.",
+        "D": "Install backwards."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Dry installation damages seal lip.",
+        "B": "Proper installation ensures sealing and prevents premature failure.",
+        "C": "Hammering damages seals.",
+        "D": "Backward installation causes immediate leakage."
+      }
+    },
+    {
+      "questionNumber": 558,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.04 Repairs wheel assemblies",
+      "question": "What must be done when mounting tires?",
+      "options": {
+        "A": "Mount without balancing.",
+        "B": "Mount tire, inflate to specification, balance wheel assembly, torque lug nuts.",
+        "C": "Skip balancing.",
+        "D": "Hand-tight lug nuts."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unbalanced tires cause vibration and wear.",
+        "B": "Complete mounting procedure ensures safe, smooth operation.",
+        "C": "Balancing is essential for smooth ride.",
+        "D": "Proper torque is critical for wheel safety."
+      }
+    },
+    {
+      "questionNumber": 559,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.04 Repairs wheel assemblies",
+      "question": "How should lug nuts be torqued?",
+      "options": {
+        "A": "Random sequence.",
+        "B": "In star pattern to specification with torque wrench.",
+        "C": "Impact wrench to maximum.",
+        "D": "Hand-tight only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Random tightening causes uneven clamping.",
+        "B": "Star pattern and proper torque ensure even wheel mounting.",
+        "C": "Impact wrenches can over-torque and damage components.",
+        "D": "Hand-tight is insufficient for wheel safety."
+      }
+    },
+    {
+      "questionNumber": 560,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.04 Repairs wheel assemblies",
+      "question": "What procedure applies when replacing wheel studs?",
+      "options": {
+        "A": "Leave damaged studs.",
+        "B": "Press out old stud, press in new stud, verify proper seating.",
+        "C": "Hammer into place.",
+        "D": "Damaged studs are acceptable."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Damaged studs can fail causing wheel loss.",
+        "B": "Proper installation ensures safe wheel attachment.",
+        "C": "Hammering may not fully seat stud.",
+        "D": "Damaged studs must be replaced."
+      }
+    },
+    {
+      "questionNumber": 561,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.04 Repairs wheel assemblies",
+      "question": "How should wheels be inspected before installation?",
+      "options": {
+        "A": "Skip inspection.",
+        "B": "Check for cracks, damage, proper mounting surface, correct specifications.",
+        "C": "Visual inspection from distance.",
+        "D": "Age only matters."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Damaged wheels are safety hazards.",
+        "B": "Thorough inspection prevents wheel failure.",
+        "C": "Close inspection reveals critical damage.",
+        "D": "Condition matters more than age."
+      }
+    },
+    {
+      "questionNumber": 562,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.04 Repairs wheel assemblies",
+      "question": "What lubrication is required for wheel bearings?",
+      "options": {
+        "A": "Use engine oil.",
+        "B": "Use proper wheel bearing grease to specified fill level.",
+        "C": "Leave dry.",
+        "D": "Overfill with grease."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Oil doesn't provide adequate protection.",
+        "B": "Proper grease type and amount ensure bearing longevity.",
+        "C": "Dry bearings fail quickly.",
+        "D": "Overfilling can cause seal damage."
+      }
+    },
+    {
+      "questionNumber": 563,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.04 Repairs wheel assemblies",
+      "question": "How should tire pressure be set?",
+      "options": {
+        "A": "Random pressure.",
+        "B": "Inflate to manufacturer specification for load and application.",
+        "C": "Maximum pressure always.",
+        "D": "Minimum pressure."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Incorrect pressure causes wear and handling problems.",
+        "B": "Proper pressure ensures safety, wear, and performance.",
+        "C": "Maximum pressure may be too high for application.",
+        "D": "Minimum pressure is insufficient for most applications."
+      }
+    },
+    {
+      "questionNumber": 564,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.04 Repairs wheel assemblies",
+      "question": "What must be verified after wheel assembly service?",
+      "options": {
+        "A": "Nothing needs verification.",
+        "B": "Proper torque, no vibration, correct pressure, no leaks.",
+        "C": "Just visual inspection.",
+        "D": "Only lug nut torque."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Verification ensures safe operation.",
+        "B": "Comprehensive checks confirm successful service.",
+        "C": "Functional testing is required.",
+        "D": "Multiple factors must be verified."
+      }
+    },
+    {
+      "questionNumber": 565,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "How should track tension be adjusted?",
+      "options": {
+        "A": "Random adjustment.",
+        "B": "Measure sag, adjust tensioner to specification, verify proper operation.",
+        "C": "Maximum tension always.",
+        "D": "Leave loose."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Precise adjustment is required.",
+        "B": "Proper tension ensures performance and component life.",
+        "C": "Excessive tension causes rapid wear.",
+        "D": "Loose track causes derailment and damage."
+      }
+    },
+    {
+      "questionNumber": 566,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "What procedure applies when replacing track shoes?",
+      "options": {
+        "A": "Install without checking hardware.",
+        "B": "Install shoes, torque bolts to specification, verify proper seating.",
+        "C": "Hand-tight bolts only.",
+        "D": "Random installation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Hardware condition affects shoe retention.",
+        "B": "Proper installation prevents shoe loss and damage.",
+        "C": "Proper torque prevents loosening.",
+        "D": "Specific procedure ensures safety."
+      }
+    },
+    {
+      "questionNumber": 567,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "How should track rollers be replaced?",
+      "options": {
+        "A": "Leave worn rollers.",
+        "B": "Remove old roller, clean mounting, install new roller with proper hardware.",
+        "C": "Force installation.",
+        "D": "Skip cleaning."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn rollers cause excessive wear to other components.",
+        "B": "Proper installation ensures roller longevity and track operation.",
+        "C": "Forcing causes damage.",
+        "D": "Clean mounting prevents premature failure."
+      }
+    },
+    {
+      "questionNumber": 568,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "What lubrication is required for undercarriage?",
+      "options": {
+        "A": "No lubrication needed.",
+        "B": "Grease all fittings per schedule, check oil levels in sealed components.",
+        "C": "Use engine oil only.",
+        "D": "Lubrication doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lubrication is critical for undercarriage life.",
+        "B": "Proper lubrication prevents premature wear and extends component life.",
+        "C": "Grease provides better protection than oil.",
+        "D": "Lubrication dramatically affects undercarriage longevity."
+      }
+    },
+    {
+      "questionNumber": 569,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "How should sprockets be replaced?",
+      "options": {
+        "A": "Install without alignment check.",
+        "B": "Remove old sprocket, install new, verify alignment, torque fasteners.",
+        "C": "Leave misaligned.",
+        "D": "Hand-tight only."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Alignment affects track wear.",
+        "B": "Proper installation and alignment ensure even track wear.",
+        "C": "Misalignment causes rapid track and sprocket wear.",
+        "D": "Proper torque prevents loosening under load."
+      }
+    },
+    {
+      "questionNumber": 570,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "What procedure applies when replacing idler wheels?",
+      "options": {
+        "A": "Install without lubrication.",
+        "B": "Replace bearings and seals, lubricate properly, install with correct hardware.",
+        "C": "Reuse worn bearings.",
+        "D": "Skip seal replacement."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lubrication is essential for bearing life.",
+        "B": "Complete service ensures idler reliability.",
+        "C": "Worn bearings fail quickly.",
+        "D": "New seals prevent contamination."
+      }
+    },
+    {
+      "questionNumber": 571,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "How should track links be serviced?",
+      "options": {
+        "A": "Leave worn links.",
+        "B": "Measure wear, replace if beyond specification, ensure proper installation.",
+        "C": "Visual inspection only.",
+        "D": "Links don't wear."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn links stretch track requiring constant adjustment.",
+        "B": "Replacing worn links maintains proper track length and tension.",
+        "C": "Measurement determines wear.",
+        "D": "Links wear from pin rotation and load."
+      }
+    },
+    {
+      "questionNumber": 572,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "What must be done after undercarriage component replacement?",
+      "options": {
+        "A": "Nothing required.",
+        "B": "Adjust tension, check alignment, verify operation, lubricate.",
+        "C": "Just operate machine.",
+        "D": "Only visual inspection."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Adjustment and verification are required.",
+        "B": "Comprehensive checks ensure proper undercarriage operation.",
+        "C": "Adjustment is required before operation.",
+        "D": "Functional verification is necessary."
+      }
+    },
+    {
+      "questionNumber": 573,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "How should carrier rollers be replaced?",
+      "options": {
+        "A": "Install without checking bearings.",
+        "B": "Replace bearings and seals, install with proper mounting, verify rotation.",
+        "C": "Reuse old seals.",
+        "D": "Skip lubrication."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Bearing condition affects roller life.",
+        "B": "Complete service ensures reliable roller operation.",
+        "C": "Old seals leak allowing contamination.",
+        "D": "Lubrication is essential for bearing protection."
+      }
+    },
+    {
+      "questionNumber": 574,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "What safety procedure applies when working on undercarriage?",
+      "options": {
+        "A": "Work under unsupported machine.",
+        "B": "Support machine properly, relieve track tension, use proper tools.",
+        "C": "No safety procedures needed.",
+        "D": "Work carelessly."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Unsupported machines can shift causing serious injury.",
+        "B": "Proper support and procedures prevent crushing injuries.",
+        "C": "Undercarriage work has serious hazards.",
+        "D": "Careful work prevents injuries."
+      }
+    },
+    {
+      "questionNumber": 575,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "How should track frame be repaired?",
+      "options": {
+        "A": "Leave damaged.",
+        "B": "Assess damage, weld or replace as appropriate, verify alignment.",
+        "C": "Visual inspection only.",
+        "D": "Damage doesn't matter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Damaged frames cause accelerated component wear.",
+        "B": "Proper repair restores structural integrity and alignment.",
+        "C": "Physical repair is required.",
+        "D": "Frame damage significantly affects undercarriage operation."
+      }
+    },
+    {
+      "questionNumber": 576,
+      "block": "E",
+      "task": "E-12",
+      "taskTitle": "Repairs steering, suspension, brake systems, wheel assemblies and undercarriage",
+      "subtask": "E-12.05 Repairs undercarriage systems",
+      "question": "What break-in procedure applies to new undercarriage components?",
+      "options": {
+        "A": "Full load immediately.",
+        "B": "Light duty initially, check tension frequently, verify lubrication.",
+        "C": "No break-in needed.",
+        "D": "Maximum load testing."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Immediate full load risks damaging new components.",
+        "B": "Gradual break-in allows components to seat properly.",
+        "C": "Break-in extends component life.",
+        "D": "Maximum load damages new components."
+      }
+    }
+  ]
+}

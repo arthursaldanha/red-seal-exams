@@ -1,0 +1,889 @@
+{
+  "block": "H",
+  "title": "Structural Components, Accessories and Attachments",
+  "totalQuestions": 42,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.01 Diagnoses structural components",
+      "question": "What is the most effective method to detect cracks in a structural frame?",
+      "options": {
+        "A": "Visual inspection only.",
+        "B": "Dye penetrant, magnetic particle, or ultrasonic testing.",
+        "C": "Listening for unusual sounds.",
+        "D": "Checking fluid levels."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Visual inspection may miss hairline cracks or subsurface defects.",
+        "B": "Sound may indicate severe damage but won't detect developing cracks.",
+        "C": "NDT methods reveal cracks not visible to naked eye, ensuring structural integrity.",
+        "D": "Fluid levels are unrelated to structural crack detection."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.01 Diagnoses structural components",
+      "question": "A frame shows signs of twisting. What is the likely cause?",
+      "options": {
+        "A": "Low tire pressure.",
+        "B": "Overloading, impact damage, or uneven loading over time.",
+        "C": "Clean air filter.",
+        "D": "Fresh engine oil."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Tire pressure affects handling but doesn't cause frame twist.",
+        "B": "Excessive loads and impacts create torsional stress causing permanent frame deformation.",
+        "C": "Air filter condition is unrelated to structural integrity.",
+        "D": "Oil condition doesn't affect frame alignment."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.01 Diagnoses structural components",
+      "question": "When inspecting structural welds, what indicates a potentially weak weld?",
+      "options": {
+        "A": "Smooth, consistent bead with good penetration.",
+        "B": "Uniform color throughout weld area.",
+        "C": "Porosity, cracks, incomplete fusion, or undercut.",
+        "D": "Proper heat-affected zone."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Smooth bead with penetration indicates quality weld.",
+        "B": "Uniform color suggests proper welding procedure.",
+        "C": "Proper HAZ indicates controlled welding process.",
+        "D": "These defects compromise weld strength and indicate potential failure points."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.01 Diagnoses structural components",
+      "question": "What tool is used to verify frame alignment and straightness?",
+      "options": {
+        "A": "Compression tester.",
+        "B": "Laser alignment system or precision measuring tools and specifications.",
+        "C": "Oil pressure gauge.",
+        "D": "Tire tread depth gauge."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Laser systems and precision measurements compare actual to specification dimensions.",
+        "B": "Compression tester is for engine cylinders.",
+        "C": "Oil pressure gauge measures engine lubrication, not alignment.",
+        "D": "Tread gauge measures tire wear."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.01 Diagnoses structural components",
+      "question": "A machine's chassis shows corrosion. What determines if repair or replacement is needed?",
+      "options": {
+        "A": "Paint color only.",
+        "B": "Extent of metal loss, location of corrosion, and structural integrity assessment.",
+        "C": "Tire size.",
+        "D": "Fuel tank capacity."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Paint is cosmetic; metal thickness and strength matter.",
+        "B": "Tire size is unrelated to chassis corrosion assessment.",
+        "C": "Critical areas with significant loss require replacement; surface rust can be repaired.",
+        "D": "Fuel capacity doesn't determine structural repair needs."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.01 Diagnoses structural components",
+      "question": "What indicates a mounting bracket is about to fail?",
+      "options": {
+        "A": "Fresh paint on bracket.",
+        "B": "Cracks radiating from fastener holes, elongated holes, or metal deformation.",
+        "C": "Clean appearance.",
+        "D": "Proper bolt torque."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "These signs show stress concentration and imminent failure points.",
+        "B": "Paint is cosmetic and doesn't indicate structural condition.",
+        "C": "Appearance doesn't indicate structural integrity.",
+        "D": "Proper torque is good, but visible damage overrides this."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.02 Diagnoses operator station components",
+      "question": "An operator's seat fails to lock in position. What should be inspected?",
+      "options": {
+        "A": "Engine oil level.",
+        "B": "Seat track condition, locking mechanism, and adjustment lever.",
+        "C": "Tire pressure.",
+        "D": "Fuel filter."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Oil level is unrelated to seat locking.",
+        "B": "Tire pressure doesn't affect seat locking.",
+        "C": "Worn tracks, damaged locks, or broken levers prevent seat from staying in position.",
+        "D": "Fuel filter is unrelated to operator station components."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.02 Diagnoses operator station components",
+      "question": "A ROPS (Roll-Over Protective Structure) shows a bend after an impact. What action is required?",
+      "options": {
+        "A": "Straighten and continue using.",
+        "B": "Replace entire ROPS structure; never repair or straighten.",
+        "C": "Paint over damage.",
+        "D": "Ignore if machine still operates."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "ROPS must be replaced after deformation; repairs void safety certification.",
+        "B": "Straightening compromises structural integrity and safety certification.",
+        "C": "Paint hides damage but doesn't restore protective capability.",
+        "D": "Damaged ROPS cannot protect operator in future rollover."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.02 Diagnoses operator station components",
+      "question": "The operator reports poor visibility from mirrors. What should be checked?",
+      "options": {
+        "A": "Hydraulic pressure.",
+        "B": "Mirror adjustment, mounting stability, and glass condition.",
+        "C": "Engine compression.",
+        "D": "Differential oil level."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Hydraulic pressure is unrelated to mirror visibility.",
+        "B": "Differential oil is separate from operator visibility.",
+        "C": "Compression doesn't affect mirrors.",
+        "D": "Proper adjustment, secure mounting, and clean/undamaged glass ensure visibility."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.02 Diagnoses operator station components",
+      "question": "A control lever moves with excessive play. What is the likely cause?",
+      "options": {
+        "A": "Low coolant level.",
+        "B": "Worn linkage bushings, loose mounting, or damaged pivot points.",
+        "C": "High fuel pressure.",
+        "D": "Clean air filter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Coolant level doesn't affect control lever feel.",
+        "B": "Wear in linkage components creates excessive play and imprecise control.",
+        "C": "Fuel pressure is unrelated to mechanical control linkage.",
+        "D": "Air filter condition doesn't affect control lever operation."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.02 Diagnoses operator station components",
+      "question": "The operator door does not close securely. What should be inspected?",
+      "options": {
+        "A": "Transmission fluid.",
+        "B": "Door latch mechanism, striker plate alignment, and hinge condition.",
+        "C": "Battery voltage only.",
+        "D": "Engine timing."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Worn latch, misaligned striker, or damaged hinges prevent secure closure.",
+        "B": "Transmission fluid is unrelated to door closure.",
+        "C": "Battery voltage doesn't affect mechanical door operation.",
+        "D": "Engine timing is separate from door latch function."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.02 Diagnoses operator station components",
+      "question": "What indicates a failing operator seat suspension?",
+      "options": {
+        "A": "Harsh ride, bottoming out, or seat not returning to normal position.",
+        "B": "Smooth, comfortable operation.",
+        "C": "Proper height adjustment.",
+        "D": "Clean seat fabric."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Fabric condition is cosmetic, not functional.",
+        "B": "Smooth operation indicates proper suspension function.",
+        "C": "Height adjustment is separate from suspension performance.",
+        "D": "These symptoms indicate worn springs, dampers, or air bladder failure."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.03 Diagnoses attachments and accessories",
+      "question": "A bucket shows cracks near the cutting edge. What action should be taken?",
+      "options": {
+        "A": "Continue using until bucket fails completely.",
+        "B": "Inspect crack extent, assess structural integrity, and repair or replace as needed.",
+        "C": "Paint over cracks.",
+        "D": "Ignore if bucket still functions."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Continued use risks catastrophic failure and safety hazard.",
+        "B": "Paint hides cracks but doesn't restore strength.",
+        "C": "Proper assessment determines if repair is safe or replacement necessary.",
+        "D": "Cracks will propagate and lead to failure."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.03 Diagnoses attachments and accessories",
+      "question": "A quick coupler fails to lock attachment securely. What should be inspected?",
+      "options": {
+        "A": "Engine oil color.",
+        "B": "Locking pins, hydraulic pressure to coupler, and wedge wear.",
+        "C": "Tire tread depth.",
+        "D": "Coolant temperature only."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Worn pins, low pressure, or wedge wear prevent secure attachment locking.",
+        "B": "Oil color is unrelated to coupler operation.",
+        "C": "Tire condition doesn't affect coupler function.",
+        "D": "Coolant temperature is separate from hydraulic coupler operation."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.03 Diagnoses attachments and accessories",
+      "question": "Hydraulic hammer operates weakly. What should be checked?",
+      "options": {
+        "A": "Battery charge.",
+        "B": "Hydraulic flow and pressure to hammer, nitrogen charge, and internal wear.",
+        "C": "Fuel level only.",
+        "D": "Tire inflation."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Battery doesn't affect hydraulic hammer operation.",
+        "B": "Tire pressure is unrelated to hammer performance.",
+        "C": "Fuel level doesn't directly affect hydraulic hammer.",
+        "D": "Inadequate flow/pressure, low nitrogen, or wear reduce hammer energy output."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.03 Diagnoses attachments and accessories",
+      "question": "A grapple fails to close completely. What is the likely cause?",
+      "options": {
+        "A": "Low engine RPM only.",
+        "B": "Hydraulic cylinder leakage, damaged linkage, or obstruction in mechanism.",
+        "C": "High coolant level.",
+        "D": "New air filter."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "While RPM affects flow, mechanical or hydraulic issues are more likely.",
+        "B": "Cylinder leaks prevent full extension/retraction; damaged linkage limits movement.",
+        "C": "Coolant level doesn't affect grapple operation.",
+        "D": "Air filter condition is unrelated to grapple function."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.03 Diagnoses attachments and accessories",
+      "question": "What indicates worn bucket teeth that require replacement?",
+      "options": {
+        "A": "Teeth are shiny and new-looking.",
+        "B": "Significant blunting, length reduced by 50% or more, or cracking.",
+        "C": "Teeth are sharp.",
+        "D": "Paint is intact."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Shiny appearance doesn't indicate wear severity.",
+        "B": "Excessive wear reduces digging efficiency and indicates replacement need.",
+        "C": "Sharp teeth are still functional.",
+        "D": "Paint condition is cosmetic, not functional indicator."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "H",
+      "task": "H-19",
+      "taskTitle": "Diagnoses structural components, accessories and attachments",
+      "subtask": "H-19.03 Diagnoses attachments and accessories",
+      "question": "A fork carriage moves unevenly on the mast. What should be inspected?",
+      "options": {
+        "A": "Fuel injector operation.",
+        "B": "Mast rollers, wear pads, carriage alignment, and chain tension.",
+        "C": "Battery electrolyte level only.",
+        "D": "Exhaust system."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Injectors don't affect fork carriage movement.",
+        "B": "Worn components cause binding and uneven movement on mast rails.",
+        "C": "While battery provides power, mechanical wear is primary cause.",
+        "D": "Exhaust is unrelated to carriage operation."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.01 Performs mechanical repairs on structural components",
+      "question": "What is the correct procedure before welding on a structural component?",
+      "options": {
+        "A": "Begin welding immediately.",
+        "B": "Clean area, remove paint/rust, verify metal type, preheat if required.",
+        "C": "Weld over paint for better adhesion.",
+        "D": "Use any welding rod available."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Preparation is essential for quality weld.",
+        "B": "Filler material must match base metal specifications.",
+        "C": "Welding through contamination creates weak, porous welds.",
+        "D": "Proper prep ensures penetration, correct filler selection, and prevents defects."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.01 Performs mechanical repairs on structural components",
+      "question": "When repairing a cracked frame, what is the best practice?",
+      "options": {
+        "A": "Weld over crack without preparation.",
+        "B": "Drill stop holes at crack ends, V-groove preparation, proper welding procedure.",
+        "C": "Apply tape over crack.",
+        "D": "Ignore crack and continue operation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Surface welding without prep doesn't achieve penetration.",
+        "B": "Stop holes prevent propagation; V-groove ensures full penetration weld.",
+        "C": "Tape provides no structural repair.",
+        "D": "Cracks propagate under stress, leading to catastrophic failure."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.01 Performs mechanical repairs on structural components",
+      "question": "What type of fastener should be used to replace a grade 8 structural bolt?",
+      "options": {
+        "A": "Any bolt that fits the hole.",
+        "B": "Grade 8 or higher with same thread pitch and length.",
+        "C": "Lower grade to prevent over-tightening.",
+        "D": "Plastic fastener."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Grade must match or exceed original for structural integrity.",
+        "B": "Maintains designed strength and safety factor in structural application.",
+        "C": "Lower grade bolt will fail under design loads.",
+        "D": "Plastic fasteners cannot support structural loads."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.01 Performs mechanical repairs on structural components",
+      "question": "After welding a structural repair, what should be done?",
+      "options": {
+        "A": "Put machine immediately into service.",
+        "B": "Inspect weld quality, allow proper cooling, and apply protective coating.",
+        "C": "Water quench while hot.",
+        "D": "Paint while weld is glowing."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Inspection ensures repair quality before load application.",
+        "B": "Rapid cooling can cause hardening and cracking.",
+        "C": "Inspection verifies integrity; controlled cooling prevents cracking; coating prevents corrosion.",
+        "D": "Painting hot metal traps moisture and damages coating."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.01 Performs mechanical repairs on structural components",
+      "question": "What is the proper torque sequence for a multi-bolt structural connection?",
+      "options": {
+        "A": "Tighten in circular pattern starting at any bolt.",
+        "B": "Star or cross pattern from center outward, multiple passes to final torque.",
+        "C": "Tighten one bolt to full torque, then move to next.",
+        "D": "Hand tight is sufficient."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Circular pattern can distort flanges and create uneven clamping.",
+        "B": "Uneven tightening causes stress concentration and joint distortion.",
+        "C": "Pattern distributes clamping force evenly, preventing distortion and ensuring uniform loading.",
+        "D": "Structural connections require specified torque for safety."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.01 Performs mechanical repairs on structural components",
+      "question": "When replacing structural fasteners, what indicates a damaged thread?",
+      "options": {
+        "A": "Bolt turns smoothly without resistance.",
+        "B": "Cross-threading, excessive resistance, or visible thread damage.",
+        "C": "Bolt is shiny.",
+        "D": "Correct torque achieved easily."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Damaged threads prevent proper clamping and may fail under load.",
+        "B": "Smooth turning indicates good threads.",
+        "C": "Appearance doesn't indicate thread condition.",
+        "D": "Achieving torque easily suggests good threads."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.02 Repairs operator station components",
+      "question": "What is the correct procedure for replacing an operator seat?",
+      "options": {
+        "A": "Install any seat that physically fits.",
+        "B": "Use manufacturer-specified seat, verify mounting, and test all adjustments.",
+        "C": "Skip testing adjustments.",
+        "D": "Leave mounting bolts loose for comfort."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Proper seat ensures operator safety, comfort, and meets machine specifications.",
+        "B": "Seat must meet weight rating and safety requirements.",
+        "C": "Testing ensures all functions work before operator use.",
+        "D": "Loose mounting creates safety hazard and accelerates wear."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.02 Repairs operator station components",
+      "question": "When repairing a control lever linkage, what must be verified?",
+      "options": {
+        "A": "Paint color matches.",
+        "B": "Full range of motion, proper cable/rod tension, and no binding.",
+        "C": "Linkage is loose for easy movement.",
+        "D": "Coolant level only."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Paint is cosmetic, not functional verification.",
+        "B": "Excessive looseness causes imprecise control and safety issues.",
+        "C": "Ensures control operates through full range without restriction or play.",
+        "D": "Coolant is unrelated to linkage repair verification."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.02 Repairs operator station components",
+      "question": "What is required when replacing a broken mirror?",
+      "options": {
+        "A": "Any mirror that fits mounting.",
+        "B": "Correct mirror type (flat/convex), secure mounting, and proper adjustment range.",
+        "C": "Oversized mirror for better view.",
+        "D": "Leave mounting loose for easy adjustment."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Mirror type affects viewing accuracy and safety compliance.",
+        "B": "Loose mounting allows mirror to vibrate and become misaligned.",
+        "C": "Oversized mirror may not meet specifications and can obstruct visibility.",
+        "D": "Proper mirror type, secure mount, and adjustability ensure operator visibility and safety."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.02 Repairs operator station components",
+      "question": "When repairing a door latch, what ensures proper function?",
+      "options": {
+        "A": "Proper alignment of latch and striker, smooth operation, secure closure.",
+        "B": "Latch barely engages for easy opening.",
+        "C": "Use lubricant only without adjustment.",
+        "D": "Leave door partially latched."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Alignment ensures positive engagement; proper operation provides safety and security.",
+        "B": "Minimal engagement creates safety hazard if door opens during operation.",
+        "C": "Lubrication helps but proper alignment is essential.",
+        "D": "Partial latching is unsafe and may allow door to open."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.02 Repairs operator station components",
+      "question": "What is the correct method to repair a cracked window in the operator station?",
+      "options": {
+        "A": "Apply tape over crack.",
+        "B": "Replace with safety glass or polycarbonate meeting specifications.",
+        "C": "Continue using cracked window.",
+        "D": "Fill crack with epoxy."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Tape doesn't restore visibility or structural integrity.",
+        "B": "Epoxy repair is temporary and doesn't meet safety requirements.",
+        "C": "Cracked glass compromises visibility and may shatter.",
+        "D": "Proper replacement material ensures visibility, protection, and meets safety standards."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.02 Repairs operator station components",
+      "question": "When installing a new operator seat belt, what must be ensured?",
+      "options": {
+        "A": "Belt is same color as interior.",
+        "B": "Proper anchor point strength, correct belt type, and functional buckle.",
+        "C": "Belt is loose for comfort.",
+        "D": "Skip testing after installation."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Color is cosmetic; safety specifications matter.",
+        "B": "Anchor points must support load ratings; belt must meet safety standards.",
+        "C": "Belt must retract and lock properly for restraint function.",
+        "D": "Testing ensures belt functions correctly before operator use."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.03 Repairs attachments and accessories",
+      "question": "What is the correct procedure for replacing bucket teeth?",
+      "options": {
+        "A": "Hammer teeth on without inspection.",
+        "B": "Inspect adapter condition, ensure proper tooth fit, secure with pins/hardware.",
+        "C": "Use teeth that are close to correct size.",
+        "D": "Skip securing hardware."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Forcing teeth on damaged adapters causes premature failure.",
+        "B": "Incorrect size compromises retention and digging performance.",
+        "C": "Worn adapters and proper fit ensure teeth stay secured during operation.",
+        "D": "Unsecured teeth will be lost during operation."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.03 Repairs attachments and accessories",
+      "question": "When repairing a hydraulic cylinder on an attachment, what must be verified?",
+      "options": {
+        "A": "Paint appearance only.",
+        "B": "Seal integrity, rod straightness, proper stroke, and no leaks.",
+        "C": "Cylinder is any color.",
+        "D": "Skip pressure testing."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Paint is cosmetic; functional testing is critical.",
+        "B": "Pressure testing verifies seal integrity before operation.",
+        "C": "Color is irrelevant to function.",
+        "D": "These checks ensure cylinder operates safely and effectively under load."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.03 Repairs attachments and accessories",
+      "question": "What is required when replacing pins and bushings on an attachment?",
+      "options": {
+        "A": "Any pin that fits hole.",
+        "B": "Correct diameter and length pins, proper bushing fit, and specified clearances.",
+        "C": "Oversized pins for tight fit.",
+        "D": "Leave pins loose for easy removal."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Pin must meet load and clearance specifications.",
+        "B": "Loose pins accelerate wear and may fall out during operation.",
+        "C": "Oversized pins damage components and create stress concentrations.",
+        "D": "Proper fit ensures load distribution and prevents premature wear."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.03 Repairs attachments and accessories",
+      "question": "When rebuilding a hydraulic grapple, what components typically require replacement?",
+      "options": {
+        "A": "Nothing, clean and reassemble only.",
+        "B": "Seals, O-rings, bushings, and any worn pivot pins.",
+        "C": "Paint only.",
+        "D": "Hydraulic fluid exclusively."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Worn components must be replaced for reliable operation.",
+        "B": "These wear items must be replaced during rebuild to ensure performance.",
+        "C": "Paint is cosmetic and doesn't restore function.",
+        "D": "While fluid is changed, worn mechanical parts must also be replaced."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.03 Repairs attachments and accessories",
+      "question": "What is the proper method to repair a cracked bucket?",
+      "options": {
+        "A": "Weld immediately without preparation.",
+        "B": "Assess crack location and extent, proper weld prep, use correct procedure, post-weld inspection.",
+        "C": "Apply epoxy over crack.",
+        "D": "Continue using until complete failure."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Systematic approach ensures safe, lasting repair of stressed component.",
+        "B": "Proper preparation is essential for structural weld quality.",
+        "C": "Epoxy cannot handle structural loads on bucket.",
+        "D": "Unsafe practice that risks operator and bystander injury."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.03 Repairs attachments and accessories",
+      "question": "When replacing cutting edges on a bucket, what ensures proper installation?",
+      "options": {
+        "A": "Any fasteners that fit.",
+        "B": "Grade 8 bolts torqued to specification, proper edge alignment, and contact with base.",
+        "C": "Hand-tight fasteners only.",
+        "D": "Welding instead of bolting."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Fastener grade must handle impact and abrasion loads.",
+        "B": "Hand-tight fasteners will loosen from vibration and impact.",
+        "C": "High-grade fasteners and proper torque prevent edge loss during operation.",
+        "D": "Bolted edges allow replacement; welding prevents future service."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.04 Installs attachments and accessories",
+      "question": "What is the first step when installing a new attachment?",
+      "options": {
+        "A": "Connect hydraulics immediately.",
+        "B": "Verify attachment compatibility, weight capacity, and hydraulic requirements.",
+        "C": "Start operating without checks.",
+        "D": "Ignore manufacturer specifications."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Ensures attachment is safe for machine and operates within design parameters.",
+        "B": "Compatibility must be verified before connection.",
+        "C": "Checks are essential for safety and proper function.",
+        "D": "Specifications ensure safe and effective operation."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.04 Installs attachments and accessories",
+      "question": "When connecting hydraulic quick couplers, what prevents contamination?",
+      "options": {
+        "A": "Connect couplers directly without cleaning.",
+        "B": "Clean coupler faces, use dust caps when disconnected, connect carefully.",
+        "C": "Ignore dirt on connections.",
+        "D": "Spray water on couplers."
+      },
+      "correctAnswer": "C",
+      "explanations": {
+        "A": "Contamination damages hydraulic components and causes failures.",
+        "B": "Dirt contamination is primary cause of hydraulic system problems.",
+        "C": "Cleanliness prevents dirt entry that causes wear and valve malfunctions.",
+        "D": "Water contamination causes corrosion and component damage."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.04 Installs attachments and accessories",
+      "question": "After installing an attachment, what must be tested?",
+      "options": {
+        "A": "Paint adhesion only.",
+        "B": "Full range of motion, hydraulic function, and no interference with machine.",
+        "C": "Color match to machine.",
+        "D": "Skip operational testing."
+      },
+      "correctAnswer": "D",
+      "explanations": {
+        "A": "Paint is cosmetic, not functional verification.",
+        "B": "Testing prevents operational hazards and equipment damage.",
+        "C": "Cosmetic appearance doesn't verify function.",
+        "D": "Ensures attachment operates safely without binding or contact with machine structure."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.04 Installs attachments and accessories",
+      "question": "What safety device must be installed with hydraulic attachments?",
+      "options": {
+        "A": "None required.",
+        "B": "Pressure relief valves and/or check valves to prevent uncontrolled movement.",
+        "C": "Decorative covers only.",
+        "D": "Extra hydraulic hoses."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Safety devices prevent accidents from hose failure or pressure loss.",
+        "B": "Relief valves prevent overpressure; check valves prevent unintended dropping.",
+        "C": "Covers are cosmetic, not safety devices.",
+        "D": "Extra hoses don't provide safety function."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.04 Installs attachments and accessories",
+      "question": "When installing a quick coupler, what ensures safe attachment connection?",
+      "options": {
+        "A": "Visual check only.",
+        "B": "Verify positive locking, test with light load, and inspect locking indicators.",
+        "C": "Assume connection is secure.",
+        "D": "Skip load testing."
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual inspection alone may miss engagement problems.",
+        "B": "Positive lock verification and load testing prevent attachment from detaching during operation.",
+        "C": "Assumption without verification creates serious safety hazard.",
+        "D": "Load testing confirms mechanical and hydraulic engagement."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "H",
+      "task": "H-20",
+      "taskTitle": "Repairs structural components, accessories and attachments",
+      "subtask": "H-20.04 Installs attachments and accessories",
+      "question": "What documentation should be completed after attachment installation?",
+      "options": {
+        "A": "No documentation needed.",
+        "B": "Record attachment type, serial number, installation date, and any settings/adjustments.",
+        "C": "Verbal note only.",
+        "D": "Wait until next service interval."
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Records support maintenance planning, warranty claims, and regulatory compliance.",
+        "B": "Documentation provides service history and accountability.",
+        "C": "Verbal notes are not permanent and may be forgotten.",
+        "D": "Documentation should be immediate while details are fresh."
+      }
+    }
+  ]
+}

@@ -1,0 +1,2107 @@
+{
+  "block": "E",
+  "blockTitle": "Installs, Services and Maintains Signalling and Communication Systems",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.01 Installs fire alarm systems",
+      "question": "What is the primary purpose of a fire alarm system?",
+      "options": {
+        "A": "To extinguish fires automatically",
+        "B": "To detect fire conditions and alert occupants enabling safe evacuation",
+        "C": "To control building HVAC systems",
+        "D": "To monitor security breaches"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fire suppression systems extinguish fires; fire alarm systems detect and alert, not suppress.",
+        "B": "Fire alarm systems detect fire indicators (smoke, heat, flame) and activate notification devices (horns, strobes) alerting occupants to evacuate while notifying emergency responders.",
+        "C": "While fire alarms may interface with HVAC for smoke control, primary purpose is detection and notification.",
+        "D": "Security systems monitor intrusion; fire alarms specifically detect fire conditions and provide life safety alerts."
+      }
+    },
+    {
+      "questionNumber": 2,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.01 Installs fire alarm systems",
+      "question": "What are the main components of a fire alarm system?",
+      "options": {
+        "A": "Sprinklers and water pipes only",
+        "B": "Fire alarm control panel, initiating devices, notification appliances, and power supply",
+        "C": "Smoke detectors alone",
+        "D": "Emergency lighting only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sprinklers are separate suppression systems; fire alarms use electronic detection and notification.",
+        "B": "Complete fire alarm systems include: control panel (brain), initiating devices (detectors, pull stations), notification appliances (horns, strobes), primary and backup power supplies.",
+        "C": "Smoke detectors are one initiating device type; complete systems require control panel and notification devices.",
+        "D": "Emergency lighting is separate life safety system; fire alarms include detection and notification components."
+      }
+    },
+    {
+      "questionNumber": 3,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.01 Installs fire alarm systems",
+      "question": "What is a fire alarm control panel (FACP)?",
+      "options": {
+        "A": "Decorative panel only",
+        "B": "Central processing unit monitoring initiating devices, controlling notification appliances, and communicating with monitoring stations",
+        "C": "Manual fire extinguisher cabinet",
+        "D": "HVAC control interface"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "FACPs are functional equipment processing signals and controlling system operation, not decorative.",
+        "B": "FACPs are system brain: monitoring detector circuits, activating alarms when fire detected, communicating with central stations, providing system supervision and power distribution.",
+        "C": "Extinguisher cabinets are passive storage; FACPs are active electronic control equipment.",
+        "D": "While FACPs may interface with HVAC, primary function is fire alarm system control and monitoring."
+      }
+    },
+    {
+      "questionNumber": 4,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.01 Installs fire alarm systems",
+      "question": "What types of smoke detectors are commonly used?",
+      "options": {
+        "A": "Only battery-powered units exist",
+        "B": "Ionization detecting fast-flaming fires and photoelectric detecting smoldering fires",
+        "C": "Visual inspection detectors",
+        "D": "All detectors are identical"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Commercial fire alarm detectors are system-connected, not standalone battery units.",
+        "B": "Smoke detector types include: ionization (uses radioactive source detecting fast-flame fires), photoelectric (light scattering detecting slow-smoldering fires), dual-sensor combining both technologies.",
+        "C": "Smoke detectors are automatic sensors, not requiring visual inspection for detection.",
+        "D": "Significant differences exist in detection technology between ionization and photoelectric types."
+      }
+    },
+    {
+      "questionNumber": 5,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.01 Installs fire alarm systems",
+      "question": "What is a manual pull station?",
+      "options": {
+        "A": "Automatic detection device",
+        "B": "Manually operated initiating device allowing occupants to trigger fire alarm by pulling handle",
+        "C": "Fire extinguisher activation",
+        "D": "Pull stations are obsolete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pull stations require manual activation by occupants, not automatic detection.",
+        "B": "Manual pull stations are initiating devices placed near exits allowing occupants to manually activate fire alarm by pulling lever or breaking glass, required by codes in most buildings.",
+        "C": "Pull stations activate building alarm system, not individual fire extinguishers.",
+        "D": "Manual pull stations remain required by code as backup to automatic detection systems."
+      }
+    },
+    {
+      "questionNumber": 6,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.01 Installs fire alarm systems",
+      "question": "What notification appliances are required in fire alarm systems?",
+      "options": {
+        "A": "Email notifications only",
+        "B": "Audible devices (horns, bells) and visible devices (strobes) for occupant alerting",
+        "C": "Text messages sufficient",
+        "D": "No notification needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Email is too slow and unreliable; immediate on-site notification is required.",
+        "B": "Fire codes require: audible notification (horns, bells, speakers) throughout building, visible notification (strobes) for hearing-impaired occupants, achieving specific decibel and candela levels.",
+        "C": "Text messaging doesn't meet code requirements for immediate reliable on-site notification.",
+        "D": "Notification appliances are mandatory providing occupant warning enabling safe evacuation."
+      }
+    },
+    {
+      "questionNumber": 7,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.01 Installs fire alarm systems",
+      "question": "What wiring methods are acceptable for fire alarm systems?",
+      "options": {
+        "A": "Any standard wiring method",
+        "B": "Fire-rated cables in conduit or approved plenum-rated cables, with circuit integrity requirements",
+        "C": "Extension cords acceptable",
+        "D": "Wireless only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fire alarm wiring requires specific fire-rated materials and methods per code.",
+        "B": "Fire alarm wiring must use: fire-rated cables (FPL, FPLR, FPLP ratings), metal or fire-rated conduit in critical areas, maintaining circuit integrity during fires per CEC requirements.",
+        "C": "Extension cords are never acceptable for permanent fire alarm installations.",
+        "D": "While wireless devices exist, most systems use wired connections for reliability and power."
+      }
+    },
+    {
+      "questionNumber": 8,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.01 Installs fire alarm systems",
+      "question": "What is a fire alarm zone?",
+      "options": {
+        "A": "Temperature zone only",
+        "B": "Defined building area or floor grouping initiating devices for alarm location identification",
+        "C": "Geographic region",
+        "D": "Zones are not used"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Zones define geographic areas, not just temperature measurements.",
+        "B": "Fire alarm zones divide building into areas (typically floors or sections) with grouped initiating devices allowing responders to identify fire location quickly from panel zone indication.",
+        "C": "Zones are building-specific areas, not external geographic regions.",
+        "D": "Zoning is fundamental fire alarm concept enabling rapid fire location identification."
+      }
+    },
+    {
+      "questionNumber": 9,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.01 Installs fire alarm systems",
+      "question": "What backup power is required for fire alarm systems?",
+      "options": {
+        "A": "No backup required",
+        "B": "Battery backup providing 24 hours standby plus 5 minutes alarm operation minimum",
+        "C": "Generator only",
+        "D": "Backup is optional"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Backup power is mandatory ensuring system operates during power failures.",
+        "B": "Fire alarm codes require battery backup capable of: 24 hours normal supervision plus 5 minutes full alarm (horns/strobes), or 60 hours standby in some applications.",
+        "C": "While generators may supplement, integral battery backup is required for immediate seamless transition.",
+        "D": "Backup power is mandatory fire code requirement ensuring continuous system operation."
+      }
+    },
+    {
+      "questionNumber": 10,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.01 Installs fire alarm systems",
+      "question": "Where should smoke detectors be located?",
+      "options": {
+        "A": "Anywhere convenient",
+        "B": "On ceilings or high on walls per spacing requirements, avoiding dead air spaces and HVAC vents",
+        "C": "Floor level only",
+        "D": "Outside building"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Specific code requirements govern detector placement for effective fire detection.",
+        "B": "Detectors must be ceiling or high wall-mounted (smoke rises), spaced per code (typically 30-foot spacing), avoiding corners and supply vents causing dead air or dilution.",
+        "C": "Floor mounting misses smoke which rises; detectors must be ceiling-level for effective detection.",
+        "D": "Detectors must be interior protecting building spaces, not exterior which doesn't detect interior fires."
+      }
+    },
+    {
+      "questionNumber": 11,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.02 Performs servicing and maintenance of fire alarm systems",
+      "question": "How often must fire alarm systems be tested?",
+      "options": {
+        "A": "Never require testing",
+        "B": "Annually at minimum per fire code, with monthly visual inspections and testing of components",
+        "C": "Once at installation only",
+        "D": "Every 10 years adequate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Regular testing is mandatory ensuring system readiness for life safety function.",
+        "B": "Fire codes require: monthly visual inspections, quarterly battery testing, annual full system testing by qualified technicians, with documentation maintained.",
+        "C": "Initial testing alone is inadequate; ongoing periodic testing ensures continued reliable operation.",
+        "D": "10-year intervals risk undetected failures; annual testing is minimum code requirement."
+      }
+    },
+    {
+      "questionNumber": 12,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.02 Performs servicing and maintenance of fire alarm systems",
+      "question": "What maintenance is required for smoke detectors?",
+      "options": {
+        "A": "No maintenance needed",
+        "B": "Regular cleaning, sensitivity testing, functional testing, and replacement per manufacturer recommendations typically 10-15 years",
+        "C": "Visual inspection only",
+        "D": "Detectors last forever"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Smoke detectors require regular maintenance for reliable fire detection.",
+        "B": "Detector maintenance includes: cleaning using vacuum or compressed air, sensitivity testing with test equipment, functional testing with smoke/heat, replacement at 10-15 years per NFPA.",
+        "C": "Visual inspection supplements but doesn't replace functional and sensitivity testing.",
+        "D": "Detector sensitivity degrades over time requiring periodic replacement per NFPA 72 requirements."
+      }
+    },
+    {
+      "questionNumber": 13,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.02 Performs servicing and maintenance of fire alarm systems",
+      "question": "How should fire alarm batteries be maintained?",
+      "options": {
+        "A": "Batteries last forever",
+        "B": "Test quarterly, replace per manufacturer schedule (typically 4-5 years), load test annually",
+        "C": "No maintenance required",
+        "D": "Visual inspection adequate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fire alarm batteries degrade requiring scheduled replacement for reliable backup.",
+        "B": "Battery maintenance includes: quarterly voltage testing, annual load testing verifying capacity, replacement per schedule (typically 4-5 years sealed lead-acid), documentation.",
+        "C": "Battery condition is critical for backup power requiring regular testing and maintenance.",
+        "D": "Visual inspection cannot assess battery capacity; electrical testing and load testing required."
+      }
+    },
+    {
+      "questionNumber": 14,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.02 Performs servicing and maintenance of fire alarm systems",
+      "question": "What records must be maintained for fire alarm systems?",
+      "options": {
+        "A": "No records required",
+        "B": "Installation documents, test reports, maintenance logs, inspection records, and modification history",
+        "C": "Purchase receipt only",
+        "D": "Verbal reports adequate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Comprehensive documentation is required by fire codes and for inspection compliance.",
+        "B": "Required records include: as-built drawings, acceptance testing documents, ongoing test/inspection records, maintenance logs, device replacement history, available for Authority Having Jurisdiction review.",
+        "C": "Purchase information alone is inadequate for code compliance and inspection requirements.",
+        "D": "Written permanent records are required by fire codes and for inspection verification."
+      }
+    },
+    {
+      "questionNumber": 15,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.02 Performs servicing and maintenance of fire alarm systems",
+      "question": "What causes false alarms in fire alarm systems?",
+      "options": {
+        "A": "False alarms are impossible",
+        "B": "Dust accumulation, cooking smoke, steam, insects, electrical interference, or improper detector placement",
+        "C": "False alarms are beneficial",
+        "D": "Cannot be prevented"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Various environmental and installation factors cause false alarms requiring investigation.",
+        "B": "False alarm causes include: dust in detectors, cooking vapors, shower steam, insects in sensors, electrical noise, detectors near bathrooms/kitchens, requiring cleaning or relocation.",
+        "C": "False alarms desensitize occupants and waste emergency resources requiring correction.",
+        "D": "Proper detector selection, placement, maintenance, and environmental control prevent most false alarms."
+      }
+    },
+    {
+      "questionNumber": 16,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.02 Performs servicing and maintenance of fire alarm systems",
+      "question": "How should ground faults be diagnosed in fire alarm systems?",
+      "options": {
+        "A": "Ground faults cannot occur",
+        "B": "Use meter measuring circuit-to-ground resistance, inspect for damaged cables, moisture, or failed devices",
+        "C": "Ground faults are normal",
+        "D": "Ignore ground fault indicators"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ground faults occur from cable damage, moisture, or device failures requiring diagnosis.",
+        "B": "Ground fault troubleshooting involves: megohmmeter testing circuit insulation, systematic circuit isolation identifying faulty section, inspecting for damaged cables, moisture, or shorted devices.",
+        "C": "Ground faults indicate insulation problems requiring correction for reliable system operation.",
+        "D": "Ground fault indicators must be addressed as they can prevent proper system operation."
+      }
+    },
+    {
+      "questionNumber": 17,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.02 Performs servicing and maintenance of fire alarm systems",
+      "question": "What is sensitivity testing for smoke detectors?",
+      "options": {
+        "A": "Testing personnel sensitivity",
+        "B": "Measuring detector response to calibrated smoke obscuration ensuring operation within acceptable range",
+        "C": "Sensitivity cannot be tested",
+        "D": "Visual test only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sensitivity testing measures detector performance, not personnel characteristics.",
+        "B": "Sensitivity testing uses calibrated equipment measuring detector response to known smoke levels; detectors must respond within manufacturer-specified obscuration range (typically 0.5-4% per foot).",
+        "C": "Specialized test equipment accurately measures and documents detector sensitivity.",
+        "D": "Sensitivity requires electrical measurement using test equipment, not visual assessment."
+      }
+    },
+    {
+      "questionNumber": 18,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.02 Performs servicing and maintenance of fire alarm systems",
+      "question": "How should notification appliance circuits be tested?",
+      "options": {
+        "A": "Testing is unnecessary",
+        "B": "Measure voltage at devices, verify audible levels with sound meter, check strobe flash rates and candela output",
+        "C": "Visual observation adequate",
+        "D": "Test one device only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Regular notification appliance testing ensures occupants will be effectively alerted.",
+        "B": "Appliance testing includes: voltage verification at each device, sound level measurement (minimum 75dB typically), strobe synchronization verification, candela output testing.",
+        "C": "While visual/audible observation confirms operation, code requires specific measurements documenting compliance.",
+        "D": "All devices must be tested individually as single device test doesn't verify entire circuit."
+      }
+    },
+    {
+      "questionNumber": 19,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.02 Performs servicing and maintenance of fire alarm systems",
+      "question": "What is end-of-line (EOL) resistor function?",
+      "options": {
+        "A": "Increases circuit power",
+        "B": "Provides circuit supervision allowing panel to detect open or short circuit conditions",
+        "C": "For decoration only",
+        "D": "EOL resistors are obsolete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "EOL resistors provide supervision, not increase power to circuit.",
+        "B": "End-of-line resistors (typically 4.7K ohm) installed at circuit end allow panel to distinguish: normal (correct resistance), open circuit (infinite resistance), short circuit (zero resistance).",
+        "C": "EOL resistors serve critical supervision function ensuring circuit integrity monitoring.",
+        "D": "EOL resistors remain standard in conventional fire alarm circuits for supervision."
+      }
+    },
+    {
+      "questionNumber": 20,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.02 Performs servicing and maintenance of fire alarm systems",
+      "question": "How should fire alarm system documentation be updated?",
+      "options": {
+        "A": "Documentation never changes",
+        "B": "Update drawings after modifications, document device replacements, record testing results, maintain current As-Built documentation",
+        "C": "Original documents sufficient",
+        "D": "Verbal updates adequate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "System changes require documentation updates maintaining accuracy for future work.",
+        "B": "Documentation must be updated for: system modifications with revised drawings, device additions/relocations, changed programming, ensuring As-Built accuracy for maintenance and emergencies.",
+        "C": "Original installation documents become obsolete as systems evolve requiring current As-Builts.",
+        "D": "Written documentation updates are required maintaining permanent accurate system records."
+      }
+    },
+    {
+      "questionNumber": 21,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.03 Installs security and surveillance systems",
+      "question": "What are the main components of a security alarm system?",
+      "options": {
+        "A": "Locks and keys only",
+        "B": "Control panel, sensors (motion, door/window contacts), keypad, alarm notification devices, and communication",
+        "C": "Cameras alone",
+        "D": "No components needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Physical locks supplement but don't constitute electronic security alarm systems.",
+        "B": "Security systems include: control panel processing signals, detection sensors (PIR motion, magnetic contacts), keypads for arming/disarming, sirens/dialers for notification, communication to monitoring.",
+        "C": "Cameras are surveillance systems; security alarms use sensor-based intrusion detection.",
+        "D": "Complete security systems require multiple integrated electronic components."
+      }
+    },
+    {
+      "questionNumber": 22,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.03 Installs security and surveillance systems",
+      "question": "What types of motion sensors are used in security systems?",
+      "options": {
+        "A": "Motion sensors don't exist",
+        "B": "Passive infrared (PIR) detecting heat changes, microwave detecting movement, dual-technology combining both",
+        "C": "Visual observation only",
+        "D": "All sensors are identical"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Motion sensors are primary intrusion detection devices in security systems.",
+        "B": "Motion sensor types include: PIR (passive infrared detecting body heat changes), microwave (active radar detecting movement), dual-technology (PIR+microwave reducing false alarms).",
+        "C": "Motion sensors are automatic detection devices, not requiring continuous human observation.",
+        "D": "Significant differences exist in detection technology between PIR, microwave, and dual sensors."
+      }
+    },
+    {
+      "questionNumber": 23,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.03 Installs security and surveillance systems",
+      "question": "What is a magnetic door contact?",
+      "options": {
+        "A": "Decorative door hardware",
+        "B": "Two-part sensor using reed switch and magnet detecting door/window opening when separated",
+        "C": "Door lock mechanism",
+        "D": "Magnetic contacts are obsolete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Magnetic contacts are functional sensors, not decorative hardware.",
+        "B": "Magnetic contacts consist of: reed switch on frame, magnet on door/window; when aligned (closed) circuit is complete, when separated (open) circuit opens triggering alarm.",
+        "C": "Magnetic contacts detect opening, not physically lock doors which require separate hardware.",
+        "D": "Magnetic contacts remain standard reliable sensors for door/window monitoring in security systems."
+      }
+    },
+    {
+      "questionNumber": 24,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.03 Installs security and surveillance systems",
+      "question": "What is a glass break detector?",
+      "options": {
+        "A": "Manual breaking tool",
+        "B": "Acoustic sensor detecting frequency signature of breaking glass triggering alarm",
+        "C": "Glass repair device",
+        "D": "Glass break detectors are not real"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Glass break detectors sense breaking, not tools for breaking glass.",
+        "B": "Glass break detectors use microphones analyzing acoustic frequencies characteristic of glass breaking (both impact thud and glass shatter frequencies) providing perimeter security.",
+        "C": "Glass break detectors detect intrusion through glass, not repair broken glass.",
+        "D": "Glass break detectors are standard security devices protecting against window/glass door entry."
+      }
+    },
+    {
+      "questionNumber": 25,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.03 Installs security and surveillance systems",
+      "question": "What video surveillance camera types are common?",
+      "options": {
+        "A": "Only film cameras exist",
+        "B": "Analog CCTV cameras and IP network cameras, with various lens types (fixed, varifocal, PTZ)",
+        "C": "All cameras are identical",
+        "D": "Surveillance cameras are prohibited"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Modern surveillance uses digital cameras (analog CCTV or IP), not film cameras.",
+        "B": "Camera types include: analog CCTV (coax transmission to DVR), IP cameras (network-connected to NVR), with lens options: fixed, varifocal (adjustable zoom), PTZ (pan-tilt-zoom).",
+        "C": "Significant differences exist in resolution, connectivity, and features between camera types.",
+        "D": "Video surveillance is legal when properly installed respecting privacy laws and notification requirements."
+      }
+    },
+    {
+      "questionNumber": 26,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.03 Installs security and surveillance systems",
+      "question": "What cabling is used for IP surveillance cameras?",
+      "options": {
+        "A": "Any wire works",
+        "B": "Cat5e or Cat6 Ethernet cable supporting data and PoE power, installed per structured cabling standards",
+        "C": "Speaker wire adequate",
+        "D": "No cables needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "IP cameras require proper Ethernet cabling meeting data transmission and PoE specifications.",
+        "B": "IP camera installations use Cat5e/Cat6 Ethernet cable: supporting required data rates (100Mbps-1Gbps), providing PoE power (802.3af/at), installed per TIA/EIA structured cabling standards.",
+        "C": "Speaker wire cannot support data transmission or PoE power required by IP cameras.",
+        "D": "While wireless cameras exist, most professional installations use wired connections for reliability."
+      }
+    },
+    {
+      "questionNumber": 27,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.03 Installs security and surveillance systems",
+      "question": "What is Power over Ethernet (PoE) in surveillance systems?",
+      "options": {
+        "A": "PoE is obsolete technology",
+        "B": "Technology delivering DC power and data over single Ethernet cable to IP cameras and devices",
+        "C": "Separate power always required",
+        "D": "PoE only provides data"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "PoE is current standard technology simplifying IP camera installations.",
+        "B": "PoE (IEEE 802.3af/at/bt) delivers: DC power (15.4W to 90W depending on standard) and network data simultaneously over Cat5e/Cat6 cable, eliminating separate power runs to cameras.",
+        "C": "PoE eliminates need for separate power wiring to cameras when using PoE switches/injectors.",
+        "D": "PoE provides both power and data over single cable, not just data transmission."
+      }
+    },
+    {
+      "questionNumber": 28,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.03 Installs security and surveillance systems",
+      "question": "What is a video recorder in surveillance systems?",
+      "options": {
+        "A": "DVR for analog cameras recording to hard drive, or NVR for IP cameras recording network video",
+        "B": "Tape recorder only",
+        "C": "Recording is not needed",
+        "D": "All recorders are identical"
+      },
+      "correctAnswer": "A",
+      "explanations": {
+        "A": "Video recorders include: DVR (Digital Video Recorder) for analog cameras with coax inputs, NVR (Network Video Recorder) for IP cameras over network, both using hard drive storage.",
+        "B": "Modern systems use digital recording to hard drives, not tape which is obsolete.",
+        "C": "Recording is essential for investigation, documentation, and liability protection in surveillance.",
+        "D": "Significant differences exist between DVR and NVR in connectivity, resolution support, and architecture."
+      }
+    },
+    {
+      "questionNumber": 29,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.03 Installs security and surveillance systems",
+      "question": "What is an access control system?",
+      "options": {
+        "A": "Manual key distribution",
+        "B": "Electronic system using credentials (cards, codes, biometrics) controlling door locks and tracking entry",
+        "C": "Access control is not electronic",
+        "D": "Everyone has unrestricted access"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Access control is electronic credential-based system, not traditional key management.",
+        "B": "Access control systems use: electronic credentials (proximity cards, keypads, fingerprints), readers at doors, control panel/software managing permissions, electric locks, audit trail logging all access.",
+        "C": "Modern access control is electronic system replacing or supplementing mechanical keys.",
+        "D": "Access control specifically restricts entry to authorized personnel with proper credentials."
+      }
+    },
+    {
+      "questionNumber": 30,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.03 Installs security and surveillance systems",
+      "question": "Where should surveillance cameras be positioned?",
+      "options": {
+        "A": "Random placement acceptable",
+        "B": "Covering entry/exit points, high-value areas, with consideration for lighting, viewing angles, and privacy laws",
+        "C": "Floor level only",
+        "D": "Camera placement doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Strategic camera placement is critical for effective surveillance coverage.",
+        "B": "Camera positioning requires: coverage of all entry/exit points, protection of high-value assets, consideration of lighting conditions, appropriate viewing angles, compliance with privacy regulations.",
+        "C": "Elevated mounting (8-10 feet typical) provides better viewing angles and protection from tampering.",
+        "D": "Proper placement is essential for effective surveillance and identification capture."
+      }
+    },
+    {
+      "questionNumber": 31,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.04 Performs servicing and maintenance of security and surveillance systems",
+      "question": "How should security system sensors be tested?",
+      "options": {
+        "A": "Testing is unnecessary",
+        "B": "Trigger each sensor verifying alarm response, check sensitivity adjustments, test communication to panel",
+        "C": "Visual inspection only",
+        "D": "Test one sensor for all"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Regular sensor testing ensures reliable intrusion detection when needed.",
+        "B": "Sensor testing includes: physically triggering motion detectors and contacts, verifying panel receives and displays alerts, checking coverage patterns, adjusting sensitivity if needed.",
+        "C": "Visual inspection cannot verify electrical operation and detection capability requiring functional testing.",
+        "D": "Each sensor must be tested individually as single test doesn't verify entire system."
+      }
+    },
+    {
+      "questionNumber": 32,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.04 Performs servicing and maintenance of security and surveillance systems",
+      "question": "What maintenance is required for surveillance cameras?",
+      "options": {
+        "A": "Cameras are maintenance-free",
+        "B": "Clean lenses, verify focus and aim, check connections, update firmware, test image quality",
+        "C": "Replace cameras monthly",
+        "D": "No maintenance possible"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Camera maintenance ensures continued clear image capture and system reliability.",
+        "B": "Camera maintenance includes: lens cleaning removing dirt/dust, verifying proper aim hasn't shifted, checking cable connections, installing firmware updates, testing image quality and focus.",
+        "C": "Monthly camera replacement is excessive; proper maintenance extends camera life 5-10+ years.",
+        "D": "Well-defined maintenance procedures exist for surveillance camera systems."
+      }
+    },
+    {
+      "questionNumber": 33,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.04 Performs servicing and maintenance of security and surveillance systems",
+      "question": "How should video recorder storage be managed?",
+      "options": {
+        "A": "Storage manages itself",
+        "B": "Monitor available space, configure retention periods per requirements, test recording quality, backup critical footage",
+        "C": "Storage is unlimited",
+        "D": "Never delete recordings"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Active storage management ensures continuous recording capability and compliance.",
+        "B": "Storage management includes: monitoring disk space usage, configuring retention based on legal/policy requirements (7-90 days typical), verifying recording quality, backing up incident footage.",
+        "C": "Storage is finite requiring management; systems automatically overwrite oldest footage when full.",
+        "D": "While maintaining required retention period, indefinite storage is impractical requiring old footage deletion."
+      }
+    },
+    {
+      "questionNumber": 34,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.04 Performs servicing and maintenance of security and surveillance systems",
+      "question": "What causes false alarms in security systems?",
+      "options": {
+        "A": "False alarms are impossible",
+        "B": "Loose contacts, pets triggering motion sensors, low batteries, environmental factors, or improper user operation",
+        "C": "False alarms improve security",
+        "D": "Cannot be reduced"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Various factors cause false alarms requiring investigation and correction.",
+        "B": "False alarm causes include: loose door/window contacts, pets in motion sensor range, low sensor batteries, temperature changes, sunlight, plants moving near sensors, user error.",
+        "C": "False alarms reduce system effectiveness through occupant desensitization and response fatigue.",
+        "D": "Proper installation, maintenance, pet-immune sensors, and user training reduce false alarms significantly."
+      }
+    },
+    {
+      "questionNumber": 35,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.04 Performs servicing and maintenance of security and surveillance systems",
+      "question": "How should network security be maintained for IP surveillance systems?",
+      "options": {
+        "A": "Network security is unnecessary",
+        "B": "Use VLANs, change default passwords, update firmware, implement strong authentication, monitor for unauthorized access",
+        "C": "Default settings adequate",
+        "D": "Cameras don't need network security"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "IP systems require robust network security preventing unauthorized access and hacking.",
+        "B": "Network security requires: VLAN isolation separating cameras from main network, strong unique passwords, firmware updates addressing vulnerabilities, encrypted connections, regular security audits.",
+        "C": "Default passwords and settings are primary security vulnerabilities requiring immediate change.",
+        "D": "IP cameras are network devices vulnerable to hacking requiring comprehensive security measures."
+      }
+    },
+    {
+      "questionNumber": 36,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.04 Performs servicing and maintenance of security and surveillance systems",
+      "question": "What backup systems should security systems have?",
+      "options": {
+        "A": "No backup needed",
+        "B": "Battery backup for power failures, cellular backup for communication failures, redundant recording storage",
+        "C": "One backup type sufficient",
+        "D": "Backups are optional"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Backup systems ensure security continues during primary system failures.",
+        "B": "Security backup includes: battery backup maintaining system during outages (4-24 hours typical), cellular/radio backup if internet/phone fails, RAID storage or cloud backup for recordings.",
+        "C": "Multiple backup types address different failure modes providing comprehensive protection.",
+        "D": "Professional security installations require backup systems ensuring continuous protection."
+      }
+    },
+    {
+      "questionNumber": 37,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.04 Performs servicing and maintenance of security and surveillance systems",
+      "question": "How should access control credentials be managed?",
+      "options": {
+        "A": "No management needed",
+        "B": "Issue/revoke credentials promptly, track assignments, audit access logs, replace lost/stolen cards immediately",
+        "C": "One master credential for all",
+        "D": "Credential management is automatic"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Active credential management is essential for access control security effectiveness.",
+        "B": "Credential management includes: immediate issuance to new personnel, prompt revocation upon termination, audit trail of credential assignments, replacement of compromised credentials, regular access privilege review.",
+        "C": "Individual credentials allow tracking and selective access revocation; master keys eliminate security benefits.",
+        "D": "Credential lifecycle management requires active administrator oversight and database maintenance."
+      }
+    },
+    {
+      "questionNumber": 38,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.04 Performs servicing and maintenance of security and surveillance systems",
+      "question": "What documentation should be maintained for security systems?",
+      "options": {
+        "A": "No documentation needed",
+        "B": "System drawings, device locations, programming parameters, user database, test records, incident logs",
+        "C": "Purchase receipt only",
+        "D": "Verbal information adequate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Comprehensive documentation enables effective system management and troubleshooting.",
+        "B": "Security documentation includes: as-built drawings showing all devices, zone/area assignments, programming backup, credential database, regular test records, alarm event logs.",
+        "C": "Purchase information alone is inadequate for system operation and maintenance.",
+        "D": "Written permanent documentation is essential for system continuity and investigation support."
+      }
+    },
+    {
+      "questionNumber": 39,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.04 Performs servicing and maintenance of security and surveillance systems",
+      "question": "How should environmental conditions affecting security systems be addressed?",
+      "options": {
+        "A": "Environment doesn't matter",
+        "B": "Use weatherproof enclosures outdoors, control temperature/humidity for equipment, protect from direct sunlight and moisture",
+        "C": "Standard equipment works anywhere",
+        "D": "Environmental protection is optional"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Environmental conditions significantly impact security equipment reliability and lifespan.",
+        "B": "Environmental protection includes: IP66+ rated outdoor cameras/sensors, climate-controlled equipment rooms, sun shields preventing glare/overheating, moisture protection, proper ventilation.",
+        "C": "Equipment must be rated for environmental conditions; standard indoor equipment fails outdoors.",
+        "D": "Proper environmental protection is essential for reliable long-term security system operation."
+      }
+    },
+    {
+      "questionNumber": 40,
+      "block": "E",
+      "task": "E-26",
+      "taskTitle": "Installs, services and maintains signalling systems",
+      "subtask": "E-26.04 Performs servicing and maintenance of security and surveillance systems",
+      "question": "What cybersecurity measures protect security systems?",
+      "options": {
+        "A": "Cybersecurity is unnecessary",
+        "B": "Network segmentation, encryption, access controls, regular updates, intrusion detection, disable unused services",
+        "C": "Antivirus software alone sufficient",
+        "D": "Physical security is only concern"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Modern IP-based security systems require comprehensive cybersecurity protection.",
+        "B": "Cybersecurity measures include: VLAN isolation, HTTPS/encryption for data transmission, role-based access controls, firmware updates, IDS monitoring, disabling unnecessary ports/services.",
+        "C": "Antivirus is one element; comprehensive approach addressing network, access, and configuration needed.",
+        "D": "Physical security alone ignores network vulnerabilities; cyber and physical security both required."
+      }
+    },
+    {
+      "questionNumber": 41,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.01 Installs VDV and CATV systems",
+      "question": "What does VDV stand for in telecommunications?",
+      "options": {
+        "A": "Very Dangerous Voltage",
+        "B": "Voice-Data-Video referring to low-voltage communication cabling systems",
+        "C": "Voltage Distribution Valve",
+        "D": "VDV is not an acronym"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "VDV refers to communication signals, not voltage danger classification.",
+        "B": "VDV (Voice-Data-Video) encompasses low-voltage structured cabling systems: telephone (voice), computer networks (data), and video distribution (video) using twisted pair, coax, and fiber.",
+        "C": "VDV is telecommunications terminology, not voltage distribution or plumbing components.",
+        "D": "VDV is standard industry acronym for integrated voice, data, and video communication systems."
+      }
+    },
+    {
+      "questionNumber": 42,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.01 Installs VDV and CATV systems",
+      "question": "What is structured cabling?",
+      "options": {
+        "A": "Random cable installation",
+        "B": "Standardized telecommunications cabling infrastructure using hierarchical architecture from entrance to workstations",
+        "C": "Structural building cables",
+        "D": "Structured cabling is obsolete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Structured cabling follows specific standards and topology, not random installation.",
+        "B": "Structured cabling per TIA/EIA-568 standards uses: entrance facility, equipment room, backbone cabling, telecommunications rooms, horizontal cabling to workstations, providing organized flexible infrastructure.",
+        "C": "Structured cabling is telecommunications infrastructure, not structural/mechanical building support.",
+        "D": "Structured cabling remains current standard methodology for commercial building telecommunications."
+      }
+    },
+    {
+      "questionNumber": 43,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.01 Installs VDV and CATV systems",
+      "question": "What are Category ratings for twisted pair cable?",
+      "options": {
+        "A": "Color categories only",
+        "B": "Performance classifications: Cat5e (1Gbps), Cat6 (10Gbps/55m), Cat6A (10Gbps/100m), based on bandwidth and crosstalk",
+        "C": "All categories identical",
+        "D": "Categories are arbitrary"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Category ratings specify electrical performance characteristics, not color coding.",
+        "B": "Cable categories define performance: Cat5e supports 1Gbps to 100m, Cat6 supports 10Gbps to 55m, Cat6A supports 10Gbps to 100m, each with improved bandwidth and crosstalk specifications.",
+        "C": "Significant performance differences exist between categories in bandwidth and distance capability.",
+        "D": "Categories are precisely defined by TIA/EIA standards specifying electrical characteristics and testing."
+      }
+    },
+    {
+      "questionNumber": 44,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.01 Installs VDV and CATV systems",
+      "question": "What is the maximum length for horizontal twisted pair cable runs?",
+      "options": {
+        "A": "Unlimited length",
+        "B": "90 meters (295 feet) permanent link with 5m (16 feet) patch cord allowance totaling 100m channel",
+        "C": "10 meters maximum",
+        "D": "Length doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Specific length limits prevent signal degradation and ensure performance specifications.",
+        "B": "TIA/EIA-568 standards specify: 90m maximum permanent horizontal cable (wall to patch panel), plus 5m patch cord allowance each end, totaling 100m channel for Cat5e/6/6A.",
+        "C": "10 meters is far too restrictive; standard allows up to 90m permanent link.",
+        "D": "Cable length directly affects signal quality; standards specify limits ensuring reliable transmission."
+      }
+    },
+    {
+      "questionNumber": 45,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.01 Installs VDV and CATV systems",
+      "question": "What termination standard is used for RJ45 connectors?",
+      "options": {
+        "A": "No standard exists",
+        "B": "T568A or T568B wiring schemes defining pin-pair color assignments for consistent connectivity",
+        "C": "Random wire order acceptable",
+        "D": "All standards are identical"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Specific termination standards ensure proper signal transmission and connector compatibility.",
+        "B": "TIA/EIA-568 defines T568A and T568B termination schemes specifying which wire pair connects to which pins; both ends must use same standard for straight-through cable.",
+        "C": "Random wiring creates crosstalk and signal problems; standardized terminations are required.",
+        "D": "T568A and T568B differ in orange/green pair positions; consistency within installation required."
+      }
+    },
+    {
+      "questionNumber": 46,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.01 Installs VDV and CATV systems",
+      "question": "What is CATV system?",
+      "options": {
+        "A": "Television for cats",
+        "B": "Community Antenna Television - coaxial cable system distributing broadcast and cable TV signals throughout building",
+        "C": "Category television only",
+        "D": "CATV is obsolete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "CATV is telecommunications system acronym, not pet-related television.",
+        "B": "CATV (Community Antenna Television) distributes TV signals using coaxial cable with splitters/amplifiers from antenna or cable service throughout building to multiple outlets.",
+        "C": "CATV is specific coaxial distribution system, not related to Category cable classifications.",
+        "D": "While streaming reduces cable TV use, CATV systems remain installed in many buildings."
+      }
+    },
+    {
+      "questionNumber": 47,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.01 Installs VDV and CATV systems",
+      "question": "What coaxial cable type is standard for CATV?",
+      "options": {
+        "A": "Any coax cable works",
+        "B": "RG6 quad-shield coaxial cable with 75-ohm impedance for optimal signal transmission and interference rejection",
+        "C": "Speaker wire adequate",
+        "D": "Coaxial cable is not used"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Specific coax types meet CATV frequency and shielding requirements.",
+        "B": "RG6 coaxial cable is CATV standard: 75-ohm impedance matching equipment, quad-shield construction rejecting interference, supporting 5-1000+ MHz bandwidth for broadcast and cable channels.",
+        "C": "Speaker wire cannot carry RF signals or maintain impedance requirements for video transmission.",
+        "D": "Coaxial cable remains standard for CATV distribution providing broadband signal delivery."
+      }
+    },
+    {
+      "questionNumber": 48,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.01 Installs VDV and CATV systems",
+      "question": "What is bend radius requirement for Cat6 cable?",
+      "options": {
+        "A": "No bend restrictions",
+        "B": "Minimum 4 times cable diameter during installation, 1 times diameter for permanent bends to prevent performance degradation",
+        "C": "Tight bends improve performance",
+        "D": "Bend radius doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Minimum bend radius prevents cable damage and maintains electrical specifications.",
+        "B": "TIA standards require: minimum 4x cable diameter during pulling stress, minimum 1x diameter for permanent installed bends, preventing pair deformation affecting crosstalk and return loss.",
+        "C": "Tight bends damage cable structure increasing crosstalk and return loss degrading performance.",
+        "D": "Proper bend radius is critical maintaining cable pair geometry ensuring performance specifications."
+      }
+    },
+    {
+      "questionNumber": 49,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.01 Installs VDV and CATV systems",
+      "question": "What is a telecommunications room (TR)?",
+      "options": {
+        "A": "Any storage closet",
+        "B": "Dedicated enclosed space housing horizontal cross-connect equipment, serving single floor or zone per structured cabling standards",
+        "C": "Telephone equipment only",
+        "D": "TRs are not required"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "TRs must meet specific standards for space, power, cooling, and access.",
+        "B": "Telecommunications Rooms per TIA-569 house patch panels, switches, and cross-connects for floor or zone; require: dedicated space, proper power/cooling, cable management, secure access.",
+        "C": "Modern TRs serve all telecommunications (voice, data, video), not just telephone systems.",
+        "D": "TRs are required by structured cabling standards providing distributed termination and cross-connection."
+      }
+    },
+    {
+      "questionNumber": 50,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.01 Installs VDV and CATV systems",
+      "question": "What testing is required for twisted pair cable installations?",
+      "options": {
+        "A": "No testing needed",
+        "B": "Certification testing measuring length, wire map, insertion loss, NEXT, return loss, and delay verifying category performance",
+        "C": "Visual inspection adequate",
+        "D": "Continuity test only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Comprehensive testing verifies installation meets category specifications per TIA standards.",
+        "B": "Cable certification uses specialized testers measuring: wire map correctness, length <100m, insertion loss, near-end crosstalk (NEXT), return loss, propagation delay, verifying category compliance.",
+        "C": "Visual inspection cannot verify electrical performance parameters requiring test equipment.",
+        "D": "While continuity verifies basic connectivity, category certification requires extensive electrical measurements."
+      }
+    },
+    {
+      "questionNumber": 51,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.02 Installs PA and intercom systems",
+      "question": "What is a PA (Public Address) system?",
+      "options": {
+        "A": "Personal audio system",
+        "B": "Electronic amplification system broadcasting announcements through multiple speakers covering large areas or entire buildings",
+        "C": "PA systems are obsolete",
+        "D": "Private addressing only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "PA is Public Address system for group communication, not personal audio.",
+        "B": "PA systems consist of: microphones/audio sources, amplifiers, distribution cabling, speakers throughout facility, enabling announcements, paging, emergency notifications, and background music.",
+        "C": "PA systems remain essential for schools, hospitals, factories, and commercial buildings.",
+        "D": "PA specifically means Public Address for broadcasting to groups, not private communication."
+      }
+    },
+    {
+      "questionNumber": 52,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.02 Installs PA and intercom systems",
+      "question": "What are the main components of a PA system?",
+      "options": {
+        "A": "Speakers only",
+        "B": "Audio sources (microphones, line inputs), amplifier, speaker distribution system with transformers, and control equipment",
+        "C": "PA systems are wireless only",
+        "D": "No components needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Complete PA systems require audio input, amplification, distribution, and output components.",
+        "B": "PA system components include: audio inputs (mics, media players), power amplifier, 70V/100V distribution system, matching transformers, speakers, zone controls, backup power.",
+        "C": "While wireless mics exist, speaker distribution typically uses wired connections for reliability.",
+        "D": "PA systems require integrated electronic components for audio distribution."
+      }
+    },
+    {
+      "questionNumber": 53,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.02 Installs PA and intercom systems",
+      "question": "What is 70-volt audio distribution?",
+      "options": {
+        "A": "Speaker voltage rating",
+        "B": "Constant-voltage distribution system using transformers allowing multiple speakers on single amplifier with long cable runs",
+        "C": "70V is household voltage",
+        "D": "70V distribution is obsolete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "70V is distribution system voltage, not speaker operating voltage (which steps down via transformers).",
+        "B": "70-volt distribution (also 100V) uses step-up transformer at amplifier and step-down at each speaker allowing: many speakers on one amplifier, long cable runs, individual speaker taps for volume.",
+        "C": "70V is specialized audio distribution voltage, not standard household electrical voltage.",
+        "D": "70V distribution remains standard for commercial PA systems enabling efficient speaker distribution."
+      }
+    },
+    {
+      "questionNumber": 54,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.02 Installs PA and intercom systems",
+      "question": "What is an intercom system?",
+      "options": {
+        "A": "Internet communication only",
+        "B": "Two-way voice communication system allowing conversation between stations or zones in building",
+        "C": "One-way broadcast only",
+        "D": "Intercoms are obsolete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Intercom is dedicated voice system, not internet-based communication.",
+        "B": "Intercom systems provide: two-way communication between master and substations or between stations, door entry communication, selective calling to zones, used in offices, schools, and residences.",
+        "C": "Intercoms specifically provide two-way conversation, not just one-way announcements (which is PA).",
+        "D": "Intercom systems remain widely used for internal building communication and security."
+      }
+    },
+    {
+      "questionNumber": 55,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.02 Installs PA and intercom systems",
+      "question": "What wiring is used for PA speaker distribution?",
+      "options": {
+        "A": "Any wire acceptable",
+        "B": "18AWG to 12AWG stranded copper depending on length and power, with fire-rated jacket in plenums",
+        "C": "Cat5e cable only",
+        "D": "No wiring needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Specific wire gauge based on distance and power ensures adequate audio delivery.",
+        "B": "PA speaker wire sizing depends on: total distance and power requirements (18AWG short runs, 16-12AWG longer/higher power), fire rating (CL2, CL3, plenum), stranded for flexibility.",
+        "C": "While Cat5e can carry audio, dedicated speaker wire or CL2/CL3 rated cable is standard.",
+        "D": "Most PA systems use wired connections for reliability and power delivery to passive speakers."
+      }
+    },
+    {
+      "questionNumber": 56,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.02 Installs PA and intercom systems",
+      "question": "Where should PA speakers be located?",
+      "options": {
+        "A": "Random placement acceptable",
+        "B": "Distributed based on coverage area, ceiling height, ambient noise, achieving even sound levels throughout space",
+        "C": "One speaker adequate for building",
+        "D": "Speaker placement doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Strategic speaker placement ensures adequate coverage and intelligibility throughout facility.",
+        "B": "Speaker placement requires: calculating coverage based on speaker dispersion and ceiling height, considering ambient noise levels, spacing for even coverage, quantity based on area and acoustics.",
+        "C": "Single speaker cannot adequately cover large or multi-room buildings; distributed speakers required.",
+        "D": "Proper placement is critical achieving required sound pressure levels and speech intelligibility."
+      }
+    },
+    {
+      "questionNumber": 57,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.02 Installs PA and intercom systems",
+      "question": "What is speech intelligibility in PA systems?",
+      "options": {
+        "A": "Volume level only",
+        "B": "Measure of announcement clarity and understandability affected by acoustics, speaker quality, and system design",
+        "C": "Intelligibility is not measurable",
+        "D": "All systems have equal intelligibility"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Intelligibility involves clarity and understanding, not just volume which can be loud but unclear.",
+        "B": "Speech intelligibility (measured by STI or CIS metrics) indicates how clearly words are understood; affected by: reverberation, background noise, speaker quality, proper system design and tuning.",
+        "C": "Intelligibility is quantifiable using specialized test equipment and standardized metrics.",
+        "D": "Significant differences exist in intelligibility between systems based on design and acoustics."
+      }
+    },
+    {
+      "questionNumber": 58,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.02 Installs PA and intercom systems",
+      "question": "What backup power is required for emergency PA systems?",
+      "options": {
+        "A": "No backup needed",
+        "B": "Battery backup or generator maintaining operation during power failures, tested regularly per fire code",
+        "C": "Backup is optional",
+        "D": "Emergency PA doesn't exist"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Emergency PA systems require backup ensuring operation during evacuations and power failures.",
+        "B": "Life safety PA systems require: battery backup (typically 24 hours standby plus 5-15 minutes operation), or generator with automatic transfer, tested per fire code requirements.",
+        "C": "Backup power is mandatory for emergency/life safety PA systems per building and fire codes.",
+        "D": "Emergency PA systems are required in many buildings for evacuation notifications and fire alarm integration."
+      }
+    },
+    {
+      "questionNumber": 59,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.02 Installs PA and intercom systems",
+      "question": "What is paging zone control?",
+      "options": {
+        "A": "Geographic zones only",
+        "B": "Ability to selectively broadcast announcements to specific building areas or all zones from control station",
+        "C": "Zone control is not used",
+        "D": "All zones receive all pages"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Zones define areas but zone control refers to selective announcement capability.",
+        "B": "Paging zone control allows: selecting specific areas (departments, floors) for targeted announcements, all-call broadcasting to entire facility, reducing noise in unaffected areas.",
+        "C": "Zone control is standard PA feature providing flexible selective communication.",
+        "D": "While all-call exists, zone control specifically allows selective area paging reducing disruption."
+      }
+    },
+    {
+      "questionNumber": 60,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.02 Installs PA and intercom systems",
+      "question": "What integration is common between PA and fire alarm systems?",
+      "options": {
+        "A": "No integration allowed",
+        "B": "Fire alarm activates PA for voice evacuation messages, with automatic priority over normal use",
+        "C": "PA and fire alarms are unrelated",
+        "D": "Integration is prohibited"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "PA-fire alarm integration is standard practice enhancing life safety communication.",
+        "B": "Integrated systems allow: fire alarm triggering PA evacuation messages automatically, emergency override of normal PA use, voice evacuation providing directional information beyond alarm horns.",
+        "C": "PA systems often integrate with fire alarms for enhanced emergency communication capability.",
+        "D": "PA-fire alarm integration is specifically allowed and encouraged by NFPA 72 for voice evacuation."
+      }
+    },
+    {
+      "questionNumber": 61,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.03 Installs nurse call systems",
+      "question": "What is a nurse call system?",
+      "options": {
+        "A": "Telephone system only",
+        "B": "Patient-to-staff communication system allowing patients to request assistance from nursing stations with visual/audio indication",
+        "C": "Nurse call is obsolete",
+        "D": "Emergency alarm only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Nurse call is specialized patient signaling system, not general telephone communication.",
+        "B": "Nurse call systems enable: patient call buttons at bedside, illuminated room indicators at hallway and nursing stations, audible alerts, two-way communication, staff response documentation.",
+        "C": "Nurse call systems remain essential in healthcare facilities for patient safety and care.",
+        "D": "While including emergency capabilities, nurse call handles all routine patient assistance requests."
+      }
+    },
+    {
+      "questionNumber": 62,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.03 Installs nurse call systems",
+      "question": "What are main components of nurse call systems?",
+      "options": {
+        "A": "Call buttons only",
+        "B": "Patient stations with call buttons, room indicators, master station/display, staff mobile devices, documentation system",
+        "C": "Nurse call has no components",
+        "D": "Visual indicators only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Complete nurse call includes patient input, indication, communication, and tracking components.",
+        "B": "System components include: bedside call buttons/pull cords, room dome lights, corridor indicators, master station console, staff pagers/phones, call logging for documentation.",
+        "C": "Nurse call systems consist of integrated electronic components for signaling and communication.",
+        "D": "Both visual indicators and audible alerts are standard nurse call components."
+      }
+    },
+    {
+      "questionNumber": 63,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.03 Installs nurse call systems",
+      "question": "What priority levels exist in nurse call systems?",
+      "options": {
+        "A": "All calls same priority",
+        "B": "Emergency (code blue), urgent (bathroom), normal patient calls, each with distinct visual/audio indication",
+        "C": "Priority is not needed",
+        "D": "One level only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Different call types require different priority levels for appropriate staff response.",
+        "B": "Nurse call priorities include: emergency/code calls (immediate life-threat), urgent calls (bathroom, potential fall), routine calls (comfort, assistance), with distinct colors/sounds identifying priority.",
+        "C": "Priority levels ensure critical calls receive immediate attention while routine calls are handled efficiently.",
+        "D": "Multiple priority levels optimize staff response and resource allocation for patient care."
+      }
+    },
+    {
+      "questionNumber": 64,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.03 Installs nurse call systems",
+      "question": "What is pillow speaker functionality?",
+      "options": {
+        "A": "Pillow with speakers",
+        "B": "Bedside control device with call button, audio output, TV controls, and staff communication interface",
+        "C": "Pillow speakers are obsolete",
+        "D": "For entertainment only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Pillow speaker is integrated patient control device, not audio equipment in pillow.",
+        "B": "Pillow speakers provide: nurse call button activation, two-way communication with staff, TV/radio controls, audio output for patient entertainment, convenient bedside access.",
+        "C": "Pillow speakers remain standard patient interface in modern nurse call installations.",
+        "D": "While including entertainment controls, primary function is nurse call access and communication."
+      }
+    },
+    {
+      "questionNumber": 65,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.03 Installs nurse call systems",
+      "question": "What indication is required at patient rooms?",
+      "options": {
+        "A": "No indication needed",
+        "B": "Illuminated dome light above door visible from corridor indicating active call with color coding for call type",
+        "C": "Audio announcement only",
+        "D": "Indication is optional"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual indication at rooms allows staff to identify calling patients while in corridor.",
+        "B": "Room indicators (dome lights) above doors illuminate when call active, often color-coded: red for emergency, amber for bathroom, green for routine, visible to staff in hallways.",
+        "C": "While audio alerts nursing station, visual room indication guides staff to correct patient.",
+        "D": "Room indication is required by healthcare standards ensuring staff can locate calling patients."
+      }
+    },
+    {
+      "questionNumber": 66,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.04 Performs servicing and maintenance of communication systems",
+      "question": "How should twisted pair cable installations be tested?",
+      "options": {
+        "A": "Visual inspection adequate",
+        "B": "Use cable certifier testing wire map, length, attenuation, NEXT, return loss against category standards",
+        "C": "Testing is unnecessary",
+        "D": "Continuity test sufficient"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Visual inspection cannot verify electrical performance requiring certification testing.",
+        "B": "Cable certification uses test equipment measuring: correct wire map (no splits/crosses), length <90m, insertion loss, near-end crosstalk, return loss, verifying category compliance with permanent documentation.",
+        "C": "Testing verifies installation meets specifications and provides documentation for warranty/troubleshooting.",
+        "D": "While continuity verifies connectivity, category certification requires comprehensive electrical measurements."
+      }
+    },
+    {
+      "questionNumber": 67,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.04 Performs servicing and maintenance of communication systems",
+      "question": "What causes crosstalk in twisted pair cabling?",
+      "options": {
+        "A": "Crosstalk is beneficial",
+        "B": "Signal interference between pairs from untwisting during termination, damaged cables, or poor installation practices",
+        "C": "Crosstalk cannot be prevented",
+        "D": "Crosstalk doesn't exist"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Crosstalk is unwanted interference degrading signal quality and data transmission.",
+        "B": "Crosstalk results from: excessive untwisting at terminations (>13mm for Cat6), kinked/crushed cables damaging pair geometry, cable bundle proximity, or split pairs requiring proper technique.",
+        "C": "Proper installation techniques (minimal untwist, proper bend radius, cable management) prevent crosstalk.",
+        "D": "Crosstalk is measurable interference between cable pairs affecting transmission quality."
+      }
+    },
+    {
+      "questionNumber": 68,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.04 Performs servicing and maintenance of communication systems",
+      "question": "How should PA system audio quality problems be diagnosed?",
+      "options": {
+        "A": "Audio problems cannot be diagnosed",
+        "B": "Check speaker connections, amplifier settings, verify proper impedance matching, test microphones, inspect wiring for damage",
+        "C": "Replace entire system",
+        "D": "Audio quality doesn't matter"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Systematic troubleshooting effectively identifies and resolves PA audio problems.",
+        "B": "Audio troubleshooting includes: verify all speaker connections secure, check amplifier output and settings, ensure transformer taps match speakers, test microphone/source inputs, inspect cables for damage.",
+        "C": "System replacement without diagnosis is costly; most issues are correctable component or connection problems.",
+        "D": "Audio quality is critical for PA effectiveness particularly for emergency announcements and speech intelligibility."
+      }
+    },
+    {
+      "questionNumber": 69,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.04 Performs servicing and maintenance of communication systems",
+      "question": "What maintenance is required for fiber optic connections?",
+      "options": {
+        "A": "Fiber requires no maintenance",
+        "B": "Clean connectors regularly, inspect for damage, test optical loss, verify proper bend radius maintained",
+        "C": "Visual inspection only",
+        "D": "Fiber optic maintenance is impossible"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Fiber optic systems require specific maintenance ensuring optimal signal transmission.",
+        "B": "Fiber maintenance includes: connector end-face cleaning with approved materials, visual inspection for physical damage, optical loss testing with light meter/OTDR, verify minimum bend radius.",
+        "C": "While visual inspection is important, optical testing measures actual transmission performance.",
+        "D": "Well-defined fiber optic maintenance procedures exist ensuring long-term reliable transmission."
+      }
+    },
+    {
+      "questionNumber": 70,
+      "block": "E",
+      "task": "E-27",
+      "taskTitle": "Installs, services and maintains communication systems",
+      "subtask": "E-27.04 Performs servicing and maintenance of communication systems",
+      "question": "How should communication system documentation be maintained?",
+      "options": {
+        "A": "No documentation needed",
+        "B": "Keep as-built drawings, cable labels, test results, equipment manuals, modification records current and accessible",
+        "C": "Purchase receipts only",
+        "D": "Verbal information adequate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Comprehensive documentation enables efficient troubleshooting and system modifications.",
+        "B": "Documentation must include: accurate as-built drawings showing all cabling, cable labeling at both ends, certification test results, equipment specifications, change history.",
+        "C": "Purchase information alone is inadequate for system support and troubleshooting.",
+        "D": "Written permanent documentation is essential for system continuity across personnel changes."
+      }
+    },
+    {
+      "questionNumber": 71,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.01 Installs building automation systems",
+      "question": "What is a Building Automation System (BAS)?",
+      "options": {
+        "A": "Manual control only",
+        "B": "Computerized network monitoring and controlling building systems (HVAC, lighting, security) for efficiency and comfort",
+        "C": "BAS is obsolete",
+        "D": "Building automation is not real"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "BAS provides automated intelligent control, not manual operation.",
+        "B": "BAS (also called Building Management System) integrates: HVAC control, lighting management, access control, energy monitoring, using networked controllers and central software for optimization.",
+        "C": "BAS is increasingly standard in commercial buildings for energy efficiency and comfort.",
+        "D": "Building automation is mature technology widely deployed in commercial and institutional buildings."
+      }
+    },
+    {
+      "questionNumber": 72,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.01 Installs building automation systems",
+      "question": "What are main components of a BAS?",
+      "options": {
+        "A": "Software only",
+        "B": "Field controllers, sensors/actuators, communication network, central workstation/server, operator interface software",
+        "C": "BAS has no components",
+        "D": "Thermostats only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "BAS consists of distributed hardware and software components working together.",
+        "B": "BAS components include: DDC (Direct Digital Control) controllers executing control loops, sensors (temperature, pressure, CO2), actuators (dampers, valves), network (BACnet, LON), operator workstation.",
+        "C": "BAS requires integrated field and central components for building-wide control.",
+        "D": "While including temperature control, BAS encompasses much broader building system integration."
+      }
+    },
+    {
+      "questionNumber": 73,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.01 Installs building automation systems",
+      "question": "What is BACnet protocol?",
+      "options": {
+        "A": "Internet protocol",
+        "B": "ASHRAE standard communication protocol enabling interoperability between building automation devices from different manufacturers",
+        "C": "BACnet is proprietary",
+        "D": "Protocol is not needed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "BACnet is specialized building automation protocol, not general internet communication.",
+        "B": "BACnet (Building Automation and Control Network) is ANSI/ASHRAE Standard 135 defining: object-oriented data model, communication services, network layers, enabling multi-vendor system integration.",
+        "C": "BACnet is open standard protocol, not proprietary, promoting interoperability and competition.",
+        "D": "Standardized protocols enable integration of diverse building systems and equipment."
+      }
+    },
+    {
+      "questionNumber": 74,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.01 Installs building automation systems",
+      "question": "What sensors are commonly used in BAS?",
+      "options": {
+        "A": "No sensors needed",
+        "B": "Temperature, humidity, CO2, occupancy, pressure, airflow, power monitoring sensors providing data for control decisions",
+        "C": "Visual observation only",
+        "D": "All sensors are identical"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sensors provide critical input data enabling automated control decisions.",
+        "B": "BAS sensors include: temperature (space, duct, outdoor), humidity, CO2 for ventilation control, occupancy for lighting/HVAC, differential pressure, airflow measurement, power/energy meters.",
+        "C": "Sensors provide automatic continuous measurement, not requiring constant human observation.",
+        "D": "Different sensor types measure different parameters each critical for specific control functions."
+      }
+    },
+    {
+      "questionNumber": 75,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.01 Installs building automation systems",
+      "question": "What actuators are used in building automation?",
+      "options": {
+        "A": "Actuators are not used",
+        "B": "Damper actuators, valve actuators, VFD controls, relay outputs operating physical equipment responding to control signals",
+        "C": "Manual operation only",
+        "D": "All actuators are identical"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Actuators are essential BAS components executing control decisions on physical equipment.",
+        "B": "BAS actuators include: damper motors (modulating or on/off), valve actuators (heating/cooling coils), VFD interfaces, relay outputs for fans/pumps, translating controller signals to mechanical action.",
+        "C": "Actuators provide automatic equipment positioning eliminating manual adjustment requirements.",
+        "D": "Different actuator types control different equipment requiring appropriate selection for application."
+      }
+    },
+    {
+      "questionNumber": 76,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.01 Installs building automation systems",
+      "question": "What is trending in building automation?",
+      "options": {
+        "A": "Fashion trends",
+        "B": "Historical data collection and graphing of system parameters over time for analysis and optimization",
+        "C": "Trending is not used",
+        "D": "Real-time only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Trending is data analysis feature, not social fashion trends.",
+        "B": "BAS trending records: temperature, energy use, equipment runtime, setpoints over time creating graphs for: analyzing performance, identifying problems, optimizing schedules, verifying energy savings.",
+        "C": "Trending is fundamental BAS capability providing insights for continuous improvement.",
+        "D": "While real-time monitoring is important, historical trending enables pattern recognition and optimization."
+      }
+    },
+    {
+      "questionNumber": 77,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.01 Installs building automation systems",
+      "question": "What network infrastructure is required for BAS?",
+      "options": {
+        "A": "No network needed",
+        "B": "Dedicated or shared Ethernet network with proper segmentation, PoE capability, and reliable switches/cabling",
+        "C": "Wireless only",
+        "D": "Any network works"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Modern BAS relies on network communication for distributed control and monitoring.",
+        "B": "BAS networking requires: Ethernet backbone (dedicated VLAN or separate network), managed switches, Cat5e/Cat6 cabling, PoE for field devices, redundancy for critical applications.",
+        "C": "While wireless supplements, wired Ethernet remains primary BAS communication for reliability.",
+        "D": "Proper network design with adequate bandwidth, segmentation, and reliability is critical for BAS."
+      }
+    },
+    {
+      "questionNumber": 78,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.01 Installs building automation systems",
+      "question": "What is demand-controlled ventilation?",
+      "options": {
+        "A": "Manual ventilation adjustment",
+        "B": "Automatic outside air control based on occupancy or CO2 levels reducing ventilation when spaces are unoccupied",
+        "C": "Demand ventilation is not used",
+        "D": "Maximum ventilation always"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Demand control is automatic optimization, not manual operator adjustment.",
+        "B": "Demand-controlled ventilation (DCV) uses CO2 sensors or occupancy detection modulating outside air intake matching actual need, reducing heating/cooling energy while maintaining indoor air quality.",
+        "C": "DCV is common energy-saving strategy in BAS for spaces with variable occupancy.",
+        "D": "Fixed maximum ventilation wastes energy; DCV adjusts ventilation to actual occupancy requirements."
+      }
+    },
+    {
+      "questionNumber": 79,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.01 Installs building automation systems",
+      "question": "What is optimal start/stop control?",
+      "options": {
+        "A": "Manual start times",
+        "B": "Algorithm calculating equipment start time based on current temperature and outdoor conditions to reach setpoint exactly at occupancy",
+        "C": "Optimal control is not used",
+        "D": "Fixed start schedule only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Optimal start/stop is automated algorithm, not manual time adjustment.",
+        "B": "Optimal start calculates: how long HVAC needs to reach setpoint from current temperature and weather, starting equipment just in time for occupancy, reducing runtime and energy versus fixed schedules.",
+        "C": "Optimal start/stop is common BAS feature providing significant energy savings in commercial buildings.",
+        "D": "Fixed schedules start equipment same time regardless of conditions; optimal start adapts to conditions."
+      }
+    },
+    {
+      "questionNumber": 80,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.01 Installs building automation systems",
+      "question": "What is a graphic interface in BAS?",
+      "options": {
+        "A": "Decorative graphics",
+        "B": "Visual representation of building systems with real-time data, control points, and equipment status for operators",
+        "C": "Graphics are not used",
+        "D": "Text interface only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "BAS graphics are functional operator interface, not decorative artwork.",
+        "B": "Graphic interfaces display: building floor plans with HVAC equipment, real-time sensor values, equipment status colors, control setpoints, allowing operators to monitor and adjust systems intuitively.",
+        "C": "Graphical interfaces are standard BAS feature providing intuitive system visualization and control.",
+        "D": "While text lists exist, graphical visualization is primary modern BAS operator interface."
+      }
+    },
+    {
+      "questionNumber": 81,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.02 Installs building control systems",
+      "question": "What is occupancy-based lighting control?",
+      "options": {
+        "A": "Manual switches only",
+        "B": "Automatic lighting adjustment using occupancy sensors turning lights on/off or dimming based on space usage",
+        "C": "Occupancy control is not used",
+        "D": "Always maximum lighting"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Occupancy-based control is automated lighting management, not manual switching.",
+        "B": "Occupancy sensors (PIR or ultrasonic) detect presence automatically: turning lights on when occupied, off after preset delay when vacant, reducing energy waste in intermittently-used spaces.",
+        "C": "Occupancy-based lighting is common energy code requirement in commercial buildings.",
+        "D": "Continuous full lighting wastes energy; occupancy control reduces use in unoccupied periods."
+      }
+    },
+    {
+      "questionNumber": 82,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.02 Installs building control systems",
+      "question": "What is daylight harvesting?",
+      "options": {
+        "A": "Solar panel electricity generation",
+        "B": "Dimming artificial lighting in response to available natural daylight reducing energy consumption",
+        "C": "Daylight harvesting is obsolete",
+        "D": "Blocking natural light"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Daylight harvesting controls lighting, not generates electricity (which is photovoltaic systems).",
+        "B": "Daylight harvesting uses photosensors measuring natural light levels automatically dimming or switching off artificial lighting maintaining required illumination while maximizing daylight use.",
+        "C": "Daylight harvesting is increasingly required by energy codes for perimeter zones with windows.",
+        "D": "Daylight harvesting maximizes beneficial natural light use reducing artificial lighting needs."
+      }
+    },
+    {
+      "questionNumber": 83,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.02 Installs building control systems",
+      "question": "What is a lighting control system?",
+      "options": {
+        "A": "Individual light switches",
+        "B": "Integrated system using sensors, timers, dimming, and control software managing lighting for efficiency and flexibility",
+        "C": "Lighting control is not needed",
+        "D": "On/off control only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Lighting control systems provide centralized automated management beyond individual switches.",
+        "B": "Lighting control systems integrate: occupancy sensors, daylight sensors, time schedules, dimming, zone control, central programming, enabling automated energy-efficient lighting management.",
+        "C": "Lighting control is energy code requirement for commercial buildings reducing consumption.",
+        "D": "Modern systems provide dimming and sophisticated control beyond simple on/off switching."
+      }
+    },
+    {
+      "questionNumber": 84,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.02 Installs building control systems",
+      "question": "What protocols are used for lighting control?",
+      "options": {
+        "A": "No protocols needed",
+        "B": "DALI, DMX512, BACnet, or proprietary protocols enabling communication between controllers and fixtures",
+        "C": "All protocols are identical",
+        "D": "Protocols are not used"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Digital lighting control requires communication protocols for device interaction.",
+        "B": "Lighting protocols include: DALI (Digital Addressable Lighting Interface for individual fixture control), DMX512 (theatrical), BACnet (building integration), 0-10V (dimming), enabling control flexibility.",
+        "C": "Different protocols serve different applications with varying features and capabilities.",
+        "D": "Protocols are essential for digital lighting control and dimming communication."
+      }
+    },
+    {
+      "questionNumber": 85,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.02 Installs building control systems",
+      "question": "What is centralized vs. distributed control?",
+      "options": {
+        "A": "All control is centralized",
+        "B": "Centralized uses single controller; distributed uses networked field controllers with local intelligence and central coordination",
+        "C": "No difference exists",
+        "D": "Distributed is obsolete"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Modern systems typically use distributed architecture for reliability and performance.",
+        "B": "Distributed control uses: intelligent field controllers executing local control loops autonomously, network communication for coordination and monitoring, continuing operation if network/central fails.",
+        "C": "Significant architectural differences exist affecting reliability, performance, and expandability.",
+        "D": "Distributed control is modern standard architecture providing superior reliability and scalability."
+      }
+    },
+    {
+      "questionNumber": 86,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.02 Installs building control systems",
+      "question": "What is a control sequence?",
+      "options": {
+        "A": "Random control actions",
+        "B": "Programmed logic defining how equipment operates based on inputs, setpoints, and conditions achieving control objectives",
+        "C": "Sequences are not programmed",
+        "D": "Manual operation only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Control sequences are carefully designed logic, not random equipment operation.",
+        "B": "Control sequences define: when equipment starts/stops, how setpoints are maintained, response to inputs, interlocks between systems, optimization strategies programmed into controllers.",
+        "C": "Sequences are explicitly programmed into controllers defining automated system behavior.",
+        "D": "Control sequences provide automated operation eliminating need for constant manual adjustment."
+      }
+    },
+    {
+      "questionNumber": 87,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.02 Installs building control systems",
+      "question": "What is load shedding in building control?",
+      "options": {
+        "A": "Structural load reduction",
+        "B": "Temporarily reducing or cycling non-critical electrical loads during peak demand periods to manage utility costs",
+        "C": "Load shedding is prohibited",
+        "D": "Increasing all loads"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Load shedding is electrical demand management, not structural engineering.",
+        "B": "Load shedding strategy: temporarily disables non-critical loads (some lighting, auxiliary equipment) during utility peak demand, reducing demand charges while maintaining essential operations.",
+        "C": "Load shedding is permitted and common demand management strategy reducing utility costs.",
+        "D": "Load shedding specifically reduces electrical demand, not increases consumption."
+      }
+    },
+    {
+      "questionNumber": 88,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.02 Installs building control systems",
+      "question": "What is a PID control loop?",
+      "options": {
+        "A": "Personal identification",
+        "B": "Proportional-Integral-Derivative algorithm continuously adjusting output to maintain setpoint minimizing error",
+        "C": "PID is obsolete",
+        "D": "On/off control only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "PID is control algorithm acronym, not personal identification system.",
+        "B": "PID loops use three control actions: Proportional (immediate response to error), Integral (eliminates steady-state offset), Derivative (anticipates change), commonly used for temperature, pressure, flow control.",
+        "C": "PID remains standard control algorithm in BAS for precise continuous variable control.",
+        "D": "PID provides continuous proportional control superior to simple on/off for stability and accuracy."
+      }
+    },
+    {
+      "questionNumber": 89,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.02 Installs building control systems",
+      "question": "What is system integration in building controls?",
+      "options": {
+        "A": "Separate standalone systems",
+        "B": "Connecting diverse building systems (HVAC, lighting, security, fire) enabling coordinated operation and central monitoring",
+        "C": "Integration is not possible",
+        "D": "Integration is prohibited"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Integration specifically connects previously separate systems into unified architecture.",
+        "B": "System integration connects: HVAC, lighting, access control, fire alarm, energy management through common protocols (BACnet) enabling: coordinated control, centralized monitoring, improved efficiency.",
+        "C": "Open protocols like BACnet specifically enable integration of diverse systems.",
+        "D": "System integration is encouraged and increasingly required for efficient building operation."
+      }
+    },
+    {
+      "questionNumber": 90,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.02 Installs building control systems",
+      "question": "What is scheduling in building automation?",
+      "options": {
+        "A": "Work schedules only",
+        "B": "Time-based automatic equipment operation aligned with building occupancy patterns optimizing energy and comfort",
+        "C": "Scheduling is manual",
+        "D": "24/7 operation required"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "BAS scheduling controls equipment operation, not personnel work schedules.",
+        "B": "BAS scheduling programs: equipment start/stop times matching occupancy, weekend/holiday schedules, setback during unoccupied periods, optimized start algorithms, reducing energy waste.",
+        "C": "BAS schedules are automated programs executing without manual daily intervention.",
+        "D": "Continuous operation wastes energy; scheduling matches operation to actual building needs."
+      }
+    },
+    {
+      "questionNumber": 91,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.03 Performs servicing and maintenance of integrated control systems",
+      "question": "What preventive maintenance is required for BAS?",
+      "options": {
+        "A": "No maintenance needed",
+        "B": "Calibrate sensors, verify actuator operation, backup databases, update software, clean equipment, test sequences",
+        "C": "Annual restart only",
+        "D": "Maintenance is impossible"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Regular maintenance ensures continued accurate control and energy performance.",
+        "B": "BAS maintenance includes: sensor calibration (temperature, humidity, CO2), actuator inspection/operation testing, database backup, software updates, controller cleaning, control sequence verification.",
+        "C": "Simple restart is inadequate; comprehensive inspection and testing required periodically.",
+        "D": "Well-defined BAS maintenance procedures exist ensuring long-term performance."
+      }
+    },
+    {
+      "questionNumber": 92,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.03 Performs servicing and maintenance of integrated control systems",
+      "question": "How should sensor accuracy be verified?",
+      "options": {
+        "A": "Sensors are always accurate",
+        "B": "Compare readings to calibrated reference instruments, adjust or replace if outside acceptable tolerance",
+        "C": "Visual inspection adequate",
+        "D": "Sensor verification is impossible"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Sensors drift over time requiring periodic calibration verification and adjustment.",
+        "B": "Sensor verification involves: comparing BAS reading to calibrated reference meter, adjusting sensor offset if within calibration range, replacing if beyond acceptable accuracy.",
+        "C": "Visual inspection cannot assess sensor measurement accuracy requiring comparison testing.",
+        "D": "Sensor accuracy is verifiable and adjustable using proper calibration procedures and instruments."
+      }
+    },
+    {
+      "questionNumber": 93,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.03 Performs servicing and maintenance of integrated control systems",
+      "question": "What causes communication failures in BAS?",
+      "options": {
+        "A": "Communication never fails",
+        "B": "Network cable damage, incorrect settings, failed switches/routers, electromagnetic interference, or software configuration errors",
+        "C": "Communication failure has no causes",
+        "D": "Cannot be diagnosed"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Various network and configuration issues cause BAS communication failures.",
+        "B": "Communication failures result from: damaged or disconnected network cables, IP address conflicts, failed network equipment, EMI from power equipment, incorrect protocol settings.",
+        "C": "Specific identifiable causes create communication problems enabling systematic troubleshooting.",
+        "D": "Network diagnostic tools and systematic testing identify communication problem sources."
+      }
+    },
+    {
+      "questionNumber": 94,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.03 Performs servicing and maintenance of integrated control systems",
+      "question": "How should control sequence problems be diagnosed?",
+      "options": {
+        "A": "Sequences cannot fail",
+        "B": "Review system logs, monitor sensor inputs and outputs, verify setpoints, check for programming errors or failed components",
+        "C": "Sequence problems are random",
+        "D": "Replace entire system"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Control sequences can fail from programming errors, sensor failures, or changed conditions.",
+        "B": "Sequence troubleshooting involves: reviewing alarm and trend logs, monitoring real-time operation, verifying sensors provide correct inputs, checking logic execution, identifying failed field devices.",
+        "C": "Sequence failures have specific causes (programming, sensors, equipment) enabling systematic diagnosis.",
+        "D": "System replacement without diagnosis is costly; targeted troubleshooting identifies correctable issues."
+      }
+    },
+    {
+      "questionNumber": 95,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.03 Performs servicing and maintenance of integrated control systems",
+      "question": "What is commissioning of building automation systems?",
+      "options": {
+        "A": "Installation only",
+        "B": "Systematic process verifying system meets design intent through testing, documentation, and training",
+        "C": "Commissioning is not needed",
+        "D": "Startup only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Commissioning is comprehensive verification process beyond basic installation.",
+        "B": "BAS commissioning includes: verifying installation quality, testing all control sequences, trending performance, documenting operation, training operators, ensuring system meets project requirements.",
+        "C": "Commissioning is increasingly required ensuring systems deliver intended performance and energy savings.",
+        "D": "While including startup, commissioning encompasses broader testing, documentation, and verification activities."
+      }
+    },
+    {
+      "questionNumber": 96,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.03 Performs servicing and maintenance of integrated control systems",
+      "question": "How should BAS databases be backed up?",
+      "options": {
+        "A": "Backups are unnecessary",
+        "B": "Regular automated backups to multiple locations, tested restore procedures, version control of programming changes",
+        "C": "Single backup at installation",
+        "D": "Backup is impossible"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Database backups are critical for recovery from failures or programming errors.",
+        "B": "Backup procedures include: scheduled automated backups (daily/weekly), on-site and off-site copies, documented restore procedures, version control for graphics and programming.",
+        "C": "Initial backup becomes obsolete as programming evolves; ongoing backups capture current configuration.",
+        "D": "All BAS systems provide database backup capability essential for business continuity."
+      }
+    },
+    {
+      "questionNumber": 97,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.03 Performs servicing and maintenance of integrated control systems",
+      "question": "What training is important for BAS operators?",
+      "options": {
+        "A": "No training needed",
+        "B": "System navigation, alarm response, scheduling, trending, basic troubleshooting, and normal operation procedures",
+        "C": "Programming training only",
+        "D": "Training is optional"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Proper operator training is essential for effective system use and energy performance.",
+        "B": "Operator training should cover: navigating graphics and menus, responding to alarms, adjusting schedules, interpreting trends, basic troubleshooting, normal operating procedures.",
+        "C": "While advanced users may program, basic operators need system operation training, not programming.",
+        "D": "Training is critical investment ensuring operators can effectively manage building systems."
+      }
+    },
+    {
+      "questionNumber": 98,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.03 Performs servicing and maintenance of integrated control systems",
+      "question": "How should BAS performance be monitored?",
+      "options": {
+        "A": "Monitoring is unnecessary",
+        "B": "Review trends regularly, analyze energy consumption, respond to alarms promptly, track comfort complaints, benchmark performance",
+        "C": "Installation monitoring only",
+        "D": "Automatic monitoring is sufficient"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Ongoing performance monitoring ensures systems continue delivering intended benefits.",
+        "B": "Performance monitoring includes: regularly reviewing trend data, analyzing energy use patterns, timely alarm response, tracking occupant complaints, comparing performance to baselines.",
+        "C": "Initial monitoring is inadequate; continuous monitoring identifies degradation and optimization opportunities.",
+        "D": "While automation helps, human analysis and action are required for effective performance management."
+      }
+    },
+    {
+      "questionNumber": 99,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.03 Performs servicing and maintenance of integrated control systems",
+      "question": "What documentation should be maintained for integrated control systems?",
+      "options": {
+        "A": "No documentation needed",
+        "B": "As-built drawings, point lists, control narratives, sequence documentation, training materials, maintenance records, change logs",
+        "C": "Purchase receipts only",
+        "D": "Verbal information adequate"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Comprehensive documentation is essential for system support and operator continuity.",
+        "B": "Documentation must include: current as-built drawings, complete point database, written control sequences, operator manuals, maintenance history, programming change documentation.",
+        "C": "Purchase information alone is inadequate for system operation and troubleshooting.",
+        "D": "Written permanent documentation is critical for system continuity across personnel changes."
+      }
+    },
+    {
+      "questionNumber": 100,
+      "block": "E",
+      "task": "E-28",
+      "taskTitle": "Installs, services and maintains integrated control systems",
+      "subtask": "E-28.03 Performs servicing and maintenance of integrated control systems",
+      "question": "What cybersecurity measures protect building automation systems?",
+      "options": {
+        "A": "Cybersecurity is unnecessary",
+        "B": "Network segmentation, strong passwords, regular updates, access controls, intrusion detection, disable unused services",
+        "C": "Physical security adequate",
+        "D": "Antivirus only"
+      },
+      "correctAnswer": "B",
+      "explanations": {
+        "A": "Modern networked BAS require comprehensive cybersecurity protection from attacks.",
+        "B": "BAS cybersecurity includes: VLAN isolation from IT network, strong authentication, firmware updates, role-based access, IDS monitoring, disabling unnecessary network services.",
+        "C": "Physical security alone ignores network vulnerabilities; cyber and physical security both required.",
+        "D": "Antivirus is one element; comprehensive approach addressing network, configuration, and access needed."
+      }
+    }
+  ]
+}
