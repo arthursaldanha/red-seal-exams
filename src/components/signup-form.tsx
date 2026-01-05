@@ -97,7 +97,7 @@ export function SignupForm({
   };
 
   const handleOTPSuccess = () => {
-    router.push("/signin");
+    router.push("/sign-in");
   };
 
   if (showOTP) {
@@ -188,7 +188,8 @@ export function SignupForm({
                     )}
                   </Button>
                   <FieldDescription className="text-center">
-                    Already have an account? <Link href="/signin">Sign in</Link>
+                    Already have an account?{" "}
+                    <Link href="/sign-in">Sign in</Link>
                   </FieldDescription>
                 </Field>
               </FieldGroup>

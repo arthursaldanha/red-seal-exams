@@ -148,12 +148,14 @@ async function seedHeavyDutyEquipment() {
 
     // 2.5 Inserir Questions (batch)
     const questionsToInsert = data.questions.map((q) => {
-      const opts: QuestionOption[] = ["A", "B", "C", "D"].map((letter, idx) => ({
-        id: `opt_${idx + 1}`,
-        text: q.options[letter],
-        explanation: q.explanations[letter],
-        isCorrect: q.correctAnswer === letter,
-      }));
+      const opts: QuestionOption[] = ["A", "B", "C", "D"].map(
+        (letter, idx) => ({
+          id: `opt_${idx + 1}`,
+          text: q.options[letter],
+          explanation: q.explanations[letter],
+          isCorrect: q.correctAnswer === letter,
+        })
+      );
 
       return {
         id: createId24(),

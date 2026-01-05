@@ -14,12 +14,12 @@ export function AnalyticsView() {
 
       <div className="flex flex-1 flex-col">
         <div className="@container/main flex flex-1 flex-col items-center justify-center gap-4 p-4 md:p-6">
-          <div className="flex h-20 w-20 items-center justify-center rounded-full bg-muted">
-            <IconChartBar className="h-10 w-10 text-muted-foreground" />
+          <div className="bg-muted flex h-20 w-20 items-center justify-center rounded-full">
+            <IconChartBar className="text-muted-foreground h-10 w-10" />
           </div>
-          <div className="text-center max-w-md">
+          <div className="max-w-md text-center">
             <h2 className="text-xl font-semibold">Analytics Coming Soon</h2>
-            <p className="mt-2 text-muted-foreground">
+            <p className="text-muted-foreground mt-2">
               We&apos;re working on comprehensive analytics to help you track
               your progress across all courses. Check back soon!
             </p>

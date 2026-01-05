@@ -8,18 +8,18 @@ import {
 export function CourseCardSkeleton() {
   return (
     <Card className="animate-pulse">
-      <div className="aspect-video bg-muted" />
+      <div className="bg-muted aspect-video" />
       <CardHeader className="pb-2">
-        <div className="h-5 w-3/4 bg-muted rounded" />
+        <div className="bg-muted h-5 w-3/4 rounded" />
       </CardHeader>
       <CardContent className="pb-4">
         <div className="space-y-2">
-          <div className="h-3 w-full bg-muted rounded" />
-          <div className="h-3 w-2/3 bg-muted rounded" />
+          <div className="bg-muted h-3 w-full rounded" />
+          <div className="bg-muted h-3 w-2/3 rounded" />
         </div>
       </CardContent>
       <CardFooter>
-        <div className="h-9 w-full bg-muted rounded" />
+        <div className="bg-muted h-9 w-full rounded" />
       </CardFooter>
     </Card>
   );

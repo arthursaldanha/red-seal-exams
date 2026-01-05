@@ -26,7 +26,7 @@ export function AnsweredOption({
     borderClass = "border-green-500";
     bgClass = "bg-green-500/10";
     iconComponent = (
-      <div className="flex h-6 w-6 items-center justify-center rounded-full bg-green-500 shrink-0">
+      <div className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-green-500">
         <IconCheck className="h-4 w-4 text-white" />
       </div>
     );
@@ -34,7 +34,7 @@ export function AnsweredOption({
     borderClass = "border-red-500";
     bgClass = "bg-red-500/10";
     iconComponent = (
-      <div className="flex h-6 w-6 items-center justify-center rounded-full bg-red-500 shrink-0">
+      <div className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-red-500">
         <IconX className="h-4 w-4 text-white" />
       </div>
     );
@@ -42,7 +42,7 @@ export function AnsweredOption({
     borderClass = "border-green-500/50";
     bgClass = "bg-green-500/5";
     iconComponent = (
-      <div className="flex h-6 w-6 items-center justify-center rounded-full border-2 border-green-500 shrink-0">
+      <div className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border-2 border-green-500">
         <IconCheck className="h-3 w-3 text-green-500" />
       </div>
     );
@@ -52,12 +52,12 @@ export function AnsweredOption({
     <div className={cn("rounded-lg border p-3", borderClass, bgClass)}>
       <div className="flex items-start gap-3">
         {iconComponent || <div className="w-6 shrink-0" />}
-        <div className="flex-1 min-w-0">
+        <div className="min-w-0 flex-1">
           <p className="font-medium">
-            <span className="font-semibold mr-2">{letter})</span>
+            <span className="mr-2 font-semibold">{letter})</span>
             {option.text}
           </p>
-          <p className="mt-1 text-sm text-muted-foreground">
+          <p className="text-muted-foreground mt-1 text-sm">
             {option.explanation}
           </p>
         </div>

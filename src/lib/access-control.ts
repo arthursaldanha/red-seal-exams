@@ -29,7 +29,9 @@ export async function checkCourseAccess(
   const purchase = await db
     .select()
     .from(userCourse)
-    .where(and(eq(userCourse.userId, userId), eq(userCourse.courseId, courseId)))
+    .where(
+      and(eq(userCourse.userId, userId), eq(userCourse.courseId, courseId))
+    )
     .limit(1);
 
   if (purchase.length > 0) {
@@ -55,7 +57,9 @@ export async function checkCourseAccess(
 
   // 3. Se não tem trial, criar um
   if (trial.length === 0) {
-    const expiresAt = new Date(now.getTime() + TRIAL_DAYS * 24 * 60 * 60 * 1000);
+    const expiresAt = new Date(
+      now.getTime() + TRIAL_DAYS * 24 * 60 * 60 * 1000
+    );
     await db.insert(userTrial).values({
       id: createId(),
       userId,

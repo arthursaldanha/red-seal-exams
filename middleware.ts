@@ -12,7 +12,7 @@ export async function middleware(request: NextRequest) {
   );
 
   // Auth routes that should redirect to dashboard if already logged in
-  const authRoutes = ["/signin", "/signup", "/forgot-password"];
+  const authRoutes = ["/sign-in", "/sign-up", "/forgot-password"];
   const isAuthRoute = authRoutes.some((route) => pathname.startsWith(route));
 
   // If user is logged in and tries to access auth routes, redirect to dashboard
@@ -22,12 +22,12 @@ export async function middleware(request: NextRequest) {
 
   // If user is not logged in and tries to access protected routes, redirect to signin
   if (!sessionCookie && isProtectedRoute) {
-    return NextResponse.redirect(new URL("/signin", request.url));
+    return NextResponse.redirect(new URL("/sign-in", request.url));
   }
 
   return NextResponse.next();
 }
 
 export const config = {
-  matcher: ["/dashboard/:path*", "/signin", "/signup", "/forgot-password"],
+  matcher: ["/dashboard/:path*", "/sign-in", "/sign-up", "/forgot-password"],
 };

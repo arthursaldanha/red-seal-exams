@@ -20,7 +20,7 @@ export function PageHeader({ title, description, children }: PageHeaderProps) {
           <div>
             <h1 className="text-base font-medium">{title}</h1>
             {description && (
-              <p className="text-xs text-muted-foreground">{description}</p>
+              <p className="text-muted-foreground text-xs">{description}</p>
             )}
           </div>
         </div>

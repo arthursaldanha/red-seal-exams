@@ -1,98 +1,44 @@
-import {
-  BookOpen,
-  BarChart3,
-  Clock,
-  CheckSquare,
-  FileText,
-  Users,
-} from "lucide-react";
+"use client";
 
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { motion } from "framer-motion";
 
-const features = [
-  {
-    icon: BookOpen,
-    title: "Banco de Questões Completo",
-    description:
-      "Milhares de questões organizadas por trade e tópico, todas baseadas nos exames reais do Red Seal.",
-  },
-  {
-    icon: Clock,
-    title: "Simulados Cronometrados",
-    description:
-      "Pratique em condições reais de prova com cronômetro e formato idêntico ao exame oficial.",
-  },
-  {
-    icon: BarChart3,
-    title: "Acompanhamento de Progresso",
-    description:
-      "Visualize seu desempenho com estatísticas detalhadas e identifique pontos de melhoria.",
-  },
-  {
-    icon: CheckSquare,
-    title: "Questões Atualizadas 2025",
-    description:
-      "Conteúdo constantemente atualizado seguindo as últimas mudanças do Red Seal Programme.",
-  },
-  {
-    icon: FileText,
-    title: "Ebooks e Materiais",
-    description:
-      "Acesso a guias de estudo, resumos e materiais complementares para todos os trades.",
-  },
-  {
-    icon: Users,
-    title: "Suporte Especializado",
-    description:
-      "Tire dúvidas com profissionais certificados e acesse nossa comunidade de estudantes.",
-  },
-];
+import { features } from "@/app/(root)/constants/landing";
 
 export function Features() {
   return (
-    <section className="py-20 bg-muted/30">
-      <div className="container mx-auto px-4">
-        {/* Section Header */}
-        <div className="text-center mb-16 animate-fade-in">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground">
-            Tudo que Você Precisa para Passar
+    <section id="features" className="bg-slate-50 py-24 dark:bg-slate-900/50">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="mx-auto mb-16 max-w-3xl text-center">
+          <h2 className="mb-4 text-3xl font-bold text-slate-900 md:text-4xl dark:text-white">
+            Everything you need to pass
           </h2>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Uma plataforma completa com todas as ferramentas necessárias para
-            sua aprovação no Red Seal.
+          <p className="text-muted-foreground text-lg">
+            Our platform is designed specifically for the Canadian Red Seal
+            standards, covering all major trades with up-to-date material.
           </p>
         </div>
 
-        {/* Features Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {features.map((feature, index) => {
-            const Icon = feature.icon;
-            return (
-              <Card
-                key={index}
-                className="hover-scale transition-all duration-300 hover:shadow-lg animate-fade-in"
-                style={{ animationDelay: `${index * 0.1}s` }}
-              >
-                <CardHeader>
-                  <div className="h-12 w-12 rounded-lg bg-primary/10 flex items-center justify-center mb-4">
-                    <Icon className="h-6 w-6 text-primary" />
-                  </div>
-                  <CardTitle className="text-xl">{feature.title}</CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <CardDescription className="text-base">
-                    {feature.description}
-                  </CardDescription>
-                </CardContent>
-              </Card>
-            );
-          })}
+        <div className="grid gap-8 md:grid-cols-3">
+          {features.map((feature, index) => (
+            <motion.div
+              key={index}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: index * 0.1 }}
+              className="group border-border bg-background rounded-2xl border p-8 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md"
+            >
+              <div className="bg-primary/10 text-primary group-hover:bg-primary group-hover:text-primary-foreground mb-6 flex h-12 w-12 items-center justify-center rounded-xl transition-colors">
+                <feature.icon className="h-6 w-6" />
+              </div>
+              <h3 className="text-foreground mb-3 text-xl font-bold">
+                {feature.title}
+              </h3>
+              <p className="text-muted-foreground leading-relaxed">
+                {feature.desc}
+              </p>
+            </motion.div>
+          ))}
         </div>
       </div>
     </section>

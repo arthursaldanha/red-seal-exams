@@ -1,6 +1,13 @@
 import { NextResponse } from "next/server";
 import { db } from "@/db/drizzle";
-import { course, block, task, subtask, question, userQuestionAttempt } from "@/db/schema";
+import {
+  course,
+  block,
+  task,
+  subtask,
+  question,
+  userQuestionAttempt,
+} from "@/db/schema";
 import { eq, sql, and, inArray } from "drizzle-orm";
 import { auth } from "@/lib/auth";
 import { headers } from "next/headers";
@@ -80,22 +87,26 @@ export async function GET(
 
     // Buscar subtasks em uma única query (se houver tasks)
     const taskIds = allTasks.map((t) => t.id);
-    const allSubtasks = taskIds.length > 0
-      ? await db
-          .select({
-            id: subtask.id,
-            taskId: subtask.taskId,
-            code: subtask.code,
-            title: subtask.title,
-            order: subtask.order,
-          })
-          .from(subtask)
-          .where(inArray(subtask.taskId, taskIds))
-          .orderBy(subtask.taskId, subtask.order)
-      : [];
+    const allSubtasks =
+      taskIds.length > 0
+        ? await db
+            .select({
+              id: subtask.id,
+              taskId: subtask.taskId,
+              code: subtask.code,
+              title: subtask.title,
+              order: subtask.order,
+            })
+            .from(subtask)
+            .where(inArray(subtask.taskId, taskIds))
+            .orderBy(subtask.taskId, subtask.order)
+        : [];
 
     // Buscar progresso do usuário em uma única query (se logado)
-    let userAttemptsByBlock: Map<string, { attempted: number; correct: number }> = new Map();
+    const userAttemptsByBlock: Map<
+      string,
+      { attempted: number; correct: number }
+    > = new Map();
     if (session?.user) {
       const blockIds = blocks.map((b) => b.id);
       if (blockIds.length > 0) {
@@ -116,7 +127,10 @@ export async function GET(
         // Agregar por block
         for (const attempt of attempts) {
           if (!attempt.blockId) continue;
-          const current = userAttemptsByBlock.get(attempt.blockId) || { attempted: 0, correct: 0 };
+          const current = userAttemptsByBlock.get(attempt.blockId) || {
+            attempted: 0,
+            correct: 0,
+          };
           current.attempted++;
           if (attempt.isCorrect) current.correct++;
           userAttemptsByBlock.set(attempt.blockId, current);

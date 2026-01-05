@@ -56,9 +56,9 @@ export function BlockAccordionItem({
   const canStartStudying = accessibleQuestions > 0;
 
   return (
-    <AccordionItem value={block.id} className="border rounded-lg px-4 mb-2">
-      <AccordionTrigger className="hover:no-underline py-4">
-        <div className="flex items-center gap-3 text-left flex-wrap">
+    <AccordionItem value={block.id} className="mb-2 rounded-lg border px-4">
+      <AccordionTrigger className="py-4 hover:no-underline">
+        <div className="flex flex-wrap items-center gap-3 text-left">
           <Badge variant="outline" className="font-mono">
             Block {block.code}
           </Badge>
@@ -70,7 +70,7 @@ export function BlockAccordionItem({
           {isTrial && isBlockA && questionsLimit && (
             <Badge
               variant="outline"
-              className="text-amber-600 border-amber-500/30"
+              className="border-amber-500/30 text-amber-600"
             >
               {Math.min(questionsLimit, block.questionCount)} available in trial
             </Badge>
@@ -81,16 +81,16 @@ export function BlockAccordionItem({
               variant="outline"
               className="text-muted-foreground border-muted-foreground/30"
             >
-              <IconLock className="h-3 w-3 mr-1" />
+              <IconLock className="mr-1 h-3 w-3" />
               Locked in trial
             </Badge>
           )}
         </div>
       </AccordionTrigger>
-      <AccordionContent className="pb-4 space-y-4">
+      <AccordionContent className="space-y-4 pb-4">
         {/* Progress info */}
         {hasAccess && progress && progress.attempted > 0 && (
-          <div className="flex items-center gap-4 text-sm text-muted-foreground">
+          <div className="text-muted-foreground flex items-center gap-4 text-sm">
             <span>{progress.attempted} answered</span>
             <span>{progress.correct} correct</span>
             <span>

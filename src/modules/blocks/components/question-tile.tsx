@@ -36,14 +36,14 @@ export function QuestionTile({
         <TooltipTrigger asChild>
           <div
             className={cn(
-              "w-9 h-9 flex items-center justify-center rounded-md text-sm font-medium transition-colors border relative group",
+              "group relative flex h-9 w-9 items-center justify-center rounded-md border text-sm font-medium transition-colors",
               statusClasses.locked
             )}
           >
-            <span className="group-hover:opacity-0 transition-opacity">
+            <span className="transition-opacity group-hover:opacity-0">
               {number}
             </span>
-            <IconLock className="h-3.5 w-3.5 absolute opacity-0 group-hover:opacity-100 transition-opacity" />
+            <IconLock className="absolute h-3.5 w-3.5 opacity-0 transition-opacity group-hover:opacity-100" />
           </div>
         </TooltipTrigger>
         <TooltipContent side="top">
@@ -57,9 +57,9 @@ export function QuestionTile({
     <button
       onClick={onClick}
       className={cn(
-        "w-9 h-9 flex items-center justify-center rounded-md text-sm font-medium transition-colors border",
+        "flex h-9 w-9 items-center justify-center rounded-md border text-sm font-medium transition-colors",
         statusClasses[status],
-        isSelected && "ring-2 ring-primary ring-offset-2"
+        isSelected && "ring-primary ring-2 ring-offset-2"
       )}
     >
       {number}

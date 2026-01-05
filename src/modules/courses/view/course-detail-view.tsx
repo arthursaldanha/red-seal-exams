@@ -15,7 +15,11 @@ import { Button } from "@/components/ui/button";
 import { Accordion } from "@/components/ui/accordion";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { PageHeader } from "@/components/dashboard/page-header";
-import { ProgressBar, TrialBanner, BlockAccordionItem } from "@/components/shared";
+import {
+  ProgressBar,
+  TrialBanner,
+  BlockAccordionItem,
+} from "@/components/shared";
 
 import { useCourseDetail, usePurchaseCourse } from "../hooks";
 import { formatPrice } from "../helpers";
@@ -57,11 +61,11 @@ export function CourseDetailView({ courseId }: CourseDetailViewProps) {
       <>
         <PageHeader title="Loading..." />
         <div className="flex flex-1 items-center justify-center">
-          <div className="animate-pulse flex flex-col gap-4 w-full max-w-4xl p-6">
-            <div className="h-40 bg-muted rounded-lg" />
-            <div className="h-8 w-1/2 bg-muted rounded" />
-            <div className="h-4 w-full bg-muted rounded" />
-            <div className="h-4 w-3/4 bg-muted rounded" />
+          <div className="flex w-full max-w-4xl animate-pulse flex-col gap-4 p-6">
+            <div className="bg-muted h-40 rounded-lg" />
+            <div className="bg-muted h-8 w-1/2 rounded" />
+            <div className="bg-muted h-4 w-full rounded" />
+            <div className="bg-muted h-4 w-3/4 rounded" />
           </div>
         </div>
       </>
@@ -73,12 +77,12 @@ export function CourseDetailView({ courseId }: CourseDetailViewProps) {
       <>
         <PageHeader title="Course not found" />
         <div className="flex flex-1 flex-col items-center justify-center gap-4 p-8">
-          <div className="flex h-20 w-20 items-center justify-center rounded-full bg-muted">
-            <IconQuestionMark className="h-10 w-10 text-muted-foreground" />
+          <div className="bg-muted flex h-20 w-20 items-center justify-center rounded-full">
+            <IconQuestionMark className="text-muted-foreground h-10 w-10" />
           </div>
           <div className="text-center">
             <h2 className="text-xl font-semibold">Course not found</h2>
-            <p className="mt-2 text-muted-foreground">
+            <p className="text-muted-foreground mt-2">
               The course you&apos;re looking for doesn&apos;t exist or has been
               removed.
             </p>
@@ -99,7 +103,7 @@ export function CourseDetailView({ courseId }: CourseDetailViewProps) {
       >
         {isOwner ? (
           <Badge className="bg-green-500 hover:bg-green-600">
-            <IconCheck className="h-3 w-3 mr-1" />
+            <IconCheck className="mr-1 h-3 w-3" />
             Owned
           </Badge>
         ) : (
@@ -107,7 +111,7 @@ export function CourseDetailView({ courseId }: CourseDetailViewProps) {
             onClick={() => purchaseMutation.mutate(courseId)}
             disabled={purchaseMutation.isPending}
           >
-            <IconShoppingCart className="h-4 w-4 mr-2" />
+            <IconShoppingCart className="mr-2 h-4 w-4" />
             {purchaseMutation.isPending
               ? "Processing..."
               : `Buy for ${formatPrice(course.price, course.currency)}`}
@@ -130,13 +134,13 @@ export function CourseDetailView({ courseId }: CourseDetailViewProps) {
 
           {/* Trial Expired Banner */}
           {access?.trialExpired && (
-            <div className="bg-red-500/10 border border-red-500/20 rounded-lg p-4 flex items-start gap-3">
-              <IconLock className="h-5 w-5 text-red-600 shrink-0 mt-0.5" />
+            <div className="flex items-start gap-3 rounded-lg border border-red-500/20 bg-red-500/10 p-4">
+              <IconLock className="mt-0.5 h-5 w-5 shrink-0 text-red-600" />
               <div className="flex-1">
                 <p className="text-sm font-medium text-red-900 dark:text-red-100">
                   Your free trial has expired
                 </p>
-                <p className="text-xs text-red-700 dark:text-red-300 mt-1">
+                <p className="mt-1 text-xs text-red-700 dark:text-red-300">
                   Purchase this course to continue studying.
                 </p>
               </div>
@@ -152,15 +156,15 @@ export function CourseDetailView({ courseId }: CourseDetailViewProps) {
 
           {/* Course Header Card */}
           <Card className="pt-0">
-            <div className="relative aspect-3/1 bg-linear-to-br from-primary/30 via-primary/10 to-transparent overflow-hidden rounded-t-lg">
+            <div className="from-primary/30 via-primary/10 relative aspect-3/1 overflow-hidden rounded-t-lg bg-linear-to-br to-transparent">
               <div className="absolute inset-0 flex items-center justify-center">
-                <IconBook className="h-24 w-24 text-primary/20" />
+                <IconBook className="text-primary/20 h-24 w-24" />
               </div>
               {!hasAccess && (
-                <div className="absolute inset-0 bg-background/60 backdrop-blur-[2px] flex items-center justify-center">
+                <div className="bg-background/60 absolute inset-0 flex items-center justify-center backdrop-blur-[2px]">
                   <div className="text-center">
-                    <IconLock className="h-8 w-8 mx-auto text-muted-foreground mb-2" />
-                    <p className="text-sm text-muted-foreground">
+                    <IconLock className="text-muted-foreground mx-auto mb-2 h-8 w-8" />
+                    <p className="text-muted-foreground text-sm">
                       {access?.trialExpired
                         ? "Trial expired - purchase to continue"
                         : "Unlock to access all content"}
@@ -179,30 +183,30 @@ export function CourseDetailView({ courseId }: CourseDetailViewProps) {
 
               <div className="grid gap-4 sm:grid-cols-3">
                 <div className="flex items-center gap-2">
-                  <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10">
-                    <IconBook className="h-5 w-5 text-primary" />
+                  <div className="bg-primary/10 flex h-10 w-10 items-center justify-center rounded-full">
+                    <IconBook className="text-primary h-5 w-5" />
                   </div>
                   <div>
                     <p className="text-sm font-medium">{blocks.length}</p>
-                    <p className="text-xs text-muted-foreground">Blocks</p>
+                    <p className="text-muted-foreground text-xs">Blocks</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-2">
-                  <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10">
-                    <IconQuestionMark className="h-5 w-5 text-primary" />
+                  <div className="bg-primary/10 flex h-10 w-10 items-center justify-center rounded-full">
+                    <IconQuestionMark className="text-primary h-5 w-5" />
                   </div>
                   <div>
                     <p className="text-sm font-medium">{totalQuestions}</p>
-                    <p className="text-xs text-muted-foreground">Questions</p>
+                    <p className="text-muted-foreground text-xs">Questions</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-2">
-                  <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10">
-                    <IconProgress className="h-5 w-5 text-primary" />
+                  <div className="bg-primary/10 flex h-10 w-10 items-center justify-center rounded-full">
+                    <IconProgress className="text-primary h-5 w-5" />
                   </div>
                   <div>
                     <p className="text-sm font-medium">{progressPercent}%</p>
-                    <p className="text-xs text-muted-foreground">Completed</p>
+                    <p className="text-muted-foreground text-xs">Completed</p>
                   </div>
                 </div>
               </div>
@@ -216,7 +220,7 @@ export function CourseDetailView({ courseId }: CourseDetailViewProps) {
                     </span>
                   </div>
                   <ProgressBar value={progressPercent} />
-                  <p className="text-xs text-muted-foreground">
+                  <p className="text-muted-foreground text-xs">
                     {totalCorrect} correct answers (
                     {totalAttempted > 0
                       ? Math.round((totalCorrect / totalAttempted) * 100)

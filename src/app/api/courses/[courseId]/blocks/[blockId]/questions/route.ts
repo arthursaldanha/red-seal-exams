@@ -65,7 +65,8 @@ export async function GET(
         {
           error: "Access denied",
           trialExpired: access.trialExpired,
-          message: "Your trial has expired. Please purchase the course to continue.",
+          message:
+            "Your trial has expired. Please purchase the course to continue.",
         },
         { status: 403 }
       );
@@ -100,7 +101,7 @@ export async function GET(
       );
 
     // Mapear attempts por questionId (pegar o mais recente)
-    const attemptsByQuestion = new Map<string, typeof attempts[0]>();
+    const attemptsByQuestion = new Map<string, (typeof attempts)[0]>();
     for (const attempt of attempts) {
       const existing = attemptsByQuestion.get(attempt.questionId);
       if (!existing || attempt.attemptedAt > existing.attemptedAt) {
@@ -114,7 +115,8 @@ export async function GET(
       // Questão está bloqueada se:
       // 1. Block não é A e usuário é trial, OU
       // 2. É Block A mas passou do limite de 20 questões
-      const isLocked = blockLockedForTrial || (isTrial && isBlockA && index >= questionsLimit);
+      const isLocked =
+        blockLockedForTrial || (isTrial && isBlockA && index >= questionsLimit);
 
       return {
         ...q,
@@ -129,7 +131,9 @@ export async function GET(
 
     // Calcular quantas questões estão acessíveis
     const accessibleQuestions = isTrial
-      ? (isBlockA ? Math.min(questionsLimit, totalQuestions) : 0)
+      ? isBlockA
+        ? Math.min(questionsLimit, totalQuestions)
+        : 0
       : totalQuestions;
 
     return NextResponse.json({

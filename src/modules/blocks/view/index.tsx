@@ -110,12 +110,12 @@ export function BlockQuestionsView({
       <>
         <PageHeader title="Loading..." />
         <div className="flex flex-1 items-center justify-center">
-          <div className="animate-pulse flex flex-col gap-4 w-full max-w-3xl p-6">
-            <div className="h-8 w-32 bg-muted rounded" />
-            <div className="h-32 bg-muted rounded-lg" />
+          <div className="flex w-full max-w-3xl animate-pulse flex-col gap-4 p-6">
+            <div className="bg-muted h-8 w-32 rounded" />
+            <div className="bg-muted h-32 rounded-lg" />
             <div className="space-y-3">
               {[...Array(4)].map((_, i) => (
-                <div key={i} className="h-16 bg-muted rounded-lg" />
+                <div key={i} className="bg-muted h-16 rounded-lg" />
               ))}
             </div>
           </div>
@@ -132,25 +132,25 @@ export function BlockQuestionsView({
       <>
         <PageHeader title="Access Denied" />
         <div className="flex flex-1 flex-col items-center justify-center gap-4 p-8">
-          <div className="flex h-20 w-20 items-center justify-center rounded-full bg-muted">
-            <IconLock className="h-10 w-10 text-muted-foreground" />
+          <div className="bg-muted flex h-20 w-20 items-center justify-center rounded-full">
+            <IconLock className="text-muted-foreground h-10 w-10" />
           </div>
-          <div className="text-center max-w-md">
+          <div className="max-w-md text-center">
             <h2 className="text-xl font-semibold">
               {isTrialExpired ? "Trial Expired" : "Access Denied"}
             </h2>
-            <p className="mt-2 text-muted-foreground">
+            <p className="text-muted-foreground mt-2">
               {isTrialExpired
                 ? "Your free trial has expired. Purchase this course to continue studying."
                 : "You need to have an active trial or purchase this course to access the questions."}
             </p>
           </div>
-          <div className="flex gap-3 mt-4">
+          <div className="mt-4 flex gap-3">
             <Button variant="outline" asChild>
               <Link href={`/dashboard/courses/${courseId}`}>View course</Link>
             </Button>
             <Button onClick={() => purchaseMutation.mutate(courseId)}>
-              <IconShoppingCart className="h-4 w-4 mr-2" />
+              <IconShoppingCart className="mr-2 h-4 w-4" />
               Buy course
             </Button>
           </div>
@@ -168,12 +168,12 @@ export function BlockQuestionsView({
           description={block?.title}
         />
         <div className="flex flex-1 flex-col items-center justify-center gap-4 p-8">
-          <div className="flex h-20 w-20 items-center justify-center rounded-full bg-muted">
-            <IconBook className="h-10 w-10 text-muted-foreground" />
+          <div className="bg-muted flex h-20 w-20 items-center justify-center rounded-full">
+            <IconBook className="text-muted-foreground h-10 w-10" />
           </div>
           <div className="text-center">
             <h2 className="text-xl font-semibold">No questions available</h2>
-            <p className="mt-2 text-muted-foreground">
+            <p className="text-muted-foreground mt-2">
               This block doesn&apos;t have any questions yet.
             </p>
           </div>
@@ -195,14 +195,14 @@ export function BlockQuestionsView({
       >
         <div className="flex items-center gap-4">
           {stats && (
-            <div className="text-sm text-muted-foreground">
+            <div className="text-muted-foreground text-sm">
               {stats.answered} answered • {stats.correct} correct (
               {stats.accuracy}%)
             </div>
           )}
           <Button variant="outline" asChild>
             <Link href={`/dashboard/courses/${courseId}`}>
-              <IconArrowLeft className="h-4 w-4 mr-2" />
+              <IconArrowLeft className="mr-2 h-4 w-4" />
               Back to course
             </Link>
           </Button>
@@ -211,15 +211,15 @@ export function BlockQuestionsView({
 
       <div className="flex flex-1 flex-col md:flex-row">
         {/* Questions sidebar */}
-        <div className="w-full md:w-64 border-b md:border-b-0 md:border-r bg-muted/30 p-4">
+        <div className="bg-muted/30 w-full border-b p-4 md:w-64 md:border-r md:border-b-0">
           {/* Trial banner */}
           {isTrial && access?.trialDaysRemaining !== null && (
-            <div className="mb-4 p-3 bg-amber-500/10 border border-amber-500/20 rounded-lg">
+            <div className="mb-4 rounded-lg border border-amber-500/20 bg-amber-500/10 p-3">
               <div className="flex items-center gap-2 text-sm text-amber-700 dark:text-amber-300">
                 <IconClock className="h-4 w-4" />
                 <span>{access.trialDaysRemaining} days left in trial</span>
               </div>
-              <p className="text-xs text-amber-600 dark:text-amber-400 mt-1">
+              <p className="mt-1 text-xs text-amber-600 dark:text-amber-400">
                 {(access as { isBlockA?: boolean }).isBlockA
                   ? `${accessibleQuestions} of ${totalQuestions} questions available`
                   : "Block A only in trial mode"}
@@ -261,19 +261,19 @@ export function BlockQuestionsView({
         </div>
 
         {/* Main content */}
-        <div className="flex-1 p-4 md:p-6 overflow-auto">
-          <div className="max-w-3xl mx-auto">
+        <div className="flex-1 overflow-auto p-4 md:p-6">
+          <div className="mx-auto max-w-3xl">
             {currentQuestion && (
               <>
                 {(currentQuestion as { isLocked?: boolean }).isLocked ? (
                   // Locked question content
-                  <div className="flex flex-col items-center justify-center py-16 gap-4">
-                    <div className="flex h-20 w-20 items-center justify-center rounded-full bg-muted">
-                      <IconLock className="h-10 w-10 text-muted-foreground" />
+                  <div className="flex flex-col items-center justify-center gap-4 py-16">
+                    <div className="bg-muted flex h-20 w-20 items-center justify-center rounded-full">
+                      <IconLock className="text-muted-foreground h-10 w-10" />
                     </div>
-                    <div className="text-center max-w-md">
+                    <div className="max-w-md text-center">
                       <h2 className="text-xl font-semibold">Question Locked</h2>
-                      <p className="mt-2 text-muted-foreground">
+                      <p className="text-muted-foreground mt-2">
                         {isTrial
                           ? "This question is only available for course owners. Purchase the course to unlock all questions."
                           : "Purchase this course to access this question."}
@@ -283,7 +283,7 @@ export function BlockQuestionsView({
                       onClick={() => purchaseMutation.mutate(courseId)}
                       className="mt-4"
                     >
-                      <IconShoppingCart className="h-4 w-4 mr-2" />
+                      <IconShoppingCart className="mr-2 h-4 w-4" />
                       Purchase Course
                     </Button>
                   </div>
@@ -301,17 +301,17 @@ export function BlockQuestionsView({
                     />
 
                     {/* Navigation buttons */}
-                    <div className="flex items-center justify-between border-t pt-4 mt-6">
+                    <div className="mt-6 flex items-center justify-between border-t pt-4">
                       <Button
                         variant="outline"
                         onClick={handlePrevQuestion}
                         disabled={currentQuestionIndex === 0}
                       >
-                        <IconArrowLeft className="h-4 w-4 mr-2" />
+                        <IconArrowLeft className="mr-2 h-4 w-4" />
                         Previous
                       </Button>
 
-                      <span className="text-sm text-muted-foreground">
+                      <span className="text-muted-foreground text-sm">
                         {globalQuestionNumber} of {totalQuestions}
                       </span>
 
@@ -323,7 +323,7 @@ export function BlockQuestionsView({
                         }
                       >
                         Next
-                        <IconArrowRight className="h-4 w-4 ml-2" />
+                        <IconArrowRight className="ml-2 h-4 w-4" />
                       </Button>
                     </div>
                   </>

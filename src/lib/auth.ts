@@ -50,15 +50,15 @@ export const auth = betterAuth({
           type === "sign-in"
             ? "Your Sign In Code"
             : type === "email-verification"
-            ? "Verify Your Email"
-            : "Reset Your Password";
+              ? "Verify Your Email"
+              : "Reset Your Password";
 
         const message =
           type === "sign-in"
             ? `Your sign in code is: ${otp}. This code will expire in 5 minutes.`
             : type === "email-verification"
-            ? `Your verification code is: ${otp}. This code will expire in 5 minutes.`
-            : `Your password reset code is: ${otp}. This code will expire in 5 minutes.`;
+              ? `Your verification code is: ${otp}. This code will expire in 5 minutes.`
+              : `Your password reset code is: ${otp}. This code will expire in 5 minutes.`;
 
         await resend.emails.send({
           from: "Acme <onboarding@resend.dev>",

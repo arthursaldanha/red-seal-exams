@@ -30,7 +30,7 @@ export function CoursesView() {
         description="Choose a trade to start or expand your studies"
       >
         <div className="relative w-full max-w-sm">
-          <IconSearch className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+          <IconSearch className="text-muted-foreground absolute top-1/2 left-3 h-4 w-4 -translate-y-1/2" />
           <Input
             placeholder="Search courses..."
             value={searchQuery}
@@ -62,12 +62,12 @@ export function CoursesView() {
             </div>
           ) : (
             <div className="flex flex-1 flex-col items-center justify-center gap-4 text-center">
-              <div className="flex h-20 w-20 items-center justify-center rounded-full bg-muted">
-                <IconBooks className="h-10 w-10 text-muted-foreground" />
+              <div className="bg-muted flex h-20 w-20 items-center justify-center rounded-full">
+                <IconBooks className="text-muted-foreground h-10 w-10" />
               </div>
               <div>
                 <h2 className="text-xl font-semibold">No courses found</h2>
-                <p className="mt-2 text-muted-foreground">
+                <p className="text-muted-foreground mt-2">
                   {searchQuery
                     ? `No courses match "${searchQuery}". Try a different search.`
                     : "There are no courses available at the moment."}

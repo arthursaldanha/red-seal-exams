@@ -21,14 +21,14 @@ export function QuestionTile({
       <div
         className={cn(
           baseClasses,
-          "bg-muted/50 border-muted-foreground/20 text-muted-foreground/50 cursor-not-allowed relative group"
+          "bg-muted/50 border-muted-foreground/20 text-muted-foreground/50 group relative cursor-not-allowed"
         )}
         title="Purchase this course to unlock"
       >
-        <span className="group-hover:opacity-0 transition-opacity">
+        <span className="transition-opacity group-hover:opacity-0">
           {questionNumber}
         </span>
-        <IconLock className="h-4 w-4 absolute opacity-0 group-hover:opacity-100 transition-opacity" />
+        <IconLock className="absolute h-4 w-4 opacity-0 transition-opacity group-hover:opacity-100" />
       </div>
     );
   }
@@ -40,6 +40,8 @@ export function QuestionTile({
   };
 
   return (
-    <div className={cn(baseClasses, statusClasses[status])}>{questionNumber}</div>
+    <div className={cn(baseClasses, statusClasses[status])}>
+      {questionNumber}
+    </div>
   );
 }

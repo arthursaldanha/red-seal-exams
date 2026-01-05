@@ -21,12 +21,12 @@ export function MyCoursesView() {
           description="Courses you've already purchased"
         />
         <div className="flex flex-1 flex-col items-center justify-center gap-4 p-8">
-          <div className="flex h-20 w-20 items-center justify-center rounded-full bg-muted">
-            <IconBooks className="h-10 w-10 text-muted-foreground" />
+          <div className="bg-muted flex h-20 w-20 items-center justify-center rounded-full">
+            <IconBooks className="text-muted-foreground h-10 w-10" />
           </div>
           <div className="text-center">
             <h2 className="text-xl font-semibold">No courses yet</h2>
-            <p className="mt-2 text-muted-foreground">
+            <p className="text-muted-foreground mt-2">
               You haven&apos;t purchased any courses yet. Browse our catalog to
               get started!
             </p>

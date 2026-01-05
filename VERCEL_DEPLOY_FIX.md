@@ -44,7 +44,6 @@ export async function GET(request: Request) {
 ### Mudanças Principais
 
 1. **`export const dynamic = "force-dynamic"`**:
-
    - Força a rota a ser tratada como dinâmica
    - Evita que o Next.js tente fazer pre-render durante o build
    - Essencial para rotas que dependem de conexões com banco de dados

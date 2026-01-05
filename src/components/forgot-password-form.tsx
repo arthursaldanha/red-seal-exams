@@ -106,7 +106,7 @@ export function ForgotPasswordForm({
         toast.error(data.error.message || "Failed to reset password");
       } else {
         toast.success("Password reset successfully!");
-        router.push("/signin");
+        router.push("/sign-in");
       }
     },
     onError: (error: Error) => {
@@ -268,7 +268,7 @@ export function ForgotPasswordForm({
                     )}
                   </Button>
                   <FieldDescription className="text-center">
-                    Remember your password? <Link href="/signin">Sign in</Link>
+                    Remember your password? <Link href="/sign-in">Sign in</Link>
                   </FieldDescription>
                 </Field>
               </FieldGroup>

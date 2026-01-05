@@ -466,8 +466,8 @@ export async function sendSubscriptionCanceledEmail(
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style>
       body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-          sans-serif;
+        font-family:
+          -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
         line-height: 1.6;
         color: #333;
         max-width: 600px;
@@ -545,7 +545,7 @@ export async function requireActiveSubscription(requiredPlans?: string[]) {
   });
 
   if (!session?.user) {
-    return NextResponse.redirect(new URL("/signin", request.url));
+    return NextResponse.redirect(new URL("/sign-in", request.url));
   }
 
   const subscriptions = await auth.api.listActiveSubscriptions({

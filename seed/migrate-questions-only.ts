@@ -42,8 +42,11 @@ async function migrateQuestions() {
 
       // Pequena pausa entre batches para não sobrecarregar
       await sleep(100);
-    } catch (error: any) {
-      console.error(`   ❌ Erro no batch ${i}-${i + batchSize}:`, error.message);
+    } catch (error) {
+      console.error(
+        `   ❌ Erro no batch ${i}-${i + batchSize}:`,
+        error instanceof Error ? error.message : String(error)
+      );
       // Continua com o próximo batch
     }
   }

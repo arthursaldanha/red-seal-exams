@@ -1,4 +1,7 @@
-import type { QuestionsApiResponse, AttemptApiResponse } from "@/types/dashboard";
+import type {
+  QuestionsApiResponse,
+  AttemptApiResponse,
+} from "@/types/dashboard";
 
 import { api } from "./api";
 import type { IQuestionService, SubmitAttemptParams } from "./interfaces";
@@ -14,7 +17,9 @@ class QuestionService implements IQuestionService {
     return data;
   }
 
-  async submitAttempt(params: SubmitAttemptParams): Promise<AttemptApiResponse> {
+  async submitAttempt(
+    params: SubmitAttemptParams
+  ): Promise<AttemptApiResponse> {
     const { data } = await api.post<AttemptApiResponse>(
       `/questions/${params.questionId}/attempt`,
       {
