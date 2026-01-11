@@ -202,7 +202,7 @@ export function LoginForm({
 
                       <FormControl>
                         <Input
-                          placeholder="shadcn"
+                          placeholder="******"
                           {...field}
                           type="password"
                         />
