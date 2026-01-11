@@ -15,6 +15,8 @@ const stripeClient = process.env.STRIPE_SECRET_KEY
   : null;
 
 export const auth = betterAuth({
+  baseURL: process.env.BETTER_AUTH_URL,
+  trustedOrigins: process.env.BETTER_AUTH_TRUSTED_ORIGINS?.split(",") || [],
   emailAndPassword: {
     enabled: true,
     minPasswordLength: 6,

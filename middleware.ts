@@ -1,8 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getCookieCache, getSessionCookie } from "better-auth/cookies";
+import { getSessionCookie } from "better-auth/cookies";
 
 export async function middleware(request: NextRequest) {
-  const sessionCookie = await getCookieCache(request);
+  const sessionCookie = getSessionCookie(request);
   const { pathname } = request.nextUrl;
 
   // Protected routes that require authentication
